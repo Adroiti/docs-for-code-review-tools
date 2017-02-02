@@ -1,4 +1,5 @@
 Pattern: Semicolons must be spaced correctly
+
 Issue: Invalid spacing around the semicolon
 
 ## Description
