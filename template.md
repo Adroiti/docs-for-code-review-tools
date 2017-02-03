@@ -20,4 +20,4 @@ EXAMPLE
 
 ## Further Reading
 
-* [Link title](https://www.python.org)
+* [Related link(s) to get more details on issue pattern](https://www.python.org)
