@@ -9,7 +9,7 @@ The method does not make use of the class instance it gets passed. For clarity, 
 Example of **incorrect** code:
 
 ```python
-Class Foo(object):
+class Foo(object):
     ...
     def bar(self, baz):
         ...
@@ -19,7 +19,7 @@ Class Foo(object):
 Example of **correct** code:
 
 ```python
-Class Foo(object):
+class Foo(object):
     ...
     @staticmethod
     def bar(cls, baz):
