@@ -1,0 +1,7 @@
+Pattern: Assert on tuple
+
+Issue: -
+
+## Description
+
+A call of assert on a tuple will always evaluate to true if the tuple is not empty, and will always evaluate to false if it is.

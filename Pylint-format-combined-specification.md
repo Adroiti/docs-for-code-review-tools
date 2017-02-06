@@ -1,0 +1,7 @@
+Pattern: Format combined specification
+
+Issue: -
+
+## Description
+
+Usen when a PEP 3101 format string contains both automatic field numbering (e.g. '{}') and manual field specification (e.g. '{0}'). This message can't be emitted when using Python < 2.7.
