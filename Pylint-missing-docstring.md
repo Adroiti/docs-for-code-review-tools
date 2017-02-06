@@ -32,4 +32,4 @@ def complex(real=0.0, imag=0.0):
 
 ## Further Reading
 
-* [Related link(s) to get more details or background on issue pattern](https://www.python.org)
+* [PEP 8 - Documentation Strings](https://www.python.org/dev/peps/pep-0008/#documentation-strings)
