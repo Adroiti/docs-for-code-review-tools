@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used a module marked as deprecated is imported.
+Used when a module marked as deprecated is imported.
