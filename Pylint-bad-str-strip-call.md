@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-The argument to a str.{l,r,}strip call contains a duplicate character.
+The argument to a `str.{l,r,}strip` call contains a duplicate character.
