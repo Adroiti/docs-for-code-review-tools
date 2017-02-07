@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a "return" statement is found outside a function or method.
+Used when a `return` statement is found outside a function or method.
 
 ## Further Reading
 

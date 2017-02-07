@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Emitted when the `continue` keyword is found inside a finally clause, which is a SyntaxError.
+Emitted when the `continue` keyword is found inside a finally clause, which is a `SyntaxError`.

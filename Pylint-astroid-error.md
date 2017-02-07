@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an unexpected error occurred while building the Astroid representation. This is usually accompanied by a traceback. Please report such errors !.
+Used when an unexpected error occurred while building the Astroid representation. This is usually accompanied by a traceback. Please report such errors!
 
 ## Further Reading
 

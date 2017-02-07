@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when you use the "global" statement at the module level since it has no effect.
+Used when you use the `global` statement at the module level since it has no effect.

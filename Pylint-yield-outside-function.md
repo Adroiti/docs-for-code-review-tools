@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a "yield" statement is found outside a function or method.
+Used when a `yield` statement is found outside a function or method.
 
 ## Further Reading
 
