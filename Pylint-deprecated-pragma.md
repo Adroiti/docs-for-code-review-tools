@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Some inline Pylint options have been renamed or reworked, only the most recent form should be used. NOTE:skip-all is only available with pylint >= 0.26.
+Some inline Pylint options have been renamed or reworked, only the most recent form should be used. NOTE: `skip-all` is only available with pylint >= 0.26.
