@@ -4,4 +4,8 @@ Issue: -
 
 ## Description
 
-Python3 will not allow implicit unpacking of exceptions in except clauses. See http://www.python.org/dev/peps/pep-3110/ This message can't be emitted when using Python >= 3.0.
+Python 3 does not allow implicit unpacking of exceptions in except clauses. This message can't be emitted when using Python >= 3.0.
+
+## Further Reading
+
+* [PEP 3110 -- Catching Exceptions in Python](https://www.python.org/dev/peps/pep-3110)
