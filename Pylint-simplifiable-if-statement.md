@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when an if statement can be replaced with 'bool(test)'.
+Used when an if statement can be replaced with `bool(test)`.
