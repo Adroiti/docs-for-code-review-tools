@@ -1,4 +1,4 @@
-Pattern: Long builtin
+Pattern: Long built-in
 
 Issue: -
 

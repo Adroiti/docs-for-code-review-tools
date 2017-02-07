@@ -1,4 +1,4 @@
-Pattern: Cmp builtin
+Pattern: Cmp built-in
 
 Issue: -
 

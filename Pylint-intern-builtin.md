@@ -1,4 +1,4 @@
-Pattern: Intern builtin
+Pattern: Intern built-in
 
 Issue: -
 

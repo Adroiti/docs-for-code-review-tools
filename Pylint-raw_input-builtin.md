@@ -1,4 +1,4 @@
-Pattern: Raw_input builtin
+Pattern: Raw_input built-in
 
 Issue: -
 

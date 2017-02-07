@@ -1,4 +1,4 @@
-Pattern: Coerce builtin
+Pattern: Coerce built-in
 
 Issue: -
 

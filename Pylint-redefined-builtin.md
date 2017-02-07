@@ -1,4 +1,4 @@
-Pattern: Avoid redefining builtins
+Pattern: Avoid redefining built-ins
 
 Issue: -
 

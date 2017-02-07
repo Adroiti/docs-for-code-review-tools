@@ -1,4 +1,4 @@
-Pattern: Buffer builtin
+Pattern: Buffer built-in
 
 Issue: -
 

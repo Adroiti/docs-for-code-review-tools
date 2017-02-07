@@ -1,4 +1,4 @@
-Pattern: Execfile builtin
+Pattern: Execfile built-in
 
 Issue: -
 

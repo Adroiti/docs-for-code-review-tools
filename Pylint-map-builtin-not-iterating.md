@@ -1,4 +1,4 @@
-Pattern: Map builtin not iterating
+Pattern: Map built-in not iterating
 
 Issue: -
 

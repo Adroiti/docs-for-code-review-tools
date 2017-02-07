@@ -1,4 +1,4 @@
-Pattern: Basestring builtin
+Pattern: Basestring built-in
 
 Issue: -
 

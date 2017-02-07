@@ -1,4 +1,4 @@
-Pattern: Round builtin
+Pattern: Round built-in
 
 Issue: -
 

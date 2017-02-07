@@ -1,4 +1,4 @@
-Pattern: Reduce builtin
+Pattern: Reduce built-in
 
 Issue: -
 

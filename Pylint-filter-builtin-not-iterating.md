@@ -1,4 +1,4 @@
-Pattern: Filter builtin not iterating
+Pattern: Filter built-in not iterating
 
 Issue: -
 

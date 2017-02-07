@@ -1,4 +1,4 @@
-Pattern: Reload builtin
+Pattern: Reload built-in
 
 Issue: -
 

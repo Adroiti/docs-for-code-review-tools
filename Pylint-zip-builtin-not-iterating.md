@@ -1,4 +1,4 @@
-Pattern: Zip builtin not iterating
+Pattern: Zip built-in not iterating
 
 Issue: -
 

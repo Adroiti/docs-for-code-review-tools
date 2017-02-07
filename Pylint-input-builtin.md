@@ -1,4 +1,4 @@
-Pattern: Input builtin
+Pattern: Input built-in
 
 Issue: -
 

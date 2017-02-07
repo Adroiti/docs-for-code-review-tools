@@ -1,4 +1,4 @@
-Pattern: Apply builtin
+Pattern: Apply built-in
 
 Issue: -
 

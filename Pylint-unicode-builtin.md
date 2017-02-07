@@ -1,4 +1,4 @@
-Pattern: Unicode builtin
+Pattern: Unicode built-in
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Xrange builtin
+Pattern: Xrange built-in
 
 Issue: -
 

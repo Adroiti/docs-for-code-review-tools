@@ -1,4 +1,4 @@
-Pattern: Range builtin not iterating
+Pattern: Range built-in not iterating
 
 Issue: -
 

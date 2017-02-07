@@ -1,4 +1,4 @@
-Pattern: Unichr builtin
+Pattern: Unichr built-in
 
 Issue: -
 
