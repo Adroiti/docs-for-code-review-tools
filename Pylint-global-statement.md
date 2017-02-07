@@ -4,4 +4,10 @@ Issue: -
 
 ## Description
 
-Used when you use the "global" statement to update a global variable. Pylint just try to discourage this usage. That doesn't mean you can not use it !.
+Global variables reduce code readability and often cause bugs. Avoid global variable as much as possible. 
+
+One common solution for avoiding global variables is to create a class and to encapsulate global variables as members of an instantiated object of that class.
+
+## Further Reading
+
+* [Wiki Wiki Web - Global Variables Are Bad](http://wiki.c2.com/?GlobalVariablesAreBad)
