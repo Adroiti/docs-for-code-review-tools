@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when `open` function is called with unsupported mode. Python supports `r`, `w`, `a[, x]` modes with `b`, `+`, and `U` (only with `r`) options.
+Used when `open()` function is called with unsupported mode. Python supports `r`, `w`, `a[, x]` modes with `b`, `+`, and `U` (only with `r`) options.
 
 ## Further Reading
 

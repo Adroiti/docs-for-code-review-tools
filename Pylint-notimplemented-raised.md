@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when NotImplemented is raised instead of NotImplementedError.
+Used when `NotImplemented` is raised instead of `NotImplementedError`.

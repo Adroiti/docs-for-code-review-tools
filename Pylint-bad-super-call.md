@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when another argument than the current class is given as first argument of the super builtin.
+Used when another argument than the current class is given as first argument of the `super()` builtin.
 
 ## Further Reading
 
