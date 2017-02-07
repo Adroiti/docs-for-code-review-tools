@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an abstract method (i.e. raise NotImplementedError) is not overridden in concrete class.
+Used when an abstract method (i.e. one that raises `NotImplementedError`) is not overridden in concrete class.
 
 ## Further Reading
 
