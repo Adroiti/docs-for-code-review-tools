@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a function / class / method is redefined.
+In Python, a redefinition of functions, classes, and methods is allowed and overrides the original definition. This is confusing to readers and is therefore considered an error in PyLint.
 
 ## Further Reading
 
