@@ -8,4 +8,4 @@ Used when a logging statement has a call form of `logging.<logging method>(forma
 
 ## Further Reading
 
-* [ Python Developer's Guide - A Logging System](http://www.python.org/dev/peps/pep-0282)
+* [Python Developer's Guide - A Logging System](http://www.python.org/dev/peps/pep-0282)
