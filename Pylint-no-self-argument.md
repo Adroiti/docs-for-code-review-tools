@@ -9,4 +9,4 @@ Used when the first argument of a (instance) method has a name other than self. 
 ## Further Reading
 
 * [PEP 8 - Function and method arguments](http://legacy.python.org/dev/peps/pep-0008/#function-and-method-arguments)
-* [The Python Tutorial - ](https://docs.python.org/2.7/tutorial/classes.html#random-remarks)
+* [The Python Tutorial - Random Remarks](https://docs.python.org/2.7/tutorial/classes.html#random-remarks)
