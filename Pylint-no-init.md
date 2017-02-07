@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a class has no __init__ method, neither its parent classes.
+Used when a class has no __init__ method, and neither does its parent classes.
 
 ## Further Reading
 
