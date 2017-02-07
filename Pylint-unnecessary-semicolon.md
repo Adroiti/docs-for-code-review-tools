@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a statement is ended by a semi-colon (";"), which isn't necessary (that's python, not C ;).
+Semicolons are not necessary in Python unless you are putting more than one statement in a line. This is a style slip-up that's particularly easy to make for old hands of other programming languages such as C or Perl, where semicolons are always (or almost always) required after each statement.
 
 ## Further Reading
 
