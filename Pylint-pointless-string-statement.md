@@ -9,3 +9,4 @@ Used when a string is used as a statement (which of course has no effect). This 
 ## Further Reading
 
 * [Pylint - W0105](http://pylint-messages.wikidot.com/messages:w0105)
+* [Pylint - W0104](http://pylint-messages.wikidot.com/messages:w0104)
