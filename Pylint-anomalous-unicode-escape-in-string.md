@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when an escape like \u is encountered in a byte string where it has no effect.
+Used when an escape like `\u` is encountered in a byte string where it has no effect.
