@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when a non-iterable value is used in place whereiterable is expected.
+Used when a non-iterable value is used in place where iterable is expected.
