@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a "pass" statement that can be avoided is encountered.
+Used when a `pass` statement that can be avoided is encountered.
 
 ## Further Reading
 
