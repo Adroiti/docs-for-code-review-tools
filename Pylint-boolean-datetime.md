@@ -4,4 +4,8 @@ Issue: -
 
 ## Description
 
-Using datetime.time in a boolean context can hide subtle bugs when the time they represent matches midnight UTC. This behaviour was fixed in Python 3.5. See http://bugs.python.org/issue13936 for reference. This message can't be emitted when using Python >= 3.5.
+Using `datetime.time` in a boolean context can hide subtle bugs when the time they represent matches midnight UTC. This behaviour was fixed in Python 3.5. This message can't be emitted when using Python >= 3.5.
+
+## Further Reading
+
+* [Python - Issue13936](http://bugs.python.org/issue13936)
