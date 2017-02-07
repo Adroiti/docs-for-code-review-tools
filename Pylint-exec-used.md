@@ -1,10 +1,26 @@
-Pattern: Exec used
+Pattern: Avoid using exec() when possible
 
 Issue: -
 
 ## Description
 
-Used when you use the "exec" statement (function for Python 3), to discourage its usage. That doesn't mean you can not use it !.
+The `exec` statement is dangerous, hard to test, and hard to read. Avoid it, as much as possible. This is largery due to the fact that exec() enables you to dynamically execute arbitrary Python code which is stored in literal strings. Consider going back to the code to check if there is a clearer, more direct way to accomplish the task.
+
+Example of **incorrect** code:
+
+```python
+text = "print \"Hello, World!\""
+exec text
+```
+
+Example of **correct** code:
+
+```python
+def foo():
+    print "Hello, World!"
+    
+foo()
+```
 
 ## Further Reading
 
