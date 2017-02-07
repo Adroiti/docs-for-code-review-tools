@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The `exec` statement is dangerous, hard to test, and hard to read. Avoid it, as much as possible. This is largery due to the fact that exec() enables you to dynamically execute arbitrary Python code which is stored in literal strings. Consider going back to the code to check if there is a clearer, more direct way to accomplish the task.
+The `exec()` statement is dangerous, hard to test, and hard to read. Avoid it, as much as possible. This is largery due to the fact that `exec()` enables you to dynamically execute arbitrary Python code which is stored in literal strings. Consider going back to the code to check if there is a clearer, more direct way to accomplish the task.
 
 Example of **incorrect** code:
 
