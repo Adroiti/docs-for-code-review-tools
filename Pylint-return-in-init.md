@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when the special class method __init__ has an explicit return value.
+Used when the special class method `__init__` has an explicit return value.
 
 ## Further Reading
 

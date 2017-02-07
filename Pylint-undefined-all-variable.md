@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when an undefined variable name is referenced in __all__.
+Used when an undefined variable name is referenced in `__all__`.

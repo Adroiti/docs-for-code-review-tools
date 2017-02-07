@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an instance attribute is defined outside the __init__ method.
+Used when an instance attribute is defined outside the `__init__` method.
 
 ## Further Reading
 

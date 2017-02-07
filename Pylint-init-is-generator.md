@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when the special class method __init__ is turned into a generator by a yield in its body.
+Used when the special class method `__init__` is turned into a generator by a yield in its body.
 
 ## Further Reading
 

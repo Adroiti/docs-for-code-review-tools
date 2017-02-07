@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when an __iter__ method returns something which is not an iterable (i.e. has no `next` method).
+Used when an `__iter__` method returns something which is not an iterable (i.e. has no `next` method).

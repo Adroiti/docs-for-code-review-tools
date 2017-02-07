@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an ancestor class method has an __init__ method which is not called by a derived class.
+Used when an ancestor class method has an `__init__` method which is not called by a derived class.
 
 ## Further Reading
 

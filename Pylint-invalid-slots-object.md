@@ -4,4 +4,4 @@ Issue: -
 
 ## Description
 
-Used when an invalid (non-string) object occurs in __slots__.
+Used when an invalid (non-string) object occurs in `__slots__`.
