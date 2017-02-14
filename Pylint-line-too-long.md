@@ -16,7 +16,6 @@ Your source code should not contain lines that are longer than 80 characters lon
   else:
     print "this crazy condition is false"    	
 ```
-The easiest way to make sure you are not adding lines longer than 80 characters wide is to always work inside a window that is exactly 80 characters wide. If your line starts wrapping around to the next line, its too long.
 
 ## Further Reading
 
