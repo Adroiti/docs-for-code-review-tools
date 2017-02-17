@@ -20,5 +20,3 @@ By default `max-line-length` is 80 characters per line, but we are very liberal 
 
 ## Further Reading
 * [Pylint - C0301](http://pylint-messages.wikidot.com/messages:c0301)
-
-Have your own Pylint rules? No problem, simply add <b>.pylintrc</b> file to the root of this branch.
