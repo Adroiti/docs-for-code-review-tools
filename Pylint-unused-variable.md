@@ -4,12 +4,18 @@ Issue: -
 
 ## Description
 
-Unused local variables and unnecessary assigments increase code lines and decrease source code understanding.
+Unused local variables and unnecessary assignments increase code lines and decrease understanding of source code. In some cases unused variables is the result of unimplemented functionality that developer forgets to do, in that case ticket should be created to remind what to do later. 
 
+Example of <b>incorrect</b> code:
 ```python
-firstNumber = 100
-secondNumber = 200
+number = 100
 
-print secondNumber
-print "firstNumber variable needs to be removed, because it's never used in the script"
+print "Program contains unused variable"
+```
+
+Example of <b>correct</b> code:
+```python
+number = 100
+
+print number;
 ```
