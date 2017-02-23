@@ -1,3 +1,11 @@
-Pattern: Check for unreachable code
+Pattern: Unreachable code
 
-Issue: Unreachable code
+Issue: -
+
+## Description
+
+Unreachable code.
+
+## Further Reading
+
+* [Go Vet - unreachable](https://golang.org/cmd/vet/#hdr-Unreachable_code)
