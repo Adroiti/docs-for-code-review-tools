@@ -4,8 +4,27 @@ Issue: -
 
 ## Description
 
-Mistakes involving tests including functions with incorrect names or signatures and example tests that document identifiers not in the package.
+To fully use automated testing of Go packages you should apply naming and signature conventions for `Test`, `Benchmark` and `Example` functions. This rules checks for malformed names, wrong signatures and examples documenting inexistent identifiers.
 
+Example of **incorrect** code:
+
+```go
+func ExampleSalutations() {
+        fmt.Println("hello, and")
+        fmt.Println("goodbye")
+}
+```
+
+Example of **correct** code:
+
+```go
+func Examplesalutations() {
+        fmt.Println("hello, and")
+        fmt.Println("goodbye")
+}
+```
 ## Further Reading
 
-* [Go Vet - tests](https://golang.org/cmd/vet/#hdr-Common_mistaken_usages_of_tests/documentation)
+* [Go - Package testing](https://golang.org/pkg/testing/)
+* [Go - How to Write Go Code](https://golang.org/doc/code.html#Testing)
+* [Go Vet - tests](https://golang.org/cmd/vet/#hdr-Tests_and_documentation_examples)
