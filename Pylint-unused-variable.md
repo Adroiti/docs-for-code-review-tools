@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unused local variables and unnecessary assignments increase code lines and decrease understanding of source code. In some cases unused variables is the result of unimplemented functionality that developer forgets to do, in that case ticket should be created to remind what to do later. 
+Unused local variables increase code lines and decrease understanding of source code. In some cases unused variables is the result of unimplemented functionality that developer forgets to do, in that case ticket should be created to remind what to do later. 
 
 Example of <b>incorrect</b> code:
 ```python
