@@ -9,7 +9,7 @@ To fully use automated testing of Go packages you should apply naming and signat
 Example of **incorrect** code:
 
 ```go
-func ExampleSalutations() {
+func Examplesalutations() {
         fmt.Println("hello, and")
         fmt.Println("goodbye")
 }
@@ -18,7 +18,7 @@ func ExampleSalutations() {
 Example of **correct** code:
 
 ```go
-func Examplesalutations() {
+func ExampleSalutations() {
         fmt.Println("hello, and")
         fmt.Println("goodbye")
 }
