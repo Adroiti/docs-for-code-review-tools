@@ -4,10 +4,7 @@ Issue: -
 
 ## Description
 
-Calls to well-known functions and methods that return a value that is
-discarded. By default, this includes functions like fmt.Errorf and
-fmt.Sprintf and methods like String and Error. The flags -unusedfuncs and
--unusedstringmethods control the set.
+Calls to well-known functions and methods that return a value that is discarded. By default, this includes functions like `fmt.Errorf` and `fmt.Sprintf`.
 
 ## Further Reading
 
