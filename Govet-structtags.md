@@ -8,4 +8,4 @@ Struct tags that do not follow the format understood by `reflect.StructTag.Get`.
 
 ## Further Reading
 
-* [Go Vet - structtags](https://golang.org/cmd/vet/#hdr-Struct_field_tags_do_not_have_canonical_format)
+* [Go Vet - structtags](https://golang.org/cmd/vet/#hdr-Struct_tags)
