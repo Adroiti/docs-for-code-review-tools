@@ -4,8 +4,7 @@ Issue: -
 
 ## Description
 
-Mistakes involving tests including functions with incorrect names or
-signatures and example tests that document identifiers not in the package.
+Mistakes involving tests including functions with incorrect names or signatures and example tests that document identifiers not in the package.
 
 ## Further Reading
 
