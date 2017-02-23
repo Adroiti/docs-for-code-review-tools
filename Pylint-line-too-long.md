@@ -16,7 +16,8 @@ Your source code should not contain lines that are longer than `max-line-length`
   else:
     print "this crazy condition is false"    	
 ```
-By default `max-line-length` is 80 characters per line, but we are very liberal so we made it 150 characters per line just for you.
+By default PEP 8 recommends 79 - 99 characters per line, but we are very liberal so we made it 159 characters per line just for you.
+You can set `max-line-length` in Pylint configuration file depending on your needs.
 
 ## Further Reading
 * [Pylint - C0301](http://pylint-messages.wikidot.com/messages:c0301)
