@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rules checks for types that may not be passed to `cgo` calls.
+This rule checks for types that may not be passed to `cgo` calls.
 
 Example of **incorrect** code:
 
