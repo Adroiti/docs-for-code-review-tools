@@ -10,8 +10,8 @@ Example of **incorrect** code:
 
 ```go
 func ShiftTest() {
-	var i8 int8
-  _ = i8 >> 8    // i8 too small for shift of 8
+  var i8 int8
+  _ = i8 >> 8    // i8 is too small for shift of 8
 }
 ```
 
@@ -19,7 +19,7 @@ Example of **correct** code:
 
 ```go
 func ShiftTest() {
-	var i8 int8
+  var i8 int8
   _ = i8 << 7
 }
 ```
