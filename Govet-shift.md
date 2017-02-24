@@ -4,8 +4,27 @@ Issue: -
 
 ## Description
 
-Shifts equal to or longer than the variable's length.
+This rule checks if shift or shift-assign operations shift by more than the length of the underlying variable. Update varable type or shift count to make your intention and code more clear.
+
+Example of **incorrect** code:
+
+```go
+func ShiftTest() {
+	var i8 int8
+  _ = i8 >> 8    // i8 too small for shift of 8
+}
+```
+
+Example of **correct** code:
+
+```go
+func ShiftTest() {
+	var i8 int8
+  _ = i8 << 7
+}
+```
 
 ## Further Reading
 
-* [Go Vet - shift](https://golang.org/cmd/vet/#hdr-Useless_shifts)
+* [Go - Arithmetic operators](https://golang.org/ref/spec#Arithmetic_operators)
+* [Go Vet - shift](https://golang.org/cmd/vet/#hdr-Shifts)
