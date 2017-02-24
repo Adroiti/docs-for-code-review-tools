@@ -4,8 +4,6 @@ Issue: -
 
 ## Description
 
-Struct tags that do not follow the format understood by `reflect.StructTag.Get`. Well-known encoding struct tags (json, xml) used with unexported fields.
-
 This rule checks if conventions for struct field tags are being followed:
 - tags have canonical format
 - json or xml tags are used correctly with unexported fields
