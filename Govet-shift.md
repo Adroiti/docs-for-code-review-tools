@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule checks if shift or shift-assign operations shift by more than the length of the underlying variable. Update varable type or shift count to make your intention and code more clear.
+This rule checks if shift or shift-assign operations shift by more than the length of the underlying variable. Update variable type or shift count to make your intention and code more clear.
 
 Example of **incorrect** code:
 
