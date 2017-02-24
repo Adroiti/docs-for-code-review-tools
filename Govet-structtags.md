@@ -14,7 +14,7 @@ Example of **incorrect** code:
 
 ```go
 type StructTagTest struct {
-	A   int "hello"            // bad syntax for struct tag pair
+	A   int "hello"	// bad syntax for struct tag pair
 }
 ```
 
