@@ -12,6 +12,7 @@ _Suspect_ expressions could mean that evaluation is always true or always false 
 
 _Side effects_ may alter remaining condition and introduce subtle and hard to detect bugs. Consider moving such code out of boolean expression.
 
+
 Example of **incorrect** code:
 
 ```go
