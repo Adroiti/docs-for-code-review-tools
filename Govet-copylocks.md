@@ -6,6 +6,7 @@ Issue: -
 
 Lock can be passed by value or by pointer. Passing lock by value creates a copy of the lock and may cause unexpected behavior. This issue can be safely ignored if it's your intention.
 
+
 Example of **incorrect** code:
 
 ```go
