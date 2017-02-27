@@ -7,6 +7,7 @@ Issue: -
 This issue reports likely incorrect uses of `unsafe.Pointer` to convert integers to pointers. A conversion from `uintptr` to `unsafe.Pointer` is invalid if it implies that there is a `uintptr`-typed word in memory that holds a pointer value, because
 that word will be invisible to stack copying and to the garbage collector.
 
+
 Example of **incorrect** code:
 
 ```go
