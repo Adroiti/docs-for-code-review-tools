@@ -6,6 +6,7 @@ Issue: -
 
 This rule walks `atomic.Add*` method calls checking for assigning the return value to the same variable being used in the operation.
 
+
 Example of **incorrect** code:
 
 ```go
