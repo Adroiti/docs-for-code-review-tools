@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unused local variables increase code lines and decrease understanding of source code. In some cases unused variables is the result of unimplemented functionality that developer forgets to do, in that case ticket should be created to remind what to do later. 
+Variables that are declared and not used anywhere in the code are most likely an error due to incomplete refactoring. Such variables take up space in the code and can lead to confusion by readers. 
 
 Example of <b>incorrect</b> code:
 ```python
