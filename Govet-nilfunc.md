@@ -6,9 +6,12 @@ Issue: -
 
 Comparisons between functions and `nil` result in _redundant_ (always `true`) or _unreachable_ (always `false`) code.
 
+
 _Redundant_ code may increase maintenance costs by making code more difficult to change and to understand. Remove such code to resolve this issue.
 
+
 _Unreachable_ code is generally considered undesirable for a number of reasons, including increased code size and increased time and effort for maintainenance. Update or remove such code to resolve this issue.
+
 
 Example of **incorrect** code:
 
