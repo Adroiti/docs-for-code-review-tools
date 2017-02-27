@@ -6,6 +6,7 @@ Issue: -
 
 This rule checks for types that may not be passed to `cgo` calls.
 
+
 Example of **incorrect** code:
 
 ```go
