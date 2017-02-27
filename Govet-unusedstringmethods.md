@@ -6,6 +6,7 @@ Issue: -
 
 This rule enforces to use return value of call to `Error` and `String` methods.
 
+
 Example of **incorrect** code:
 
 ```go
