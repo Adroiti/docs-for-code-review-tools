@@ -4,7 +4,23 @@ Issue: -
 
 ## Description
 
-Calls to well-known functions and methods that return a value that is discarded. By default, this includes functions like `fmt.Errorf` and `fmt.Sprintf`.
+This rule enforces to use return value of well-known pure functions - `errors.New`, `fmt.Errorf` , `fmt.Sprintf`, `fmt.Sprint`, `sort.Reverse` - as well as `Error` and `String` methods.
+
+Example of **incorrect** code:
+
+```go
+func _() {
+	fmt.Errorf("") // result of fmt.Errorf call not used
+}
+```
+
+Example of **correct** code:
+
+```go
+func _() {
+	_ = fmt.Errorf("")
+}
+```
 
 ## Further Reading
 
