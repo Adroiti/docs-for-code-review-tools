@@ -9,6 +9,7 @@ This rule checks if rules for build constraints, also known as a build tags, are
 - should appear before the package clause
 - have valid name and valid space-separated options
 
+
 Example of **incorrect** (malformed +build name) code:
 
 ```go
