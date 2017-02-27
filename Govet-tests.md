@@ -6,6 +6,7 @@ Issue: -
 
 To fully use automated testing of Go packages you should apply naming and signature conventions for `Test`, `Benchmark` and `Example` functions. This rule checks for malformed names, wrong signatures and examples documenting inexistent identifiers.
 
+
 Example of **incorrect** code:
 
 ```go
