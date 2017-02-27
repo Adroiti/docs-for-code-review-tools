@@ -14,6 +14,7 @@ WriteTo
 ```
 Because the checks are dynamic, such methods would not cause a compile error if they have the wrong signature: instead the dynamic check would fail, sometimes mysteriously.
 
+
 Example of **incorrect** code:
 
 ```go
