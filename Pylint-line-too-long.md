@@ -3,7 +3,7 @@ Pattern: Line too long
 Issue: -
 
 ## Description
-Your source code should not contain lines that are longer than `max-line-length` characters long. If you have a line that is longer than `max-line-length` characters long, break it up into multiple lines. Use the `\` character at the end of a line to tell the Python interpreter that the statement continues on the next line. Here is an example of how to break up a long boolean expression into three lines.
+Your source code should not contain very long lines. If you have lines that are very long you should break it up into multiple lines, because when code is not clearly visible it's very difficult to understand what it does. Use the `\` character at the end of a line to tell the Python interpreter that the statement continues on the next line. Here is an example of how to break up a long boolean expression into three lines.
 ```python
   if ( ((blah < 0 ) and (grr > 234)) \ 
        or ((foo == 3456) and (grr <= 4444)) \
