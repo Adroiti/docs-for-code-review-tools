@@ -9,6 +9,7 @@ This rule enforces field-keyed syntax over unkeyed syntax for composite struct l
 - does not neeed to follow the order in which the fields are declared;
 - may improve code clarity due to explicit use of key names.
 
+
 Example of **incorrect** code:
 
 ```go
