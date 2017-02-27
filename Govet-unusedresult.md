@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces to use return value of well-known pure functions - `errors.New`, `fmt.Errorf` , `fmt.Sprintf`, `fmt.Sprint`, `sort.Reverse` - as well as `Error` and `String` methods.
+This rule enforces to use return value of well-known pure functions - `errors.New`, `fmt.Errorf`, `fmt.Sprintf`, `fmt.Sprint`, `sort.Reverse` - as well as `Error` and `String` methods.
 
 Example of **incorrect** code:
 
