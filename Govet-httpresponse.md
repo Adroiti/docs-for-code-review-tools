@@ -6,6 +6,7 @@ Issue: -
 
 This rule ensures that errors are checked before using HTTP Response.
 
+
 Example of **incorrect** code:
 
 ```go
