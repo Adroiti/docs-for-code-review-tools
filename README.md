@@ -14,7 +14,7 @@
 ### Govet
 1. Download and install latest Go distribution - https://golang.org/dl
 2. Pick undocumented rule from [Govet-messages.txt](Govet-messages.txt)
-4. Create file named `Govet-<flag>.md` based on [template.md](template.md)
+4. Modify file named `Govet-<flag>.md` based on [template.md](template.md)
 5. (Optional) See [Govet docs](https://golang.org/cmd/vet) for available rule descriptions
 6. (Optional) See [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) for possible rule description and link
 7. (Optional) See other `Govet-*.md` files for examples
