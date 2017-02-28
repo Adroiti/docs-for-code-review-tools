@@ -6,7 +6,27 @@ Issue: -
 
 Global variables reduce code readability and often cause bugs. Avoid global variable as much as possible. 
 
-One common solution for avoiding global variables is to create a class and to encapsulate global variables as members of an instantiated object of that class.
+
+Example of **incorrect** code:
+```python
+WIDTH = 0 # global variable
+
+def area(w):
+    global WIDTH # global statement
+    WIDTH = w
+    return WIDTH * WIDTH
+```
+
+One common solution for this is to create a class and to encapsulate global variables as members of an instantiated object of that class:
+
+
+```python
+class Square:
+    def __init__(self, width):
+        self.width = width
+    def area(self):
+        return self.width * self.width
+```
 
 ## Further Reading
 
