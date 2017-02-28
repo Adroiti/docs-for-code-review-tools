@@ -9,6 +9,7 @@ Used as a warning note when `FIXME` or `XXX` is detected.
 
 Example code that will generate this issue:
 
+
 ```python
 # FIXME: Seems like this loop should be finite.
 while True: ...
