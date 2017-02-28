@@ -29,4 +29,3 @@ if number is None:
 ## Further Reading
 
 * [PEP 8 - Programming Recommendations](https://www.python.org/dev/peps/pep-0008/#programming-recommendations)
-* [Pylint - C0121](http://pylint-messages.wikidot.com/messages:c0121)
