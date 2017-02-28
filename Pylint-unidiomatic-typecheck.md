@@ -6,6 +6,7 @@ Issue: -
 
 This rule enforces `PEP 8` recommendation to always use `isinstance()` instead of comparing types directly. Even though latter code is correct, it's less readable and is not considered 'pythonic'.
 
+
 Example of **incorrect** code:
 
 ```python
