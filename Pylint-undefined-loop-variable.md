@@ -11,7 +11,7 @@ Example of **incorrect** code:
 
 ```python
 def do_stuff(some_random_list):
-    for var in some_random_list:
+    for i in some_random_list:
         print i
     print i  # [undefined-loop-variable]
 ```
@@ -20,6 +20,6 @@ Example of **correct** code:
 
 ```python
 def do_stuff(some_random_list):
-    for var in some_random_list:
+    for i in some_random_list:
         print i
 ```
