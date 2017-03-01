@@ -23,7 +23,7 @@ Example of **correct** code:
 try:
     A = 1
 except ValueError:
-    pass # [unnecessary-pass]
+    pass
 ```
 
 ## Further Reading
