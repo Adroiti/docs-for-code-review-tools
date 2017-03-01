@@ -1,7 +1,21 @@
-Pattern: Unused variable
+Pattern: Avoid unused variables
 
 Issue: -
 
 ## Description
 
-Used when a variable is defined but not used.
+Variables that are declared and not used in the code are most likely an error due to incomplete refactoring. Such variables take up space in the code and can lead to confusion by readers. Use or remove them to resolve this issue.
+
+
+Example of **incorrect** code:
+```python
+def some_method(firstArg):
+    test = "123" # [unused-variable]
+    return firstArg*2
+```
+
+Example of **correct** code:
+```python
+def some_method(firstArg):
+    return firstArg*2
+```
