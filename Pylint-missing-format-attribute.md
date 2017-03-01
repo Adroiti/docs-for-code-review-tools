@@ -4,19 +4,21 @@ Issue: -
 
 ## Description
 
-Used when a PEP 3101 format string uses an attribute specifier - `{0.length}` - but the argument passed for formatting doesn't have that attribute. This message can't be emitted when using Python < 2.7.
+Used when a PEP 3101 format string uses an attribute specifier, but the argument passed for formatting doesn't have that attribute. This message can't be emitted when using Python < 2.7.
 
 
 Example of **incorrect** code:
 
 ```python
-"{0.missing}".format(1)
+file = open('out.txt', 'w')
+"My name is {0.unknown}".format(file) # file type does not have 'unknown'
 ```
 
 Examples of **correct** code:
 
 ```python
-"{0.missing.length}".format(1)
+file = open('out.txt', 'w')
+"My name is {0.name}".format(file)
 ```
 
 ## Further Reading
