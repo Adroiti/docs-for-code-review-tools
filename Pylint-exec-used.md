@@ -1,10 +1,11 @@
-Pattern: Avoid using exec() when possible
+Pattern: Avoid using `exec()` when possible
 
 Issue: -
 
 ## Description
 
 The `exec()` statement is dangerous, hard to test, and hard to read. Avoid it, as much as possible. This is largery due to the fact that `exec()` enables you to dynamically execute arbitrary Python code which is stored in literal strings. Consider going back to the code to check if there is a clearer, more direct way to accomplish the task.
+
 
 Example of **incorrect** code:
 
@@ -24,4 +25,5 @@ foo()
 
 ## Further Reading
 
+* [The Python Standard Library - exec()](https://docs.python.org/3/library/functions.html#exec)
 * [Pylint - W0122](http://pylint-messages.wikidot.com/messages:w0122)
