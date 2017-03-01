@@ -1,4 +1,4 @@
-Pattern: Global statement
+Pattern: Aboid `global` statements
 
 Issue: -
 
