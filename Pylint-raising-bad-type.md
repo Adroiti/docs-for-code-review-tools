@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when something which is neither a class, an instance or a string is raised (i.e. a `TypeError` will be raised).
+A `raise` statement must raise a valid exception type, otherwise Python raises a `TypeError` at runtime.
 
 
 Example of **incorrect** code:
