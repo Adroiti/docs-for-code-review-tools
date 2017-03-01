@@ -10,7 +10,7 @@ Used when the last line in a file is missing a newline. While Python interpreter
 Example of **incorrect** code:
 
 ```python
-"""This file does not have a final newline."""
+"""This code does not have a final newline."""
 from __future__ import print_function
 # +1:[missing-final-newline]
 print(1)
