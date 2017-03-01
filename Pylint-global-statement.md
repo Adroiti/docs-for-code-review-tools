@@ -1,4 +1,4 @@
-Pattern: Aboid `global` statements
+Pattern: Avoid `global` statements
 
 Issue: -
 
