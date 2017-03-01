@@ -4,10 +4,10 @@ Issue: -
 
 ## Description
 
-Used when the first argument of a (instance) method has a name other than self. 
+Used when the first argument of a (instance) method has a name other than `self`. 
 
 
-This is nothing more than a convention: the name self has no special meaning to Python. Note, however, that by not following the convention your code may be less readable to other Python programmers, and it is also conceivable that a class browser program might be written that relies upon such a convention.
+This is nothing more than a convention: the name `self` has no special meaning to Python. Note, however, that by not following the convention your code may be less readable to other Python programmers, and it is also conceivable that a class browser program might be written that relies upon such a convention.
 
 
 Example of **incorrect** code:
