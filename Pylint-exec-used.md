@@ -10,7 +10,7 @@ The `exec()` statement is dangerous, hard to test, and hard to read. Avoid it, a
 Example of **incorrect** code:
 
 ```python
-text = "print \"Hello, World!\""
+text = "print \"hello, and goodbye\""
 exec text
 ```
 
@@ -18,7 +18,7 @@ Example of **correct** code:
 
 ```python
 def foo():
-    print "Hello, World!"
+    print "hello, and goodbye"
     
 foo()
 ```
