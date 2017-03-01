@@ -6,6 +6,7 @@ Issue: -
 
 Wildcard imports (`from <module> import *`) should be avoided, as they make it unclear which names are present in the namespace, confusing both readers and many automated tools. Although certain modules are designed to export only names that follow certain patterns when you use `import *`, it is still considered bad practice in production code.
 
+
 Make the import statement more specific or import the whole module depending on your needs.
 
 
