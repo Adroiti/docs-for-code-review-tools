@@ -11,7 +11,6 @@ Example of **incorrect** code:
 
 ```python
 def bad_case():
-    """raise"""
     raise 1  # [raising-bad-type]
 
 ```
@@ -20,7 +19,6 @@ Example of **correct** code:
 
 ```python
 def good_case():
-    """raise"""
     raise ValidException('error details')
 ```
 
