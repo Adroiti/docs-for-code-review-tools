@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Avoid using loop variable outside of loop as it might be undefined. This may lead to unexpected behavior and source of bugs.
+Avoid using loop variable outside of loop as it might be undefined. This may lead to unexpected behavior and act as source of bugs.
 
 
 Example of **incorrect** code:
