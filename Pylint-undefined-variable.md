@@ -1,4 +1,4 @@
-Pattern: Undefined variable
+Pattern: Avoid undefined variables
 
 Issue: -
 
