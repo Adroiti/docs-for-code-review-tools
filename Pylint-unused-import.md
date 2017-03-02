@@ -1,4 +1,4 @@
-Pattern: Unused import
+Pattern: Avoid unused imports
 
 Issue: -
 
