@@ -1,4 +1,4 @@
-Pattern: Unnecessary semicolon
+Pattern: Avoid unnecessary semicolons
 
 Issue: -
 
