@@ -10,7 +10,7 @@ Used when an undefined variable name is referenced in `__all__`. Python raises a
 Example of **incorrect** code:
 
 ```python
-# NonExistant is listed in  __all__ but is not defined in this module. An error is expected.
+# NonExistant is listed in __all__ but is not defined in this module. An error is expected.
 from os import path
 from collections import deque
 
