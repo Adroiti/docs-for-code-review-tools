@@ -1,10 +1,11 @@
-Pattern: Empty docstring
+Pattern: Avoid empty docstrings
 
 Issue: -
 
 ## Description
 
-Used when a module, function, class or method has an empty docstring.
+Used when a module, function, class or method has an empty docstring. Provide content for docstring or remove empty docstring to resolve this issue.
+
 
 Example of **incorrect** code:
 
