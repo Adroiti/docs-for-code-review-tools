@@ -1,4 +1,4 @@
-Pattern: Logging format interpolation
+Pattern: Avoid non-lazy format logging
 
 Issue: -
 
