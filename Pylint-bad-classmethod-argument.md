@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The first argument of a class method is a reference to the current class. It is usually called `cls`. The `cls `name is used to easily differentiate class methods from instance methods.
+The first argument of a class method is a reference to the current class. It is usually called `cls`. The `cls` name is used to easily differentiate class methods from instance methods.
 
 
 Example of **incorrect** code:
