@@ -1,4 +1,4 @@
-Pattern: Signature differs
+Pattern:  Child class method signature does not match parent class
 
 Issue: -
 
