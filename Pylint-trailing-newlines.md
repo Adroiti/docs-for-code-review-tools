@@ -13,8 +13,8 @@ Example of **incorrect** code:
 """This file has 2 trailing newlines."""
 print "test"
 # +1: [trailing-newlines]
-
-
+ 
+ 
 ```
 
 Example of **correct** code:
