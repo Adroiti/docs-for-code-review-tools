@@ -1,4 +1,4 @@
-Pattern: Unnecessary lambda
+Pattern: Avoid unnecessary lambdas
 
 Issue: -
 
