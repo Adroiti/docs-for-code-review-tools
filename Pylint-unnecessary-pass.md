@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-A `pass` statement is only necessary when it is the only statement in a block. If the block already contains other statements then the pass statement is unnecessary and can be removed.
+A `pass` statement is only necessary when it is the only statement in a block. If the block already contains other statements then the `pass` statement is unnecessary and can be removed.
 
 
 Example of **incorrect** code:
