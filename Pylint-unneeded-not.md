@@ -5,7 +5,7 @@ Issue: -
 ## Description
 
 
-You can simplify certain boolean expressions containing negation to not use it making the code more succinct and clear.
+You can simplify certain boolean expressions containing negation to not use it. This change will make the code more succinct and clear to the readers.
 
 
 Example of **incorrect** code:
