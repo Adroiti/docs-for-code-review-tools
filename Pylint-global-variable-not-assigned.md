@@ -10,13 +10,16 @@ Used when a variable is defined through the `global` statement but no assignment
 Example of **incorrect** code:
 
 ```python
-global _task_id
+def func():
+    global name
 ```
 
 Example of **correct** code:
 
 ```python
-global _task_id = 1
+def func():
+    global name
+    mouse = "modified"
 ```
 
 ## Further Reading
