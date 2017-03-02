@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This error occurs when you have an `if` statement that can be refactored by using the value of the condition, rather than putting in extra True and False literals. This makes the code more succinct and clear to the readers.
+This error occurs when you have an `if` statement that can be refactored by using the value of the condition, rather than putting in extra `True` and `False` literals. This makes the code more succinct and clear to the readers.
 
 
 Example of **incorrect** code:
