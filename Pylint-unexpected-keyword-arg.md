@@ -28,4 +28,4 @@ calc_area(12) # passing positional parameter
 
 ## Further Reading
 
-* [The Python Tutorial - Keyword Arguments](https://docs.python.org/2/tutorial/controlflow.html?highlight=keyword%20argument#keyword-arguments)
+* [The Python Tutorial - Keyword Arguments](https://docs.python.org/2/tutorial/controlflow.html#keyword-arguments)
