@@ -13,15 +13,15 @@ Compound statements are also discouraged by `PEP 8` style guide.
 Example of **incorrect** code:
 
 ```python
-if foo == 'blah': do_blah_thing()
+if foo == 'bar': init()
 do_one(); do_two(); do_three()
 ```
 
 Example of **correct** code:
 
 ```python
-if foo == 'blah':
-    do_blah_thing()
+if foo == 'bar':
+    init()
 do_one()
 do_two()
 do_three()
