@@ -1,4 +1,4 @@
-Pattern: Nil function comparison
+Pattern: `Nil` function comparison
 
 Issue: -
 
