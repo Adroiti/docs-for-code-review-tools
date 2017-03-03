@@ -1,4 +1,4 @@
-Pattern: Badly formed or misplaced +build tags
+Pattern: Badly formed or misplaced `+build` tags
 
 Issue: -
 
