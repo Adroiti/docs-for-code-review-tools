@@ -12,7 +12,6 @@ Example of **incorrect** code:
 def salute():
     print('hello')
 
-
 def run():
     result = salute()
     print(result)
@@ -22,7 +21,6 @@ Example of **correct** code:
 ```python
 def salute():
     return "hello"
-
 
 def run():
     result = salute()
