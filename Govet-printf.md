@@ -1,4 +1,4 @@
-Pattern: Suspicious calls to functions in the Printf family
+Pattern: Suspicious calls to functions in the `Printf` family
 
 Issue: -
 
