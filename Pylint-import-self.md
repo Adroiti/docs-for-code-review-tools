@@ -4,8 +4,12 @@ Issue: -
 
 ## Description
 
-Used when a module is importing itself.
+A module should not import itself. So for example, if the module is named `test_import_self` you cannot import it as follows:
 
+
+```python
+import test_import_self
+```
 
 ## Further Reading
 
