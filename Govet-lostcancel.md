@@ -1,4 +1,4 @@
-Pattern: Failure to call the cancelation function returned by context.WithCancel.
+Pattern: Failure to call the cancelation function returned by `context.WithCancel`
 
 Issue: -
 
