@@ -1,9 +1,11 @@
-Pattern: Line too long
+Pattern: Line is too long
 
 Issue: -
 
 ## Description
-Your source code should not contain very long lines. If you have very long lines you should break it up into multiple lines. When code is not easily visible it's difficult to understand what it does. Use the `\` character at the end of a line to tell the Python interpreter that the statement continues on the next line. Here is an example of how to break up a long boolean expression into three lines.
+Your source code should not contain very long lines. The default wrapping in most tools disrupts the visual structure of the code, making it more difficult to understand. Use the `\` character at the end of a line to tell the Python interpreter that the statement continues on the next line. Here is an example of how to break up a long boolean expression into three lines.
+
+
 ```python
   if ( ((blah < 0 ) and (grr > 234)) \ 
        or ((foo == 3456) and (grr <= 4444)) \
@@ -16,8 +18,10 @@ Your source code should not contain very long lines. If you have very long lines
   else:
     print "this crazy condition is false"    	
 ```
-By default PEP 8 recommends 79 - 99 characters per line, but we are very liberal so we made it 159 characters per line just for you.
-You can set `max-line-length` in Pylint configuration file depending on your needs.
+
+By default this value is set to 159, although _PEP 8_ recommends a more strict range of 79 - 99 characters per line. In any case, you can set `max-line-length` in Pylint configuration file depending on your needs.
 
 ## Further Reading
+
+* [PEP 8 - Maximum Line Length ](https://www.python.org/dev/peps/pep-0008/#maximum-line-length)
 * [Pylint - C0301](http://pylint-messages.wikidot.com/messages:c0301)
