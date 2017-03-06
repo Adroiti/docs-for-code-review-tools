@@ -21,4 +21,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [PEP 8 - Function and method arguments](http://legacy.python.org/dev/peps/pep-0008/#function-and-method-arguments)
+* [PEP 8 - Function and method arguments](https://www.python.org/dev/peps/pep-0008/#function-and-method-arguments)
