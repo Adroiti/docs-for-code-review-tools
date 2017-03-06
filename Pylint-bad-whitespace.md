@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces whitespace usage around an operator, bracket or block opener based on `PEP 8` style guide. Warning is raised when any of the following rules is violated:
+This rule enforces whitespace usage around an operator, bracket or block opener based on _PEP 8_ style guide. Warning is raised when any of the following rules is violated:
 - Any of the following operators is surrounded by one space: `==, !=, <>, <=, >=, <, >, =, +=, -=, *=, **=, /=, //=, &=, |=, ^=, %=, >>=, <<=`
 - Any opening bracket ( `(, [, {` ) is not followed by any space.
 - Any closing bracket ( `), ], }` ) is not preceded by any space.
@@ -24,7 +24,7 @@ Example of **correct** code:
 if x == 4: print x, y; x, y = y, x
 ```
 
-The guidelines provided by `PEP 8` are intended to improve the readability of code and make it consistent across the wide spectrum of Python code.
+The guidelines provided by _PEP 8_ are intended to improve the readability of code and make it consistent across the wide spectrum of Python code.
 
 ## Further Reading
 

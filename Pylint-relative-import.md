@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces PEP 8 style guide recommendation to use absolute over relative imports. They are usually more readable and tend to be better behaved (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on `sys.path`):
+This rule enforces _PEP 8_ style guide recommendation to use absolute over relative imports. They are usually more readable and tend to be better behaved (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on `sys.path`):
 
 
 ```python

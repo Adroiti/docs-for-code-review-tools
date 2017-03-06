@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces `PEP 8` recommendation to use `is` or `is not` over equality operators for singleton comparison. 
+This rule enforces _PEP 8_ recommendation to use `is` or `is not` over equality operators for singleton comparison. 
 
 
 Example of **incorrect** code:

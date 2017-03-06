@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces `PEP 8` recommendation to avoid trailing whitespace anywhere. Because it's usually invisible, it can be confusing: e.g. a backslash followed by a space and a newline does not count as a line continuation marker. Some editors don't preserve it and many projects (like _CPython_ itself) have pre-commit hooks that reject it.
+This rule enforces _PEP 8_ recommendation to avoid trailing whitespace anywhere. Because it's usually invisible, it can be confusing: e.g. a backslash followed by a space and a newline does not count as a line continuation marker. Some editors don't preserve it and many projects (like _CPython_ itself) have pre-commit hooks that reject it.
 
 
 Example of **incorrect** code:

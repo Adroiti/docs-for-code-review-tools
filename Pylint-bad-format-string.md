@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a PEP 3101 format string is invalid. This message can't be emitted when using Python < 2.7.
+Used when a _PEP 3101_ format string is invalid. This message can't be emitted when using Python < 2.7.
 
 ## Further Reading
 

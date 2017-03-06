@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a PEP 3101 format string uses an attribute specifier, but the argument passed for formatting doesn't have that attribute. This message can't be emitted when using Python < 2.7.
+Used when a _PEP 3101_ format string uses an attribute specifier, but the argument passed for formatting doesn't have that attribute. This message can't be emitted when using Python < 2.7.
 
 
 Example of **incorrect** code:

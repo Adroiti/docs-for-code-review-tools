@@ -7,7 +7,7 @@ Issue: -
 Python syntax does permit more than one statement on a line, separated by semicolon (`;`). However, limiting each line to one statement makes it easier for a human to follow a program's logic when reading through it.
 
 
-Compound statements are also discouraged by `PEP 8` style guide.
+Compound statements are also discouraged by _PEP 8_ style guide.
 
 
 Example of **incorrect** code:

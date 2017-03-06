@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces PEP 8 style guide recommendation to prefer separate lines for imports over a single line.
+This rule enforces _PEP 8_ style guide recommendation to prefer separate lines for imports over a single line.
 
 
 Example of **incorrect** code:
