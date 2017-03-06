@@ -1,7 +1,24 @@
-Pattern: Unidiomatic typecheck
+Pattern: Avoid unidiomatic typecheck
 
 Issue: -
 
 ## Description
 
-The idiomatic way to perform an explicit typecheck in Python is to use isinstance(x, Y) rather than type(x) == Y, type(x) is Y. Though there are unusual situations where these give different results.
+This rule enforces _PEP 8_ recommendation to always use `isinstance()` instead of comparing types directly. Even though latter code is correct, it's less readable and is not considered 'pythonic'.
+
+
+Example of **incorrect** code:
+
+```python
+if type(obj) is type(1):
+```
+
+Example of **correct** code:
+
+```python
+if isinstance(obj, int):
+```
+
+## Further Reading
+
+* [PEP 8 - Programming Recommendations](https://www.python.org/dev/peps/pep-0008/#programming-recommendations)

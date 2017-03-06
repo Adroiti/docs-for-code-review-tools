@@ -6,6 +6,7 @@ Issue: Instance method could be a static function
 
 The method does not make use of the class instance it gets passed. For clarity, it should be declared as a static method using the `@staticmethod` decorator.
 
+
 Example of **incorrect** code:
 
 ```python

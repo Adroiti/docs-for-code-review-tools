@@ -1,10 +1,25 @@
-Pattern: Used before assignment
+Pattern: Variable accessed before assignment
 
 Issue: -
 
 ## Description
 
-Used when a local variable is accessed before it's assignment.
+If variable is used before assignment, a runtime error will be raised. Assign it first to resolve this issue.
+
+
+Example of **incorrect** code:
+
+```python
+print(name)
+name = "test"
+```
+
+Example of **correct** code:
+
+```python
+name = "test"
+print(name)
+```
 
 ## Further Reading
 

@@ -1,10 +1,26 @@
-Pattern: Raising bad type
+Pattern: Use valid type when raising exceptions
 
 Issue: -
 
 ## Description
 
-Used when something which is neither a class, an instance or a string is raised (i.e. a `TypeError` will be raised).
+A `raise` statement must raise a valid exception type, otherwise Python raises a `TypeError` at runtime.
+
+
+Example of **incorrect** code:
+
+```python
+def bad_case():
+    raise 1  # [raising-bad-type]
+
+```
+
+Example of **correct** code:
+
+```python
+def good_case():
+    raise ValidException('error details')
+```
 
 ## Further Reading
 

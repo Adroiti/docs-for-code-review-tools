@@ -4,7 +4,8 @@ Issue: -
 
 ## Description
 
-The first argument of a class method is a reference to the current class. It is usually called `cls`. The `cls `name is used to easily differentiate class methods from instance methods.
+The first argument of a class method is a reference to the current class. It is usually called `cls`. The `cls` name is used to easily differentiate class methods from instance methods.
+
 
 Example of **incorrect** code:
 
@@ -20,4 +21,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [PEP 8 - Function and method arguments](http://legacy.python.org/dev/peps/pep-0008/#function-and-method-arguments)
+* [PEP 8 - Function and method arguments](https://www.python.org/dev/peps/pep-0008/#function-and-method-arguments)

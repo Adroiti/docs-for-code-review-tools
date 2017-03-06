@@ -4,7 +4,8 @@ Issue: -
 
 ## Description
 
-Docstrings help you remember the intention of a class. This is especially important as your codebase grows and it becomes harder to remember the implementation details of each object. Other developers will also have it easier to understand your code.
+Docstrings may help you to remember the intention methods, functions, classes or modules. This is especially important as your codebase grows and it becomes harder to remember the implementation details of each object. Other developers will also have it easier to understand your code.
+
 
 Example of **incorrect** code:
 

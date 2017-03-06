@@ -1,7 +1,25 @@
-Pattern: Multiple imports
+Pattern: Prefer separate lines over single line for imports
 
 Issue: -
 
 ## Description
 
-Used when import statement importing multiple modules is detected.
+This rule enforces _PEP 8_ style guide recommendation to prefer separate lines for imports over a single line.
+
+
+Example of **incorrect** code:
+
+```python
+import os, socket
+```
+
+Example of **correct** code:
+
+```python
+import os
+import socket
+```
+
+## Further Reading
+
+* [PEP 8 - Imports](https://www.python.org/dev/peps/pep-0008/#imports)
