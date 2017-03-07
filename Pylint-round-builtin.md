@@ -1,4 +1,4 @@
-Pattern: Round built-in
+Pattern: `round()` built-in
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Too few logging args
+Pattern: Too few logging arguments
 
 Issue: -
 
 ## Description
 
-Calls to logging that do not match formats against args may lead to confusion as code will not work as expected. Extra arguments will not be shown and missings arguments will raise `IndexError`. Update code so that formats and args are in sync.
+Calls to logging that do not match formats against args may lead to confusion as code will not work as expected. Extra arguments will not be shown and missing arguments will raise `IndexError`. Update code so that formats and args are in sync.
 
 
 Example of **incorrect** code:

@@ -1,4 +1,4 @@
-Pattern: Coerce built-in
+Pattern: `coerce()` built-in
 
 Issue: -
 

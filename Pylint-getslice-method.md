@@ -1,4 +1,4 @@
-Pattern: Getslice method
+Pattern: `__getslice__` method
 
 Issue: -
 

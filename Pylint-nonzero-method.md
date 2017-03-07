@@ -1,4 +1,4 @@
-Pattern: Nonzero method
+Pattern: `__nonzero__` method
 
 Issue: -
 

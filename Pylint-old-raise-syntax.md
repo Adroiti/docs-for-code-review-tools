@@ -1,4 +1,4 @@
-Pattern: Old raise syntax
+Pattern: Old `raise` syntax
 
 Issue: -
 

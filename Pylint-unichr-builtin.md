@@ -1,4 +1,4 @@
-Pattern: Unichr built-in
+Pattern: `unichr()` built-in
 
 Issue: -
 

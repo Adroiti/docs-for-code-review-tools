@@ -1,4 +1,4 @@
-Pattern: Cmp built-in
+Pattern: `cmp()` built-in
 
 Issue: -
 

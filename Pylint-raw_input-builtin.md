@@ -1,4 +1,4 @@
-Pattern: Raw_input built-in
+Pattern: `raw_input()` built-in
 
 Issue: -
 

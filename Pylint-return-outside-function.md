@@ -1,4 +1,4 @@
-Pattern: Return outside function
+Pattern: `return` is outside function
 
 Issue: -
 

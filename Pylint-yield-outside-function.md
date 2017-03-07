@@ -1,4 +1,4 @@
-Pattern: Yield outside function
+Pattern: `yield` outside function
 
 Issue: -
 

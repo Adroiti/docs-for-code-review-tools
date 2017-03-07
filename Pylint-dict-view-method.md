@@ -1,4 +1,4 @@
-Pattern: Dict view method
+Pattern: `dict` view method
 
 Issue: -
 

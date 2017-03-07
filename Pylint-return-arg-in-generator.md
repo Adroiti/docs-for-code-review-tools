@@ -1,10 +1,10 @@
-Pattern: Return arg in generator
+Pattern: `return` is outside in a generator 
 
 Issue: -
 
 ## Description
 
-Used when a `return` statement with an argument is found outside in a generator function or method (e.g. with some `yieldv statements). This message can't be emitted when using Python >= 3.3.
+Used when a `return` statement with an argument is found outside in a generator function or method (e.g. with some `yield` statements). This message can't be emitted when using Python >= 3.3.
 
 ## Further Reading
 

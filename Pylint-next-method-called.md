@@ -1,4 +1,4 @@
-Pattern: Next method called
+Pattern: `next()` method called
 
 Issue: -
 

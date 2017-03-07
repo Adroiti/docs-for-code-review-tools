@@ -1,4 +1,4 @@
-Pattern: No classmethod decorator
+Pattern: No `classmethod` decorator
 
 Issue: -
 

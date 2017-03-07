@@ -1,4 +1,4 @@
-Pattern: Init is generator
+Pattern: `__init__` is generator
 
 Issue: -
 

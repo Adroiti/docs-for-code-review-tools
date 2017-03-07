@@ -1,4 +1,4 @@
-Pattern: Unicode built-in
+Pattern: `unicode()` built-in
 
 Issue: -
 

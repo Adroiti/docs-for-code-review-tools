@@ -1,4 +1,4 @@
-Pattern: Filter built-in not iterating
+Pattern: `filter()` built-in not iterating
 
 Issue: -
 

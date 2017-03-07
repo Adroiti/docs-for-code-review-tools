@@ -1,4 +1,4 @@
-Pattern: Zip built-in not iterating
+Pattern: `zip()` built-in not iterating
 
 Issue: -
 

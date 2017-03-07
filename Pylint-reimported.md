@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when a module is reimported multiple times. This may lead to confusion by readers and increased code size.
+Used when a module is re-imported multiple times. This may lead to confusion by readers and increased code size.
 
 
 Example of **incorrect** code:

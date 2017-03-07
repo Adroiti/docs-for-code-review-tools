@@ -1,4 +1,4 @@
-Pattern: Attribute defined outside init
+Pattern: Attribute defined outside `__init__` method
 
 Issue: -
 

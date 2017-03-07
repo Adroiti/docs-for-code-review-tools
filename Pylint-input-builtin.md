@@ -1,4 +1,4 @@
-Pattern: Input built-in
+Pattern: `input()` built-in
 
 Issue: -
 

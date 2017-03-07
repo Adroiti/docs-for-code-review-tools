@@ -1,4 +1,4 @@
-Pattern: Parameter unpacking
+Pattern: Parameter unpacking specified for a function
 
 Issue: -
 

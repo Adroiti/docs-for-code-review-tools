@@ -1,4 +1,4 @@
-Pattern: Redundant keyword arg
+Pattern: Redundant keyword argument
 
 Issue: -
 

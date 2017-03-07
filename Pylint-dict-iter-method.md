@@ -1,4 +1,4 @@
-Pattern: Dict iter method
+Pattern: `dict` iter method
 
 Issue: -
 

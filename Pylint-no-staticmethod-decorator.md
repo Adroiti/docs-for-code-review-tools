@@ -1,4 +1,4 @@
-Pattern: No staticmethod decorator
+Pattern: No `staticmethod` decorator
 
 Issue: -
 

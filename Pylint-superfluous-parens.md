@@ -1,10 +1,10 @@
-Pattern: Superfluous parens
+Pattern: Superfluous parentheses
 
 Issue: -
 
 ## Description
 
-Used when a single item in parentheses follows an if, for, or other keyword.
+Used when a single item in parentheses follows an `if`, `for`, or other keyword.
 
 ## Further Reading
 

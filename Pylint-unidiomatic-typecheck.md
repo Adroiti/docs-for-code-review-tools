@@ -1,4 +1,4 @@
-Pattern: Avoid unidiomatic typecheck
+Pattern: Avoid unidiomatic type checks
 
 Issue: -
 

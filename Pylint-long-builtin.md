@@ -1,4 +1,4 @@
-Pattern: Long built-in
+Pattern: `long()` built-in
 
 Issue: -
 

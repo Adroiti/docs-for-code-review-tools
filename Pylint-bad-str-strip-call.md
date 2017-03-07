@@ -1,4 +1,4 @@
-Pattern: Bad str strip call
+Pattern: Bad `str.{l,r,}strip` call
 
 Issue: -
 

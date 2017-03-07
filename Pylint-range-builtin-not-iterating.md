@@ -1,4 +1,4 @@
-Pattern: Range built-in not iterating
+Pattern: `range()` built-in not iterating
 
 Issue: -
 

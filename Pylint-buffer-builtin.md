@@ -1,4 +1,4 @@
-Pattern: Buffer built-in
+Pattern: `buffer()` built-in
 
 Issue: -
 

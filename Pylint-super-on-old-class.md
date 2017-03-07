@@ -1,4 +1,4 @@
-Pattern: Super on old class
+Pattern: `super()` on old class
 
 Issue: -
 

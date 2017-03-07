@@ -1,4 +1,4 @@
-Pattern: Useless else on loop
+Pattern: Useless `else` on loop
 
 Issue: -
 

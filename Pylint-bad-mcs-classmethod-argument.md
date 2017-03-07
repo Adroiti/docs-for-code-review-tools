@@ -1,4 +1,4 @@
-Pattern: Bad mcs classmethod argument
+Pattern: Bad `mcs` classmethod argument
 
 Issue: -
 

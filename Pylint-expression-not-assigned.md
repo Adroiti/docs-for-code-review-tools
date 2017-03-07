@@ -14,5 +14,5 @@ result == do_stuff() # [expression-not-assigned]
 
 Example of **correct** code:
 ```python
-result = do_stuff() # ok
+result = do_stuff()
 ```

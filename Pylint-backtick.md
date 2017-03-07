@@ -1,4 +1,4 @@
-Pattern: Backtick used
+Pattern: Deprecated backtick
 
 Issue: -
 

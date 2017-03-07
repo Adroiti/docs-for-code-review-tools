@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This issue is usually a result of name collision between class/method or module/function. Bacause of this a `TypeError` is raised at runtime. Fully qualify the called function or use more specific `import` statements to resolve this issue.
+This issue is usually a result of name collision between class/method or module/function. Because of this a `TypeError` is raised at runtime. Fully qualify the called function or use more specific `import` statements to resolve this issue.
 
 
 Example of **incorrect** code:

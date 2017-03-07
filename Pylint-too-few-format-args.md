@@ -1,10 +1,10 @@
-Pattern: Too few format args
+Pattern: Too few format arguments
 
 Issue: -
 
 ## Description
 
-Calls to `format()` that do not match formats against args may lead to confusion as code will not work as expected. Extra arguments will not be shown and missings arguments will raise `IndexError`. Update code so that formats and args are in sync.
+Calls to `format()` that do not match formats against args may lead to confusion as code will not work as expected. Extra arguments will not be shown and missing arguments will raise `IndexError`. Update code so that formats and args are in sync.
 
 
 Example of **incorrect** code:

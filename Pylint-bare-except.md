@@ -7,7 +7,7 @@ Issue: -
 Used when an except clause doesn't specify exceptions type to catch. 
 
 
-Catching exceptions should be as precise as possible. Using a catch-all `Exception` instance defeats the purpose of knowing the type of error that occured, and prohibits the use of tailored responses. By not specifiycing an exception type, you might also loose information about the error itself.
+Catching exceptions should be as precise as possible. Using a catch-all `Exception` instance defeats the purpose of knowing the type of error that occurred, and prohibits the use of tailored responses. By not specifying an exception type, you might also loose information about the error itself.
 
 
 Example of **incorrect** code:
@@ -35,7 +35,7 @@ def division(dividend, divisor):
     except TypeError:
         print "Type error: division by '{0}'.".format(divisor)
     except Exception as e:
-        print "Error '{0}' occured. Arguments {1}.".format(e.message, e.args)
+        print "Error '{0}' occurred. Arguments {1}.".format(e.message, e.args)
     finally:
         if result is None:
             result = 0

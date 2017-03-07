@@ -1,4 +1,4 @@
-Pattern: Reload built-in
+Pattern: `reload()` built-in
 
 Issue: -
 

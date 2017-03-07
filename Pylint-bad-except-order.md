@@ -1,10 +1,10 @@
-Pattern: Use correct order for except clauses
+Pattern: Use correct order for `except` clauses
 
 Issue: -
 
 ## Description
 
-Used when except clauses are not in the correct order (from the more specific to the more generic). If you don't fix the order, some exceptions may not be catched by the most specific handler.
+Used when except clauses are not in the correct order (from the more specific to the more generic). If you don't fix the order, some exceptions may not be caught by the most specific handler.
 
 
 Example of **incorrect** code:

@@ -1,4 +1,4 @@
-Pattern: Delslice method
+Pattern: `__delslice__` method
 
 Issue: -
 

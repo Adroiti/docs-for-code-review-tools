@@ -1,4 +1,4 @@
-Pattern: Unpacking in except
+Pattern: Unpacking in `except`
 
 Issue: -
 

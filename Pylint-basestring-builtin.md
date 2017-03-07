@@ -1,4 +1,4 @@
-Pattern: Basestring built-in
+Pattern: `basestring()` built-in
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Slots on old class
+Pattern: `__slots__` on old class
 
 Issue: -
 

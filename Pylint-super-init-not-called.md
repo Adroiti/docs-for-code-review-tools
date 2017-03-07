@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Derived class should always call it's parent's `__init__` method if available. Otherwise this could lead to partially initialized instance state causing unexpected behvarior.
+Derived class should always call it's parent's `__init__` method if available. Otherwise this could lead to partially initialized instance state causing unexpected behavior.
 
 
 Example of **incorrect** code:

@@ -1,4 +1,4 @@
-Pattern: Anomalous unicode escape in string
+Pattern: Anomalous Unicode escape in string
 
 Issue: -
 

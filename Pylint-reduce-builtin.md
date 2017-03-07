@@ -1,4 +1,4 @@
-Pattern: Reduce built-in
+Pattern: `reduce()` built-in
 
 Issue: -
 

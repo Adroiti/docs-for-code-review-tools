@@ -1,4 +1,4 @@
-Pattern: Map built-in not iterating
+Pattern: `map()` built-in not iterating
 
 Issue: -
 

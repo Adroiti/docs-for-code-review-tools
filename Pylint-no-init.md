@@ -1,4 +1,4 @@
-Pattern: No init
+Pattern: No `__init__` method
 
 Issue: -
 

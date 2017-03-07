@@ -1,4 +1,4 @@
-Pattern: Xrange built-in
+Pattern: `xrange()` built-in
 
 Issue: -
 

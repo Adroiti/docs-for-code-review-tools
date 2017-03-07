@@ -1,10 +1,10 @@
-Pattern: Too many function args
+Pattern: Too many function arguments
 
 Issue: -
 
 ## Description
 
-Calls to function with mismatched number of arguments will raise a runtime error and are ussually a result of incomplete refactoring. Update code so that arguments are matched.
+Calls to function with mismatched number of arguments will raise a runtime error and are usually a result of incomplete refactoring. Update code so that arguments are matched.
 
 
 Example of **incorrect** code:

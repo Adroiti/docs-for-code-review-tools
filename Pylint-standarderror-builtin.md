@@ -1,4 +1,4 @@
-Pattern: Standarderror built-in
+Pattern: `StandardError` built-in
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Intern built-in
+Pattern: `intern()` built-in
 
 Issue: -
 

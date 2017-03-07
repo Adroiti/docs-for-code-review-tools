@@ -1,4 +1,4 @@
-Pattern: Import star module level
+Pattern: Import star used on non-module level
 
 Issue: -
 

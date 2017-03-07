@@ -1,4 +1,4 @@
-Pattern: Apply built-in
+Pattern: `apply()` built-in
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Old ne operator
+Pattern: Old `<>` operator
 
 Issue: -
 

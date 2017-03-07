@@ -1,4 +1,4 @@
-Pattern: Setslice method
+Pattern: `__setslice__` method
 
 Issue: -
 

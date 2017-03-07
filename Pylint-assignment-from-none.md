@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an assignment is done on a function call but the inferred function returns nothing but `None`. This may lead to confusion by readers and should be avoided. Remove assignment or update function to return not only 'None' to resolve this issue.
+Used when an assignment is done on a function call but the inferred function returns nothing but `None`. This may lead to confusion by readers and should be avoided. Remove assignment or update function to return not only `None` to resolve this issue.
 
 
 Example of **incorrect** code:

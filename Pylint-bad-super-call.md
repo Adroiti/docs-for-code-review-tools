@@ -1,4 +1,4 @@
-Pattern: Call to super should use child class name as first argument
+Pattern: Call to `super()` should use child class name as first argument
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: File built-in
+Pattern: `file()` built-in
 
 Issue: -
 

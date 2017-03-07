@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an `__init__` method is called on a class which is not in the direct ancestors for the analysed class. This may lead to confusion by readers. Review the class in question to make sure this functionality is intended.
+Used when an `__init__` method is called on a class which is not in the direct ancestors for the analyzed class. This may lead to confusion by readers. Review the class in question to make sure this functionality is intended.
 
 
 Example of **incorrect** code:
