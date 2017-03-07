@@ -13,7 +13,7 @@ Example of **incorrect** code:
 func _() int {
 	print(1)
 	return 2
-	println() // "unreachable code"
+	println() // unreachable code
 }
 ```
 
@@ -29,4 +29,3 @@ func _() int {
 ## Further Reading
 
 * [SourceMaking - Dead Code](https://sourcemaking.com/refactoring/smells/dead-code)
-* [Go Vet - unreachable](https://golang.org/cmd/vet/#hdr-Unreachable_code)
