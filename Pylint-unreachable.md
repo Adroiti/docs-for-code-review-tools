@@ -4,8 +4,24 @@ Issue: -
 
 ## Description
 
-Used when there is some code behind a `return` or `raise` statement, which will never be accessed.
+Unreachable code can never be executed because there exists no control flow path to the code from the rest of the program. It is generally considered undesirable for a number of reasons, including increased code size and increased time and effort for maintenance. Consider deleting unused code to resolve this issue.
+
+
+Example of **incorrect** code:
+
+```go
+def func():
+    return 1
+    print('unreachable')
+```
+
+Example of **correct** code:
+
+```go
+def func():
+    return 1
+```
 
 ## Further Reading
 
-* [Pylint - W0101](http://pylint-messages.wikidot.com/messages:w0101)
+* [SourceMaking - Dead Code](https://sourcemaking.com/refactoring/smells/dead-code)
