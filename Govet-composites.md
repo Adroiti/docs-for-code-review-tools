@@ -6,7 +6,7 @@ Issue: -
 
 This rule enforces field-keyed syntax over unkeyed syntax for composite struct literals. It may sometimes result in slightly more code, but offers a good trade-off in terms of maintenance:
 - does not need to have an element for each struct field. Omitted fields get the zero value for that field;
-- does not neeed to follow the order in which the fields are declared;
+- does not need to follow the order in which the fields are declared;
 - may improve code clarity due to explicit use of key names.
 
 

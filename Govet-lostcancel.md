@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The cancelation function returned by `context.WithCancel`, `WithTimeout`, and `WithDeadline` must be called or the new context will remain live until its parent context is cancelled.
+The cancelation function returned by `context.WithCancel`, `WithTimeout`, and `WithDeadline` must be called or the new context will remain live until its parent context is canceled.
 
 
 Example of **incorrect** code:

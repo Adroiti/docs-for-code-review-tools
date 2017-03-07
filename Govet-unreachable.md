@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unreachable code can never be executed because there exists no control flow path to the code from the rest of the program. It is generally considered undesirable for a number of reasons, including increased code size and increased time and effort for maintainenance. Consider deleting unused code to resolve this issue.
+Unreachable code can never be executed because there exists no control flow path to the code from the rest of the program. It is generally considered undesirable for a number of reasons, including increased code size and increased time and effort for maintenance. Consider deleting unused code to resolve this issue.
 
 
 Example of **incorrect** code:
