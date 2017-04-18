@@ -1,4 +1,4 @@
-Pattern: NET Assembly is not optimized
+Pattern: .NET Assembly is not optimized
 
 Issue: -
 
