@@ -77,4 +77,4 @@ xml_bad_etree
 
 ## Further Reading
 
-* [OpenStack - B313: xml_bad_cElementTree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-xml_bad_cElementTree)
+* [OpenStack - B313: xml_bad_cElementTree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)

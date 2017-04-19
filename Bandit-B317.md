@@ -77,4 +77,4 @@ xml_bad_etree
 
 ## Further Reading
 
-* [OpenStack - B317: xml_bad_sax](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b317-xml_bad_sax)
+* [OpenStack - B317: xml_bad_sax](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)

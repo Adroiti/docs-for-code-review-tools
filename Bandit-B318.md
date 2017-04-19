@@ -77,4 +77,4 @@ xml_bad_etree
 
 ## Further Reading
 
-* [OpenStack - B318: xml_bad_minidom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b318-xml_bad_minidom)
+* [OpenStack - B318: xml_bad_minidom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)

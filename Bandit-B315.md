@@ -77,4 +77,4 @@ xml_bad_etree
 
 ## Further Reading
 
-* [OpenStack - B315: xml_bad_expatreader](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b315-xml_bad_expatreader)
+* [OpenStack - B315: xml_bad_expatreader](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)

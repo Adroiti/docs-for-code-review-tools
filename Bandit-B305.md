@@ -33,4 +33,4 @@ ciphers
 
 ## Further Reading
 
-* [OpenStack - B305: cipher_modes](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b305-cipher_modes)
+* [OpenStack - B305: cipher_modes](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b304-b305-ciphers-and-modes)

@@ -77,4 +77,4 @@ xml_bad_etree
 
 ## Further Reading
 
-* [OpenStack - B319: xml_bad_pulldom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b319-xml_bad_pulldom)
+* [OpenStack - B319: xml_bad_pulldom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)
