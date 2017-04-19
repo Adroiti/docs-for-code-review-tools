@@ -26,4 +26,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B310: urllib_urlopen](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b310-urllib_urlopen)
+* [OpenStack - B310: urllib_urlopen](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b310-urllib-urlopen)

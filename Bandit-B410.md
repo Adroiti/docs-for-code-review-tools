@@ -14,4 +14,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B410: import_lxml](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b410-import_lxml)
+* [OpenStack - B410: import_lxml](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b410-import-lxml)

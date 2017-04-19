@@ -14,4 +14,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B406: import_xml_sax](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b406-import_xml_sax)
+* [OpenStack - B406: import_xml_sax](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b406-import-xml-sax)

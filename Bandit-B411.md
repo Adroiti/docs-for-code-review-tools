@@ -14,4 +14,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B411: import_xmlrpclib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b411-import_xmlrpclib)
+* [OpenStack - B411: import_xmlrpclib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b411-import-xmlrpclib)

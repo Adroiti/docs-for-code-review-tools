@@ -12,4 +12,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B404: import_subprocess](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b404-import_subprocess)
+* [OpenStack - B404: import_subprocess](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b404-import-subprocess)

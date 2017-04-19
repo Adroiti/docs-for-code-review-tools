@@ -13,4 +13,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B403: import_pickle](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b403-import_pickle)
+* [OpenStack - B403: import_pickle](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b403-import-pickle)

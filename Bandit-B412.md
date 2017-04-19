@@ -31,4 +31,4 @@ a dictionary mapping node types to a list of blacklist data
 
 ## Further Reading
 
-* [OpenStack - B412: import_httpoxy](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b412-import_httpoxy)
+* [OpenStack - B412: import_httpoxy](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b412-import-httpoxy)

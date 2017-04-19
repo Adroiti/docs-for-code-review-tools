@@ -15,4 +15,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B405: import_xml_etree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b405-import_xml_etree)
+* [OpenStack - B405: import_xml_etree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b405-import-xml-etree)

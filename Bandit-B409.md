@@ -14,4 +14,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B409: import_xml_pulldom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b409-import_xml_pulldom)
+* [OpenStack - B409: import_xml_pulldom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b409-import-xml-pulldom)

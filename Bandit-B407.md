@@ -14,4 +14,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B407: import_xml_expat](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b407-import_xml_expat)
+* [OpenStack - B407: import_xml_expat](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b407-import-xml-expat)

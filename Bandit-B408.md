@@ -14,4 +14,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B408: import_xml_minidom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b408-import_xml_minidom)
+* [OpenStack - B408: import_xml_minidom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b408-import-xml-minidom)

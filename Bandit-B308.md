@@ -13,4 +13,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B308: mark_safe](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b308-mark_safe)
+* [OpenStack - B308: mark_safe](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b308-mark-safe)

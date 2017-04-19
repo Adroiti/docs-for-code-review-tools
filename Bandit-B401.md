@@ -13,4 +13,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B401: import_telnetlib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b401-import_telnetlib)
+* [OpenStack - B401: import_telnetlib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b401-import-telnetlib)

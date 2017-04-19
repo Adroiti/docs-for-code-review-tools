@@ -15,4 +15,4 @@ inport_ftplib
 
 ## Further Reading
 
-* [OpenStack - B402: import_ftplib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b402-import_ftplib)
+* [OpenStack - B402: import_ftplib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b402-import-ftplib)

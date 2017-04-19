@@ -12,4 +12,4 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [OpenStack - B306: mktemp_q](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b306-mktemp_q)
+* [OpenStack - B306: mktemp_q](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b306-mktemp-q)
