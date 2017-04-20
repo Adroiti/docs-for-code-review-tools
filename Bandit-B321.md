@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-FTP-related functions are being called. FTP was not designed to be a secure protocol, and has many security weaknesses. Use SSH, SFTP, SCP or some other encrypted protocol.
+FTP-related functions are being called. FTP was not designed to be a secure protocol, and has many security weaknesses. Use SSH, SFTP, SCP or some other encrypted protocol instead.
 
 This rule checks for the following calls:
 
