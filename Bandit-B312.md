@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Telnet-related functions are being called. Telnet is considered insecure protocol because of serious security concerns when using over an open network such as the Internet. Use SSH or some other encrypted protocol.
+Telnet-related functions are being called. Telnet is considered insecure protocol because of serious security concerns when using over an open network such as the Internet. Use SSH or some other encrypted protocol instead.
 
 This rule checks for the following calls:
 
