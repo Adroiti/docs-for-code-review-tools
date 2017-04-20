@@ -15,34 +15,25 @@ following conditions:
 Variables are considered to look like a password if they have match any one
 of:
 
-  - "password"
-  - "pass"
-  - "passwd"
-  - "pwd"
-  - "secret"
-  - "token"
-  - "secrete"
+  - `password`
+  - `pass`
+  - `passwd`
+  - `pwd`
+  - `secret`
+  - `token`
+  - `secrete`
 
 Note: this can be noisy and may generate false positives.
 
-**Config Options:**
-
-None
 
 Example of **incorrect** code:
 
 ```python
-
->> Issue: Possible hardcoded password '(root)'
-   Severity: Low   Confidence: Low
-   Location: ./examples/hardcoded-passwords.py:5
-4 def someFunction2(password):
-5 if password == "root":
-6 print("OK, logged in")
-
+def someFunction(user, password="Admin"):
+    print("Hi " + user)
 ```
 
 ## Further Reading
 
-  - <https://www.owasp.org/index.php/Use_of_hard-coded_password>
+* [OWASP - Use of hard-coded password](https://www.owasp.org/index.php/Use_of_hard-coded_password)
 * [OpenStack - B105: hardcoded_password_string](https://docs.openstack.org/developer/bandit/plugins/hardcoded_password_string.html)
