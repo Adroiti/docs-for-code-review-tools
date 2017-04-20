@@ -29,8 +29,8 @@ Note: this can be noisy and may generate false positives.
 Example of **incorrect** code:
 
 ```python
-def someFunction(user, password="Admin"):
-    print("Hi " + user)
+if password == "root":
+	print("OK, logged in")
 ```
 
 ## Further Reading
