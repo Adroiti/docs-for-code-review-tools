@@ -4,23 +4,26 @@ Issue: -
 
 ## Description
 
-This rule checks for the use of Python's exec method or keyword. The
-Python docs succinctly describe why the use of exec is risky.
+The `exec()` statement is dangerous, hard to test, and hard to read. Avoid it, as much as possible. This is largely due to the fact that `exec()` enables you to dynamically execute arbitrary Python code which is stored in literal strings. Consider going back to the code to check if there is a clearer, more direct way to accomplish the task.
+
 
 Example of **incorrect** code:
 
 ```python
+text = "print \"hello, and goodbye\""
+exec text
+```
 
->> Issue: Use of exec detected.
-   Severity: Medium   Confidence: High
-   Location: ./examples/exec-py2.py:2
-1 exec("do evil")
-2 exec "do evil"
+Example of **correct** code:
 
+```python
+def foo():
+    print "hello, and goodbye"
+    
+foo()
 ```
 
 ## Further Reading
 
-  - <https://docs.python.org/2.0/ref/exec.html>
-  - TODO: add info on exec and similar to sec best practice and link here
+* [The Python Standard Library - exec()](https://docs.python.org/3/library/functions.html#exec)
 * [OpenStack - B102: exec_used](https://docs.openstack.org/developer/bandit/plugins/exec_used.html)
