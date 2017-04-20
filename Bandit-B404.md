@@ -1,15 +1,16 @@
-Pattern: Use of import subprocess
+Pattern: Import of `subprocess` module
 
 Issue: -
 
 ## Description
 
-Consider possible security implications associated with these modules.
+Consider possible security implications associated with this module. For example, executing shell commands that incorporate unsanitized input from an untrusted source makes a program vulnerable to shell injection, a serious security flaw which can result in arbitrary command execution. For this reason, the use of `shell=True` is strongly discouraged in cases where the command string is constructed from external input.
 
-This rule checks for the following calls:
+POSIX users (Linux, BSD, etc.) are strongly encouraged to install and use the much more recent subprocess32 module instead of the version included with Python 2.7. It is a drop in replacement with better behavior in many situations.
 
-  - subprocess
 
 ## Further Reading
 
+* [The Python Standard Library - subprocess](https://docs.python.org/2/library/subprocess.html)
+* [Python Package Index - subprocess32](https://pypi.python.org/pypi/subprocess32/)
 * [OpenStack - B404: import_subprocess](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b404-import-subprocess)
