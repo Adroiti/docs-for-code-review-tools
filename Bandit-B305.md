@@ -1,36 +1,18 @@
-Pattern: Use of cipher modes
+Pattern: Use of insecure cipher mode
 
 Issue: -
 
 ## Description
 
-ciphers and modes
+Insecure cipher mode could be possibly dangerous and should be replaced with a better alternative.
 
-Use of insecure cipher or cipher mode. Replace with a known secure cipher such
-as AES.
+The main reason not to use ECB mode encryption is that it's not semantically secure — that is, merely observing ECB-encrypted ciphertext can leak information about the plaintext (even beyond its length, which all encryption schemes accepting arbitrarily long plaintexts will leak to some extent). You should instead use any authenticated encryption mode, such as GCM, EAX or OCB.
 
 This rule checks for the following calls:
 
-B304
-
-ciphers
-
-  - Crypto.Cipher.ARC2.new
-  - Crypto.Cipher.ARC4.new
-  - Crypto.Cipher.Blowfish.new
-  - Crypto.Cipher.DES.new
-  - Crypto.Cipher.XOR.new
-  - Cryptodome.Cipher.ARC2.new
-  - Cryptodome.Cipher.ARC4.new
-  - Cryptodome.Cipher.Blowfish.new
-  - Cryptodome.Cipher.DES.new
-  - Cryptodome.Cipher.XOR.new
-  - cryptography.hazmat.primitives .ciphers.algorithms.ARC4
-  - cryptography.hazmat.primitives .ciphers.algorithms.Blowfish
-  - cryptography.hazmat.primitives .ciphers.algorithms.IDEA
-
-  - cryptography.hazmat.primitives .ciphers.modes.ECB
+  - `cryptography.hazmat.primitives.ciphers.modes.ECB`
 
 ## Further Reading
 
+* [NIST - Proposed Modes](http://csrc.nist.gov/groups/ST/toolkit/BCM/modes_development.html)
 * [OpenStack - B305: cipher_modes](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b304-b305-ciphers-and-modes)
