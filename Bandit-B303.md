@@ -1,21 +1,26 @@
-Pattern: Use of md5
+Pattern: Use of insecure MD2, MD4, or MD5 hash function.
 
 Issue: -
 
 ## Description
 
-Use of insecure MD2, MD4, or MD5 hash function.
+Avoid using hashes based on MD2, MD4, or MD5 to hash passwords or to encrypt data. These functions are no longer considered secure. Note that this might not be a problem for some use cases like checking file integrity. However, if you want to be be sure, switch to another hashing algorithm.
 
 This rule checks for the following calls:
 
-  - hashlib.  - Crypto.Hash.MD2.new
-  - Crypto.Hash.MD4.new
-  - Crypto.Hash.MD5.new
-  - Cryptodome.Hash.MD2.new
-  - Cryptodome.Hash.MD4.new
-  - Cryptodome.Hash.MD5.new
-  - cryptography.hazmat.primitives .hashes.MD5
+  - `hashlib.md5`
+  - `Crypto.Hash.MD2.new`
+  - `Crypto.Hash.MD4.new`
+  - `Crypto.Hash.MD5.new`
+  - `Cryptodome.Hash.MD2.new`
+  - `Cryptodome.Hash.MD4.new`
+  - `Cryptodome.Hash.MD5.new`
+  - `cryptography.hazmat.primitives.hashes.MD5`
 
 ## Further Reading
 
+* [Crypto - Package Hash](http://legrandin.github.io/pycryptodome/Doc/3.4/Crypto.Hash-module.html)
+* [Wikipedia - MD2](https://en.wikipedia.org/wiki/MD2_(cryptography)#Security)
+* [Wikipedia - MD4](https://en.wikipedia.org/wiki/MD4#Security)
+* [Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5#Security)
 * [OpenStack - B303: md5](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b303-md5)
