@@ -1,80 +1,52 @@
-Pattern: Use of xml bad ElementTree
+Pattern: Use of insecure `xml.etree.ElementTree` module
 
 Issue: -
 
 ## Description
 
-XML
+This module is not secure against maliciously constructed data. Use `defusedxml` package instead.
 
-Most of this is based off of Christian Heimes’ work on defusedxml:
-<https://pypi.python.org/pypi/defusedxml/#defusedxml-sax>
-
-Using various XLM methods to parse untrusted XML data is known to be
-vulnerable to XML attacks. Methods should be replaced with their defusedxml
-equivalents.
+The results of an attack on a vulnerable XML library can be fairly dramatic. With just a few hundred Bytes of XML data an attacker can occupy several Gigabytes of memory within seconds. An attacker can also keep CPUs busy for a long time with a small to medium size request. Under some circumstances it is even possible to access local files on your server, to circumvent a firewall, or to abuse services to rebound attacks to third parties.
 
 This rule checks for the following calls:
 
-B313
+  - `xml.etree.ElementTree.parse`
+  - `xml.etree.ElementTree.iterparse`
+  - `xml.etree.ElementTree.fromstring`
+  - `xml.etree.ElementTree.XMLParser`
+  
 
-xml_bad_cElementTree
+Example of **incorrect** code:
 
-  - xml.etree.cElementTree.parse
-  - xml.etree.cElementTree.iterparse
-  - xml.etree.cElementTree.fromstring
-  - xml.etree.cElementTree.XMLParser
+```python
+import xml.etree.ElementTree as badET
 
-  - xml.etree.ElementTree.parse
-  - xml.etree.ElementTree.iterparse
-  - xml.etree.ElementTree.fromstring
-  - xml.etree.ElementTree.XMLParser
+xmlString = "<note>malicious data</note>"
 
-B315
+# unsafe
+tree = badET.fromstring(xmlString)
+print(tree)
+badET.parse('filethatdoesntexist.xml')
+badET.iterparse('filethatdoesntexist.xml')
+result = badET.XMLParser()
+```
 
-xml_bad_expatreader
+Example of **correct** code:
 
-  - xml.sax.expatreader.create_parser
+```python
+import defusedxml.ElementTree as goodET
 
-B316
+xmlString = "<note>malicious data</note>"
 
-xml_bad_expatbuilder
-
-  - xml.dom.expatbuilder.parse
-  - xml.dom.expatbuilder.parseString
-
-B317
-
-xml_bad_sax
-
-  - xml.sax.parse
-  - xml.sax.parseString
-  - xml.sax.make_parser
-
-B318
-
-xml_bad_minidom
-
-  - xml.dom.minidom.parse
-  - xml.dom.minidom.parseString
-
-B319
-
-xml_bad_pulldom
-
-  - xml.dom.pulldom.parse
-  - xml.dom.pulldom.parseString
-
-B320
-
-xml_bad_etree
-
-  - lxml.etree.parse
-  - lxml.etree.fromstring
-  - lxml.etree.RestrictedElement
-  - lxml.etree.GlobalParserTLS
-  - lxml.etree.getDefaultParser
-  - lxml.etree.check_docinfo
+tree = goodET.fromstring(xmlString)
+print(tree)
+goodET.parse('filethatdoesntexist.xml')
+goodET.iterparse('filethatdoesntexist.xml')
+result = goodET.XMLParser()
+```
 
 ## Further Reading
 
+* [ The Python Standard Library - xml.etree.ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree)
+* [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B314: xml_bad_ElementTree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)
