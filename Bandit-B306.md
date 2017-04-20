@@ -1,4 +1,4 @@
-Pattern: Use of insecure `mktemp()`
+Pattern: Use of insecure `mktemp()` function
 
 Issue: -
 
