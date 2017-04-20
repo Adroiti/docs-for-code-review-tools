@@ -1,80 +1,36 @@
-Pattern: Use of xml bad expatreader
+Pattern: Use of insecure `xml.sax` module
 
 Issue: -
 
 ## Description
 
-XML
+This module is not secure against maliciously constructed data. Use `defusedxml` package instead.
 
-Most of this is based off of Christian Heimes’ work on defusedxml:
-<https://pypi.python.org/pypi/defusedxml/#defusedxml-sax>
-
-Using various XLM methods to parse untrusted XML data is known to be
-vulnerable to XML attacks. Methods should be replaced with their defusedxml
-equivalents.
+The results of an attack on a vulnerable XML library can be fairly dramatic. With just a few hundred Bytes of XML data an attacker can occupy several Gigabytes of memory within seconds. An attacker can also keep CPUs busy for a long time with a small to medium size request. Under some circumstances it is even possible to access local files on your server, to circumvent a firewall, or to abuse services to rebound attacks to third parties.
 
 This rule checks for the following calls:
 
-B313
+  - `xml.sax.expatreader.create_parser`
 
-xml_bad_cElementTree
 
-  - xml.etree.cElementTree.parse
-  - xml.etree.cElementTree.iterparse
-  - xml.etree.cElementTree.fromstring
-  - xml.etree.cElementTree.XMLParser
+Example of **incorrect** code:
 
-B314
+```python
+import xml.sax.expatreader as bad
 
-xml_bad_ElementTree
+result = bad.create_parser()
+```
 
-  - xml.etree.ElementTree.parse
-  - xml.etree.ElementTree.iterparse
-  - xml.etree.ElementTree.fromstring
-  - xml.etree.ElementTree.XMLParser
+Example of **correct** code:
 
-  - xml.sax.expatreader.create_parser
+```python
+import defusedxml.expatreader as good
 
-B316
-
-xml_bad_expatbuilder
-
-  - xml.dom.expatbuilder.parse
-  - xml.dom.expatbuilder.parseString
-
-B317
-
-xml_bad_sax
-
-  - xml.sax.parse
-  - xml.sax.parseString
-  - xml.sax.make_parser
-
-B318
-
-xml_bad_minidom
-
-  - xml.dom.minidom.parse
-  - xml.dom.minidom.parseString
-
-B319
-
-xml_bad_pulldom
-
-  - xml.dom.pulldom.parse
-  - xml.dom.pulldom.parseString
-
-B320
-
-xml_bad_etree
-
-  - lxml.etree.parse
-  - lxml.etree.fromstring
-  - lxml.etree.RestrictedElement
-  - lxml.etree.GlobalParserTLS
-  - lxml.etree.getDefaultParser
-  - lxml.etree.check_docinfo
+result = good.create_parser()
+```
 
 ## Further Reading
 
+* [The Python Standard Library - xml.sax](https://docs.python.org/2/library/xml.sax.html)
+* [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B315: xml_bad_expatreader](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)
