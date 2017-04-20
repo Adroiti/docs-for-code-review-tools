@@ -1,16 +1,17 @@
-Pattern: Use of marshal
+Pattern: Use of possibly insecure `marshal` module
 
 Issue: -
 
 ## Description
 
-Deserialization with the marshal module is possibly dangerous.
+`marshal` module appears to be in use, causing a possible security issue. It is not intended to be secure against erroneous or maliciously constructed data. Never unmarshal data received from an untrusted or unauthenticated source.
 
 This rule checks for the following calls:
 
-  - marshal.load
-  - marshal.loads
+  - `marshal.load`
+  - `marshal.loads`
 
 ## Further Reading
 
+* [The Python Language Reference - marshal](https://docs.python.org/2/library/marshal.html)
 * [OpenStack - B302: marshal](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b302-marshal)
