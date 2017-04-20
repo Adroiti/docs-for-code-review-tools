@@ -1,15 +1,24 @@
-Pattern: Use of mktemp q
+Pattern: Use of insecure `mktemp()`
 
 Issue: -
 
 ## Description
 
-Use of insecure and deprecated function (mktemp).
+Use of this function may introduce a security hole in your program. By the time you get around to doing anything with the file name it returns, someone else may have beaten you to the punch. Use `mkstemp()` instead or replace with with `NamedTemporaryFile()`, passing it the `delete=False `parameter.
+ 
 
-This rule checks for the following calls:
+Example of **incorrect** code:
 
-  - tempfile.mktemp
+```python
+tempfile.mktemp('foo')
+```
 
+Example of **correct** code:
+
+```python
+tempfile.mkstemp('foo')
+```
 ## Further Reading
 
+* [The Python Standard Library - mktemp](https://docs.python.org/2/library/tempfile.html#tempfile.mktemp)
 * [OpenStack - B306: mktemp_q](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b306-mktemp-q)
