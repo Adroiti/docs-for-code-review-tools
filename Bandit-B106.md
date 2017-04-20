@@ -12,34 +12,24 @@ variable does not look like a password.
 Variables are considered to look like a password if they have match any one
 of:
 
-  - "password"
-  - "pass"
-  - "passwd"
-  - "pwd"
-  - "secret"
-  - "token"
-  - "secrete"
+  - `password`
+  - `pass`
+  - `passwd`
+  - `pwd`
+  - `secret`
+  - `token`
+  - `secrete`
 
 Note: this can be noisy and may generate false positives.
 
-**Config Options:**
-
-None
 
 Example of **incorrect** code:
 
 ```python
-
->> Issue: [B106:hardcoded_password_funcarg] Possible hardcoded
-password: 'blerg'
-   Severity: Low   Confidence: Medium
-   Location: ./examples/hardcoded-passwords.py:16
-15
-16doLogin(password="blerg")
-
+doLogin(password="1234")
 ```
 
 ## Further Reading
 
-  - <https://www.owasp.org/index.php/Use_of_hard-coded_password>
+* [OWASP - Use of hard-coded password](https://www.owasp.org/index.php/Use_of_hard-coded_password)
 * [OpenStack - B106: hardcoded_password_funcarg](https://docs.openstack.org/developer/bandit/plugins/hardcoded_password_funcarg.html)
