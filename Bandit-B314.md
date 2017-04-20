@@ -23,7 +23,6 @@ import xml.etree.ElementTree as badET
 
 xmlString = "<note>malicious data</note>"
 
-# unsafe
 tree = badET.fromstring(xmlString)
 print(tree)
 badET.parse('filethatdoesntexist.xml')
