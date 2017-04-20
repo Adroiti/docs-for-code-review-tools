@@ -1,4 +1,4 @@
-Pattern: Use of flask app with debug set to true
+Pattern: Use of Flask app with debug set to `True`
 
 Issue: -
 
@@ -6,38 +6,30 @@ Issue: -
 
 Running Flask applications in debug mode results in the Werkzeug debugger
 being enabled. This includes a feature that allows arbitrary code execution.
-Documentation for both Flask [1] and Werkzeug [2] strongly suggests that debug
+Documentation for both Flask and Werkzeug strongly suggests that debug
 mode should never be enabled on production systems.
 
-Operating a production server with debug mode enabled was the probable cause
-of the Patreon breach in 2015 [3].
 
 Example of **incorrect** code:
 
 ```python
+from flask import Flask
 
->> Issue: A Flask app appears to be run with debug=True, which exposes
-the Werkzeug debugger and allows the execution of arbitrary code.
-   Severity: High   Confidence: High
-  Location: examples/flask_debug.py:10
-  9 #bad
-  10app.run(debug=True)
-  11
+app = Flask(__name__)
+app.run(debug=True)
+```
 
+Example of **correct** code:
+
+```python
+from flask import Flask
+
+app = Flask(__name__)
+app.run()
 ```
 
 ## Further Reading
 
-[1]
-
-<http://flask.pocoo.org/docs/0.10/quickstart/#debug-mode>
-
-[2]
-
-<http://werkzeug.pocoo.org/docs/0.10/debug/>
-
-[3]
-
-<http://labs.detectify.com/post/130332638391/how-patreon-got-hacked-publicly-
-exposed-werkzeug>
+* [Flask - Debug Mode](http://flask.pocoo.org/docs/latest/quickstart/#debug-mode)
+* [Werkzeug - Debugging Applications](http://werkzeug.pocoo.org/docs/latest/debug)
 * [OpenStack - B201: flask_debug_true](https://docs.openstack.org/developer/bandit/plugins/flask_debug_true.html)
