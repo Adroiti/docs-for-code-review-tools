@@ -12,6 +12,6 @@ This rule checks for the following calls:
 
 ## Further Reading
 
-* [Wikipedia - Telnet(https://en.wikipedia.org/wiki/Telnet#Security)
+* [Wikipedia - Telnet](https://en.wikipedia.org/wiki/Telnet#Security)
 * [The Python Language Reference - telnetlib](https://docs.python.org/2/library/telnetlib.html)
 * [OpenStack - B312: telnetlib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b312-telnetlib)
