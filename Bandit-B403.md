@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This module not secure against erroneous or maliciously constructed data. Consider possible security implications before use.
+This module is not secure against erroneous or maliciously constructed data. Consider possible security implications before use.
 
 This rule checks for the following imports:
 
