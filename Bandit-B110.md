@@ -23,7 +23,7 @@ except Exception:
   pass
 ```
   
-Example of **incorrect** code:
+Example of **correct** code:
 
 ```python
 try:
