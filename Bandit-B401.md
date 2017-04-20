@@ -10,5 +10,4 @@ A telnet-related module is being imported. Telnet is considered insecure protoco
 
 * [Wikipedia - Telnet](https://en.wikipedia.org/wiki/Telnet#Security)
 * [The Python Language Reference - telnetlib](https://docs.python.org/2/library/telnetlib.html)
-* [OpenStack - B312: telnetlib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b312-telnetlib)
-
+* [OpenStack - B401: telnetlib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b401-import-telnetlib)
