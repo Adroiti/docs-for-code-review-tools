@@ -1,4 +1,4 @@
-Pattern: Use of insecure `xml.sax` module
+Pattern: Use of insecure `xml.sax.expatreader` module
 
 Issue: -
 
@@ -31,6 +31,5 @@ result = good.create_parser()
 
 ## Further Reading
 
-* [The Python Standard Library - xml.sax](https://docs.python.org/2/library/xml.sax.html)
 * [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B315: xml_bad_expatreader](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)
