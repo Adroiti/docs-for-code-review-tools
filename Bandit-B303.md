@@ -1,4 +1,4 @@
-Pattern: Use of insecure MD2, MD4, or MD5 hash function.
+Pattern: Use of insecure MD2, MD4, or MD5 hash function
 
 Issue: -
 
