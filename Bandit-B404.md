@@ -6,7 +6,7 @@ Issue: -
 
 Consider possible security implications associated with this module. For example, executing shell commands that incorporate unsanitized input from an untrusted source makes a program vulnerable to shell injection, a serious security flaw which can result in arbitrary command execution. For this reason, the use of `shell=True` is strongly discouraged in cases where the command string is constructed from external input.
 
-POSIX users (Linux, BSD, etc.) are strongly encouraged to install and use the much more recent subprocess32 module instead of the version included with Python 2.7. It is a drop in replacement with better behavior in many situations.
+POSIX users (Linux, BSD, etc.) are strongly encouraged to install and use the much more recent `subprocess32` module instead of the version included with Python 2.7. It is a drop in replacement with better behavior in many situations.
 
 
 ## Further Reading
