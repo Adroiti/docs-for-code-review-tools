@@ -1,4 +1,4 @@
-Pattern: The use of exec
+Pattern: Avoid using `exec()` when possible
 
 Issue: -
 
