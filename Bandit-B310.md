@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Audit url open for permitted schemes. Allowing use of `file:` or custom schemes is often unexpected. The Requests package is recommended for a higher-level HTTP client interface.
+Audit url open for permitted schemes. Allowing use of `file:` or custom schemes is often unexpected.
 
 This rule checks for the following calls:
 
@@ -22,6 +22,8 @@ This rule checks for the following calls:
   - `six.moves.urllib.request .urlretrieve`
   - `six.moves.urllib.request .URLopener`
   - `six.moves.urllib.request .FancyURLopener`
+
+The Requests package is recommended for a higher-level HTTP client interface.
 
 ## Further Reading
 
