@@ -1,4 +1,4 @@
-Pattern: Setting permissive file permissions
+Pattern: Avoid permissive file permissions
 
 Issue: -
 
