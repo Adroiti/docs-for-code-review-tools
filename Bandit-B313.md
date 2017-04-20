@@ -1,4 +1,4 @@
-Pattern: Use of insecure `xml.etree.ElementTree` module
+Pattern: Use of insecure `xml.etree.cElementTree` module
 
 Issue: -
 
