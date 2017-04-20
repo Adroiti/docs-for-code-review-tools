@@ -1,80 +1,39 @@
-Pattern: Use of xml bad pulldom
+Pattern: Use of insecure `xml.dom.pulldom` module
 
 Issue: -
 
 ## Description
 
-XML
+This module is not secure against maliciously constructed data. Use `defusedxml` package instead.
 
-Most of this is based off of Christian Heimes’ work on defusedxml:
-<https://pypi.python.org/pypi/defusedxml/#defusedxml-sax>
-
-Using various XLM methods to parse untrusted XML data is known to be
-vulnerable to XML attacks. Methods should be replaced with their defusedxml
-equivalents.
+The results of an attack on a vulnerable XML library can be fairly dramatic. With just a few hundred Bytes of XML data an attacker can occupy several Gigabytes of memory within seconds. An attacker can also keep CPUs busy for a long time with a small to medium size request. Under some circumstances it is even possible to access local files on your server, to circumvent a firewall, or to abuse services to rebound attacks to third parties.
 
 This rule checks for the following calls:
 
-B313
+  - `xml.dom.pulldom.parse`
+  - `xml.dom.pulldom.parseString`  
 
-xml_bad_cElementTree
 
-  - xml.etree.cElementTree.parse
-  - xml.etree.cElementTree.iterparse
-  - xml.etree.cElementTree.fromstring
-  - xml.etree.cElementTree.XMLParser
+Example of **incorrect** code:
 
-B314
+```python
+from xml.dom.pulldom import parseString as badParseString
 
-xml_bad_ElementTree
+result = badParseString("<myxml>malicious data/myxml>")
+print(result)
+```
 
-  - xml.etree.ElementTree.parse
-  - xml.etree.ElementTree.iterparse
-  - xml.etree.ElementTree.fromstring
-  - xml.etree.ElementTree.XMLParser
+Example of **correct** code:
 
-B315
+```python
+from defusedxml.pulldom import parseString as goodParseString
 
-xml_bad_expatreader
-
-  - xml.sax.expatreader.create_parser
-
-B316
-
-xml_bad_expatbuilder
-
-  - xml.dom.expatbuilder.parse
-  - xml.dom.expatbuilder.parseString
-
-B317
-
-xml_bad_sax
-
-  - xml.sax.parse
-  - xml.sax.parseString
-  - xml.sax.make_parser
-
-B318
-
-xml_bad_minidom
-
-  - xml.dom.minidom.parse
-  - xml.dom.minidom.parseString
-
-  - xml.dom.pulldom.parse
-  - xml.dom.pulldom.parseString
-
-B320
-
-xml_bad_etree
-
-  - lxml.etree.parse
-  - lxml.etree.fromstring
-  - lxml.etree.RestrictedElement
-  - lxml.etree.GlobalParserTLS
-  - lxml.etree.getDefaultParser
-  - lxml.etree.check_docinfo
+result = goodParseString("<myxml>Some data some more data</myxml>")
+print(result)
+```
 
 ## Further Reading
 
+* [The Python Standard Library -  xml.dom.pulldom](https://docs.python.org/2/library/xml.dom.pulldom.html)
+* [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B319: xml_bad_pulldom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)
