@@ -28,7 +28,7 @@ Example of **correct** code:
 ```python
 from defusedxml.pulldom import parseString as goodParseString
 
-result = goodParseString("<myxml>Some data some more data</myxml>")
+result = goodParseString("<myxml>malicious data/myxml>")
 print(result)
 ```
 
