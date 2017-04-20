@@ -10,7 +10,7 @@ This rule checks for the following calls:
 
   - `httplib.HTTPSConnection`
   - `http.client.HTTPSConnection`
-  - `six.moves.http_client .HTTPSConnection`
+  - `six.moves.http_client.HTTPSConnection`
 
 ## Further Reading
 
