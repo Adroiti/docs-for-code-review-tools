@@ -35,7 +35,7 @@ from pyOpenSSL import SSL
 ssl.wrap_socket(ssl_version=ssl.PROTOCOL_TLSv1_2)
 ```
 
-Note that since version 2.7.13 OpenSSL has deprecated all version specific protocols. You should use the default protocol with flags like `OP_NO_SSLv3` instead.
+When using SSLv23 it is important to also provide flags to explicitly exclude bad versions of SSL/TLS from the protocol versions considered. Both the Python native and `pyOpenSSL` modules provide the `OP_NO_SSLv2` and `OP_NO_SSLv3` flags for this purpose.
 
 ## Further Reading
 

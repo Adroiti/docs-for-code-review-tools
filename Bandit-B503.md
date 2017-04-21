@@ -37,6 +37,8 @@ def open_ssl_socket(version=SSL.TLSv1_2_METHOD):
     pass
 ```
 
+When using SSLv23 it is important to also provide flags to explicitly exclude bad versions of SSL/TLS from the protocol versions considered. Both the Python native and `pyOpenSSL` modules provide the `OP_NO_SSLv2` and `OP_NO_SSLv3` flags for this purpose.
+
 ## Further Reading
 
 * [The Python Standard Library - ssl - Security considerations](https://docs.python.org/2/library/ssl.html#security-considerations)
