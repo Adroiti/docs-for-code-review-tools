@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-httpoxy is a set of vulnerabilities that affect application code running in
+`httpoxy` is a set of vulnerabilities that affect application code running in
 CGI, or CGI-like environments. The use of CGI for web applications should be
 avoided to prevent this class of attack.
 
