@@ -4,7 +4,6 @@ Issue: -
 
 ## Description
 
-
 This rule looks for the use of `chmod` and will alert when it is used
 to set particularly permissive control flags. Discretion should be used when granting write access to files such as configuration files to prevent vulnerabilities including denial of service and remote code execution.
 

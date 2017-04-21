@@ -13,6 +13,7 @@ This rule checks for the following calls:
   - `xml.dom.minidom.parse`
   - `xml.dom.minidom.parseString`
 
+
 Example of **insecure** code:
 
 ```python

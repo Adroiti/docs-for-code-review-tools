@@ -41,5 +41,5 @@ When using SSLv23 it is important to also provide flags to explicitly exclude ba
 ## Further Reading
 
 * [The Python Standard Library - ssl - Security considerations](https://docs.python.org/2/library/ssl.html#security-considerations)
-* [The Heartbleed Bug](http://heartbleed.com/)
+* [The Heartbleed Bug](http://heartbleed.com)
 * [OpenStack - B502: ssl_with_bad_version](https://docs.openstack.org/developer/bandit/plugins/ssl_with_bad_version.html)

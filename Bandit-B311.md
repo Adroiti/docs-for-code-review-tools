@@ -14,7 +14,7 @@ This rule checks for the following calls:
   - `random.choice`
   - `random.uniform`
   - `random.triangular`
-  
+
 
 Example of **insecure** code:
 
@@ -24,7 +24,6 @@ import os
 
 number = random.random()
 ```
-
 
 Example of **secure** code:
 

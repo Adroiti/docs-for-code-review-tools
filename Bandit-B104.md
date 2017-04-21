@@ -1,4 +1,4 @@
-Pattern: Binding to all interfaces
+Pattern: Possible binding to all interfaces
 
 Issue: -
 

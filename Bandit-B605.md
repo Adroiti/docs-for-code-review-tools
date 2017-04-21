@@ -5,10 +5,8 @@ Issue: -
 ## Description
 
 This rule looks for the spawning of a subprocess using a command shell. This type of subprocess
-invocation is dangerous as it is vulnerable to various shell injection
-attacks. Great care should be taken to sanitize all input in order to mitigate
-this risk. Calls of this type are identified by the use of certain commands
-which are known to use shells.
+invocation is dangerous as it is vulnerable to various shell injection attacks. Great care should be taken to sanitize all input in order to mitigate
+this risk. Calls of this type are identified by the use of certain commands which are known to use shells.
 
 
 Example of **insecure** code:
@@ -20,6 +18,7 @@ os.system('/bin/echo suspicious code')
 ```
 
 The `subprocess` module provides more powerful facilities for spawning new processes and retrieving their results; using that module is preferable to using this function.
+
 
 Example of **secure** code:
 

@@ -40,5 +40,5 @@ def open_ssl_socket(version=SSL.TLSv1_2_METHOD):
 ## Further Reading
 
 * [The Python Standard Library - ssl - Security considerations](https://docs.python.org/2/library/ssl.html#security-considerations)
-* [The Heartbleed Bug](http://heartbleed.com/)
+* [The Heartbleed Bug](http://heartbleed.com)
 * [OpenStack - B503: ssl_with_bad_defaults](https://docs.openstack.org/developer/bandit/plugins/ssl_with_bad_defaults.html)

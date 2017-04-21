@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-Use of Django's `mark_safe() `may expose cross-site scripting vulnerabilities and should be reviewed.
+Use of Django's `mark_safe()` may expose cross-site scripting vulnerabilities and should be reviewed.
 
-It is also important to be particularly careful when using `is_safe` with custom template tags, the `safe` template tag, `mark_safe`, and when autoescape is turned off.
+It is also important to be particularly careful when using `is_safe()` with custom template tags, the `safe()` template tag, `mark_safe()`, and when autoescape is turned off.
 
 ## Further Reading
 

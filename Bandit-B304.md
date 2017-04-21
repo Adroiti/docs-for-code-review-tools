@@ -29,10 +29,9 @@ This rule checks for the following calls:
   - `Cryptodome.Cipher.Blowfish.new`
   - `Cryptodome.Cipher.DES.new`
   - `Cryptodome.Cipher.XOR.new`
-  - `cryptography.hazmat.primitives .ciphers.algorithms.ARC4`
-  - `cryptography.hazmat.primitives .ciphers.algorithms.Blowfish`
-  - `cryptography.hazmat.primitives .ciphers.algorithms.IDEA`
-
+  - `cryptography.hazmat.primitives.ciphers.algorithms.ARC4`
+  - `cryptography.hazmat.primitives.ciphers.algorithms.Blowfish`
+  - `cryptography.hazmat.primitives.ciphers.algorithms.IDEA`
 
 ## Further Reading
 

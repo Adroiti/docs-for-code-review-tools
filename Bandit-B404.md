@@ -8,7 +8,6 @@ Consider possible security implications associated with this module. For example
 
 POSIX users (Linux, BSD, etc.) are strongly encouraged to install and use the much more recent `subprocess32` module instead of the version included with Python 2.7. It is a drop in replacement with better behavior in many situations.
 
-
 ## Further Reading
 
 * [The Python Standard Library - subprocess](https://docs.python.org/2/library/subprocess.html)

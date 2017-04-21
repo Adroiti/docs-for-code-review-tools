@@ -8,7 +8,6 @@ Using various methods to parse untrusted XML data is known to be vulnerable to
 XML attacks. Replace vulnerable imports with the equivalent `defusedxml`
 package, or make sure `defusedxml.defuse_stdlib()` is called.
 
-
 ## Further Reading
 
 * [The Python Standard Library - xml.dom.minidom](https://docs.python.org/2/library/xml.dom.minidom.html)

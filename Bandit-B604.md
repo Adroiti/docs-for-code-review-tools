@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule interrogates method calls for the presence of a keyword parameter _shell_ equalling true. It
+This rule interrogates method calls for the presence of a keyword parameter _shell_ equaling true. It
 is related to detection of shell injection issues and is intended to catch custom wrappers to vulnerable methods that may have been created.
 
 

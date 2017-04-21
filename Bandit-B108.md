@@ -1,4 +1,4 @@
-Pattern: Insecure usage of tmp file/directory
+Pattern: Insecure usage of temporary file/directory
 
 Issue: -
 

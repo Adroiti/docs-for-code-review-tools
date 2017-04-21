@@ -5,9 +5,9 @@ Issue: -
 ## Description
 
 As computational power increases, so does the ability to break ciphers with
-smaller key lengths. The recommended key length size for RSA and DSA
-algorithms is 2048 and higher. 1024 bits and below are now considered
-breakable. EC key length sizes are recommended to be 224 and higher with 160
+smaller key lengths. The recommended key length size for `RSA` and `DSA`
+algorithms is `2048` and higher. `1024` bits and below are now considered
+breakable. `EC` key length sizes are recommended to be `224` and higher with `160`
 and below considered breakable. This rule checks for use of any key
 less than those limits.
 

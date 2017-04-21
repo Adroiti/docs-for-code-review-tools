@@ -1,4 +1,4 @@
-Pattern: A password based config option not marked secret
+Pattern: `oslo` config option not marked `secret=True`
 
 Issue: -
 
@@ -6,8 +6,8 @@ Issue: -
 
 Passwords are sensitive and must be protected appropriately. In OpenStack Oslo
 there is an option to mark options "secret" which will ensure that they are
-not logged. This plugin detects usages of oslo configuration functions that
-appear to deal with strings ending in 'password' and flag usages where they
+not logged. This plugin detects usages of `oslo` configuration functions that
+appear to deal with strings ending in `password` and flag usages where they
 have not been marked secret.
 
 

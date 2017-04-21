@@ -13,7 +13,7 @@ There are rare situations where it is desirable to suppress errors, but this
 is typically done with specific exception types, rather than the base
 Exception class (or no type).
 
-  
+
 Example of **insecure** code:
 
 ```python

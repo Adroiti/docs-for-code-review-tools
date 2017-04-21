@@ -5,11 +5,11 @@ Issue: -
 ## Description
 
 This test scans the parameters of all configured Python methods, looking
-for paths that do not start at the filesystem root, that is, do not have a
+for paths that do not start at the file-system root, that is, do not have a
 leading `/` character.
 
 Python possesses many mechanisms to invoke an external executable. If the
-desired executable path is not fully qualified relative to the filesystem root
+desired executable path is not fully qualified relative to the file-system root
 then this may present a potential security risk.
 
 In POSIX environments, the PATH environment variable is used to specify a set

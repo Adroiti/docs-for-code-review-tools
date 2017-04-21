@@ -5,7 +5,7 @@ Issue: -
 ## Description
 
 This rule looks for the spawning of a subprocess in a way that doesn't use a shell. Although this is
-generally safe, it maybe useful for penetration testing workflows to track where external system calls are used.
+generally safe, it maybe useful for penetration testing work-flows to track where external system calls are used.
 
 
 ## Further Reading

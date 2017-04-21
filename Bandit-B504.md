@@ -40,5 +40,5 @@ Note that since version 2.7.13 OpenSSL has deprecated all version specific proto
 ## Further Reading
 
 * [The Python Standard Library - ssl - Security considerations](https://docs.python.org/2/library/ssl.html#security-considerations)
-* [The Heartbleed Bug](http://heartbleed.com/)
+* [The Heartbleed Bug](http://heartbleed.com)
 * [OpenStack - B504: ssl_with_no_version](https://docs.openstack.org/developer/bandit/plugins/ssl_with_no_version.html)

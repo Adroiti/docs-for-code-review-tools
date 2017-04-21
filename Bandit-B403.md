@@ -8,8 +8,8 @@ This module is not secure against erroneous or maliciously constructed data. Con
 
 This rule checks for the following imports:
 
-  - pickle
-  - cPickle
+  - `pickle`
+  - `cPickle`
 
 ## Further Reading
 

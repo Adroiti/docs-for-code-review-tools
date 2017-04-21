@@ -1,12 +1,12 @@
-Pattern: Use of Flask app with debug set to `True`
+Pattern: Use of `Flask` app with debug set to `True`
 
 Issue: -
 
 ## Description
 
-Running Flask applications in debug mode results in the Werkzeug debugger
+Running `Flask` applications in debug mode results in the `Werkzeug` debugger
 being enabled. This includes a feature that allows arbitrary code execution.
-Documentation for both Flask and Werkzeug strongly suggests that debug
+Documentation for both `Flask` and `Werkzeug` strongly suggests that debug
 mode should never be enabled on production systems.
 
 

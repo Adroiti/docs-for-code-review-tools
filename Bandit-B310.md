@@ -19,11 +19,11 @@ This rule checks for the following calls:
   - `urllib2.urlopen`
   - `urllib2.Request`
   - `six.moves.urllib.request.urlopen`
-  - `six.moves.urllib.request .urlretrieve`
-  - `six.moves.urllib.request .URLopener`
-  - `six.moves.urllib.request .FancyURLopener`
+  - `six.moves.urllib.request.urlretrieve`
+  - `six.moves.urllib.request.URLopener`
+  - `six.moves.urllib.request.FancyURLopener`
 
-The Requests package is recommended for a higher-level HTTP client interface.
+The `Requests` package is recommended for a higher-level HTTP client interface.
 
 ## Further Reading
 

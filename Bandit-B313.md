@@ -14,7 +14,7 @@ This rule checks for the following calls:
   - `xml.etree.cElementTree.iterparse`
   - `xml.etree.cElementTree.fromstring`
   - `xml.etree.cElementTree.XMLParser`
-  
+
 
 Example of **insecure** code:
 
