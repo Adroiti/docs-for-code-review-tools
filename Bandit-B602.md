@@ -39,5 +39,5 @@ subprocess.Popen(['/bin/gcc', '--version'], shell=False)
 
 ## Further Reading
 
-* [ The Python Standard Library - subprocess - Frequently Used Arguments](https://docs.python.org/2/library/subprocess.html#frequently-used-arguments)
+* [The Python Standard Library - subprocess - Frequently Used Arguments](https://docs.python.org/2/library/subprocess.html#frequently-used-arguments)
 * [OpenStack - B602: subprocess_popen_with_shell_equals_true](https://docs.openstack.org/developer/bandit/plugins/subprocess_popen_with_shell_equals_true.html)
