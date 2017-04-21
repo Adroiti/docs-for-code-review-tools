@@ -7,7 +7,7 @@ Issue: -
 This rule checks the use of `Paramiko`'s `exec_command` or `invoke_shell` methods advising the user to check if inputs are
 correctly sanitized.
 
-`Paramiko` is a Python library designed to work with the SSH2 protocol for
+`Paramiko` is a Python library designed to work with the `SSH2` protocol for
 secure (encrypted and authenticated) connections to remote machines. It is
 intended to run commands on a remote host. These commands are run within a
 shell on the target and are thus vulnerable to various shell injection

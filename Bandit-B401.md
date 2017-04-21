@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-A telnet-related module is being imported. Telnet is considered insecure protocol because of serious security concerns when using over an open network such as the Internet. Use SSH or some other encrypted protocol instead.
+A telnet-related module is being imported. Telnet is considered insecure protocol because of serious security concerns when using over an open network such as the Internet. Use `SSH` or some other encrypted protocol instead.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-A FTP-related module is being imported. FTP was not designed to be a secure protocol, and has many security weaknesses. Use SSH, SFTP, SCP or some other encrypted protocol instead.
+A `FTP`-related module is being imported. `FTP` was not designed to be a secure protocol, and has many security weaknesses. Use `SSH`, `SFTP`, `SCP` or some other encrypted protocol instead.
 
 ## Further Reading
 
