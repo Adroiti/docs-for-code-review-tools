@@ -4,8 +4,8 @@ Issue: -
 
 ## Description
 
-Insecure or sub-optimal cipher could be possibly dangerous and should be replaced with a better alternative such as AES. For example, 
-DES is now considered insecure because a brute force attack is possible. DES module in Cipher package is provided only for legacy purposes with recommendation to use AES instead.
+Insecure or sub-optimal cipher could be possibly dangerous and should be replaced with a better alternative such as `AES`. For example, 
+`DES` is now considered insecure because a brute force attack is possible. `DES` module in `Cipher` package is provided only for legacy purposes with recommendation to use `AES` instead.
 
 Use the following table to replace legacy cipher:
 
