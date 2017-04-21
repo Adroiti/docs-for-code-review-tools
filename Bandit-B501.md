@@ -29,7 +29,7 @@ import requests
 requests.get('https://www.openstack.org/', verify=True)
 ```
 
-It is important to note that modules such as httplib within the Python standard library did not verify certificate chains until it was fixed in 2.7.9 release.
+It is important to note that modules such as `httplib` within the Python standard library did not verify certificate chains until it was fixed in 2.7.9 release.
 
 ## Further Reading
 
