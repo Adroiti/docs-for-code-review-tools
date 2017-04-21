@@ -1,41 +1,37 @@
-Pattern: Shell injection within Paramiko
+Pattern: Possible shell injection via `Paramiko` call
 
 Issue: -
 
 ## Description
 
-Paramiko is a Python library designed to work with the SSH2 protocol for
+This rule checks the use of `Paramiko`'s `exec_command` or `invoke_shell` methods advising the user to check if inputs are
+correctly sanitized.
+
+`Paramiko` is a Python library designed to work with the SSH2 protocol for
 secure (encrypted and authenticated) connections to remote machines. It is
 intended to run commands on a remote host. These commands are run within a
 shell on the target and are thus vulnerable to various shell injection
-attacks. Bandit reports a MEDIUM issue when it detects the use of Paramiko's
-"exec_command" or "invoke_shell" methods advising the user to check inputs are
-correctly sanitized.
+attacks.
+
 
 Example of **incorrect** code:
 
 ```python
+import paramiko
 
->> Issue: Possible shell injection via Paramiko call, check inputs are
-   properly sanitized.
-   Severity: Medium   Confidence: Medium
-   Location: ./examples/paramiko_injection.py:4
-3# this is not safe
-4paramiko.exec_command('something; reallly; unsafe')
-5
+paramiko.exec_command('something; really; unsafe')
+```
 
->> Issue: Possible shell injection via Paramiko call, check inputs are
-   properly sanitized.
-   Severity: Medium   Confidence: Medium
-   Location: ./examples/paramiko_injection.py:10
-9# this is not safe
-10   SSHClient.invoke_shell('something; bad; here\n')
-11
+Example of **correct** code:
 
+```python
+import paramiko
+
+paramiko.connect('somehost')
 ```
 
 ## Further Reading
 
-  - <https://github.com/paramiko/paramiko>
-  - <https://www.owasp.org/index.php/Command_Injection>
+* [GitHub - paramiko](https://github.com/paramiko/paramiko)
+* [OWASP - Command Injection](https://www.owasp.org/index.php/Command_Injection)
 * [OpenStack - B601: paramiko_calls](https://docs.openstack.org/developer/bandit/plugins/paramiko_calls.html)
