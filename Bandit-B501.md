@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces to always verify SSL certificate for `Requests` methods. Certificates are validated by default which is the desired behavior. 
+This rule enforces to always verify SSL certificate for methods in `Requests` library. Certificates are validated by default which is the desired behavior. 
 
 Encryption in general is typically critical to the security of many
 applications. Using TLS can greatly increase security by guaranteeing the
