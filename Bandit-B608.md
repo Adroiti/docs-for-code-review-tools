@@ -1,4 +1,4 @@
-Pattern: SQL injection
+Pattern: Possible SQL injection via string-based query construction
 
 Issue: -
 
@@ -9,39 +9,48 @@ via the input data given to an application. It is a very common attack vector.
 This rule looks for strings that resemble SQL statements that are
 involved in some form of string building operation. For example:
 
-- "SELECT %s FROM derp;" % var
-
-- "SELECT thing FROM " \+ tab
-
-- "SELECT " \+ val + " FROM " \+ tab + ...
-
-- "SELECT {} FROM derp;".format(var)
+- `"SELECT %s FROM derp;" % var`
+- `"SELECT thing FROM " \+ tab`
+- `"SELECT " \+ val + " FROM " \+ tab + ...`
+- `"SELECT {} FROM derp;".format(var)`
 
 Unless care is taken to sanitize and control the input data when building such
-SQL statement strings, an injection attack becomes possible. If strings of
-this nature are discovered, a LOW confidence issue is reported. In order to
-boost result confidence, this rule will also check to see if the
-discovered string is in use with standard Python DBAPI calls execute or
-executemany. If so, a MEDIUM issue is reported. For example:
+SQL statement strings, an injection attack becomes possible.
 
-- cursor.execute("SELECT %s FROM derp;" % var)
 
 Example of **incorrect** code:
 
 ```python
+import sqlalchemy
 
->> Issue: Possible SQL injection vector through string-based query
-construction.
-   Severity: Medium   Confidence: Low
-   Location: ./examples/sql_statements_without_sql_alchemy.py:4
-3 query = "DELETE FROM foo WHERE id = '%s'" % identifier
-4 query = "UPDATE foo SET value = 'b' WHERE id = '%s'" % identifier
-5
+connection = engine.connect()
+myvar = 'jsmith' # our intended usage
+myvar = 'jsmith or 1=1' # this will return all users
+myvar = 'jsmith; DROP TABLE users' # this drops (removes) the users table
+query = "select username from users where username = %s" % myvar
+result = connection.execute(query)
+for row in result:
+    print "username:", row['username']
+connection.close()
+```
 
+Example of **correct** code:
+
+```python
+import sqlalchemy
+
+connection = engine.connect()
+myvar = 'jsmith' # our intended usage
+myvar = 'jsmith or 1=1' # only matches this odd username
+query = "select username from users where username = :name"
+result = connection.execute(query, name = myvar)
+for row in result:
+    print "username:", row['username']
+connection.close()
 ```
 
 ## Further Reading
 
-  - <https://www.owasp.org/index.php/SQL_Injection>
-  - <https://security.openstack.org/guidelines/dg_parameterize-database-queries.html>
+* [OWASP - SQL Injection](https://www.owasp.org/index.php/SQL_Injection)
+* [OpenStack - Parameterize Database Queries](https://security.openstack.org/guidelines/dg_parameterize-database-queries.html)
 * [OpenStack - B608: hardcoded_sql_expressions](https://docs.openstack.org/developer/bandit/plugins/hardcoded_sql_expressions.html)
