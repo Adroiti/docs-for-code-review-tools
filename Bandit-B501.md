@@ -1,8 +1,10 @@
-Pattern: Missing certificate validation
+Pattern: No certificate validation for `Requests` method
 
 Issue: -
 
 ## Description
+
+This rule enforces to always verify SSL certificate for `Requests` methods. Certificates are validated by default which is the desired behavior. 
 
 Encryption in general is typically critical to the security of many
 applications. Using TLS can greatly increase security by guaranteeing the
@@ -10,26 +12,27 @@ identity of the party you are communicating with. This is accomplished by one
 or both parties presenting trusted certificates during the connection
 initialization phase of TLS.
 
-When request methods are used certificates are validated automatically which
-is the desired behavior. If certificate validation is explicitly turned off
-Bandit will return a HIGH severity error.
 
 Example of **incorrect** code:
 
 ```python
+import requests
 
->> Issue: [request_with_no_cert_validation] Requests call with verify=False
-disabling SSL certificate checks, security issue.
-   Severity: High   Confidence: High
-   Location: examples/requests-ssl-verify-disabled.py:4
-3   requests.get('https://gmail.com', verify=True)
-4   requests.get('https://gmail.com', verify=False)
-5   requests.post('https://gmail.com', verify=True)
-
+requests.get('https://www.openstack.org/', verify=False)
 ```
+
+Example of **correct** code:
+
+```python
+import requests
+
+requests.get('https://www.openstack.org/', verify=True)
+```
+
+It is important to note that modules such as httplib within the Python standard library did not verify certificate chains until it was fixed in 2.7.9 release.
 
 ## Further Reading
 
-  - <https://security.openstack.org/guidelines/dg_move-data-securely.html>
-  - <https://security.openstack.org/guidelines/dg_validate-certificates.html>
+* [Requests - SSL Cert Verification](http://docs.python-requests.org/en/master/user/advanced/#ssl-cert-verification)
+* [OpenStack - Validate certificates on HTTPS connections to avoid man-in-the-middle attacks](https://security.openstack.org/guidelines/dg_validate-certificates.html)
 * [OpenStack - B501: request_with_no_cert_validation](https://docs.openstack.org/developer/bandit/plugins/request_with_no_cert_validation.html)
