@@ -33,5 +33,5 @@ dsa.generate_private_key(key_size=2048, backend=backends.default_backend())
 ## Further Reading
 
 * [NIST - Transitions: Recommendation for Transitioning the Use of Cryptographic Algorithms and Key Lengths](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-131a.pdf)
-* [OpenStack - Use Strong and Established Cryptographic Elements)(https://security.openstack.org/guidelines/dg_strong-crypto.html)
+* [OpenStack - Use Strong and Established Cryptographic Elements](https://security.openstack.org/guidelines/dg_strong-crypto.html)
 * [OpenStack - B505: weak_cryptographic_key](https://docs.openstack.org/developer/bandit/plugins/weak_cryptographic_key.html)
