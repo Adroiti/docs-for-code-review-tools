@@ -21,33 +21,30 @@ SQL statement strings, an injection attack becomes possible.
 Example of **incorrect** code:
 
 ```python
-import sqlalchemy
+import MySQLdb
 
-connection = engine.connect()
-myvar = 'jsmith' # our intended usage
-myvar = 'jsmith or 1=1' # this will return all users
-myvar = 'jsmith; DROP TABLE users' # this drops (removes) the users table
-query = "select username from users where username = %s" % myvar
-result = connection.execute(query)
-for row in result:
-    print "username:", row['username']
-connection.close()
+query = "select username from users where username = '%s'" % name
+con = MySQLdb.connect('localhost', 'testuser', 'test623', 'testdb');
+
+with con:
+    cur = con.cursor()
+    cur.execute(query)
 ```
 
 Example of **correct** code:
 
 ```python
-import sqlalchemy
+import MySQLdb
 
-connection = engine.connect()
-myvar = 'jsmith' # our intended usage
-myvar = 'jsmith or 1=1' # only matches this odd username
-query = "select username from users where username = :name"
-result = connection.execute(query, name = myvar)
-for row in result:
-    print "username:", row['username']
-connection.close()
+query = "select username from users where username = '%s'" % name
+con = MySQLdb.connect('localhost', 'testuser', 'test623', 'testdb');
+
+with con:
+    cur = con.cursor()
+    cur.execute(MySQLdb.escape_string(query))
 ```
+
+In this example the query is created using pythons standard, unsafe `%` operator. MySQL’s `escape_string` method is used to perform escaping on the query string immediately before executing it.
 
 ## Further Reading
 
