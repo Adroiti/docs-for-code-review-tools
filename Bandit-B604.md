@@ -11,19 +11,19 @@ is related to detection of shell injection issues and is intended to catch custo
 Example of **incorrect** code:
 
 ```python
-import subprocess
-from subprocess import Popen as pop
+def Popen(*args, **kwargs):
+    print('hi')
 
-pop('/bin/gcc --version', shell=True)
+Popen('/bin/gcc --version', shell=True)
 ```
 
 Example of **correct** code:
 
 ```python
-import subprocess
-from subprocess import Popen as pop
+def Popen(*args, **kwargs):
+    print('hi')
 
-pop('/bin/gcc --version', shell=False)
+Popen('/bin/gcc --version', shell=False)
 ```
 
 ## Further Reading
