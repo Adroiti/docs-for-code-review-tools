@@ -10,13 +10,13 @@ rule looks for a string pattern `0.0.0.0` that may indicate a hardcoded
 binding to all network interfaces.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 s.bind(('0.0.0.0', 8080))
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 s.bind(('192.168.0.1', 8080))

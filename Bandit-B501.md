@@ -13,7 +13,7 @@ or both parties presenting trusted certificates during the connection
 initialization phase of TLS.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import requests
@@ -21,7 +21,7 @@ import requests
 requests.get('https://www.openstack.org/', verify=False)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import requests

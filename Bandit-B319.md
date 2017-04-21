@@ -14,7 +14,7 @@ This rule checks for the following calls:
   - `xml.dom.pulldom.parseString`  
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 from xml.dom.pulldom import parseString as badParseString
@@ -23,7 +23,7 @@ result = badParseString("<myxml>malicious data/myxml>")
 print(result)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 from defusedxml.pulldom import parseString as goodParseString

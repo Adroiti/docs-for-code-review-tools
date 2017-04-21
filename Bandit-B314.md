@@ -16,7 +16,7 @@ This rule checks for the following calls:
   - `xml.etree.ElementTree.XMLParser`
   
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import xml.etree.ElementTree as badET
@@ -30,7 +30,7 @@ badET.iterparse('filethatdoesntexist.xml')
 result = badET.XMLParser()
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import defusedxml.ElementTree as goodET

@@ -13,7 +13,7 @@ This rule checks for the following calls:
   - `xml.dom.minidom.parse`
   - `xml.dom.minidom.parseString`
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 from xml.dom.minidom import parse as badParse
@@ -22,7 +22,7 @@ result = badParse("somfilethatdoesntexist.xml")
 print(result)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 from defusedxml.minidom import parse as goodParse

@@ -14,13 +14,13 @@ parts of the file system. This model supports three roles - `owner`, `group` and
 sets. Python provides `chmod` to manipulate POSIX style permissions.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 os.chmod('/etc/passwd', 07)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 os.chmod('/etc/passwd', 0664)

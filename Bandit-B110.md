@@ -14,7 +14,7 @@ is typically done with specific exception types, rather than the base
 Exception class (or no type).
 
   
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 try:
@@ -23,7 +23,7 @@ except Exception:
   pass
 ```
   
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 try:

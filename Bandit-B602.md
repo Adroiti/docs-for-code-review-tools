@@ -21,7 +21,7 @@ severity levels reflect the likelihood that the code is vulnerable to
 injection.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import subprocess
@@ -29,7 +29,7 @@ import subprocess
 subprocess.Popen(['/bin/gcc', '--version'], shell=True)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import subprocess

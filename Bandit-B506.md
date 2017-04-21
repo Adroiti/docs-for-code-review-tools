@@ -11,7 +11,7 @@ document from an untrusted source. The function `yaml.safe_load()` limits this
 ability to simple Python objects like integers or lists.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import json
@@ -22,7 +22,7 @@ def test_yaml_load():
     y = yaml.load(ystr)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import json

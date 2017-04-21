@@ -15,7 +15,7 @@ example:
 - `etc`
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 f = open('/tmp/abc', 'w')
@@ -23,7 +23,7 @@ f.write('def')
 f.close()
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 f = open('/abc/tmp', 'w')

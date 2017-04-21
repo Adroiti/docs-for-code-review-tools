@@ -14,7 +14,7 @@ This rule checks for the following calls:
   - `xml.dom.expatbuilder.parseString`
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import xml.dom.expatbuilder as bad
@@ -24,7 +24,7 @@ xmlString = "<note>malicious code</note>"
 bad.parseString(xmlString)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import defusedxml.expatbuilder as good

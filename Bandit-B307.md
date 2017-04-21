@@ -7,13 +7,13 @@ Issue: -
 Used when you use the `eval()` function, to discourage its usage. It's usage may have negative readability, performance and security implications, especially if you accept strings from untrusted or unknown sources. Consider using `ast.literal_eval()` for safely evaluating strings containing expressions from untrusted sources.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 eval('os.listdir(".")')
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 ast.literal_eval('os.listdir(".")')

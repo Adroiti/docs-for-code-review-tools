@@ -17,7 +17,7 @@ This rule scans for Python methods with default parameter values that specify th
 detection supports methods using Python's native SSL/TLS support and the `pyOpenSSL` module.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import ssl
@@ -27,7 +27,7 @@ def open_ssl_socket(version=SSL.TLSv1_METHOD):
     pass
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import ssl

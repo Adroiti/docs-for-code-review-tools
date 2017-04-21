@@ -14,7 +14,7 @@ shell on the target and are thus vulnerable to various shell injection
 attacks.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import paramiko
@@ -22,7 +22,7 @@ import paramiko
 paramiko.exec_command('something; really; unsafe')
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import paramiko

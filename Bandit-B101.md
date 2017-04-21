@@ -7,7 +7,7 @@ Issue: -
 `assert` is removed with compiling to optimised byte code (`python -o` producing _*.pyo_ files). This causes various protections to be removed. It was discovered that some projects used `assert` to enforce interface constraints. The use of `assert` is also considered as general bad practice in OpenStack codebases.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 assert logged_in
@@ -15,7 +15,7 @@ display_assets()
 ```
 
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 if logged_in:

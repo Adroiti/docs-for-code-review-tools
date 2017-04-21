@@ -22,13 +22,13 @@ It is worth noting that native support for TLS 1.2 is only available in more
 recent Python versions, specifically 2.7.9 and up, and 3.x.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 context = ssl.SSLContext(ssl.PROTOCOL_SSLv2)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 context = ssl.SSLContext(ssl.PROTOCOL_SSLv23)

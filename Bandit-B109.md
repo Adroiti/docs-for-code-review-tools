@@ -11,13 +11,13 @@ appear to deal with strings ending in 'password' and flag usages where they
 have not been marked secret.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 cfg.StrOpt('admin_password', help="User's password")
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 cfg.StrOpt('admin_password', secret=True, help="User's password")

@@ -22,7 +22,7 @@ the user privileges of the Python process that spawned it, potentially a
 highly privileged user.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 from subprocess import Popen as pop
@@ -30,7 +30,7 @@ from subprocess import Popen as pop
 pop('gcc --version', shell=False)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 from subprocess import Popen as pop

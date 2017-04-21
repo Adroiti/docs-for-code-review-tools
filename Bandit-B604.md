@@ -8,7 +8,7 @@ This rule interrogates method calls for the presence of a keyword parameter _she
 is related to detection of shell injection issues and is intended to catch custom wrappers to vulnerable methods that may have been created.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 def Popen(*args, **kwargs):
@@ -17,7 +17,7 @@ def Popen(*args, **kwargs):
 Popen('/bin/gcc --version', shell=True)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 def Popen(*args, **kwargs):

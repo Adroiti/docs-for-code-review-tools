@@ -10,14 +10,14 @@ ways worse, then using eval. On Python 2, use `raw_input()` instead, input is sa
 in Python 3.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 name = input("What's your name? ")
 print("Nice to meet you " + name + "!")
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 name = raw_input("What's your name? ")

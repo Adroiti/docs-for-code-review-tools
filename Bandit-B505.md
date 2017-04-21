@@ -12,7 +12,7 @@ and below considered breakable. This rule checks for use of any key
 less than those limits.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 from cryptography.hazmat import backends
@@ -21,7 +21,7 @@ from cryptography.hazmat.primitives.asymmetric import dsa
 dsa.generate_private_key(key_size=1024, backend=backends.default_backend())
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 from cryptography.hazmat import backends

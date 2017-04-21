@@ -7,14 +7,14 @@ Issue: -
 The `exec()` statement is dangerous, hard to test, and hard to read. Avoid it, as much as possible. This is largely due to the fact that `exec()` enables you to dynamically execute arbitrary Python code which is stored in literal strings. Consider going back to the code to check if there is a clearer, more direct way to accomplish the task.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 text = "print \"hello, and goodbye\""
 exec text
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 def foo():

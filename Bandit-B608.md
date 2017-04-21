@@ -18,7 +18,7 @@ Unless care is taken to sanitize and control the input data when building such
 SQL statement strings, an injection attack becomes possible.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import MySQLdb
@@ -31,7 +31,7 @@ with con:
     cur.execute(query)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import MySQLdb

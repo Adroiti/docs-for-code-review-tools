@@ -10,7 +10,7 @@ via the `_create_unverified_context` that reverts to the previous behavior that
 does not validate certificates or perform hostname checks.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import ssl
@@ -18,7 +18,7 @@ import ssl
 context = ssl._create_unverified_context()
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import ssl

@@ -15,7 +15,7 @@ This rule checks for the following calls:
   - `xml.sax.make_parser`  
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import xml.sax
@@ -24,7 +24,7 @@ from xml import sax
 xml.sax.make_parser()
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import defusedxml.sax

@@ -17,7 +17,7 @@ This rule scans for specific methods in Python's native SSL/TLS support and the 
 protocol to use. These methods are known to provide default value that maximize compatibility, but permit use of the aforementioned broken protocol versions.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import ssl
@@ -26,7 +26,7 @@ from pyOpenSSL import SSL
 ssl.wrap_socket()
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import ssl

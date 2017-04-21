@@ -16,7 +16,7 @@ This rule checks for the following calls:
   - `random.triangular`
   
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import random
@@ -26,7 +26,7 @@ number = random.random()
 ```
 
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import random

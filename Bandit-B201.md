@@ -10,7 +10,7 @@ Documentation for both Flask and Werkzeug strongly suggests that debug
 mode should never be enabled on production systems.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 from flask import Flask
@@ -19,7 +19,7 @@ app = Flask(__name__)
 app.run(debug=True)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 from flask import Flask

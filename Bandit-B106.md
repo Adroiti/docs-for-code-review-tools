@@ -23,7 +23,7 @@ of:
 Note: this can be noisy and may generate false positives.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 doLogin(password="1234")

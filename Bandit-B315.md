@@ -13,7 +13,7 @@ This rule checks for the following calls:
   - `xml.sax.expatreader.create_parser`
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import xml.sax.expatreader as bad
@@ -21,7 +21,7 @@ import xml.sax.expatreader as bad
 result = bad.create_parser()
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import defusedxml.expatreader as good

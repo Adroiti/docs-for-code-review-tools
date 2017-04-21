@@ -11,7 +11,7 @@ this risk. Calls of this type are identified by the use of certain commands
 which are known to use shells.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import os
@@ -21,7 +21,7 @@ os.system('/bin/echo suspicious code')
 
 The `subprocess` module provides more powerful facilities for spawning new processes and retrieving their results; using that module is preferable to using this function.
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import subprocess

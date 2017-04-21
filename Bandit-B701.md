@@ -18,7 +18,7 @@ Cross Site Scripting (XSS) attacks.
 Unfortunately, autoescaping is `False` by default. 
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import jinja2
@@ -28,7 +28,7 @@ templateLoader = jinja2.FileSystemLoader( searchpath="/" )
 Environment(loader=templateLoader, load=templateLoader, autoescape=False)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import jinja2

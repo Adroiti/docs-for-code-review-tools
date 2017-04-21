@@ -18,7 +18,7 @@ This rule checks for the following calls:
   - `lxml.etree.check_docinfo`
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import lxml.etree
@@ -28,7 +28,7 @@ xmlString = "<note>malicious data</note>"
 root = lxml.etree.fromstring(xmlString)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 from defusedxml.lxml import fromstring

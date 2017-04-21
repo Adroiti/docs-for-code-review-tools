@@ -15,13 +15,13 @@ command injection attacks, or developer and configuration error. This rule check
 - `nova.utils.trycmd`
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 ceilometer_utils.execute('gcc --version', run_as_root=True)
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 ceilometer_utils.execute('gcc --version', run_as_root=False)

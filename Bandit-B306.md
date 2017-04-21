@@ -7,13 +7,13 @@ Issue: -
 Use of this function may introduce a security hole in your program. By the time you get around to doing anything with the file name it returns, someone else may have beaten you to the punch. Use `mkstemp()` instead or replace with `NamedTemporaryFile()`, passing it the `delete=False` parameter.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 tempfile.mktemp('foo')
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 tempfile.mkstemp('foo')

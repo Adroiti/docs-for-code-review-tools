@@ -25,7 +25,7 @@ This rule looks for usage of the following commands in conjunction with wild car
 As well as any method configured in the shell or subprocess injection test configurations.
 
 
-Example of **incorrect** code:
+Example of **insecure** code:
 
 ```python
 import os as o
@@ -34,7 +34,7 @@ import subprocess as subp
 o.popen2('/bin/chmod *')
 ```
 
-Example of **correct** code:
+Example of **secure** code:
 
 ```python
 import os as o
