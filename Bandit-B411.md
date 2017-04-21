@@ -9,4 +9,5 @@ XMLRPC is particularly dangerous as it is also concerned with communicating data
 ## Further Reading
 
 * [The Python Standard Library - xmlrpclib](https://docs.python.org/2/library/xmlrpclib.html)
+* [defusedxml - defusedxml.xmlrpc](https://pypi.python.org/pypi/defusedxml#defusedxml-xmlrpc)
 * [OpenStack - B411: import_xmlrpclib](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b411-import-xmlrpclib)
