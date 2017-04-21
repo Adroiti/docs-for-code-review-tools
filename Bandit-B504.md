@@ -1,50 +1,44 @@
-Pattern: SSL use with no version specified
+Pattern: Use of insecure SSL/TLS as default method value
 
 Issue: -
 
 ## Description
 
-This plugin is part of a family of tests that detect the use of known bad
-versions of SSL/TLS, please see [B502:
-ssl_with_bad_version](ssl_with_bad_version.html) for a complete discussion.
-Specifically, This rule scans for specific methods in Python's native
-SSL/TLS support and the pyOpenSSL module that configure the version of SSL/TLS
-protocol to use. These methods are known to provide default value that
-maximize compatibility, but permit use of the aforementioned broken protocol
-versions. A LOW severity warning will be reported whenever this is detected.
+Several highly publicized exploitable flaws have been discovered in all
+versions of SSL and early versions of TLS. It is strongly recommended that use
+of the following known broken protocol versions be avoided:
 
-```
+  - SSL v2
+  - SSL v3
+  - TLS v1
+  - TLS v1.1
 
-## Further Reading:
+This rule scans for specific methods in Python's native SSL/TLS support and the `pyOpenSSL` module that configure the version of SSL/TLS
+protocol to use. These methods are known to provide default value that maximize compatibility, but permit use of the aforementioned broken protocol versions.
 
-  - [B502: ssl_with_bad_version](ssl_with_bad_version.html)
-  - [B503: ssl_with_bad_defaults](ssl_with_bad_defaults.html)
-
-**Config Options:**
-
-This test shares the configuration provided for the standard [B502:
-ssl_with_bad_version](ssl_with_bad_version.html) test, please refer to its
-documentation.
 
 Example of **incorrect** code:
 
 ```python
+import ssl
+from pyOpenSSL import SSL
 
->> Issue: ssl.wrap_socket call with no SSL/TLS protocol version
-specified, the default SSLv23 could be insecure, possible security
-issue.
-   Severity: Low   Confidence: Medium
-   Location: ./examples/ssl-insecure-version.py:23
-22
-23  ssl.wrap_socket()
-24
-
+ssl.wrap_socket()
 ```
+
+Example of **correct** code:
+
+```python
+import ssl
+from pyOpenSSL import SSL
+
+ssl.wrap_socket(ssl_version=ssl.PROTOCOL_TLSv1_2)
+```
+
+Note that since version 2.7.13 OpenSSL has deprecated all version specific protocols. You should use the default protocol with flags like `OP_NO_SSLv3` instead.
 
 ## Further Reading
 
-  - <http://heartbleed.com/>
-  - <https://poodlebleed.com/>
-  - <https://security.openstack.org/>
-  - <https://security.openstack.org/guidelines/dg_move-data-securely.html>
+* [The Python Standard Library - ssl - Security considerations](https://docs.python.org/2/library/ssl.html#security-considerations)
+* [The Heartbleed Bug](http://heartbleed.com/)
 * [OpenStack - B504: ssl_with_no_version](https://docs.openstack.org/developer/bandit/plugins/ssl_with_no_version.html)
