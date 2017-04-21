@@ -47,6 +47,6 @@ result = goodET.XMLParser()
 
 ## Further Reading
 
-* [ The Python Standard Library - xml.etree.ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree)
+* [The Python Standard Library - xml.etree.ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree)
 * [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B313: xml_bad_cElementTree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)

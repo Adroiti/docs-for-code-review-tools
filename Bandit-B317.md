@@ -12,7 +12,7 @@ This rule checks for the following calls:
 
   - `xml.sax.parse`
   - `xml.sax.parseString`
-  - `xml.sax.make_parser`  
+  - `xml.sax.make_parser`
 
 
 Example of **insecure** code:

@@ -11,7 +11,7 @@ The results of an attack on a vulnerable XML library can be fairly dramatic. Wit
 This rule checks for the following calls:
 
   - `xml.dom.pulldom.parse`
-  - `xml.dom.pulldom.parseString`  
+  - `xml.dom.pulldom.parseString`
 
 
 Example of **insecure** code:
@@ -34,6 +34,6 @@ print(result)
 
 ## Further Reading
 
-* [The Python Standard Library -  xml.dom.pulldom](https://docs.python.org/2/library/xml.dom.pulldom.html)
+* [The Python Standard Library - xml.dom.pulldom](https://docs.python.org/2/library/xml.dom.pulldom.html)
 * [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B319: xml_bad_pulldom](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b313-b320-xml)

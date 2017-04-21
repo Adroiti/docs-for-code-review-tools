@@ -15,6 +15,6 @@ This rule checks for the following imports:
 
 ## Further Reading
 
-* [ The Python Standard Library - xml.etree.ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree)
+* [The Python Standard Library - xml.etree.ElementTree](https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree)
 * [GitHub - defusedxml](https://github.com/tiran/defusedxml)
 * [OpenStack - B405: import_xml_etree](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b405-import-xml-etree)
