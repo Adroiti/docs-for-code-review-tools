@@ -1,4 +1,4 @@
-Pattern: Use of insecure SSL/TLS as default parameter value
+Pattern: Use of insecure SSL/TLS as method parameter value
 
 Issue: -
 
