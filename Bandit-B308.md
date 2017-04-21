@@ -1,4 +1,4 @@
-Pattern: Use of `mark_safe()`
+Pattern: Use of Django's `mark_safe()`
 
 Issue: -
 

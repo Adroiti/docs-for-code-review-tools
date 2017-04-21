@@ -1,10 +1,10 @@
-Pattern: Use of `HTTPSConnection`
+Pattern: Use of possibly insecure `HTTPSConnection`
 
 Issue: -
 
 ## Description
 
-Use of `HTTPSConnection` on older versions of Python prior to `2.7.9` and `3.4.3` do not provide security. The `Requests` package is recommended for a higher-level HTTP client interface.
+Use of `HTTPSConnection` on older versions of Python prior to `2.7.9` and `3.4.3` does not provide security. The `Requests` package is recommended for a higher-level HTTP client interface.
 
 This rule checks for the following calls:
 

@@ -1,4 +1,4 @@
-Pattern: Use of `telnetlib` module
+Pattern: Use of insecure `telnetlib` module
 
 Issue: -
 

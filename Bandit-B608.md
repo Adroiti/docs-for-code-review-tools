@@ -44,7 +44,7 @@ with con:
     cur.execute(MySQLdb.escape_string(query))
 ```
 
-In this example the query is created using pythons standard, unsafe `%` operator. MySQL’s `escape_string` method is used to perform escaping on the query string immediately before executing it.
+In this example the query is created using pythons standard, unsafe `%` operator. MySQL’s `escape_string()` method is used to perform escaping on the query string immediately before executing it.
 
 ## Further Reading
 

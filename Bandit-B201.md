@@ -1,4 +1,4 @@
-Pattern: Use of `Flask` app with debug set to `True`
+Pattern: Use of `Flask` with `debug=True`
 
 Issue: -
 

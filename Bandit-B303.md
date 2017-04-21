@@ -1,10 +1,10 @@
-Pattern: Use of insecure MD2, MD4, or MD5 hash function
+Pattern: Use of insecure MD2, MD4 or MD5 hash function
 
 Issue: -
 
 ## Description
 
-Avoid using hashes based on MD2, MD4, or MD5 to hash passwords or to encrypt data. These functions are no longer considered secure. Note that this might not be a problem for some use cases like checking file integrity. However, if you want to be be sure, switch to another hashing algorithm.
+Avoid using hashes based on MD2, MD4 or MD5 to hash passwords or to encrypt data. These functions are no longer considered secure. Note that this might not be a problem for some use cases like checking file integrity. However, if you want to be be sure, switch to another hashing algorithm.
 
 This rule checks for the following calls:
 

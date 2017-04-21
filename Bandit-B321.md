@@ -1,4 +1,4 @@
-Pattern: Use of `ftplib` module
+Pattern: Use of possibly insecure `ftplib` module
 
 Issue: -
 

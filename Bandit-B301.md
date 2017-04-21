@@ -7,6 +7,7 @@ Issue: -
 `pickle` module appears to be in use, causing a possible security issue. It's not secure against erroneous or maliciously constructed data. It's recommended to never unpickle data received from an untrusted or unauthenticated source.
 
 This rule checks for the following calls:
+
 - `pickle.loads`
 - `pickle.load`
 - `pickle.Unpickler`

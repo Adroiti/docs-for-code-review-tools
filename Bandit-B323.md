@@ -1,4 +1,4 @@
-Pattern: Use of `ssl._create_unverified_context()`
+Pattern: Use of insecure `ssl._create_unverified_context()`
 
 Issue: -
 

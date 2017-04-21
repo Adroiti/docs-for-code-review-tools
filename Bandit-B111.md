@@ -1,4 +1,4 @@
-Pattern: Use of rootwrap running as root
+Pattern: Method call with `run_as_root=True`
 
 Issue: -
 
