@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This test looks for the spawning of a `subprocess` using a command shell. This type of `subprocess`
+This rule looks for the spawning of a `subprocess` using a command shell. This type of `subprocess`
 invocation is dangerous as it is vulnerable to various shell injection
 attacks. Great care should be taken to sanitize all input in order to mitigate
 this risk. Calls of this type are identified by a parameter of `shell=True`

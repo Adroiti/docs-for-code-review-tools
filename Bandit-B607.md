@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This test scans the parameters of all configured Python methods, looking
+This rule scans the parameters of all configured Python methods, looking
 for paths that do not start at the file-system root, that is, do not have a
 leading `/` character.
 
