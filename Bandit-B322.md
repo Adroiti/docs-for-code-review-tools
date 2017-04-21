@@ -24,7 +24,7 @@ name = raw_input("What's your name? ")
 print("Nice to meet you " + name + "!")
 ```
 
-## Further Reading]
+## Further Reading
 
 * [The Python Standard Library - input()](https://docs.python.org/2/library/functions.html#input)
 * [OpenStack - B322: input](https://docs.openstack.org/developer/bandit/api/bandit.blacklists.html#b322-input)
