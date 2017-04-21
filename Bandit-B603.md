@@ -1,4 +1,4 @@
-Pattern: Use of `subprocess` without `shell=True`
+Pattern: Use of `subprocess` with `shell=False`
 
 Issue: -
 
