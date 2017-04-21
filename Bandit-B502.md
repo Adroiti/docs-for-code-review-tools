@@ -1,4 +1,4 @@
-Pattern: SSL use with bad version used
+Pattern: Use of insecure SSL/TLS protocol version
 
 Issue: -
 
@@ -15,64 +15,31 @@ of the following known broken protocol versions be avoided:
 
 This rule scans for calls to Python methods with parameters that
 indicate the used broken SSL/TLS protocol versions. Currently, detection
-supports methods using Python's native SSL/TLS support and the pyOpenSSL
-module. A HIGH severity warning will be reported whenever known broken
-protocol versions are detected.
+supports methods using Python's native SSL/TLS support and the `pyOpenSSL`
+module.
 
 It is worth noting that native support for TLS 1.2 is only available in more
-recent Python versions, specifically 2.7.9 and up, and 3.x
+recent Python versions, specifically 2.7.9 and up, and 3.x.
 
-```
-
-## Further Reading:
-
-  - [B503: ssl_with_bad_defaults](ssl_with_bad_defaults.html)
-  - [B504: ssl_with_no_version](ssl_with_no_version.html)
-
-A note on 'SSLv23':
-
-Amongst the available SSL/TLS versions provided by Python/pyOpenSSL there
-exists the option to use SSLv23. This very poorly named option actually means
-"use the highest version of SSL/TLS supported by both the server and client".
-This may (and should be) a version well in advance of SSL v2 or v3. Bandit can
-scan for the use of SSLv23 if desired, but its detection does not necessarily
-indicate a problem.
-
-When using SSLv23 it is important to also provide flags to explicitly exclude
-bad versions of SSL/TLS from the protocol versions considered. Both the Python
-native and pyOpenSSL modules provide the `OP_NO_SSLv2` and `OP_NO_SSLv3` flags
-for this purpose.
-
-**Config Options:**
-
-ssl_with_bad_version:
-bad_protocol_versions:
-- PROTOCOL_SSLv2
-- SSLv2_METHOD
-- SSLv23_METHOD
-- PROTOCOL_SSLv3  # strict option
-- PROTOCOL_TLSv1  # strict option
-- SSLv3_METHOD# strict option
-- TLSv1_METHOD# strict option
 
 Example of **incorrect** code:
 
 ```python
-
->> Issue: ssl.wrap_socket call with insecure SSL/TLS protocol version
-identified, security issue.
-   Severity: High   Confidence: High
-   Location: ./examples/ssl-insecure-version.py:13
-12  # strict tests
-13  ssl.wrap_socket(ssl_version=ssl.PROTOCOL_SSLv3)
-14  ssl.wrap_socket(ssl_version=ssl.PROTOCOL_TLSv1)
-
+context = ssl.SSLContext(ssl.PROTOCOL_SSLv2)
 ```
+
+Example of **correct** code:
+
+```python
+context = ssl.SSLContext(ssl.PROTOCOL_SSLv23)
+context.options |= ssl.OP_NO_SSLv2
+context.options |= ssl.OP_NO_SSLv3
+```
+
+When using SSLv23 it is important to also provide flags to explicitly exclude bad versions of SSL/TLS from the protocol versions considered. Both the Python native and `pyOpenSSL` modules provide the `OP_NO_SSLv2` and `OP_NO_SSLv3` flags for this purpose.
 
 ## Further Reading
 
-  - <http://heartbleed.com/>
-  - <https://poodlebleed.com/>
-  - <https://security.openstack.org/>
-  - <https://security.openstack.org/guidelines/dg_move-data-securely.html>
+* [ The Python Standard Library - ssl - Security considerations](https://docs.python.org/2/library/ssl.html#security-considerations)
+* [The Heartbleed Bug](http://heartbleed.com/)
 * [OpenStack - B502: ssl_with_bad_version](https://docs.openstack.org/developer/bandit/plugins/ssl_with_bad_version.html)
