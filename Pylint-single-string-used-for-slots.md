@@ -21,6 +21,6 @@ Example of **correct** code:
 ```python
 from collections import deque
 
-class PotentiallyGood(object): # [invalid-slots]
+class PotentiallyGood(object):
     __slots__ = ('a', deque.__name__)
 ```
