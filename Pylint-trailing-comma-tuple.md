@@ -18,5 +18,5 @@ tuple_test = 1, 2,
 Example of **correct** code:
 
 ```python
-tuple_test = 1, 2
+tuple_test = (1, 2)
 ```
