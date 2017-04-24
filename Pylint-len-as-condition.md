@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when incorrect use of `len(sequence)` is detected inside conditions. Use `if sequence` or `if not sequence` instad.
+Used when incorrect use of `len(sequence)` is detected inside conditions. Use `if sequence` or `if not sequence` instead.
 
 
 Example of **incorrect** code:
