@@ -1,4 +1,5 @@
 Pattern: Name is used prior to global declaration
+
 Issue: -
 
 ## Description
