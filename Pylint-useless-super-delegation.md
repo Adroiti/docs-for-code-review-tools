@@ -18,7 +18,7 @@ class Base(object):
         
 class UselessSuper(Base):
 
-    def equivalent_params(self): # [useless-super-delegation]
+    def equivalent_params(self):
         return super(UselessSuper, self).equivalent_params()
 ```
 
