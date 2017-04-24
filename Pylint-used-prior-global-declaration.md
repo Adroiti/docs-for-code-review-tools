@@ -21,7 +21,6 @@ def test():
 Example of **correct** code:
 
 ```python
-```python
 CONST = 1
 
 def test():
