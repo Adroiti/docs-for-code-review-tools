@@ -11,7 +11,7 @@ Also note that `is` is for identity testing, `==` is for equality testing.
 Example of **incorrect** code:
 
 ```python
-if "test" is "code":
+if "test" is "test":
     pass
 ```
 
@@ -21,7 +21,7 @@ Both strings are actually stored in the same memory location, they have the same
 Example of **correct** code:
 
 ```python
-if "test" == "code":
+if "test" == "test":
     pass
 ```
 
