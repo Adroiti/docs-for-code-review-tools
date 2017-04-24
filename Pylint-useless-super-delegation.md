@@ -1,10 +1,10 @@
-Pattern: Useless super delegation in method
+Pattern: Useless `super()` delegation in method
 
 Issue: -
 
 ## Description
 
-Used when overridden method is useless, relying on `super()` delegation to do the same thing as another method from the MRO.
+Used when overridden method is useless, relying on `super()` delegation to do the same thing as another method from the MRO (Method Resolution Order).
 
 
 Example of **incorrect** code:
@@ -39,7 +39,3 @@ class NotUselessSuperDecorators(Base):
     def method_decorated(self):
         super(NotUselessSuperDecorators, self).method_decorated()
 ```
-
-## Further Reading
-
-* [Related link(s) to get more details or background on issue pattern](https://www.python.org)
