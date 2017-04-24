@@ -7,14 +7,14 @@ Issue: -
 Before Python 2.5, a common idiom for ternary was to use logical operators:
 
 ```python
-    [expression] and [on_true] or [on_false]
+[expression] and [on_true] or [on_false]
 ```
 
 However, this idiom is unsafe, as it can give wrong results when `on_true` has a false boolean value. Therefore, it is always better to use the `... if ... else ...` form:
 
 ```python
-    x, y = 50, 25
-    small = x if x < y else y
+x, y = 50, 25
+small = x if x < y else y
 ```
 
 
