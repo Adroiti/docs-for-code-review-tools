@@ -1,6 +1,6 @@
 Pattern: Avoid overlapping exceptions
 
-Issue: Name of found issue related to code. Use '-' to ignore if issue name is dynamic.
+Issue: -
 
 ## Description
 
