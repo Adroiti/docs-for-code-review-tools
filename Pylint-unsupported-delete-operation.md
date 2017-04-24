@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when an object does not support item deletion (i.e. doesn't define `__delitem__`method).
+Used when an object does not support item deletion (i.e. doesn't define `__delitem__` method).
 
 
 Example of **incorrect** code:
