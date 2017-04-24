@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Used when multiple consecutive `isinstance()` calls can be merged into one.
+Used when multiple consecutive `isinstance()` calls can be merged into one thus improving code readability.
 
 
 Example of **incorrect** code:
