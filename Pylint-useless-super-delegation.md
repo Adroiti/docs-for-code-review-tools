@@ -29,11 +29,11 @@ class Base(object):
 
     def something(self):
         pass
-        
+  
+  
 def trigger_something(value_to_trigger):
     pass
-    
-    
+
 class NotUselessSuperDecorators(Base):
     @trigger_something('value1')
     def method_decorated(self):
