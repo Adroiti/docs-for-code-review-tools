@@ -11,6 +11,8 @@ This is taken in account only for a handful of name binding operations, such as 
 Example of **incorrect** code:
 ```python
 def test_redefined_in_with(name):
+    # The `with` is reusing `name`, which means that the following
+    # `name` is not what we wanted to check against.
     with open('something') as name:
         pass
 ```
