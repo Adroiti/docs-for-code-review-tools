@@ -13,10 +13,8 @@ Example of **incorrect** code:
 ```python
 def test(x, y, z):
     if x:
-        a = 1
         return y
-    else:
-        b = 2
+    else:  # This is unnecessary here.
         return z
 ```
 
