@@ -9,15 +9,15 @@ The number of other classes a given class relies on. Also the square of this has
 This check processes files in the following way: 
 
   1. Iterates over the list of tokens (defined below) and counts all mentioned classes. 
-    - [PACKAGE_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#PACKAGE_DEF)
-    - [IMPORT](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#IMPORT)
-    - [CLASS_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#CLASS_DEF)
-    - [INTERFACE_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#INTERFACE_DEF)
-    - [ENUM_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ENUM_DEF)
-    - [TYPE](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#TYPE)
-    - [LITERAL_NEW](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_NEW)
-    - [ LITERAL_THROWS ](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_THROWS)
-    - [ ANNOTATION_DEF ](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ANNOTATION_DEF)
+    - [PACKAGE_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#PACKAGE_DEF)
+    - [IMPORT](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#IMPORT)
+    - [CLASS_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#CLASS_DEF)
+    - [INTERFACE_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#INTERFACE_DEF)
+    - [ENUM_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ENUM_DEF)
+    - [TYPE](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#TYPE)
+    - [LITERAL_NEW](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_NEW)
+    - [ LITERAL_THROWS ](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_THROWS)
+    - [ ANNOTATION_DEF ](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ANNOTATION_DEF)
   2. If a class was imported with direct import (i.e. `import java.math.BigDecimal`), or the class was referenced with the package name (i.e. `java.math.BigDecimal value`) and the package was added to the `excludedPackages` parameter, the class does not increase complexity. 
   3. If a class name was added to the `excludedClasses` parameter, the class does not increase complexity. 
 

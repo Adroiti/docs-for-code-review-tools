@@ -14,7 +14,7 @@ To configure the check:
     <module name="RightCurly"/>
             
 
-To configure the check with policy `alone` for ` else` and [METHOD_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF) tokens: 
+To configure the check with policy `alone` for ` else` and [METHOD_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF) tokens: 
     
     
     <module name="RightCurly">

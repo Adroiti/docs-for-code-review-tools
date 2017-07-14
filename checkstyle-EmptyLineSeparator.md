@@ -50,7 +50,7 @@ Example of declarations with empty line separator that is expected by the check 
     }
           
 
-An example how to check empty line after [VARIABLE_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#VARIABLE_DEF) and [METHOD_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF): 
+An example how to check empty line after [VARIABLE_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#VARIABLE_DEF) and [METHOD_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF): 
     
     
     <module name="EmptyLineSeparator">
@@ -74,7 +74,7 @@ An example how to disallow multiple empty lines inside constructor, initializati
               </module>
           
 
-The check is valid only for statements that have body: [CLASS_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#CLASS_DEF), [INTERFACE_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#INTERFACE_DEF), [ENUM_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ENUM_DEF), [STATIC_INIT](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF), [INSTANCE_INIT](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#INSTANCE_INIT), [METHOD_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF), [CTOR_DEF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#CTOR_DEF), 
+The check is valid only for statements that have body: [CLASS_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#CLASS_DEF), [INTERFACE_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#INTERFACE_DEF), [ENUM_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ENUM_DEF), [STATIC_INIT](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF), [INSTANCE_INIT](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#INSTANCE_INIT), [METHOD_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF), [CTOR_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#CTOR_DEF), 
 
 Example of declarations with multiple empty lines inside method: 
     

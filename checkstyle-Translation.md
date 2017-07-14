@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-A [FileSetCheck](config.html#Overview) that ensures the correct translation of code by checking property files for consistency regarding their keys. Two property files describing one and the same context are consistent if they contain the same keys. TranslationCheck also can check an existence of required translations which must exist in project, if 'requiredTranslations' option is used. 
+A [FileSetCheck](http://checkstyle.sourceforge.net/config.html#Overview) that ensures the correct translation of code by checking property files for consistency regarding their keys. Two property files describing one and the same context are consistent if they contain the same keys. TranslationCheck also can check an existence of required translations which must exist in project, if 'requiredTranslations' option is used. 
 
 Consider the following properties file in the same directory: 
     
@@ -27,7 +27,7 @@ The Translation check will find the typo in the German `hello` key, the missing 
     messages.properties: Key 'ok' missing.
             
 
-Attention: this check could produce false-positives if it is used with [Checker](config.html#Checker) that use cache (property "cacheFile") This is known design problem, will be addressed at [issue](https://github.com/checkstyle/checkstyle/issues/3539). 
+Attention: this check could produce false-positives if it is used with [Checker](http://checkstyle.sourceforge.net/config.html#Checker) that use cache (property "cacheFile") This is known design problem, will be addressed at [issue](https://github.com/checkstyle/checkstyle/issues/3539). 
 
 ## Examples
 

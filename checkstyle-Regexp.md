@@ -6,7 +6,7 @@ Issue: -
 
 A check that makes sure that a specified pattern exists, exists less than a set number of times, or does not exist in the file. 
 
-This check combines all the functionality provided by [RegexpHeader](config_header.html#RegexpHeader) except supplying the regular expression from a file. 
+This check combines all the functionality provided by [RegexpHeader](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader) except supplying the regular expression from a file. 
 
 It differs from them in that it works in multiline mode. Its regular expression can span multiple lines and it checks this against the whole file at once. The others work in singleline mode. Their single or multiple regular expressions can only span one line. They check each of these against each line in the file in turn. 
 
@@ -134,7 +134,7 @@ There is also a feature to limit the number of errors reported. When the limit i
               </module>
             
 
-**To use like [RegexpHeader ](config_header.html#RegexpHeader):**
+**To use like [RegexpHeader ](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader):**
 
 To configure the check to verify that each file starts with the following multiline header. 
 

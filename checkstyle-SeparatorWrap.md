@@ -41,7 +41,7 @@ Example for checking method reference at new line (good case and bad case):
         ::compareToIgnoreCase); // good
             
 
-An example of how to configure the check for [METHOD_REF](apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_REF) at new line: 
+An example of how to configure the check for [METHOD_REF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_REF) at new line: 
     
     
     <module name="SeparatorWrap">

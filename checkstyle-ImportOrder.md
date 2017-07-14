@@ -11,7 +11,7 @@ Checks the ordering/grouping of imports. Features are:
   - import groups aren't separated internally: ensures that each group aren't separated internally by blank line or comment
   - sorts imports inside each group: ensures that imports within each group are in lexicographic order
   - sorts according to case: ensures that the comparison between imports is case sensitive, in [ASCII sort order](https://en.wikipedia.org/wiki/ASCII#Order)
-  - groups static imports: ensures the relative order between regular imports and static imports (see [import orders](property_types.html#importOrder))
+  - groups static imports: ensures the relative order between regular imports and static imports (see [import orders](http://checkstyle.sourceforge.net/property_types.html#importOrder))
 
 Examples section contains examples that work with default formatter configurations of Eclipse, IntelliJ IDEA and NetBeans 
 

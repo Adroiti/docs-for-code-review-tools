@@ -11,7 +11,7 @@ Example (line 36 should not be in diff):
 
 Old Rationale: CVS source control management systems will even print a warning when it encounters a file that doesn't end with a line separator. 
 
-Attention: property fileExtensions works with files that are passed by similar property for at [Checker](config.html#Checker). Please make sure required file extensions are mentioned at Checker's fileExtensions property. 
+Attention: property fileExtensions works with files that are passed by similar property for at [Checker](http://checkstyle.sourceforge.net/config.html#Checker). Please make sure required file extensions are mentioned at Checker's fileExtensions property. 
 
 ## Examples
 

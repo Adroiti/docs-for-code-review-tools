@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks the Javadoc of a method or constructor. By default, does not check for unused throws. To allow documented `java.lang.RuntimeException`s that are not declared, set property allowUndeclaredRTE to true. The scope to verify is specified using the `Scope` class and defaults to `Scope.PRIVATE`. To verify another scope, set property scope to a different [scope](property_types.html#scope). 
+Checks the Javadoc of a method or constructor. By default, does not check for unused throws. To allow documented `java.lang.RuntimeException`s that are not declared, set property allowUndeclaredRTE to true. The scope to verify is specified using the `Scope` class and defaults to `Scope.PRIVATE`. To verify another scope, set property scope to a different [scope](http://checkstyle.sourceforge.net/property_types.html#scope). 
 
 Error messages about parameters and type parameters for which no param tags are present can be suppressed by defining property `allowMissingParamTags`. Error messages about exceptions which are declared to be thrown, but for which no throws tag is present can be suppressed by defining property `allowMissingThrowsTags`. Error messages about methods which return non-void but for which no return tag is present can be suppressed by defining property `allowMissingReturnTag`. 
 

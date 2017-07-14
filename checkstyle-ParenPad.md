@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks the policy on the padding of parentheses; i.e. whether a space is required after a left parenthesis and before a right parenthesis, or such spaces are forbidden, with the exception that it does not check for padding of the right parenthesis at an empty for iterator and empty for initializer. Use check [EmptyForIteratorPad](config_whitespace.html#EmptyForIteratorPad) to validate empty for iterators and [EmptyForInitializerPad](config_whitespace.html#EmptyForInitializerPad) to validate empty for initializers. Typecasts are also not checked, as there is [TypecastParenPad](config_whitespace.html#TypecastParenPad) to validate them. 
+Checks the policy on the padding of parentheses; i.e. whether a space is required after a left parenthesis and before a right parenthesis, or such spaces are forbidden, with the exception that it does not check for padding of the right parenthesis at an empty for iterator and empty for initializer. Use check [EmptyForIteratorPad](http://checkstyle.sourceforge.net/config_whitespace.html#EmptyForIteratorPad) to validate empty for iterators and [EmptyForInitializerPad](http://checkstyle.sourceforge.net/config_whitespace.html#EmptyForInitializerPad) to validate empty for initializers. Typecasts are also not checked, as there is [TypecastParenPad](http://checkstyle.sourceforge.net/config_whitespace.html#TypecastParenPad) to validate them. 
 
 ## Examples
 
