@@ -1,0 +1,26 @@
+Pattern: Check the number of methods declared in each type
+
+Issue: -
+
+## Description
+
+Checks the number of methods declared in each type. This includes the number of each scope (`private`, `package`, `protected` and `public`) as well as an overall total. 
+
+## Examples
+
+To configure the check with defaults: 
+    
+    
+    <module name="MethodCount"/>
+            
+
+To configure the check to allow at most 30 methods per type: 
+    
+    
+    <module name="MethodCount">
+          <property name="maxTotal" value="30"/>
+    </module>
+
+## Further Reading
+
+* [checkstyle - MethodCount](http://checkstyle.sourceforge.net/config_sizes.html#MethodCount)
