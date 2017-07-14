@@ -1,4 +1,4 @@
-Pattern: Check that the order of modifiers conforms to the suggestions in the Java Language specification, sections 8.1.1, 8.3.1 and 8.4.3
+Pattern: Enforce modifier order
 
 Issue: -
 
