@@ -1,4 +1,4 @@
-Pattern: Enforce what packages can be imported in each package
+Pattern: Use of restricted package import
 
 Issue: -
 

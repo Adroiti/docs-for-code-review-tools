@@ -1,4 +1,4 @@
-Pattern: Enforce style of array type definitions
+Pattern: Illegal position for array brackets
 
 Issue: -
 

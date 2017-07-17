@@ -1,4 +1,4 @@
-Pattern: Incorrect padding of parentheses for typecasts
+Pattern: Wrong padding of parentheses for typecast
 
 Issue: -
 
