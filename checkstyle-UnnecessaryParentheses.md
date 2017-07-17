@@ -1,4 +1,4 @@
-Pattern: Unnecessary parentheses are used in a statement or expression
+Pattern: Unnecessary parentheses in a statement or expression
 
 Issue: -
 

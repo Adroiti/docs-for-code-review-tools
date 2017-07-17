@@ -1,4 +1,4 @@
-Pattern: Check that instance variable names conform to a format specified by the format property
+Pattern: Conform instance variable names
 
 Issue: -
 

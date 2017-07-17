@@ -1,4 +1,4 @@
-Pattern: Restrict nested try-catch-finally blocks to a specified depth
+Pattern: Restrict nested `try-catch-finally` block to a specified depth
 
 Issue: -
 

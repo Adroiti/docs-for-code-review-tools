@@ -1,4 +1,4 @@
-Pattern: Check that type names conform to a format specified by the format property
+Pattern: Conform type names
 
 Issue: -
 

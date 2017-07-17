@@ -1,4 +1,4 @@
-Pattern: Check that a token is followed by whitespace
+Pattern: No whitespace after token
 
 Issue: -
 

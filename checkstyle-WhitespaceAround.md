@@ -1,4 +1,4 @@
-Pattern: Check that a token is surrounded by whitespace
+Pattern: Token is not surrounded by whitespace
 
 Issue: -
 
@@ -20,7 +20,7 @@ Checks that a token is surrounded by whitespace. Empty constructor, method, clas
     public @interface Beta {} // empty annotation type
             
 
-may optionally be exempted from the policy using the ` allowEmptyMethods`, `allowEmptyConstructors `, `allowEmptyTypes`, `allowEmptyLoops` `allowEmptyLambdas` and `allowEmptyCatches` properties. 
+may optionally be exempted from the policy using the `allowEmptyMethods`, `allowEmptyConstructors `, `allowEmptyTypes`, `allowEmptyLoops` `allowEmptyLambdas` and `allowEmptyCatches` properties. 
 
 This check does not flag as violation double brace initialization like:
     

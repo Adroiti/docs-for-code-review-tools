@@ -1,4 +1,4 @@
-Pattern: Check that the at-clause tag is followed by description
+Pattern: At-clause should have a non-empty description
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Check annotation usage
+Pattern: Incorrect annotation style
 
 Issue: -
 

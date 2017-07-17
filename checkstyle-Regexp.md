@@ -1,4 +1,4 @@
-Pattern: A check that makes sure that a specified pattern exists (or not) in the file
+Pattern: Make sure that regular expression exists (or not) in the file
 
 Issue: -
 
@@ -8,11 +8,11 @@ A check that makes sure that a specified pattern exists, exists less than a set 
 
 This check combines all the functionality provided by [RegexpHeader](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader) except supplying the regular expression from a file. 
 
-It differs from them in that it works in multiline mode. Its regular expression can span multiple lines and it checks this against the whole file at once. The others work in singleline mode. Their single or multiple regular expressions can only span one line. They check each of these against each line in the file in turn. 
+It differs from them in that it works in multi-line mode. Its regular expression can span multiple lines and it checks this against the whole file at once. The others work in single-line mode. Their single or multiple regular expressions can only span one line. They check each of these against each line in the file in turn. 
 
 **Note:** Because of the different mode of operation there may be some changes in the regular expressions used to achieve a particular end. 
 
-In multiline mode...
+In multi-line mode...
 
   - `^` means the beginning of a line, as opposed to beginning of the input.
   - For beginning of the input use `\A`.
@@ -20,7 +20,7 @@ In multiline mode...
   - For end of input use `\Z`.
   - Each line in the file is terminated with a line feed character.
 
-**Note:** Not all regular expression engines are created equal. Some provide extra functions that others do not and some elements of the syntax may vary. This check makes use of the [ java.util.regex package](https://docs.oracle.com/javase/7/docs/api/java/util/regex/package-summary.html); please check its documentation for details of how to construct a regular expression to achieve a particular goal. 
+**Note:** Not all regular expression engines are created equal. Some provide extra functions that others do not and some elements of the syntax may vary. This check makes use of the [java.util.regex package](https://docs.oracle.com/javase/7/docs/api/java/util/regex/package-summary.html); please check its documentation for details of how to construct a regular expression to achieve a particular goal. 
 
 **Note:** When entering a regular expression as a parameter in the XML config file you must also take into account the XML rules. e.g. if you want to match a < symbol you need to enter &lt;. The regular expression should be entered on one line. 
 
@@ -46,7 +46,7 @@ The check.
               </module>
             
 
-Your statement may be multiline. 
+Your statement may be multi-line. 
     
     
               // This code is copyrighted
@@ -136,7 +136,7 @@ There is also a feature to limit the number of errors reported. When the limit i
 
 **To use like [RegexpHeader ](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader):**
 
-To configure the check to verify that each file starts with the following multiline header. 
+To configure the check to verify that each file starts with the following multi-line header. 
 
 Note the following:
 
@@ -156,7 +156,7 @@ Note the following:
               </module>
             
 
-A more complex example. Note how the import and javadoc multilines are handled, there can be any number of them. 
+A more complex example. Note how the import and javadoc multi-lines are handled, there can be any number of them. 
     
     
               ///////////////////////////////////////////////////////////////////////
@@ -222,7 +222,7 @@ The next 2 examples deal with the following example Java source file:
               * (such as NOI18N) (property legalComment, rfe 1385344).
               *
               * Revision 1.5  2005/11/06 11:54:12  oburn
-              * Incorporate excellent patch [ 1344344 ] Consolidation of regexp checks.
+              * Incorporate excellent patch [1344344] Consolidation of regexp checks.
               *
               * Revision 1.3.8.1  2005/10/11 14:26:32  someone
               * Fix for bug 251.  The broken bit is fixed

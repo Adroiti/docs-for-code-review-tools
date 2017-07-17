@@ -1,4 +1,4 @@
-Pattern: Check that class which has only private constructors is declared as final
+Pattern: Class should be declared as final
 
 Issue: -
 

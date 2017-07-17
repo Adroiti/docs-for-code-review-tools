@@ -44,7 +44,7 @@ To configure the check:
     <module name="EmptyBlock"/>
             
 
-To configure the check for the `text` policy and only ` try` blocks: 
+To configure the check for the `text` policy and only `try` blocks: 
     
     
     <module name="EmptyBlock">

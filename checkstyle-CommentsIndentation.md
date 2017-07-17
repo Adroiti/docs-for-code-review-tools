@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Controls the indentation between comments and surrounding code. Comments are indented at the same level as the surrounding code. Detailed info about such convention can be found [ here](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html#s4.8.6.1-block-comment-style)
+Controls the indentation between comments and surrounding code. Comments are indented at the same level as the surrounding code. Detailed info about such convention can be found [here](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html#s4.8.6.1-block-comment-style)
 
 Please take a look at the following examples to understand how the check works:
 
@@ -82,7 +82,7 @@ Example #5: Single line block comment is placed within an empty code block. Note
     7   public void foo46() {
     8  // comment
     9  // block
-    10 // violation (comment hould have the same indentation level as line 11)
+    10 // violation (comment should have the same indentation level as line 11)
     11  }
             
 

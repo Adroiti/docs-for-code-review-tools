@@ -1,4 +1,4 @@
-Pattern: Check that catch parameter names conform to a format specified by the format property
+Pattern: Conform catch parameter names
 
 Issue: -
 

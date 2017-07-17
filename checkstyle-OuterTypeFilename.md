@@ -1,4 +1,4 @@
-Pattern: Check that the outer type name and the file name match
+Pattern: File name and outer type name do not match
 
 Issue: -
 

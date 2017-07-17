@@ -14,7 +14,7 @@ To configure the check:
     <module name="NeedBraces"/>
             
 
-To configure the check for `if` and ` else` blocks: 
+To configure the check for `if` and `else` blocks: 
     
     
     <module name="NeedBraces">

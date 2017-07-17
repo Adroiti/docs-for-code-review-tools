@@ -1,4 +1,4 @@
-Pattern: Restrict nested for blocks to a specified depth
+Pattern: Restrict nested `for` block to a specified depth
 
 Issue: -
 

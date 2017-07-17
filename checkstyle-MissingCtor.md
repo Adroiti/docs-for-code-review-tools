@@ -1,4 +1,4 @@
-Pattern: Check that classes (except abstract one) define a ctor and don't rely on the default one
+Pattern: Class should define a constructor
 
 Issue: -
 

@@ -16,8 +16,8 @@ This check processes files in the following way:
     - [ENUM_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ENUM_DEF)
     - [TYPE](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#TYPE)
     - [LITERAL_NEW](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_NEW)
-    - [ LITERAL_THROWS ](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_THROWS)
-    - [ ANNOTATION_DEF ](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ANNOTATION_DEF)
+    - [LITERAL_THROWS ](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#LITERAL_THROWS)
+    - [ANNOTATION_DEF ](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#ANNOTATION_DEF)
   2. If a class was imported with direct import (i.e. `import java.math.BigDecimal`), or the class was referenced with the package name (i.e. `java.math.BigDecimal value`) and the package was added to the `excludedPackages` parameter, the class does not increase complexity. 
   3. If a class name was added to the `excludedClasses` parameter, the class does not increase complexity. 
 
@@ -47,7 +47,7 @@ Note, that checkstyle will ignore all classes from the `java.lang` package and i
 
 Also node, that `excludedPackages` will not exclude classes, imported via wildcard (e.g. `import java.math.*`). Instead of wildcard import you should use direct import (e.g. `import java.math.BigDecimal`). 
 
-Also note, that checkstyle will not exlude classes within the same file even if it was listed in the `excludedPackages` parameter. For example, assuming the config is 
+Also note, that checkstyle will not exclude classes within the same file even if it was listed in the `excludedPackages` parameter. For example, assuming the config is 
     
     
     <module name="ClassDataAbstractionCoupling">

@@ -1,4 +1,4 @@
-Pattern: Check that interface type parameter names conform to a format specified by the format property
+Pattern: Conform interface type parameter names
 
 Issue: -
 

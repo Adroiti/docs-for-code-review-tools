@@ -1,4 +1,4 @@
-Pattern: Check that local final variable names conform to a format specified by the format property
+Pattern: Conform local final variable names
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Check nested (internal) classes/interfaces are declared at the bottom of the class after all method and field declarations
+Pattern: Fields and methods should be before inner classes
 
 Issue: -
 

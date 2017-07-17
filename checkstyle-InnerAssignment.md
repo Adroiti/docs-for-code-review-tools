@@ -27,7 +27,7 @@ To configure the check:
     <module name="InnerAssignment"/>
             
 
-To configure the check for only `=`, ` +=`, and `-=` operators: 
+To configure the check for only `=`, `+=`, and `-=` operators: 
     
     
     <module name="InnerAssignment">

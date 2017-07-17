@@ -1,10 +1,10 @@
-Pattern: Check that there is no whitespace before a token
+Pattern: Whitespace before a token
 
 Issue: -
 
 ## Description
 
-Checks that there is no whitespace before a token. More specifically, it checks that it is not preceded with whitespace, or (if linebreaks are allowed) all characters on the line before are whitespace. To allow linebreaks before a token, set property `allowLineBreaks` to ` true`. 
+Checks that there is no whitespace before a token. More specifically, it checks that it is not preceded with whitespace, or (if line breaks are allowed) all characters on the line before are whitespace. To allow line breaks before a token, set property `allowLineBreaks` to `true`. 
 
 ## Examples
 
@@ -14,7 +14,7 @@ To configure the check:
     <module name="NoWhitespaceBefore"/>
             
 
-To configure the check to allow linebreaks before a DOT token: 
+To configure the check to allow line breaks before a DOT token: 
     
     
     <module name="NoWhitespaceBefore">

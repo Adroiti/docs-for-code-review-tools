@@ -22,7 +22,7 @@ To configure the check so that it checks local variables and parameters:
     </module>
             
 
-By default, this check skip final validation on [ Enhanced For-Loop](http://docs.oracle.com/javase/specs/jls/se8/html/jls-14.html#jls-14.14.2). 
+By default, this check skip final validation on [Enhanced For-Loop](http://docs.oracle.com/javase/specs/jls/se8/html/jls-14.html#jls-14.14.2). 
 
 Option 'validateEnhancedForLoopVariable' could be used to make check to validate even variable from Enhanced For Loop. 
 

@@ -1,4 +1,4 @@
-Pattern: Check that class type parameter names conform to a format specified by the format property.
+Pattern: Conform class type parameter names
 
 Issue: -
 

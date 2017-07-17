@@ -1,4 +1,4 @@
-Pattern: Check that the clone method is not overridden from the Object class
+Pattern: Avoid using `clone()` method
 
 Issue: -
 

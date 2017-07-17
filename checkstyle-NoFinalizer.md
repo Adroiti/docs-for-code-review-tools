@@ -1,4 +1,4 @@
-Pattern: Check that no method having zero parameters is defined using the name finalize
+Pattern: Avoid using `finalize()` method
 
 Issue: -
 

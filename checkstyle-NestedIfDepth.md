@@ -1,10 +1,10 @@
-Pattern: Restrict nested if-else blocks to a specified depth
+Pattern: Restrict nested `if-else` block to a specified depth
 
 Issue: -
 
 ## Description
 
-Restricts nested if-else blocks to a specified depth (default = 1). 
+Restricts nested `if-else` blocks to a specified depth (default = 1). 
 
 ## Examples
 

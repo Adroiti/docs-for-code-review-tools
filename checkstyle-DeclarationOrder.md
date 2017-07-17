@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-According to [ Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconventions-141855.html#1852) , the parts of a class or interface declaration should appear in the following order: 
+According to [Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconventions-141855.html#1852) , the parts of a class or interface declaration should appear in the following order: 
 
   1. Class (static) variables. First the public class variables, then protected, then package level (no access modifier), and then private. 
   2. Instance variables. First the public class variables, then protected, then package level (no access modifier), and then private. 

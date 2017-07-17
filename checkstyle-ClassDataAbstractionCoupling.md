@@ -1,4 +1,4 @@
-Pattern: This metric measures the number of instantiations of other classes within the given class
+Pattern: High data abstraction coupling (DAC)
 
 Issue: -
 
@@ -116,7 +116,7 @@ Note, that checkstyle will ignore all classes from the `java.lang` package and i
 
 Also node, that `excludedPackages` will not exclude classes, imported via wildcard (e.g. `import java.math.*`). Instead of wildcard import you should use direct import (e.g. `import java.math.BigDecimal`). 
 
-Also note, that checkstyle will not exlude classes within the same file even if it was listed in the `excludedPackages` parameter. For example, assuming the config is 
+Also note, that checkstyle will not exclude classes within the same file even if it was listed in the `excludedPackages` parameter. For example, assuming the config is 
     
     
     <module name="ClassDataAbstractionCoupling">

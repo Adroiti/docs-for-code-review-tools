@@ -1,4 +1,4 @@
-Pattern: Visibility of class members
+Pattern: Enforce visibility of class members
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Detects empty statements (standalone ';')
+Pattern: Disallow empty statements
 
 Issue: -
 

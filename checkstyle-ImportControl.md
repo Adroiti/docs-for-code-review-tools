@@ -1,4 +1,4 @@
-Pattern: Check that controls what packages can be imported in each package
+Pattern: Enforce what packages can be imported in each package
 
 Issue: -
 
@@ -8,12 +8,12 @@ Controls what can be imported in each package. Useful for ensuring that applicat
 
 Short description of the behaviour: 
 
-  - check starts checking from the longest matching subpackage (later 'current subpackage') described inside import control file to package defined in class file.
+  - check starts checking from the longest matching subpage (later 'current subpackage') described inside import control file to package defined in class file.
   - If there is matching allow/disallow rule inside the current subpackage then the check returns "allowed" or "disallowed" message.
   - If there is no matching allow/disallow rule inside the current subpackage then it continues checking in the parent subpackage.
   - If there is no matching allow/disallow rule in any of the subpackages, including the root level (import-control), then the import is disallowed by default.
 
-The DTD for a import control XML document is at [ http://checkstyle.sourceforge.net/dtds/import_control_1_3.dtd](http://checkstyle.sourceforge.net/dtds/import_control_1_3.dtd). It contains documentation on each of the elements and attributes. 
+The DTD for a import control XML document is at [http://checkstyle.sourceforge.net/dtds/import_control_1_3.dtd](http://checkstyle.sourceforge.net/dtds/import_control_1_3.dtd). It contains documentation on each of the elements and attributes. 
 
 The check validates a XML document when it loads the document. To validate against the above DTD, include the following document type declaration in your XML document: 
     
@@ -126,7 +126,7 @@ When `strategyOnMismatch` has `allowed` or `disallowed` value for `subpackage` t
     </import-control>
             
 
-For a real-life import control file look at the file called [ import-control.xml](https://github.com/checkstyle/checkstyle/blob/master/config/import-control.xml) which is part of the Checkstyle distribution. 
+For a real-life import control file look at the file called [import-control.xml](https://github.com/checkstyle/checkstyle/blob/master/config/import-control.xml) which is part of the Checkstyle distribution. 
 
 ### Example of blacklist mode
 

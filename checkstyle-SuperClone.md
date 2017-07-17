@@ -1,4 +1,4 @@
-Pattern: Check that an overriding clone() method invokes super.clone()
+Pattern: Missing `super.clone()` call
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Check that local, non-final variable names conform to a format specified by the format property
+Pattern: Conform local, non-`final` variable names
 
 Issue: -
 
@@ -14,7 +14,7 @@ To configure the check to use the default configuration:
     <module name="LocalVariableName"/>
             
 
-An example of how to configure the check to allow one character variable name in [ initialization expressions](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html) in FOR loop: 
+An example of how to configure the check to allow one character variable name in [initialization expressions](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html) in FOR loop: 
     
     
     <module name="LocalVariableName">

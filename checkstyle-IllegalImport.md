@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks for imports from a set of illegal packages. By default, the check rejects all `sun.*` packages since programs that contain direct calls to the `sun.*` packages are "[not guaranteed to work on all Java-compatible platforms"](http://www.oracle.com/technetwork/java/faq-sun-packages-142232.html). To reject other packages, set property ` illegalPkgs` to a list of the illegal packages. 
+Checks for imports from a set of illegal packages. By default, the check rejects all `sun.*` packages since programs that contain direct calls to the `sun.*` packages are "[not guaranteed to work on all Java-compatible platforms"](http://www.oracle.com/technetwork/java/faq-sun-packages-142232.html). To reject other packages, set property `illegalPkgs` to a list of the illegal packages. 
 
 ## Examples
 

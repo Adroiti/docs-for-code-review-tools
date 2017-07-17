@@ -1,4 +1,4 @@
-Pattern: Ensure that the names of abstract classes conforms to some regular expression.
+Pattern: Conform `abstract` class name
 
 Issue: -
 

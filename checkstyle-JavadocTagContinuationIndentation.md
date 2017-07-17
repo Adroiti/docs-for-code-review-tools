@@ -1,4 +1,4 @@
-Pattern: Check the indentation of the continuation lines in at-clauses
+Pattern: Incorrect indentation of continuation lines in at-clauses
 
 Issue: -
 

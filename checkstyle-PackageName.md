@@ -1,4 +1,4 @@
-Pattern: Check that package names conform to a format specified by the format property
+Pattern: Conform package names
 
 Issue: -
 

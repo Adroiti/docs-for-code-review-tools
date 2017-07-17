@@ -24,7 +24,7 @@ To configure the check to enforce final parameters only for constructors:
     </module>
             
 
-To configure the check to allow ignoring [ primitive datatypes](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) as parameters: 
+To configure the check to allow ignoring [primitive datatypes](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) as parameters: 
     
     
     <module name="FinalParameters">

@@ -31,7 +31,7 @@ To configure the check:
     <module name="ModifiedControlVariable"/>
             
 
-By default, This check validates [ Enhanced For-Loop](http://docs.oracle.com/javase/specs/jls/se8/html/jls-14.html#jls-14.14.2). 
+By default, This check validates [Enhanced For-Loop](http://docs.oracle.com/javase/specs/jls/se8/html/jls-14.html#jls-14.14.2). 
 
 Option 'skipEnhancedForLoopVariable' could be used to skip check of variable from Enhanced For Loop. 
 
