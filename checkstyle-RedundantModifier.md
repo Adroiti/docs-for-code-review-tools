@@ -22,7 +22,7 @@ Fields in interfaces and annotations are automatically public, static and final,
 
 As annotations are a form of interface, their fields are also automatically public, static and final just as their annotation fields are automatically public and abstract. 
 
-Enums by definition are static implicit subclasses of java.lang.Enum<E>. So, the `static` modifier on the enums is redundant. In addition, if enum is inside of interface, `public` modifier is also redundant. 
+Enums by definition are static implicit subclasses of `java.lang.Enum<E>`. So, the `static` modifier on the enums is redundant. In addition, if enum is inside of interface, `public` modifier is also redundant. 
 
 Enums can also contain abstract methods and methods which can be overridden by the declared enumeration fields. See the following example: 
     

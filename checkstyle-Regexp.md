@@ -61,7 +61,7 @@ Then the check would be.
               </module>
             
 
-**Note:** To search for parentheses () in a regular expression you must escape them like \\(\\). This is required by the regexp engine, otherwise it will think they are special instruction characters. 
+**Note:** To search for parentheses () in a regular expression you must escape them like \\(\\). This is required by the Regexp engine, otherwise it will think they are special instruction characters. 
 
 And to make sure it appears only once: 
     
@@ -81,7 +81,7 @@ It can also be useful to attach a meaningful message to the check:
               </module>
             
 
-**To use like illegal regexp check:**
+**To use like illegal Regexp check:**
 
 An example of how to configure the check to make sure there are no calls to `System.out.println`: 
     
@@ -122,7 +122,7 @@ An example of how to configure the check to find case-insensitive occurrences of
               </module>
             
 
-**Note:** The (?i) at the beginning of the regular expression tells the regexp engine to ignore the case. 
+**Note:** The (?i) at the beginning of the regular expression tells the Regexp engine to ignore the case. 
 
 There is also a feature to limit the number of errors reported. When the limit is reached the check aborts with a message reporting that the limit has been reached. The default limit setting is 100, but this can be change as shown in the following example. 
     
@@ -156,7 +156,7 @@ Note the following:
               </module>
             
 
-A more complex example. Note how the import and javadoc multi-lines are handled, there can be any number of them. 
+A more complex example. Note how the import and Javadoc multi-lines are handled, there can be any number of them. 
     
     
               ///////////////////////////////////////////////////////////////////////
@@ -173,9 +173,9 @@ A more complex example. Note how the import and javadoc multi-lines are handled,
               import java.util.thing3;
     
               /**
-              * javadoc line 1
-              * javadoc line 2
-              * javadoc line 3
+              * Javadoc line 1
+              * Javadoc line 2
+              * Javadoc line 3
               */
             
     
@@ -250,7 +250,7 @@ The next 2 examples deal with the following example Java source file:
               */
               public class PID extends StateMachine implements WebObject.Constants {
     
-              /** javadoc. */
+              /** Javadoc. */
               public static final int A_SETPOINT = 1;
               .
               .
@@ -297,7 +297,7 @@ Note the following:
               </module>
             
 
-This checks for the presence of a copyright notice within the class javadoc, lines 24 to 37. 
+This checks for the presence of a copyright notice within the class Javadoc, lines 24 to 37. 
     
     
               <module name="Regexp">

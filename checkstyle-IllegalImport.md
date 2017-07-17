@@ -36,8 +36,8 @@ The following example shows class with no illegal imports
 
 The following example shows class with two illegal imports 
 
-  - **java.io.***, illegalPkgs property contains this package
-  - **java.sql.Connection** is inside java.sql package
+  - **java.io.***, `illegalPkgs` property contains this package
+  - **java.sql.Connection** is inside `java.sql` package
     
     
     import java.io.*;           // violation

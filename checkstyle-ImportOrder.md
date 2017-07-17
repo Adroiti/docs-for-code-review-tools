@@ -6,7 +6,7 @@ Issue: -
 
 Checks the ordering/grouping of imports. Features are:
 
-  - groups imports: ensures that groups of imports come in a specific order (e.g., java. comes first, javax. comes second, then everything else)
+  - groups imports: ensures that groups of imports come in a specific order (e.g., `java.` comes first, `javax.` comes second, then everything else)
   - adds a separation between groups : ensures that a blank line sit between each group
   - import groups aren't separated internally: ensures that each group aren't separated internally by blank line or comment
   - sorts imports inside each group: ensures that imports within each group are in lexicographic order

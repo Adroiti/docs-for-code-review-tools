@@ -45,7 +45,7 @@ To ensure that summary do not contain phrase like "This method returns" , use fo
     </module>
             
 
-To specify period symbol at the end of first javadoc sentence: 
+To specify period symbol at the end of first Javadoc sentence: 
     
     
     <module name="SummaryJavadocCheck">
@@ -58,14 +58,14 @@ Example of period property.
     
     public class TestClass {
        /**
-        * This is invalid java doc.
+        * This is invalid Javadoc
         */
-        void invalidJavaDocMethod() {
+        void invalidJavadocMethod() {
         }
        /**
-        * This is valid java doc。
+        * This is valid Javadoc
         */
-        void validJavaDocMethod() {
+        void validJavadocMethod() {
         }
     }
 

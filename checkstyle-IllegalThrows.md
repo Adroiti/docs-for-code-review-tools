@@ -14,7 +14,7 @@ To configure the check:
     <module name="IllegalThrows"/>
             
 
-To configure the check rejecting throws NullPointerException from methods: 
+To configure the check rejecting throws `NullPointerException` from methods: 
     
     
     <module name="IllegalThrows">

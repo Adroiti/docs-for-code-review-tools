@@ -28,9 +28,9 @@ Examples of validating source code with skipNoJavadoc:
     @deprecated
     public static final int MY_CONST = 123456; // no violation
     
-    /** This javadoc is missing deprecated tag. */
+    /** This Javadoc is missing deprecated tag. */
     @deprecated
-    public static final int COUNTER = 10; // violation as javadoc exists
+    public static final int COUNTER = 10; // violation as Javadoc exists
 
 ## Further Reading
 

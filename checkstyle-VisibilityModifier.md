@@ -144,7 +144,7 @@ Example of how the check works:
     }
             
 
-To configure the check passing fields annotated with @com.annotation.CustomAnnotation: 
+To configure the check passing fields annotated with `@com.annotation.CustomAnnotation`: 
     
     
     <module name="VisibilityModifier">
@@ -165,7 +165,7 @@ Example of allowed field:
     }
             
 
-To configure the check passing fields annotated with @org.junit.Rule, @org.junit.ClassRule and @com.google.common.annotations.VisibleForTesting annotations: 
+To configure the check passing fields annotated with `@org.junit.Rule`, `@org.junit.ClassRule` and `@com.google.common.annotations.VisibleForTesting` annotations: 
     
     
     <module name="VisibilityModifier"/>

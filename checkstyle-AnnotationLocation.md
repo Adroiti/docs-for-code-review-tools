@@ -11,7 +11,7 @@ Attention: Annotations among modifiers are ignored (looks like false-negative) a
     
     public @Nullable Long getStartTimeOrNull() { ... }
 
-Such annotations are better to keep close to type. Due to limitations Checkstyle can not examine target of annotation. 
+Such annotations are better to keep close to type. Due to limitations Checkstyle cannot examine target of annotation. 
 
 Example: 
     

@@ -10,7 +10,7 @@ Nothing wrong could be with founded classes. This check makes sense only for lib
 
 ATTENTION: Only user can decide whether a class is designed for extension or not. The check just shows all classes which are possibly designed for extension. If smth inappropriate is found please use suppression. 
 
-ATTENTION: If the method which can be overridden in a subclass has a Javadoc comment (a good practice is to explain its self-use of override-able methods) the check will not rise a violation. The violation can also be skipped if the method which can be overridden in a subclass has one or more annotations that are specified in ignoredAnnotations option. Note, that by default @Override annotation is not included in the ignoredAnnotations set as in a subclass the method which has the annotation can also be overridden in its subclass. 
+ATTENTION: If the method which can be overridden in a subclass has a Javadoc comment (a good practice is to explain its self-use of override-able methods) the check will not rise a violation. The violation can also be skipped if the method which can be overridden in a subclass has one or more annotations that are specified in ignoredAnnotations option. Note, that by default `@Override` annotation is not included in the ignoredAnnotations set as in a subclass the method which has the annotation can also be overridden in its subclass. 
 
 Problem is described at _Effective Java, 2nd Edition by Josh Bloch book, chapter Item 17: Design and document for inheritance or else prohibit it_. 
 
@@ -85,7 +85,7 @@ To configure the check:
     <module name="DesignForExtension"/>
             
 
-To configure the check to allow methods which have @Override and @Test annotations to be designed for extension. 
+To configure the check to allow methods which have `@Override` and `@Test` annotations to be designed for extension. 
     
     
     <module name="DesignForExtension">

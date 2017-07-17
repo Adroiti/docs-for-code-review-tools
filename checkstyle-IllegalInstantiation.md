@@ -14,7 +14,7 @@ Some extremely performance sensitive projects may require the use of factory met
 
 ## Examples
 
-To configure the check to find instantiations of java.lang.Boolean: 
+To configure the check to find instantiations of `java.lang.Boolean`: 
     
     
     <module name="IllegalInstantiation">

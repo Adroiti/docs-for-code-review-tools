@@ -27,7 +27,7 @@ For example, consider the following header:
     line 14: ^ \*/
             
 
-Lines 1 and 6 demonstrate a more compact notation for 71 '/' characters. Line 4 enforces that the copyright notice includes a four digit year. Line 5 is an example how to enforce revision control keywords in a file header. Lines 12-14 is a template for javadoc (line 13 is so complicated to remove conflict with and of Javadoc comment). 
+Lines 1 and 6 demonstrate a more compact notation for 71 '/' characters. Line 4 enforces that the copyright notice includes a four digit year. Line 5 is an example how to enforce revision control keywords in a file header. Lines 12-14 is a template for Javadoc (line 13 is so complicated to remove conflict with and of Javadoc comment). 
 
 Different programming languages have different comment syntax rules, but all of them start a comment with a non-word character. Hence you can often use the non-word character class to abstract away the concrete comment syntax and allow checking the header for different languages with a single header definition. For example, consider the following header specification (note that this is not the full Apache license header): 
     
