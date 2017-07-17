@@ -1,4 +1,4 @@
-Pattern: Avoid using `finalize()` method
+Pattern: Use of `finalize()` method
 
 Issue: -
 

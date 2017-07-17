@@ -1,4 +1,4 @@
-Pattern: Avoid duplicate keys in properties file
+Pattern: Duplicate keys in properties file
 
 Issue: -
 

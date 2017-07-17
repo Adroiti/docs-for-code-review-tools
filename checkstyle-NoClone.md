@@ -1,4 +1,4 @@
-Pattern: Avoid using `clone()` method
+Pattern: Use of `clone()` method
 
 Issue: -
 

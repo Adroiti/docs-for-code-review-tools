@@ -1,4 +1,4 @@
-Pattern: Avoid multiple variable declarations
+Pattern: Use of multiple variable declarations
 
 Issue: -
 
