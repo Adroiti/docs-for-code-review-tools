@@ -1,4 +1,4 @@
-Pattern: Cyclomatic complexity against a specified limit
+Pattern: Cyclomatic complexity it too high
 
 Issue: -
 

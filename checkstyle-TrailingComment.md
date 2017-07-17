@@ -1,4 +1,4 @@
-Pattern: Ensure that requires that comments be the only thing on a line
+Pattern: Use of trailing comment
 
 Issue: -
 

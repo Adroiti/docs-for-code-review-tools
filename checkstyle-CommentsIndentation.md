@@ -1,4 +1,4 @@
-Pattern: Controls the indentation between comments and surrounding code
+Pattern: Malformed comment indentation
 
 Issue: -
 

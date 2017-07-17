@@ -1,12 +1,10 @@
-Pattern: The number of other classes a given class relies on
+Pattern: Class relies on too many other classes
 
 Issue: -
 
 ## Description
 
-The number of other classes a given class relies on. Also the square of this has been shown to indicate the amount of maintenance required in functional programs (on a file basis) at least. 
-
-This check processes files in the following way: 
+In other other words, class fan-out complexity is too high. It has direct impact on amount of maintenance required in functional programs. This check processes files in the following way:
 
   1. Iterates over the list of tokens (defined below) and counts all mentioned classes. 
     - [PACKAGE_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#PACKAGE_DEF)

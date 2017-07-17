@@ -1,16 +1,16 @@
-Pattern: Check that code doesn't rely on the `this` default
+Pattern: Missing `this.` for method or instance variable
 
 Issue: -
 
 ## Description
 
-Checks that references to instance variables and methods of the present object are explicitly of the form "this.varName" or "this.methodName(args)" and that those references don't rely on the default behavior when "this." is absent. 
+Checks that references to instance variables and methods of the present object are explicitly of the form `this.varName` or `this.methodName(args)` and that those references don't rely on the default behavior when `this.` is absent. 
 
-Warning: the check is very controversial if 'validateOnlyOverlapping' option is set to 'false' and not that actual nowadays. 
+Warning: the check is very controversial if `validateOnlyOverlapping` option is set to 'false' and not that actual nowadays. 
 
 Rationale: 
 
-  1. The same notation/habit for C++ and Java (C++ have global methods, so having "this." do make sense in it to distinguish call of method of class instead of global). 
+  1. The same notation/habit for C++ and Java (C++ have global methods, so having `this.` do make sense in it to distinguish call of method of class instead of global). 
   2. Non-IDE development (ease of refactoring, some clearness to distinguish static and non-static methods). 
 
 ## Examples
@@ -65,7 +65,7 @@ Examples of how the check works if validateOnlyOverlapping option is set to true
 
 Please, be aware of the following logic, which is implemented in the check: 
 
-1) If you arrange 'this' in your code on your own, the check will not raise violation for variables which use 'this' to reference a class field, for example: 
+1) If you arrange `this` in your code on your own, the check will not raise violation for variables which use `this` to reference a class field, for example: 
     
     
     public class C {

@@ -1,10 +1,10 @@
-Pattern: Avoid escaped unicode characters
+Pattern: Use of unicode escape
 
 Issue: -
 
 ## Description
 
-Restrict using [Unicode escapes](http://docs.oracle.com/javase/specs/jls/se7/html/jls-3.html#jls-3.3) (e.g. \u221e). It is possible to allow using escapes for [non-printable(control) characters](https://en.wiktionary.org/wiki/Appendix:Control_characters). Also, this check can be configured to allow using escapes if trail comment is present. By the option it is possible to allow using escapes if literal contains only them. 
+Restrict using [Unicode escapes](http://docs.oracle.com/javase/specs/jls/se7/html/jls-3.html#jls-3.3) (e.g. \u221e). It is possible to allow using escapes for [non-printable(control) characters](https://en.wiktionary.org/wiki/Appendix:Control_characters). Also, this check can be configured to allow using escapes if trail comment is present. It is possible to allow using escapes if literal contains only them. 
 
 ## Examples
 

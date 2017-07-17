@@ -1,4 +1,4 @@
-Pattern: Maintains a set of check suppressions from SuppressWarnings annotations.
+Pattern: Malformed `@SuppressWarnings` annotation
 
 Issue: -
 

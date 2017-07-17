@@ -1,4 +1,4 @@
-Pattern: Check that if a class defines a covariant method equals, then it defines method equals(java.lang.Object).
+Pattern: Use of covariant `equals()` without overriding `equals(Object)`
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Restricted tokens beneath other tokens
+Pattern: Incorrect use descendant token
 
 Issue: -
 

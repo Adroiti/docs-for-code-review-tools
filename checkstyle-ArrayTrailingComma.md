@@ -1,4 +1,4 @@
-Pattern: Array initialization contains optional trailing comma
+Pattern: Missing trailing comma in array initialization
 
 Issue: -
 

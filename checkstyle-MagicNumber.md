@@ -1,4 +1,4 @@
-Pattern: Magic numbers
+Pattern: Use of magic number
 
 Issue: -
 

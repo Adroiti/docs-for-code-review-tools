@@ -1,4 +1,4 @@
-Pattern: Enforce order for parts of a class or interface declaration
+Pattern: Wrong order for parts of a class or interface declaration
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Any class or object member explicitly initialized to default for its type value (null for object references, zero for numeric types and char and false for boolean.
+Pattern: Explicit variable initialization
 
 Issue: -
 

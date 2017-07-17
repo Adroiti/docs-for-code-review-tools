@@ -1,10 +1,10 @@
-Pattern: The TranslationCheck class helps to ensure the correct translation of code by checking property files for consistency regarding their keys
+Pattern: Incorrect translation of code
 
 Issue: -
 
 ## Description
 
-A [FileSetCheck](http://checkstyle.sourceforge.net/config.html#Overview) that ensures the correct translation of code by checking property files for consistency regarding their keys. Two property files describing one and the same context are consistent if they contain the same keys. TranslationCheck also can check an existence of required translations which must exist in project, if 'requiredTranslations' option is used. 
+A [FileSetCheck](http://checkstyle.sourceforge.net/config.html#Overview) that ensures the correct translation of code by checking property files for consistency regarding their keys. Two property files describing one and the same context are consistent if they contain the same keys. TranslationCheck also can check an existence of required translations which must exist in project, if `requiredTranslations` option is used. 
 
 Consider the following properties file in the same directory: 
     

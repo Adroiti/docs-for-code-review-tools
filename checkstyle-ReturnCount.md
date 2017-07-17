@@ -1,4 +1,4 @@
-Pattern: Restrict return statements to a specified count
+Pattern: Too many `return` statements
 
 Issue: -
 
