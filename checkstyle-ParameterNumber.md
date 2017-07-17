@@ -1,4 +1,4 @@
-Pattern: Check the number of parameters that a method or constructor has
+Pattern: Too many parameters for method or constructor
 
 Issue: -
 
@@ -23,7 +23,7 @@ To configure the check to allow 10 parameters for a method:
     </module>
             
 
-To configure the check to ignore number of parameters for methods with @Override or @java.lang.Override annotation. 
+To configure the check to ignore number of parameters for methods with `@Override` or `@java.lang.Override` annotation. 
 
 Rationale: developer may need to override method with many parameters from 3-rd party library. In this case developer has no control over number of parameters. 
     

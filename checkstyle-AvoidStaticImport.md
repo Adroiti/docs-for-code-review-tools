@@ -1,4 +1,4 @@
-Pattern: Avoid static `import`
+Pattern: Use of static `import`
 
 Issue: -
 

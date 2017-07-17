@@ -1,4 +1,4 @@
-Pattern: Check that the default is after all the cases in a switch statement.
+Pattern: Misplaced `default` in `switch` statement
 
 Issue: -
 

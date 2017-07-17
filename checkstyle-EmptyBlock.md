@@ -1,4 +1,4 @@
-Pattern: Empty blocks but does not validate sequential blocks
+Pattern: Use of empty block
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Checks for empty blocks. This check does not validate sequential blocks. 
 
-Sequential blocks won't be checked. Also, no violations for fallthrough: 
+Sequential blocks won't be checked. Also, no violations for fall through: 
     
     
                 switch (a) {

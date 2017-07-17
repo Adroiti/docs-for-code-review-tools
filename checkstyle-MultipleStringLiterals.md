@@ -1,4 +1,4 @@
-Pattern: Multiple occurrences of the same string literal within a single file
+Pattern: Multiple occurrences of the same string literal
 
 Issue: -
 

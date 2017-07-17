@@ -1,10 +1,10 @@
-Pattern: Restrict nested boolean operators (&amp;&amp;, ||, &amp;, | and ^) to a specified depth
+Pattern: Too many conditions in boolean expression
 
 Issue: -
 
 ## Description
 
-Restrict the number of number of `&&`, `||`, `&`, `|` and `^` in an expression. 
+Restrict the number of `&&`, `||`, `&`, `|` and `^` in an expression. 
 
 Rationale: Too many conditions leads to code that is difficult to read and hence debug and maintain. 
 

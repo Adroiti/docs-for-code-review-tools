@@ -1,10 +1,10 @@
-Pattern: Avoid duplicate entries in properties file
+Pattern: Avoid duplicate keys in properties file
 
 Issue: -
 
 ## Description
 
-Checks properties files for duplicated properties. 
+Checks properties files for duplicated keys. 
 
 Rationale: Multiple property keys usually appear after merge or rebase of several branches. While there are no errors in runtime, there can be a confusion due to having different values for the duplicated properties. 
 

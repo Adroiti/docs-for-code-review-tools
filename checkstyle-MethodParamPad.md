@@ -1,4 +1,4 @@
-Pattern: Check the padding between the identifier of a method definition, constructor definition, method call, or constructor invocation; and the left parenthesis of the parameter list
+Pattern: Malformed padding for method parameter list
 
 Issue: -
 

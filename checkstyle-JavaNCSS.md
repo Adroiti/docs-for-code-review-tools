@@ -1,4 +1,4 @@
-Pattern: Check Non Commenting Source Statements (NCSS) metric
+Pattern: Too many Non Commenting Source Statements (NCSS)
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Assignments in subexpressions, such as in String s = Integer.toString(i = 2);
+Pattern: Use of inner assignment
 
 Issue: -
 

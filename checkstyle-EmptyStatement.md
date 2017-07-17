@@ -1,4 +1,4 @@
-Pattern: Disallow empty statements
+Pattern: Use of empty statement
 
 Issue: -
 

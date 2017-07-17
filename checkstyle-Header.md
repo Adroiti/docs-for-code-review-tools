@@ -1,4 +1,4 @@
-Pattern: Check the header of the source against a fixed header file
+Pattern: Malformed file header
 
 Issue: -
 

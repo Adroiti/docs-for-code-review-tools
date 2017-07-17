@@ -1,12 +1,12 @@
-Pattern: Fall through in switch statements Finds locations where a case contains Java code - but lacks a break, return, throw or continue statement
+Pattern: Fall-through in `switch` statement
 
 Issue: -
 
 ## Description
 
-Checks for fall-through in `switch` statements. Finds locations where a `case` **contains** Java code but lacks a `break`, `return`, `throw` or `continue` statement. 
+Checks for fall-through in `switch` statements. Finds locations where a `case` **contains** Java code but lacks a `break`, `return`, `throw` or `continue` statement.
 
-The check honors special comments to suppress the warning. By default the text "fallthru", "fall through", "fallthrough", "falls through" and "fallsthrough" are recognized (case sensitive). The comment containing these words must be all on one line, and must be on the last non-empty line before the `case` triggering the warning or on the same line before the `case` (ugly, but possible). 
+The check honors special comments to suppress the warning. By default the text "fallthru", "fall through", "fallthrough", "falls through" and "fallsthrough" are recognized (case sensitive). The comment containing these words must be all on one line, and must be on the last non-empty line before the `case` triggering the warning or on the same line before the `case` (ugly, but possible).
     
     
     switch (i){

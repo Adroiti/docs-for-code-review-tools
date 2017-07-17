@@ -1,10 +1,10 @@
-Pattern: Unused import statements
+Pattern: Unused `import` statement
 
 Issue: -
 
 ## Description
 
-Checks for unused import statements. Checkstyle uses a simple but very reliable algorithm to report on unused import statements. An import statement is considered unused if: 
+An import statement is considered unused if: 
 
   - It is not referenced in the file. The algorithm does not support wild-card imports like `import java.io.*;`. Most IDE's provide very sophisticated checks for imports that handle wild-card imports. 
   - It is a duplicate of another import. This is when a class is imported more than once. 

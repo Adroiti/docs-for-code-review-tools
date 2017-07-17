@@ -1,4 +1,4 @@
-Pattern: Check that non-whitespace characters are separated by no more than one whitespace
+Pattern: Use a single space to separate non-whitespace characters
 
 Issue: -
 

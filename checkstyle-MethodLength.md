@@ -1,4 +1,4 @@
-Pattern: Long methods
+Pattern: Method is too long
 
 Issue: -
 

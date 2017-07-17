@@ -1,4 +1,4 @@
-Pattern: Ensure there is a package declaration and (optionally) in the correct directory
+Pattern: Malformed class package declaration
 
 Issue: -
 

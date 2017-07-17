@@ -1,4 +1,4 @@
-Pattern: Line wrapping with separators
+Pattern: Wrong line wrapping with separators
 
 Issue: -
 

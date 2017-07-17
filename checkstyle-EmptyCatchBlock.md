@@ -1,14 +1,14 @@
-Pattern: Empty catch blocks with few options to skip violation
+Pattern: Use of empty `catch` block
 
 Issue: -
 
 ## Description
 
-Checks for empty catch blocks. There are two options to make validation more precise (by default check allows empty catch block with any comment inside): 
+Checks for empty `catch` blocks. There are two options to make validation more precise (by default check allows empty `catch` block with any comment inside): 
 
 ## Examples
 
-To configure the check to suppress empty catch block if exception's variable name is `expected` or `ignore` or there's any comment inside: 
+To configure the check to suppress empty `catch` block if exception's variable name is `expected` or `ignore` or there's any comment inside: 
     
     
     <module name="EmptyCatchBlock">
@@ -16,7 +16,7 @@ To configure the check to suppress empty catch block if exception's variable nam
     </module>
             
 
-To configure the check to suppress empty catch block if single-line comment inside is "//This is expected": 
+To configure the check to suppress empty `catch` block if single-line comment inside is "//This is expected": 
     
     
     <module name="EmptyCatchBlock">
@@ -24,7 +24,7 @@ To configure the check to suppress empty catch block if single-line comment insi
     </module>
             
 
-To configure the check to suppress empty catch block if single-line comment inside is "//This is expected" or exception's variable name is "myException" (any option is matching): 
+To configure the check to suppress empty `catch` block if single-line comment inside is "//This is expected" or exception's variable name is "myException" (any option is matching): 
     
     
     <module name="EmptyCatchBlock">

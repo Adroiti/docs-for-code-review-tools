@@ -1,4 +1,4 @@
-Pattern: Ensure that exceptions are immutable
+Pattern: Exception class it not immutable
 
 Issue: -
 

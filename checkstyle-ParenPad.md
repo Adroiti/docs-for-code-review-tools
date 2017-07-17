@@ -1,4 +1,4 @@
-Pattern: Check the padding of parentheses
+Pattern: Malformed padding of parentheses
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Correct indentation of Java Code
+Pattern: Incorrect indentation
 
 Issue: -
 

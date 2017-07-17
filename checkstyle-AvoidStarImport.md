@@ -1,4 +1,4 @@
-Pattern: Avoid star import
+Pattern: Use of star import
 
 Issue: -
 

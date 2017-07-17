@@ -1,4 +1,4 @@
-Pattern: At-clause should have a non-empty description
+Pattern: Missing description for at-clause tag
 
 Issue: -
 

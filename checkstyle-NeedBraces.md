@@ -1,4 +1,4 @@
-Pattern: Braces around code blocks
+Pattern: Missing braces around code block
 
 Issue: -
 

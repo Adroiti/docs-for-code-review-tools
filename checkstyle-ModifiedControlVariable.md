@@ -1,10 +1,10 @@
-Pattern: Ensure thatthat for loop control variables are not modified inside the for block
+Pattern: Control variable is modified
 
 Issue: -
 
 ## Description
 
-Check for ensuring that for loop control variables are not modified inside the for block. An example is: 
+Check for ensuring that `for` loop control variables are not modified inside the `for` block. An example is: 
     
     
                for (int i = 0; i < 1; i++) {

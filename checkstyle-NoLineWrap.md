@@ -1,4 +1,4 @@
-Pattern: Check that chosen statements are not line-wrapped
+Pattern: Statement is line-wrapped
 
 Issue: -
 

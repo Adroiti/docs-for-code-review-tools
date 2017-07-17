@@ -1,4 +1,4 @@
-Pattern: Avoid nested blocks
+Pattern: Use of nested block
 
 Issue: -
 

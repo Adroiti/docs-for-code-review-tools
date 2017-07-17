@@ -1,4 +1,4 @@
-Pattern: Blank line separators
+Pattern: Misuse of empty line separator
 
 Issue: -
 

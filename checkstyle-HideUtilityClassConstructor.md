@@ -1,4 +1,4 @@
-Pattern: Make sure that utility classes (classes that contain only static methods) do not have a public constructor
+Pattern: Public or default constructor in utility class
 
 Issue: -
 

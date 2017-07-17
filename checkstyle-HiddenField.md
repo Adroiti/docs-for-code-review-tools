@@ -1,4 +1,4 @@
-Pattern: Check that a local variable or a parameter does not shadow a field that is defined in the same class
+Pattern: Use of hidden field
 
 Issue: -
 
@@ -8,7 +8,7 @@ Checks that a local variable or a parameter does not shadow a field that is defi
 
 ## Examples
 
-To configure the check: 
+To configure the check:
     
     
     <module name="HiddenField"/>

@@ -1,4 +1,4 @@
-Pattern: Avoid inline conditionals
+Pattern: Use of inline conditional
 
 Issue: -
 
