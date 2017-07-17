@@ -1,4 +1,4 @@
-Pattern: Check that a variable has Javadoc comment
+Pattern: Missing Javadoc comment for variable
 
 Issue: -
 

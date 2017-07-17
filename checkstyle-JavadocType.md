@@ -1,4 +1,4 @@
-Pattern: Check the Javadoc of a type
+Pattern: Wrong Javadoc comment
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Illegal tokens
+Pattern: Illegal token
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Check that the groups of import declarations appear in the order specified by the user.
+Pattern: Wrong custom import order or grouping
 
 Issue: -
 

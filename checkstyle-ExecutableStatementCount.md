@@ -1,4 +1,4 @@
-Pattern: Restrict the number of executable statements to a specified limit
+Pattern: Too many executable statements
 
 Issue: -
 

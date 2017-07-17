@@ -1,4 +1,4 @@
-Pattern: Check that Javadoc summary sentence does not contain phrases that are not recommended to use
+Pattern: Forbidden phrase in Javadoc summary
 
 Issue: -
 

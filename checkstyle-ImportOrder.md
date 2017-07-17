@@ -1,4 +1,4 @@
-Pattern: Ensure that groups of imports come in a specific order
+Pattern: Wrong import order or grouping
 
 Issue: -
 

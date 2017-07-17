@@ -1,4 +1,4 @@
-Pattern: TODO comments
+Pattern: TODO comment
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: To see if a file contains a tab character
+Pattern: Use of tab character
 
 Issue: -
 

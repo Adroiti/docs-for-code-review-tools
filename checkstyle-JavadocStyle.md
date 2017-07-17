@@ -1,4 +1,4 @@
-Pattern: Custom Checkstyle Check to validate Javadoc
+Pattern: Malformed Javadoc comment
 
 Issue: -
 

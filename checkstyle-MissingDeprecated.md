@@ -1,10 +1,10 @@
-Pattern: This class is used to verify that both the java.lang.Deprecated annotation is present and the @deprecated Javadoc tag is present when either is present.
+Pattern: Missing `java.lang.Deprecated` annotation and/or `@deprecated` tag
 
 Issue: -
 
 ## Description
 
-Verifies that both the java.lang.Deprecated annotation is present and the @deprecated Javadoc tag is present when either is present.
+Verifies that both the `java.lang.Deprecated` annotation is present and the `@deprecated` Javadoc tag is present when either is present.
 
 ## Examples
 

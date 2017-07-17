@@ -1,10 +1,10 @@
-Pattern: Implements Bloch, Effective Java, Item 17 - Use Interfaces only to define types
+Pattern: Interface without methods
 
 Issue: -
 
 ## Description
 
-Implements Joshua Bloch, Effective Java, Item 17 - Use Interfaces only to define types. 
+Implements _Joshua Bloch, Effective Java, Item 17 - Use Interfaces only to define types_. 
 
 According to Bloch, an interface should describe a _type_. It is therefore inappropriate to define an interface that does not contain any methods but only constants. The Standard class [javax.swing.SwingConstants](http://docs.oracle.com/javase/8/docs/api/javax/swing/SwingConstants.html) is an example of a class that would be flagged by this check. 
 

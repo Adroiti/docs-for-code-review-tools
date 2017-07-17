@@ -1,4 +1,4 @@
-Pattern: Implementation of a check that looks for a single line in any file type
+Pattern: Possible single line issue in file
 
 Issue: -
 

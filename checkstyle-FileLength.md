@@ -1,4 +1,4 @@
-Pattern: Long source files
+Pattern: Long source file
 
 Issue: -
 

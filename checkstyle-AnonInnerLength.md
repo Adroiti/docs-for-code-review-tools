@@ -1,4 +1,4 @@
-Pattern: Long anonymous inner classes
+Pattern: Long anonymous inner class
 
 Issue: -
 
@@ -10,7 +10,7 @@ Rationale: If an anonymous inner class becomes very long it is hard to understan
 
 ## Examples
 
-To configure the check to accept files with up to 60 lines: 
+To configure the check to accept files with up to `60` lines: 
     
     
     <module name="AnonInnerLength">

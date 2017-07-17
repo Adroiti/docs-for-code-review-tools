@@ -1,4 +1,4 @@
-Pattern: Check that each variable declaration is in its own statement and on its own line
+Pattern: Avoid multiple variable declarations
 
 Issue: -
 

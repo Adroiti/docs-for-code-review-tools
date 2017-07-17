@@ -1,4 +1,4 @@
-Pattern: Check that classes that override equals() also override hashCode()
+Pattern: Missing override for `equals()` or `hashCode()`
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Check that overload methods are grouped together
+Pattern: Overload methods are not grouped together
 
 Issue: -
 

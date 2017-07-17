@@ -1,4 +1,4 @@
-Pattern: Check that particular class are never used as types in variable declarations, return values or parameters
+Pattern: Class used as type in variable declaration, return value or parameter
 
 Issue: -
 

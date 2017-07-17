@@ -8,7 +8,7 @@ Controls what can be imported in each package. Useful for ensuring that applicat
 
 Short description of the behaviour: 
 
-  - check starts checking from the longest matching subpage (later 'current subpackage') described inside import control file to package defined in class file.
+  - check starts checking from the longest matching subpackage (later 'current subpackage') described inside import control file to package defined in class file.
   - If there is matching allow/disallow rule inside the current subpackage then the check returns "allowed" or "disallowed" message.
   - If there is no matching allow/disallow rule inside the current subpackage then it continues checking in the parent subpackage.
   - If there is no matching allow/disallow rule in any of the subpackages, including the root level (import-control), then the import is disallowed by default.

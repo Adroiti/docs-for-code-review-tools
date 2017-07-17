@@ -1,4 +1,4 @@
-Pattern: The number of defined types at the `outer` level
+Pattern: Too many defined types at the `outer` level
 
 Issue: -
 

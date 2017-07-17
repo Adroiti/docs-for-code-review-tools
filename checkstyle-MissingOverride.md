@@ -1,10 +1,10 @@
-Pattern: This class is used to verify that the java.lang.Override annotation is present when the {@inheritDoc} javadoc tag is present.
+Pattern: Missing `java.lang.Override` annotation when `{@inheritDoc}` tag exists
 
 Issue: -
 
 ## Description
 
-Verifies that the java.lang.Override annotation is present when the {@inheritDoc} javadoc tag is present.
+Verifies that the `java.lang.Override` annotation is present when the `{@inheritDoc}` Javadoc tag is present.
 
 ## Examples
 

@@ -1,10 +1,10 @@
-Pattern: Check the style of array type definitions
+Pattern: Enforce style of array type definitions
 
 Issue: -
 
 ## Description
 
-Checks the style of array type definitions. Some like Java style: `public static void main(String[] args)` and some like C style: public static void main(String args[]) 
+Checks the style of array type definitions. Some like Java style: `public static void main(String[] args)` and some like C style: `public static void main(String args[])`.
 
 ## Examples
 

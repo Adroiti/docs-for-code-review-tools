@@ -1,4 +1,4 @@
-Pattern: Enforce modifier order
+Pattern: Wrong modifier order
 
 Issue: -
 

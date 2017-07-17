@@ -1,4 +1,4 @@
-Pattern: Make sure that regular expression exists (or not) in the file
+Pattern: Possible issue by regular expression
 
 Issue: -
 

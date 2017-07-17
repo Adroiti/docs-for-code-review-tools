@@ -1,4 +1,4 @@
-Pattern: Illegal instantiations where a factory method is preferred
+Pattern: Illegal instantiation where a factory method is preferred
 
 Issue: -
 

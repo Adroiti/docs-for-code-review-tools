@@ -1,4 +1,4 @@
-Pattern: Check the placement of right curly braces
+Pattern: Wrong `}` placement
 
 Issue: -
 

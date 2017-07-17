@@ -1,4 +1,4 @@
-Pattern: Line wrapping for operators
+Pattern: Incorrect line wrapping for operators
 
 Issue: -
 

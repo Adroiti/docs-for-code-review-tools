@@ -1,4 +1,4 @@
-Pattern: Class should define a constructor
+Pattern: Missing class constructor
 
 Issue: -
 

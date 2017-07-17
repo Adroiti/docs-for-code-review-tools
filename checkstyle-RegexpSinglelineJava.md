@@ -1,4 +1,4 @@
-Pattern: Implementation of a check that looks for a single line in Java files
+Pattern: Possible single line issue in Java file
 
 Issue: -
 

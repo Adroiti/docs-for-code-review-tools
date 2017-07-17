@@ -1,4 +1,4 @@
-Pattern: Check that a JavaDoc block which can fit on a single line and doesn't contain at-clauses
+Pattern: Single-line Javadoc comment should be multi-line
 
 Issue: -
 

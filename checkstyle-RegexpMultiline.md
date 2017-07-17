@@ -1,4 +1,4 @@
-Pattern: Implementation of a check that looks that matches across multiple lines in any file type
+Pattern: Possible issue spanning multiple lines
 
 Issue: -
 

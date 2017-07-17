@@ -1,4 +1,4 @@
-Pattern: Check the placement of left curly braces on types, methods and other blocks:
+Pattern: Wrong `{` placement
 
 Issue: -
 
@@ -23,7 +23,7 @@ To configure the check to apply the `nl` policy to type blocks:
     </module>
             
 
-An example of how to configure the check to validate enum definitions: 
+An example of how to configure the check to validate `enum` definitions: 
     
     
     <module name="LeftCurly">

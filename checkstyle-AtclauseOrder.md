@@ -1,4 +1,4 @@
-Pattern: Check the order of at-clauses
+Pattern: Wrong at-clause order
 
 Issue: -
 

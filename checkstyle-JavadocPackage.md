@@ -1,4 +1,4 @@
-Pattern: Check that all packages have a package documentation
+Pattern: Incorrect package documentation
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Overly complicated boolean return statements
+Pattern: Overly complicated boolean return statement
 
 Issue: -
 
@@ -18,8 +18,6 @@ could be written as
     
     return !valid();
             
-
-The idea for this check has been shamelessly stolen from the equivalent [PMD](http://pmd.sourceforge.net) rule. 
 
 ## Examples
 

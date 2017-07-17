@@ -1,4 +1,4 @@
-Pattern: Javadoc paragraphs
+Pattern: Malformed Javadoc paragraph
 
 Issue: -
 

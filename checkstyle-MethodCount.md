@@ -1,4 +1,4 @@
-Pattern: Check the number of methods declared in each type
+Pattern: Too many methods
 
 Issue: -
 

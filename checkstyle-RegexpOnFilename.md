@@ -1,4 +1,4 @@
-Pattern: Implementation of a check that matches based on file and/or folder path
+Pattern: Possible issue in file name and/or folder path
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Imports from a set of illegal packages
+Pattern: Import from illegal package
 
 Issue: -
 
