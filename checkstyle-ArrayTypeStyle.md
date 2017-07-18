@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces the use of either C-style or Java-style for array declarations. The default is Java-style based on Google Java Style Guide: The square brackets form a part of the _type_, not the variable: `String[] args`, not `String args[]`.
+This rule enforces the use of either C-style or Java-style for array declarations. The default is Java-style based on Google Java Style Guide - the square brackets form a part of the _type_, not the variable: `String[] args`, not `String args[]`.
 
 ## Examples
 
