@@ -76,8 +76,11 @@ An example how to configure this check:
 ```
 
 
-An example of how to configure this check: \- to set the allowed distance to 4; \- to ignore variables with prefix '^temp'; \- to force the validation between scopes; \- to check the final variables; 
-
+An example of how to configure this check: 
+- to set the allowed distance to `4`; 
+- to ignore variables with prefix `^temp`;
+- to force the validation between scopes; 
+- to check the final variables; 
 
 ```xml
 <module name="VariableDeclarationUsageDistance">
