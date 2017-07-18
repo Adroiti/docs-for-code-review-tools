@@ -11,7 +11,7 @@ Checks that each top-level class, interface or enum resides in a source file of 
 An example of check's configuration:
 
 ```xml
-    <module name="OneTopLevelClass"/>
+<module name="OneTopLevelClass"/>
 ```
 
 
