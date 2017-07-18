@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks that `catch` parameter names conform to a format specified by the format property. Default pattern has the following characteristic: 
+Checks that `catch` parameter names conform to a format specified by the `format` property. Default pattern has the following characteristic: 
 
   - allows names beginning with two lowercase letters followed by at least one uppercase or lowercase letter
   - allows `e` abbreviation (suitable for exceptions end errors)
