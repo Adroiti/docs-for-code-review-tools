@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check location of annotation on language elements. By default, check enforces to locate annotations immediately after documentation block and before target element.
+Checks location of annotation on language elements. By default, check enforces to locate annotations immediately after documentation block and before target element.
 
 Attention: Annotations among modifiers are ignored (looks like false-negative) as there might be a problem with annotations for return types 
 
@@ -35,7 +35,7 @@ Example to allow multiple annotations on the same line
 ```
         
 
-Use following configuration: 
+Use the following configuration: 
 
 
 ```xml
@@ -56,7 +56,7 @@ Example to allow one single parameterless annotation on the same line
 ```
         
 
-Use following configuration: 
+Use the following configuration: 
 
 
 ```xml
@@ -77,7 +77,7 @@ Example to allow only one and only pametrized annotation on the same line
 ```
         
 
-Use following configuration: 
+Use the following configuration: 
 
 
 ```xml
