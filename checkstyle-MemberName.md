@@ -1,4 +1,4 @@
-Pattern: Conform instance variable names
+Pattern: Invalid instance variable name
 
 Issue: -
 

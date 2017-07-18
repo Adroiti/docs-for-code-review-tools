@@ -1,4 +1,4 @@
-Pattern: Conform `abstract` class name
+Pattern: Invalid `abstract` class name
 
 Issue: -
 

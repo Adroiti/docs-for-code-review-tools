@@ -1,4 +1,4 @@
-Pattern: Conform interface type parameter names
+Pattern: Invalid interface type parameter name
 
 Issue: -
 

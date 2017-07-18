@@ -1,4 +1,4 @@
-Pattern: Conform type names
+Pattern: Invalid type name
 
 Issue: -
 

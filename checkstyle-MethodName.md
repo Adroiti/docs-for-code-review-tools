@@ -1,4 +1,4 @@
-Pattern: Conform method names
+Pattern: Invalid method name
 
 Issue: -
 

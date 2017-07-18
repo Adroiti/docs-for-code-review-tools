@@ -1,4 +1,4 @@
-Pattern: Conform package names
+Pattern: Invalid package name
 
 Issue: -
 

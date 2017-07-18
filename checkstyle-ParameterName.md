@@ -1,4 +1,4 @@
-Pattern: Conform parameter names
+Pattern: Invalid parameter name
 
 Issue: -
 

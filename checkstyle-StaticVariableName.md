@@ -1,4 +1,4 @@
-Pattern: Conform static, non-final variable names
+Pattern: Invalid static, non-final variable name
 
 Issue: -
 

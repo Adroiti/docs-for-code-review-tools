@@ -1,4 +1,4 @@
-Pattern: Conform class type parameter names
+Pattern: Invalid method type parameter name
 
 Issue: -
 

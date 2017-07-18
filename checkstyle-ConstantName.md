@@ -1,4 +1,4 @@
-Pattern: Conform constant names
+Pattern: Invalid constant name
 
 Issue: -
 
