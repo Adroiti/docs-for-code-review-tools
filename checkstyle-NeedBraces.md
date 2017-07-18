@@ -36,7 +36,7 @@ To configure the check to allow single-line statements (`if, while, do-while, fo
 ```
         
 
-Next statements won't be violated by Check: 
+Next statements won't be violated: 
 
 
 ```java
@@ -58,7 +58,7 @@ To configure the check to allow `case, default` single-line statements without b
 ```
         
 
-Next statements won't be violated by Check: 
+Next statements won't be violated: 
 
 
 ```java
@@ -80,7 +80,7 @@ To configure the check to allow loops (`while, for`) with empty bodies:
 ```
  
 
-Next statements won't be violated by Check: 
+Next statements won't be violated: 
 
 
 ```java

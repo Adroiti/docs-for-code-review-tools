@@ -37,7 +37,7 @@ r = 5; int t; //violation here
 ```
  
 
-An example of how to configure this Check: 
+An example of how to configure this check: 
 
 
 ```xml

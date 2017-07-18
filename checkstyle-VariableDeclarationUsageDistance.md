@@ -68,7 +68,7 @@ cal.set(Calendar.MINUTE, minutes);
 
 The distance for the variable minutes is 6 because there is one more expression (except the initialization block) between the declaration of this variable and its usage. 
 
-An example how to configure this Check: 
+An example how to configure this check: 
 
 
 ```xml
@@ -76,7 +76,7 @@ An example how to configure this Check:
 ```
 
 
-An example of how to configure this Check: \- to set the allowed distance to 4; \- to ignore variables with prefix '^temp'; \- to force the validation between scopes; \- to check the final variables; 
+An example of how to configure this check: \- to set the allowed distance to 4; \- to ignore variables with prefix '^temp'; \- to force the validation between scopes; \- to check the final variables; 
 
 
 ```xml

@@ -194,7 +194,7 @@ Example #10: Comment within the block tries to describe the next code block.
 
 ## Examples
 
-To configure the Check: 
+To configure the check:
 
 
 ```xml
