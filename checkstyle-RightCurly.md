@@ -28,4 +28,5 @@ To configure the check with policy `alone` for `else` and [METHOD_DEF](http://ch
 
 ## Further Reading
 
+* [checkstyle - Rcurly property](http://checkstyle.sourceforge.net/property_types.html#rcurly)
 * [checkstyle - RightCurly](http://checkstyle.sourceforge.net/config_blocks.html#RightCurly)
