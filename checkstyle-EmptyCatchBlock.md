@@ -81,9 +81,7 @@ try {
 try {
     throw new RuntimeException();
 } catch (RuntimeException myException) {
-```
 
-```java
 }
 ```
 
