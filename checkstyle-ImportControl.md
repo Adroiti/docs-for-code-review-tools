@@ -204,7 +204,7 @@ In the following example, all imports are allowed except the classes `java.util.
 
 ### Notes on regular expressions
 
-Regular expressions in import rules have to match either Java packages or classes. The language rules for packages and class names can be described by the following complicated regular expression that takes into account that Java names may contain any unicode letter, numbers, underscores, and dollar signs (see section 3.8 in the [Java specs](http://docs.oracle.com/javase/specs/)): 
+Regular expressions in import rules have to match either Java packages or classes. The language rules for packages and class names can be described by the following complicated regular expression that takes into account that Java names may contain any Unicode letter, numbers, underscores, and dollar signs (see section 3.8 in the [Java specs](http://docs.oracle.com/javase/specs/)): 
 
   - `[\p{Letter}_$][\p{Letter}\p{Number}_$]*` or short `[\p{L}_$][\p{L}\p{N}_$]*` for a class name or package component. 
   - `([\p{L}_$][\p{L}\p{N}_$]*\\.)*[\p{L}_$][\p{L}\p{N}_$]*` for a fully qualified name. 

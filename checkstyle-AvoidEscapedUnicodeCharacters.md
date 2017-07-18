@@ -1,4 +1,4 @@
-Pattern: Use of unicode escape
+Pattern: Use of Unicode escape
 
 Issue: -
 
