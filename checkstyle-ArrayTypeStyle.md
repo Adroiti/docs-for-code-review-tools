@@ -27,5 +27,5 @@ To configure the check to enforce C style:
 
 ## Further Reading
 
-* [Google Java Style Guide - Arrays](https://google.github.io/styleguide/javaguide.html#s4.1-braces)
+* [Google Java Style Guide - Arrays](https://google.github.io/styleguide/javaguide.html#s4.8.3-arrays)
 * [checkstyle - ArrayTypeStyle](http://checkstyle.sourceforge.net/config_misc.html#ArrayTypeStyle)
