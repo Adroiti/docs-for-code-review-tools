@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule enforces recommendation by Google Java Style guide to avoid use of `finalize()` method. It is **extremely rare** to override Object.finalize.
+This rule enforces recommendation by Google Java Style guide to avoid use of `finalize()` method. It is **extremely rare** to override `Object.finalize`.
 
 ## Examples
 
