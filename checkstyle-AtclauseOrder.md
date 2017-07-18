@@ -4,8 +4,7 @@ Issue: -
 
 ## Description
 
-Checks the order of [Javadoc block-tags or Javadoc tags](http://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html#CHDBEFIF).   
-Note: Google used term "at-clauses" for block tags in his guide till 2017-02-28. 
+Checks the order of [Javadoc block-tags or Javadoc tags](http://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html#CHDBEFIF).
 
 ## Examples
 
