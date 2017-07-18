@@ -42,27 +42,19 @@ Example of declarations with empty line separator that is expected by the check 
 ///////////////////////////////////////////////////
 //HEADER
 ///////////////////////////////////////////////////
-```
-
-```java
+ 
 package com.puppycrawl.tools.checkstyle.whitespace;
-```
-
-```java
+ 
 import java.io.Serializable;
-```
-
-```java
+ 
 class Foo
 {
     public static final int FOO_CONST = 1;
-```
 
-```java
     public void foo() {} //should be separated from previous statement.
 }
 ```
-      
+
 
 An example how to check empty line after [VARIABLE_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#VARIABLE_DEF) and [METHOD_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF): 
 
@@ -87,10 +79,10 @@ An example how to allow no empty line between fields:
 An example how to disallow multiple empty lines inside constructor, initialization block and method: 
 
 
-```java
- <module name="EmptyLineSeparator">
- <property name="allowMultipleEmptyLinesInsideClassMembers" value="false"/>
- </module>
+```xml
+<module name="EmptyLineSeparator">
+    <property name="allowMultipleEmptyLinesInsideClassMembers" value="false"/>
+</module>
 ```
       
 
@@ -100,29 +92,21 @@ Example of declarations with multiple empty lines inside method:
 
 
 ```java
- ///////////////////////////////////////////////////
- //HEADER
- ///////////////////////////////////////////////////
-```
+///////////////////////////////////////////////////
+//HEADER
+///////////////////////////////////////////////////
 
-```java
- package com.puppycrawl.tools.checkstyle.whitespace;
-```
+package com.puppycrawl.tools.checkstyle.whitespace;
 
-```java
- class Foo
- {
-```
-
-```java
- public void foo() {
-```
+class Foo
+{
  
-
-```java
-     System.out.println(1); // violation since method has 2 empty lines subsequently
- }
- }
+    public void foo() {
+ 
+ 
+        System.out.println(1); // violation since method has 2 empty lines subsequently
+  }
+}
 ```
 
 ## Further Reading
