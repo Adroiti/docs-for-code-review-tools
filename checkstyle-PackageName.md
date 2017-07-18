@@ -13,8 +13,7 @@ The default value of `format` for module `PackageName` has been chosen to match 
 
 ```xml
 <module name="PackageName">
-    <property name="format"
- value="^[a-z]+(\.[a-z][a-z0-9]*)*$"/>
+    <property name="format" value="^[a-z]+(\.[a-z][a-z0-9]*)*$"/>
 </module>
 ```
 
