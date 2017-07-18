@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Controls the indentation between comments and surrounding code. Comments should be indented at the same level as the surrounding code.
+This rule controls the indentation between comments and surrounding code. By default it enforces recommendation by Google Java Style Guide - comments should be indented at the same level as the surrounding code.
 
 ## Examples
 
