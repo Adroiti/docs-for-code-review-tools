@@ -6,7 +6,7 @@ Issue: -
 
 Checks that there is only one statement per line. 
 
-Rationale: It's very difficult to read multiple statements in one line. 
+Rationale: it's very difficult to read multiple statements in one line. 
 
 In the Java programming language, statement is a fundamental unit of execution. All statements except blocks are terminated by a semicolon. Blocks are denoted by open and close curly braces. 
 
