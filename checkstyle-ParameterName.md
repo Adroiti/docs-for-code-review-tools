@@ -41,12 +41,12 @@ The following configuration checks that the parameters always start with two low
 
 ```xml
 <module name="ParameterName">
-  <property name="format" value="^[a-z]([a-z0-9][a-zA-Z0-9]*)?$"/>
-  <property name="accessModifiers" value="protected, package, private"/>
-  <message key="name.invalidPattern" value="Parameter name ''{0}'' must match pattern ''{1}''"/>
+    <property name="format" value="^[a-z]([a-z0-9][a-zA-Z0-9]*)?$"/>
+    <property name="accessModifiers" value="protected, package, private"/>
+    <message key="name.invalidPattern" value="Parameter name ''{0}'' must match pattern ''{1}''"/>
 </module>
 <module name="ParameterName">
-<property name="format" value="^[a-z][a-z0-9][a-zA-Z0-9]*$"/>
+    <property name="format" value="^[a-z][a-z0-9][a-zA-Z0-9]*$"/>
     <property name="accessModifiers" value="public"/>
     <message key="name.invalidPattern" value="Parameter name ''{0}'' must match pattern ''{1}''"/>
 </module>
