@@ -13,10 +13,8 @@ The following configuration element ensures that interface names begin with `"I_
 
 ```xml
 <module name="TypeName">
-    <property name="format"
- value="^I_[a-zA-Z0-9]*$"/>
-    <property name="tokens"
- value="INTERFACE_DEF"/>
+    <property name="format" value="^I_[a-zA-Z0-9]*$"/>
+    <property name="tokens" value="INTERFACE_DEF"/>
 </module>
 ```
 
