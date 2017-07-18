@@ -9,19 +9,22 @@ Your source code should not contain very long lines. The default wrapping in mos
 ## Examples
 
 To configure the check to accept lines up to 120 characters long: 
-    
-    
-    <module name="LineLength">
-        <property name="max" value="120"/>
-    </module>
-            
 
-To configure the check to ignore lines that begin with " * ", followed by just one word, such as within a Javadoc comment: 
-    
-    
-    <module name="LineLength">
-       <property name="ignorePattern" value="^ *\* *[^ ]+$"/>
-    </module>
+
+```xml
+<module name="LineLength">
+    <property name="max" value="120"/>
+</module>
+```
+
+To configure the check to ignore lines that begin with ` * `, followed by just one word, such as within a Javadoc comment: 
+
+
+```xml
+<module name="LineLength">
+   <property name="ignorePattern" value="^ *\* *[^ ]+$"/>
+</module>
+```
 
 ## Further Reading
 
