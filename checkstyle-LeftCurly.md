@@ -38,4 +38,5 @@ An example of how to configure the check to validate `enum` definitions:
 
 ## Further Reading
 
+* [checkstyle - Lcurly property](http://checkstyle.sourceforge.net/property_types.html#lcurly)
 * [checkstyle - LeftCurly](http://checkstyle.sourceforge.net/config_blocks.html#LeftCurly)
