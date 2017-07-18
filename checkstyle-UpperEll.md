@@ -1,4 +1,4 @@
-Pattern: Prefer `L` over `l` for long constant names
+Pattern: Use of letter `l` (ell) for long constant names
 
 Issue: -
 

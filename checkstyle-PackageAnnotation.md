@@ -1,4 +1,4 @@
-Pattern: Package annotations not in `package-info.java` file
+Pattern: Package annotation not in `package-info.java` file
 
 Issue: -
 

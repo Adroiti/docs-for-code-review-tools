@@ -1,4 +1,4 @@
-Pattern: Conform local, non-`final` variable names
+Pattern: Invalid local, non-`final` variable name
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Single-line Javadoc comment should be multi-line
+Pattern: Possible misuse of single-line Javadoc comment
 
 Issue: -
 

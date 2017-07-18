@@ -1,4 +1,4 @@
-Pattern: Parameter is not final
+Pattern: Parameter is not declared as final
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Restrict nested `if-else` block to a specified depth
+Pattern: Too many nested `if-else` blocks
 
 Issue: -
 

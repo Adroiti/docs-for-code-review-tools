@@ -1,4 +1,4 @@
-Pattern: Restrict nested `for` block to a specified depth
+Pattern: Too many nested `for` blocks
 
 Issue: -
 

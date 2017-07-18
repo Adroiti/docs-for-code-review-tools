@@ -1,4 +1,4 @@
-Pattern: Disallow assignment of parameters
+Pattern: Use of parameter assignment
 
 Issue: -
 

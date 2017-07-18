@@ -1,4 +1,4 @@
-Pattern: Incorrect use descendant token
+Pattern: Incorrect use of descendant token
 
 Issue: -
 

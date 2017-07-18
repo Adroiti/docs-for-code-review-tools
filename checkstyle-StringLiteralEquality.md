@@ -1,4 +1,4 @@
-Pattern: Prefer `equals()` over `==` or `!=` for literal strings
+Pattern: Use of `==` or `!=` for literal string equality
 
 Issue: -
 

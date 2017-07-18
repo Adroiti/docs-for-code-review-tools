@@ -1,4 +1,4 @@
-Pattern: Class should be declared as final
+Pattern: Class not declared as final
 
 Issue: -
 

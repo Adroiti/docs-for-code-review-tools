@@ -1,4 +1,4 @@
-Pattern: Fields and methods should be before inner classes
+Pattern: Inner class or interface not declared at the bottom of the class
 
 Issue: -
 

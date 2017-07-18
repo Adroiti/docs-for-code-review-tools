@@ -1,10 +1,10 @@
-Pattern: Use a single space to separate non-whitespace characters
+Pattern: Malformed padding around non-whitespace character
 
 Issue: -
 
 ## Description
 
-Checks that non-whitespace characters are separated by no more than one whitespace. Separating characters by tabs or multiple spaces will be reported. Currently the check doesn't permit horizontal alignment. To inspect whitespaces before and after comments, set the property validateComments to true. 
+Checks that non-whitespace characters are separated by no more than one whitespace. Separating characters by tabs or multiple spaces will be reported. Currently the check doesn't permit horizontal alignment. To inspect whitespaces before and after comments, set the property `validateComments` to true. 
 
 Setting validateComments to false will ignore cases like: 
 
