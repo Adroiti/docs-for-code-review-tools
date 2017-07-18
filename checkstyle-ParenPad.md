@@ -23,8 +23,7 @@ To configure the check to require spaces for the parentheses of constructor, met
 
 ```xml
 <module name="ParenPad">
-    <property name="tokens" value="CTOR_CALL, METHOD_CALL,
-    SUPER_CTOR_CALL"/>
+    <property name="tokens" value="CTOR_CALL, METHOD_CALL, SUPER_CTOR_CALL"/>
     <property name="option" value="space"/>
 </module>
 ```
