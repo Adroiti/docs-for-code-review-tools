@@ -6,7 +6,7 @@ Issue: -
 
 Importing all classes from a package or static members from a class leads to tight coupling between packages or classes and might lead to problems when a new version of a library introduces name clashes.
 
-The advantage of explicitly listing all imports is that you can tell at a glance which class you meant to use, which simply makes reading the code that much easier. Also, modern IDEs should address possible maintenance issues related to explicit imports (e.g. removing or renaming a class).
+In addition, by explicitly listing all imports you can tell at a glance which class you meant to use, which simply makes reading the code that much easier. Also, modern IDEs should address possible maintenance issues related to explicit imports (e.g. removing or renaming a class).
 
 ## Examples
 
