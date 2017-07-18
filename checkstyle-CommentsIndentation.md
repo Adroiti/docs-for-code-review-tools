@@ -6,6 +6,8 @@ Issue: -
 
 This rule controls the indentation between comments and surrounding code. By default it enforces recommendation by Google Java Style Guide - comments should be indented at the same level as the surrounding code.
 
+**Note**: if comment block _appears_ to be at the same level as surrounding code it's most likely caused by usage of mixed spaces and tabs.
+
 ## Examples
 
 Example #1: Block comments.
