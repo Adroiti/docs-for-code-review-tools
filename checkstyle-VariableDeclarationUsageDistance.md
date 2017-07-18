@@ -4,7 +4,9 @@ Issue: -
 
 ## Description
 
-Checks the distance between declaration of variable and its first usage. 
+Checks the distance between declaration of variable and its first usage.
+
+Consider making variable final if you still need to store its value in advance (before method calls that might have side effects on the original value).
 
 ## Examples
 
