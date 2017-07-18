@@ -9,9 +9,11 @@ Verifies there are no `finalize()` methods defined in a class.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="NoFinalizer"/>
+
+
+```xml
+<module name="NoFinalizer"/>
+```
 
 ## Further Reading
 

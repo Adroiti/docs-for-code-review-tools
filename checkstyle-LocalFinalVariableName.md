@@ -9,9 +9,11 @@ Validates identifiers for local, `final` variables, including `catch` parameters
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="LocalFinalVariableName"/>
+
+
+```xml
+<module name="LocalFinalVariableName"/>
+```
 
 ## Further Reading
 

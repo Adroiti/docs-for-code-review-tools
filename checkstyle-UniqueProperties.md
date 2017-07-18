@@ -11,11 +11,13 @@ Rationale: Multiple property keys usually appear after merge or rebase of severa
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="UniqueProperties">
-        <property name="fileExtensions" value="properties" />
-    </module>
+
+
+```xml
+<module name="UniqueProperties">
+    <property name="fileExtensions" value="properties" />
+</module>
+```
 
 ## Further Reading
 

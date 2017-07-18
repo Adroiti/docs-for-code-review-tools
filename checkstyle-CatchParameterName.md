@@ -18,17 +18,21 @@ Checks that catch parameter names conform to a format specified by the format pr
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="CatchParameterName"/>
-            
+
+
+```xml
+<module name="CatchParameterName"/>
+```
+        
 
 An example of how to configure the check for names that begin with a lower case letter, followed by letters and digits is: 
-    
-    
-    <module name="CatchParameterName">
-        <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
-    </module>
+
+
+```xml
+<module name="CatchParameterName">
+    <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
+</module>
+```
 
 ## Further Reading
 

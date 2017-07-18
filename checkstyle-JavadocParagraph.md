@@ -12,36 +12,42 @@ Checks that:
 ## Examples
 
 Default configuration: 
-    
-    
-    <module name="JavadocParagraph"/>
-            
+
+
+```xml
+<module name="JavadocParagraph"/>
+```
+        
 
 To allows to place text of a paragraph not immediately after a <p> tag: 
-    
-    
-    <module name="JavadocParagraph">
-        <property name="allowNewlineParagraph" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocParagraph">
+    <property name="allowNewlineParagraph" value="true"/>
+</module>
+```
+        
 
 In case of tagImmediatelyBeforeFirstWord set to false the following example will not have any violations: 
-    
-    
-    /**
-     * Some Javadoc.
-     *
-     * <p>
-     * Some Javadoc.
-     *
-     * <p>  Some Javadoc.
-     *
-     * <p>
-     * <pre>
-     * Some preformatted Javadoc.
-     * </pre>
-     *
-     */
+
+
+```java
+/**
+ * Some Javadoc.
+ *
+ * <p>
+ * Some Javadoc.
+ *
+ * <p>  Some Javadoc.
+ *
+ * <p>
+ * <pre>
+ * Some preformatted Javadoc.
+ * </pre>
+ *
+ */
+```
 
 ## Further Reading
 

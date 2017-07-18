@@ -11,11 +11,13 @@ Rationale: Certain language features can harm readability, lead to confusion or 
 ## Examples
 
 To configure the check to find token LITERAL_NATIVE: 
-    
-    
-    <module name="IllegalToken">
-        <property name="tokens" value="LITERAL_NATIVE"/>
-    </module>
+
+
+```xml
+<module name="IllegalToken">
+    <property name="tokens" value="LITERAL_NATIVE"/>
+</module>
+```
 
 ## Further Reading
 

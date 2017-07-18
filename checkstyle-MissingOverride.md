@@ -9,18 +9,22 @@ Verifies that the `java.lang.Override` annotation is present when the `{@inherit
 ## Examples
 
 To configure the check:
-    
-    
-     <module name="MissingOverride"/>
-            
+
+
+```java
+ <module name="MissingOverride"/>
+```
+        
 
 To configure the check for the `javaFiveCompatibility` mode: 
-    
-    
-       <module name="MissingOverride">
-          <property name="javaFiveCompatibility"
-              value="true"/>
-       </module>
+
+
+```java
+   <module name="MissingOverride">
+      <property name="javaFiveCompatibility"
+ value="true"/>
+   </module>
+```
 
 ## Further Reading
 

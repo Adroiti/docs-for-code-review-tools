@@ -11,12 +11,14 @@ Rationale: This check can be used to when the regular expression can be span mul
 ## Examples
 
 To configure the check to find calls to print to the console: 
-    
-    
-    <module name="RegexpMultiline">
-      <property name="format"
-       value="System\.(out)|(err)\.print(ln)?\("/>
-    </module>
+
+
+```xml
+<module name="RegexpMultiline">
+  <property name="format"
+   value="System\.(out)|(err)\.print(ln)?\("/>
+</module>
+```
 
 ## Further Reading
 

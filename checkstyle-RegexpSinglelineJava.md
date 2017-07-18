@@ -9,23 +9,27 @@ This class is variation on RegexpSingleline for detecting single lines that matc
 ## Examples
 
 To configure the check for calls to `System.out.println`, except in comments: 
-    
-    
-    <module name="RegexpSinglelineJava">
-        <!-- . matches any character, so we need to
-             escape it and use \. to match dots. -->
-      <property name="format" value="System\.out\.println"/>
-      <property name="ignoreComments" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpSinglelineJava">
+    <!-- . matches any character, so we need to
+escape it and use \. to match dots. -->
+  <property name="format" value="System\.out\.println"/>
+  <property name="ignoreComments" value="true"/>
+</module>
+```
+        
 
 To configure the check to find case-insensitive occurrences of "debug": 
-    
-    
-    <module name="RegexpSinglelineJava">
-        <property name="format" value="debug"/>
-        <property name="ignoreCase" value="true"/>
-    </module>
+
+
+```xml
+<module name="RegexpSinglelineJava">
+    <property name="format" value="debug"/>
+    <property name="ignoreCase" value="true"/>
+</module>
+```
 
 ## Further Reading
 

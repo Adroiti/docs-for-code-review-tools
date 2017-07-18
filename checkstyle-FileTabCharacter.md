@@ -14,17 +14,21 @@ Rationale:
 ## Examples
 
 To configure the check to report on the first instance in each file: 
-    
-    
-    <module name="FileTabCharacter"/>
-            
+
+
+```xml
+<module name="FileTabCharacter"/>
+```
+        
 
 To configure the check to report on each line in each file: 
-    
-    
-    <module name="FileTabCharacter">
-        <property name="eachLine" value="true"/>
-    </module>
+
+
+```xml
+<module name="FileTabCharacter">
+    <property name="eachLine" value="true"/>
+</module>
+```
 
 ## Further Reading
 

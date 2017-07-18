@@ -11,11 +11,13 @@ Rationale: If a source file becomes very long it is hard to understand. Therefor
 ## Examples
 
 To configure the check to accept files with up to 1500 lines: 
-    
-    
-    <module name="FileLength">
-          <property name="max" value="1500"/>
-    </module>
+
+
+```xml
+<module name="FileLength">
+      <property name="max" value="1500"/>
+</module>
+```
 
 ## Further Reading
 

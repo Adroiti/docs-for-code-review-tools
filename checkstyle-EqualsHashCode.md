@@ -11,9 +11,11 @@ Rationale: The contract of `equals()` and `hashCode()` requires that equal objec
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="EqualsHashCode"/>
+
+
+```xml
+<module name="EqualsHashCode"/>
+```
 
 ## Further Reading
 

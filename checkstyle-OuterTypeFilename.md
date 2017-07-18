@@ -9,9 +9,11 @@ Checks that the outer type name and the file name match. For example, the class 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="OuterTypeFilename"/>
+
+
+```xml
+<module name="OuterTypeFilename"/>
+```
 
 ## Further Reading
 

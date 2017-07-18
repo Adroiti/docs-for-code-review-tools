@@ -15,28 +15,34 @@ OneStatementPerLineCheck checks the following types of statements: variable decl
 ## Examples
 
 The following examples will be flagged as a violation: 
-    
-    
-    //Each line causes violation:
-    int var1; int var2;
-    var1 = 1; var2 = 2;
-    int var1 = 1; int var2 = 2;
-    var1++; var2++;
-    Object obj1 = new Object(); Object obj2 = new Object();
-    import java.io.EOFException; import java.io.BufferedReader;
-    ;; //two empty statements on the same line.
-    
-    //Multi-line statements:
-    int var1 = 1
-    ; var2 = 2; //violation here
-    int o = 1, p = 2,
-    r = 5; int t; //violation here
-              
+
+
+```java
+//Each line causes violation:
+int var1; int var2;
+var1 = 1; var2 = 2;
+int var1 = 1; int var2 = 2;
+var1++; var2++;
+Object obj1 = new Object(); Object obj2 = new Object();
+import java.io.EOFException; import java.io.BufferedReader;
+;; //two empty statements on the same line.
+```
+
+```java
+//Multi-line statements:
+int var1 = 1
+; var2 = 2; //violation here
+int o = 1, p = 2,
+r = 5; int t; //violation here
+```
+ 
 
 An example of how to configure this Check: 
-    
-    
-    <module name="OneStatementPerLine"/>
+
+
+```xml
+<module name="OneStatementPerLine"/>
+```
 
 ## Further Reading
 

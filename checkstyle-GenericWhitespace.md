@@ -18,23 +18,27 @@ Right angle bracket (`>`):
   - should be followed with whitespace in almost all cases, except diamond operators and when preceding method name.
 
 Examples with correct spacing: 
-    
-    
-    public void <K, V extends Number> boolean foo(K, V) {} // Generic methods definitions
-    class name<T1, T2, ..., Tn> {}                         // Generic type definition
-    OrderedPair<String, Box<Integer>> p;                   // Generic type reference
-    boolean same = Util.<Integer, String>compare(p1, p2);  // Generic preceded method name
-    Pair<Integer, String> p1 = new Pair<>(1, "apple");     // Diamond operator
-    List<T> list = ImmutableList.Builder<T>::new;          // Method reference
-    sort(list, Comparable::<String>compareTo);             // Method reference
-            
+
+
+```java
+public void <K, V extends Number> boolean foo(K, V) {} // Generic methods definitions
+class name<T1, T2, ..., Tn> {}            // Generic type definition
+OrderedPair<String, Box<Integer>> p;      // Generic type reference
+boolean same = Util.<Integer, String>compare(p1, p2);  // Generic preceded method name
+Pair<Integer, String> p1 = new Pair<>(1, "apple");     // Diamond operator
+List<T> list = ImmutableList.Builder<T>::new;          // Method reference
+sort(list, Comparable::<String>compareTo);// Method reference
+```
+        
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="GenericWhitespace"/>
+
+
+```xml
+<module name="GenericWhitespace"/>
+```
 
 ## Further Reading
 

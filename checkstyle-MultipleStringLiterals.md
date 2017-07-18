@@ -11,33 +11,41 @@ Rationale: Code duplication makes maintenance more difficult, so it can be bette
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MultipleStringLiterals"/>
-            
+
+
+```xml
+<module name="MultipleStringLiterals"/>
+```
+        
 
 To configure the check so that it allows two occurrences of each string: 
-    
-    
-    <module name="MultipleStringLiterals">
-        <property name="allowedDuplicates" value="2"/>
-    </module>
-            
+
+
+```xml
+<module name="MultipleStringLiterals">
+    <property name="allowedDuplicates" value="2"/>
+</module>
+```
+        
 
 To configure the check so that it ignores ", " and empty strings: 
-    
-    
-    <module name="MultipleStringLiterals">
-        <property name="ignoreStringsRegexp" value='^(("")|(", "))$'/>
-    </module>
-            
+
+
+```xml
+<module name="MultipleStringLiterals">
+    <property name="ignoreStringsRegexp" value='^(("")|(", "))$'/>
+</module>
+```
+        
 
 To configure the check so that it flags duplicate strings in all syntactical contexts, even in annotations like `@SuppressWarnings("unchecked")`: 
-    
-    
-    <module name="MultipleStringLiterals">
-        <property name="ignoreOccurrenceContext" value=""/>
-    </module>
+
+
+```xml
+<module name="MultipleStringLiterals">
+    <property name="ignoreOccurrenceContext" value=""/>
+</module>
+```
 
 ## Further Reading
 

@@ -9,18 +9,22 @@ Checks that there is no whitespace before a token. More specifically, it checks 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="NoWhitespaceBefore"/>
-            
+
+
+```xml
+<module name="NoWhitespaceBefore"/>
+```
+        
 
 To configure the check to allow line breaks before a DOT token: 
-    
-    
-    <module name="NoWhitespaceBefore">
-        <property name="tokens" value="DOT"/>
-        <property name="allowLineBreaks" value="true"/>
-    </module>
+
+
+```xml
+<module name="NoWhitespaceBefore">
+    <property name="tokens" value="DOT"/>
+    <property name="allowLineBreaks" value="true"/>
+</module>
+```
 
 ## Further Reading
 

@@ -9,42 +9,50 @@ Checks that method and `catch` parameter names conform to a format specified by 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ParameterName"/>
-            
+
+
+```xml
+<module name="ParameterName"/>
+```
+        
 
 An example of how to configure the check to skip methods with Override annotation from validation: 
-    
-    
-    <module name="ParameterName">
-        <property name="ignoreOverridden" value="true"/>
-    </module>
-              
+
+
+```xml
+<module name="ParameterName">
+    <property name="ignoreOverridden" value="true"/>
+</module>
+```
+ 
 
 An example of how to configure the check for names that begin with a lower case letter, followed by letters and digits is: 
-    
-    
-    <module name="ParameterName">
-        <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
-    </module>
-            
+
+
+```xml
+<module name="ParameterName">
+    <property name="format" value="^[a-z][a-zA-Z0-9]+$"/>
+</module>
+```
+        
 
 The following configuration checks that the parameters always start with two lowercase characters and, in addition, that public method parameters cannot be one character long: 
-    
-    
-    <module name="ParameterName">
-      <property name="format" value="^[a-z]([a-z0-9][a-zA-Z0-9]*)?$"/>
-      <property name="accessModifiers" value="protected, package, private"/>
-      <message key="name.invalidPattern"
+
+
+```xml
+<module name="ParameterName">
+  <property name="format" value="^[a-z]([a-z0-9][a-zA-Z0-9]*)?$"/>
+  <property name="accessModifiers" value="protected, package, private"/>
+  <message key="name.invalidPattern"
+    value="Parameter name ''{0}'' must match pattern ''{1}''"/>
+</module>
+<module name="ParameterName">
+<property name="format" value="^[a-z][a-z0-9][a-zA-Z0-9]*$"/>
+    <property name="accessModifiers" value="public"/>
+    <message key="name.invalidPattern"
         value="Parameter name ''{0}'' must match pattern ''{1}''"/>
-    </module>
-    <module name="ParameterName">
-    <property name="format" value="^[a-z][a-z0-9][a-zA-Z0-9]*$"/>
-        <property name="accessModifiers" value="public"/>
-        <message key="name.invalidPattern"
-            value="Parameter name ''{0}'' must match pattern ''{1}''"/>
-    </module>
+</module>
+```
 
 ## Further Reading
 

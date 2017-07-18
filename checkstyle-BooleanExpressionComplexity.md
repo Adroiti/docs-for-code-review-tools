@@ -15,25 +15,31 @@ Note that `&`, `|` and `^` are not checked if they are part of constructor or me
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="BooleanExpressionComplexity"/>
-            
+
+
+```xml
+<module name="BooleanExpressionComplexity"/>
+```
+        
 
 To configure the check with 7 allowed operation in boolean expression: 
-    
-    
-    <module name="BooleanExpressionComplexity">
-        <property name="max" value="7"/>
-    </module>
-            
+
+
+```xml
+<module name="BooleanExpressionComplexity">
+    <property name="max" value="7"/>
+</module>
+```
+        
 
 To configure the check to ignore `&` and `|`: 
-    
-    
-    <module name="BooleanExpressionComplexity">
-        <property name="tokens" value="BXOR,LAND,LOR"/>
-    </module>
+
+
+```xml
+<module name="BooleanExpressionComplexity">
+    <property name="tokens" value="BXOR,LAND,LOR"/>
+</module>
+```
 
 ## Further Reading
 

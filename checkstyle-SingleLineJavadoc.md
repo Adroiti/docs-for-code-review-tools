@@ -9,18 +9,22 @@ Checks that a Javadoc block can fit in a single line and doesn't contain at-clau
 ## Examples
 
 Default configuration: 
-    
-    
-    <module name="SingleLineJavadoc"/>
-            
+
+
+```xml
+<module name="SingleLineJavadoc"/>
+```
+        
 
 To specify a list of ignored at-clauses and make inline at-clauses not ignored: 
-    
-    
-    <module name="SingleLineJavadoc">
-        <property name="ignoredTags" value="@inheritDoc, @see"/>
-        <property name="ignoreInlineTags" value="false"/>
-    </module>
+
+
+```xml
+<module name="SingleLineJavadoc">
+    <property name="ignoredTags" value="@inheritDoc, @see"/>
+    <property name="ignoreInlineTags" value="false"/>
+</module>
+```
 
 ## Further Reading
 

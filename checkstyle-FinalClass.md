@@ -9,9 +9,11 @@ Checks that a class which has only private constructors is declared as final. Do
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="FinalClass"/>
+
+
+```xml
+<module name="FinalClass"/>
+```
 
 ## Further Reading
 

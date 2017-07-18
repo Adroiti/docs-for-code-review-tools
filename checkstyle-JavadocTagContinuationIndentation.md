@@ -9,11 +9,13 @@ Checks the indentation of the continuation lines in at-clauses.
 ## Examples
 
 Default configuration 
-    
-    
-    <module name="JavadocTagContinuationIndentation">
-        <property name="offset" value="4"/>
-    </module>
+
+
+```xml
+<module name="JavadocTagContinuationIndentation">
+    <property name="offset" value="4"/>
+</module>
+```
 
 ## Further Reading
 

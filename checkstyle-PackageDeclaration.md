@@ -13,34 +13,44 @@ Packages provide logical namespace to classes and should be stored in the form o
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="PackageDeclaration"/>
-            
+
+
+```xml
+<module name="PackageDeclaration"/>
+```
+        
 
 Let us consider the class AnnotationLocationCheck which is in the directory /com/puppycrawl/tools/checkstyle/checks/annotations/ 
-    
-    
-    package com.puppycrawl.tools.checkstyle.checks; //Violation
-    public class AnnotationLocationCheck extends AbstractCheck {
-    //...
-    }
-            
+
+
+```java
+package com.puppycrawl.tools.checkstyle.checks; //Violation
+public class AnnotationLocationCheck extends AbstractCheck {
+//...
+}
+```
+        
 
 Example of how the check works when matchDirectoryStructure option is set to false. Let us again consider the AnnotationLocationCheck class located at directory /com/puppycrawl/tools/checkstyle/checks/annotations/ along with the following setup, 
-    
-    
-    <module name="PackageDeclaration">
-    <property name="matchDirectoryStructure" value="false"/>
-    </module>
-            
-    
-    
-    package com.puppycrawl.tools.checkstyle.checks;  //No Violation
-    
-    public class AnnotationLocationCheck extends AbstractCheck {
-    //...
-    }
+
+
+```xml
+<module name="PackageDeclaration">
+<property name="matchDirectoryStructure" value="false"/>
+</module>
+```
+        
+
+
+```java
+package com.puppycrawl.tools.checkstyle.checks;  //No Violation
+```
+
+```java
+public class AnnotationLocationCheck extends AbstractCheck {
+//...
+}
+```
 
 ## Further Reading
 

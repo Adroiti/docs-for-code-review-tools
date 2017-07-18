@@ -11,20 +11,24 @@ Rationale: Helps reduce coupling on concrete classes.
 ## Examples
 
 To configure the check so that it ignores getInstance() methods: 
-    
-    
-    <module name="IllegalType">
-        <property name="ignoredMethodNames" value="getInstance"/>
-    </module>
-            
+
+
+```xml
+<module name="IllegalType">
+    <property name="ignoredMethodNames" value="getInstance"/>
+</module>
+```
+        
 
 To configure the check so that it verifies only public, protected and static methods and fields: 
-    
-    
-    <module name="IllegalType">
-        <property name="memberModifiers" value="LITERAL_PUBLIC,
-         LITERAL_PROTECTED, LITERAL_STATIC"/>
-    </module>
+
+
+```xml
+<module name="IllegalType">
+    <property name="memberModifiers" value="LITERAL_PUBLIC,
+     LITERAL_PROTECTED, LITERAL_STATIC"/>
+</module>
+```
 
 ## Further Reading
 

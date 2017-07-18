@@ -11,9 +11,11 @@ Java Language Specification (JLS) does not enforce the placement of package anno
 ## Examples
 
 To configure the check:
-    
-    
-     <module name="PackageAnnotation"/>
+
+
+```java
+ <module name="PackageAnnotation"/>
+```
 
 ## Further Reading
 

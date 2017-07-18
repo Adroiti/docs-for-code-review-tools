@@ -5,26 +5,32 @@ Issue: -
 ## Description
 
 Checks the padding of an empty `for` initializer; that is whether white space is required at an empty `for` initializer, or such white space is forbidden. No check occurs if there is a line wrap at the initializer, as in 
-    
-    
-    for (
-          ; i < j; i++, j--)
-            
+
+
+```java
+for (
+      ; i < j; i++, j--)
+```
+        
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="EmptyForInitializerPad"/>
-            
+
+
+```xml
+<module name="EmptyForInitializerPad"/>
+```
+        
 
 To configure the check to require white space at an empty `for` iterator: 
-    
-    
-    <module name="EmptyForInitializerPad">
-        <property name="option" value="space"/>
-    </module>
+
+
+```xml
+<module name="EmptyForInitializerPad">
+    <property name="option" value="space"/>
+</module>
+```
 
 ## Further Reading
 

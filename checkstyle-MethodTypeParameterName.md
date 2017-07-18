@@ -9,9 +9,11 @@ Validates identifiers for method type parameters.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MethodTypeParameterName"/>
+
+
+```xml
+<module name="MethodTypeParameterName"/>
+```
 
 ## Further Reading
 

@@ -5,26 +5,32 @@ Issue: -
 ## Description
 
 Checks for over-complicated boolean return statements. For example the following code 
-    
-    
-    if (valid())
-        return false;
-    else
-        return true;
-            
+
+
+```java
+if (valid())
+    return false;
+else
+    return true;
+```
+        
 
 could be written as 
-    
-    
-    return !valid();
-            
+
+
+```java
+return !valid();
+```
+        
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="SimplifyBooleanReturn"/>
+
+
+```xml
+<module name="SimplifyBooleanReturn"/>
+```
 
 ## Further Reading
 

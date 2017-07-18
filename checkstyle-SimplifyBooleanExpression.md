@@ -11,9 +11,11 @@ Rationale: Complex boolean logic makes code hard to understand and maintain.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="SimplifyBooleanExpression"/>
+
+
+```xml
+<module name="SimplifyBooleanExpression"/>
+```
 
 ## Further Reading
 

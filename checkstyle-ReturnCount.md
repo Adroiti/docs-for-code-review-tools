@@ -15,54 +15,64 @@ Rationale: Too many return points can mean that code is attempting to do too muc
 ## Examples
 
 To configure the check so that it doesn't allow more than three return statements per method (ignoring the `equals()` method): 
-    
-    
-    <module name="ReturnCount">
-        <property name="max" value="3"/>
-    </module>
-            
+
+
+```xml
+<module name="ReturnCount">
+    <property name="max" value="3"/>
+</module>
+```
+        
 
 To configure the check so that it doesn't allow any return statements per void method: 
-    
-    
-    <module name="ReturnCount">
-        <property name="maxForVoid" value="0"/>
-    </module>
-            
+
+
+```xml
+<module name="ReturnCount">
+    <property name="maxForVoid" value="0"/>
+</module>
+```
+        
 
 To configure the check so that it doesn't allow more than 2 return statements per method (ignoring the `equals()` method) and more than 1 return statements per void method: 
-    
-    
-    <module name="ReturnCount">
-        <property name="max" value="2"/>
-        <property name="maxForVoid" value="1"/>
-    </module>
-            
+
+
+```xml
+<module name="ReturnCount">
+    <property name="max" value="2"/>
+    <property name="maxForVoid" value="1"/>
+</module>
+```
+        
 
 To configure the check so that it doesn't allow more than three return statements per method for all methods: 
-    
-    
-    <module name="ReturnCount">
-        <property name="max" value="3"/>
-        <property name="format" value="^$"/>
-    </module>
-            
+
+
+```xml
+<module name="ReturnCount">
+    <property name="max" value="3"/>
+    <property name="format" value="^$"/>
+</module>
+```
+        
 
 To configure the check so that it doesn't allow any return statements in constructors, more than one return statement in all lambda expressions and more than two return statements in methods: 
-    
-    
-    <module name="ReturnCount">
-        <property name="max" value="0"/>
-        <property name="tokens" value="CTOR_DEF"/>
-    </module>
-    <module name="ReturnCount">
-        <property name="max" value="1"/>
-        <property name="tokens" value="LAMBDA"/>
-    </module>
-    <module name="ReturnCount">
-        <property name="max" value="2"/>
-        <property name="tokens" value="METHOD_DEF"/>
-    </module>
+
+
+```xml
+<module name="ReturnCount">
+    <property name="max" value="0"/>
+    <property name="tokens" value="CTOR_DEF"/>
+</module>
+<module name="ReturnCount">
+    <property name="max" value="1"/>
+    <property name="tokens" value="LAMBDA"/>
+</module>
+<module name="ReturnCount">
+    <property name="max" value="2"/>
+    <property name="tokens" value="METHOD_DEF"/>
+</module>
+```
 
 ## Further Reading
 

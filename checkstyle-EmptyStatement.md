@@ -9,9 +9,11 @@ Detects empty statements (standalone ";" semicolon).
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="EmptyStatement"/>
+
+
+```xml
+<module name="EmptyStatement"/>
+```
 
 ## Further Reading
 

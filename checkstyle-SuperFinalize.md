@@ -11,9 +11,11 @@ Reference: [Use Finalization Only When You Must](http://www.oracle.com/technetwo
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="SuperFinalize"/>
+
+
+```xml
+<module name="SuperFinalize"/>
+```
 
 ## Further Reading
 

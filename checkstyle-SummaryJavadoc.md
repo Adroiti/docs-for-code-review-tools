@@ -9,65 +9,79 @@ Checks that [Javadoc summary sentence](http://www.oracle.com/technetwork/java/ja
 ## Examples
 
 By default check validate that first sentence is not empty: 
-    
-    
-    <module name="SummaryJavadocCheck"/>
-            
+
+
+```xml
+<module name="SummaryJavadocCheck"/>
+```
+        
 
 Example of `{@inheritDoc}` without summary. 
-    
-    
-              
-      public class Test extends Exception {
-      //Valid
-        /**
-         * {@inheritDoc}
-         */
-        public String ValidFunction(){
-          return "";
-        }
-        //Violation
-        /**
-         *
-         */
-        public String InvalidFunction(){
-          return "";
-        }
-      }
-            
-            
+
+
+```java
+```
+ 
+```java
+  public class Test extends Exception {
+  //Valid
+    /**
+     * {@inheritDoc}
+     */
+    public String ValidFunction(){
+      return "";
+    }
+    //Violation
+    /**
+     *
+     */
+    public String InvalidFunction(){
+      return "";
+    }
+  }
+```
+        
+```java
+```
+        
 
 To ensure that summary do not contain phrase like "This method returns" , use following config: 
-    
-    
-    <module name="SummaryJavadocCheck">
-        <property name="forbiddenSummaryFragments" value="^This method returns.*"/>
-    </module>
-            
+
+
+```xml
+<module name="SummaryJavadocCheck">
+    <property name="forbiddenSummaryFragments" value="^This method returns.*"/>
+</module>
+```
+        
 
 To specify period symbol at the end of first Javadoc sentence: 
-    
-    
-    <module name="SummaryJavadocCheck">
-        <property name="period" value="。"/>
-    </module>
-            
+
+
+```xml
+<module name="SummaryJavadocCheck">
+    <property name="period" value="。"/>
+</module>
+```
+        
 
 Example of period property. 
-    
-    
-    public class TestClass {
-       /**
-        * This is invalid Javadoc
-        */
-        void invalidJavadocMethod() {
-        }
-       /**
-        * This is valid Javadoc
-        */
-        void validJavadocMethod() {
-        }
+
+
+```java
+public class TestClass {
+   /**
+    * This is invalid Javadoc
+    */
+    void invalidJavadocMethod() {
     }
+   /**
+    * This is valid Javadoc
+    */
+    void validJavadocMethod() {
+    }
+}
+```
 
 ## Further Reading
 

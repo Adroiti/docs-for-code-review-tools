@@ -25,24 +25,28 @@ The check also does not support code like:
 ## Examples
 
 To configure the check:
-    
-    
-     <module name="SuppressWarnings"/>
-            
+
+
+```java
+ <module name="SuppressWarnings"/>
+```
+        
 
 To configure the check so that the "unchecked" and "unused" warnings cannot be suppressed on anything but variable and parameter declarations. 
-    
-    
-       <module name="SuppressWarnings">
-          <property name="format"
-              value="^unchecked$|^unused$"/>
-          <property name="tokens"
-              value="
-              CLASS_DEF,INTERFACE_DEF,ENUM_DEF,
-              ANNOTATION_DEF,ANNOTATION_FIELD_DEF,
-              ENUM_CONSTANT_DEF,METHOD_DEF,CTOR_DEF
-              "/>
-       </module>
+
+
+```java
+   <module name="SuppressWarnings">
+      <property name="format"
+ value="^unchecked$|^unused$"/>
+      <property name="tokens"
+ value="
+ CLASS_DEF,INTERFACE_DEF,ENUM_DEF,
+ ANNOTATION_DEF,ANNOTATION_FIELD_DEF,
+ ENUM_CONSTANT_DEF,METHOD_DEF,CTOR_DEF
+ "/>
+   </module>
+```
 
 ## Further Reading
 

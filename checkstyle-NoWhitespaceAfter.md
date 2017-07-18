@@ -11,18 +11,22 @@ The check processes [ARRAY_DECLARATOR](http://checkstyle.sourceforge.net/apidocs
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="NoWhitespaceAfter"/>
-            
+
+
+```xml
+<module name="NoWhitespaceAfter"/>
+```
+        
 
 To configure the check to forbid line breaks after a DOT token: 
-    
-    
-    <module name="NoWhitespaceAfter">
-        <property name="tokens" value="DOT"/>
-        <property name="allowLineBreaks" value="false"/>
-    </module>
+
+
+```xml
+<module name="NoWhitespaceAfter">
+    <property name="tokens" value="DOT"/>
+    <property name="allowLineBreaks" value="false"/>
+</module>
+```
 
 ## Further Reading
 

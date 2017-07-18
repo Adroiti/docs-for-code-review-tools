@@ -11,11 +11,13 @@ Rationale: If an anonymous inner class becomes very long it is hard to understan
 ## Examples
 
 To configure the check to accept files with up to `60` lines: 
-    
-    
-    <module name="AnonInnerLength">
-          <property name="max" value="60"/>
-    </module>
+
+
+```xml
+<module name="AnonInnerLength">
+      <property name="max" value="60"/>
+</module>
+```
 
 ## Further Reading
 

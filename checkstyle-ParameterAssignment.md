@@ -11,9 +11,11 @@ Rationale: Parameter assignment is often considered poor programming practice. F
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ParameterAssignment"/>
+
+
+```xml
+<module name="ParameterAssignment"/>
+```
 
 ## Further Reading
 

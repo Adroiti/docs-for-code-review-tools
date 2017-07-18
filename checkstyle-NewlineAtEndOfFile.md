@@ -15,25 +15,31 @@ Attention: property `fileExtensions` works with files that are passed by similar
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="NewlineAtEndOfFile"/>
-            
+
+
+```xml
+<module name="NewlineAtEndOfFile"/>
+```
+        
 
 To configure the check to always use Unix-style line separators: 
-    
-    
-    <module name="NewlineAtEndOfFile">
-        <property name="lineSeparator" value="lf"/>
-    </module>
-            
+
+
+```xml
+<module name="NewlineAtEndOfFile">
+    <property name="lineSeparator" value="lf"/>
+</module>
+```
+        
 
 To configure the check to work only on Java, XML and Python files: 
-    
-    
-    <module name="NewlineAtEndOfFile">
-        <property name="fileExtensions" value="java, xml, py"/>
-    </module>
+
+
+```xml
+<module name="NewlineAtEndOfFile">
+    <property name="fileExtensions" value="java, xml, py"/>
+</module>
+```
 
 ## Further Reading
 

@@ -11,11 +11,13 @@ Rationale: Importing static members can lead to naming conflicts between class' 
 ## Examples
 
 An example of how to configure the check so that the `java.lang.System.out` member and all members from `java.lang.Math` are allowed: 
-    
-    
-             <module name="AvoidStaticImport">
-               <property name="excludes" value="java.lang.System.out,java.lang.Math.*"/>
-             </module>
+
+
+```java
+<module name="AvoidStaticImport">
+  <property name="excludes" value="java.lang.System.out,java.lang.Math.*"/>
+</module>
+```
 
 ## Further Reading
 

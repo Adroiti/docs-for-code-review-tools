@@ -11,28 +11,34 @@ Rationale: If a method becomes very long it is hard to understand. Therefore lon
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MethodLength"/>
-            
+
+
+```xml
+<module name="MethodLength"/>
+```
+        
 
 To configure the check so that it accepts methods with at most 60 lines: 
-    
-    
-    <module name="MethodLength">
-       <property name="tokens" value="METHOD_DEF"/>
-       <property name="max" value="60"/>
-    </module>
-            
+
+
+```xml
+<module name="MethodLength">
+   <property name="tokens" value="METHOD_DEF"/>
+   <property name="max" value="60"/>
+</module>
+```
+        
 
 To configure the check so that it accepts methods with at most 60 lines, not counting empty lines and single line comments: 
-    
-    
-    <module name="MethodLength">
-       <property name="tokens" value="METHOD_DEF"/>
-       <property name="max" value="60"/>
-       <property name="countEmpty" value="false"/>
-    </module>
+
+
+```xml
+<module name="MethodLength">
+   <property name="tokens" value="METHOD_DEF"/>
+   <property name="max" value="60"/>
+   <property name="countEmpty" value="false"/>
+</module>
+```
 
 ## Further Reading
 

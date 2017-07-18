@@ -15,66 +15,80 @@ It is recommended that if you create your own pattern, to also specify a custom 
 ## Examples
 
 To configure the check to report file names that contain a space: 
-    
-    
-    <module name="RegexpOnFilename"/>
-            
+
+
+```xml
+<module name="RegexpOnFilename"/>
+```
+        
 
 To configure the check to force picture files to not be 'gif': 
-    
-    
-    <module name="RegexpOnFilename">
-      <property name="fileNamePattern" value="\.gif$"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpOnFilename">
+  <property name="fileNamePattern" value="\.gif$"/>
+</module>
+```
+        
 
 OR: 
-    
-    
-    <module name="RegexpOnFilename">
-      <property name="fileNamePattern" value="."/>
-      <property name="fileExtensions" value="gif"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpOnFilename">
+  <property name="fileNamePattern" value="."/>
+  <property name="fileExtensions" value="gif"/>
+</module>
+```
+        
 
 To configure the check to only allow property and xml files to be located in the resource folder: 
-    
-    
-    <module name="RegexpOnFilename">
-      <property name="folderPattern" value="[\\/]src[\\/]\w+[\\/]resources[\\/]"/>
-      <property name="match" value="false"/>
-      <property name="fileExtensions" value="properties, xml"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpOnFilename">
+  <property name="folderPattern" value="[\\/]src[\\/]\w+[\\/]resources[\\/]"/>
+  <property name="match" value="false"/>
+  <property name="fileExtensions" value="properties, xml"/>
+</module>
+```
+        
 
 To configure the check to only allow Java and XML files in your folders use the below. 
-    
-    
-    <module name="RegexpOnFilename">
-      <property name="fileNamePattern" value="\.(java|xml)$"/>
-      <property name="match" value="false"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpOnFilename">
+  <property name="fileNamePattern" value="\.(java|xml)$"/>
+  <property name="match" value="false"/>
+</module>
+```
+        
 
 To configure the check to only allow Java and XML files only in your source folder and ignore any other folders:  
 **Note:** 'folderPattern' must be specified if checkstyle is analyzing more than the normal source folder, like the 'bin' folder where class files can be located. 
-    
-    
-    <module name="RegexpOnFilename">
-      <property name="folderPattern" value="[\\/]src[\\/]"/>
-      <property name="fileNamePattern" value="\.(java|xml)$"/>
-      <property name="match" value="false"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpOnFilename">
+  <property name="folderPattern" value="[\\/]src[\\/]"/>
+  <property name="fileNamePattern" value="\.(java|xml)$"/>
+  <property name="match" value="false"/>
+</module>
+```
+        
 
 To configure the check to only allow file names to be camel case: 
-    
-    
-    <module name="RegexpOnFilename">
-      <property name="fileNamePattern" value="^([A-Z][a-z0-9]+\.?)+$"/>
-      <property name="match" value="false"/>
-      <property name="ignoreFileNameExtensions" value="true"/>
-    </module>
+
+
+```xml
+<module name="RegexpOnFilename">
+  <property name="fileNamePattern" value="^([A-Z][a-z0-9]+\.?)+$"/>
+  <property name="match" value="false"/>
+  <property name="ignoreFileNameExtensions" value="true"/>
+</module>
+```
 
 ## Further Reading
 

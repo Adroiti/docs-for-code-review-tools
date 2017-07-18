@@ -14,17 +14,21 @@ Rationale: Too large methods and classes are hard to read and costly to maintain
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="JavaNCSS"/>
-            
+
+
+```xml
+<module name="JavaNCSS"/>
+```
+        
 
 To configure the check with 40 allowed non commenting lines for a method: 
-    
-    
-    <module name="JavaNCSS">
-        <property name="methodMaximum" value="40"/>
-    </module>
+
+
+```xml
+<module name="JavaNCSS">
+    <property name="methodMaximum" value="40"/>
+</module>
+```
 
 ## Further Reading
 

@@ -11,9 +11,11 @@ Reference: [Object.clone()](https://docs.oracle.com/javase/7/docs/api/java/lang/
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="SuperClone"/>
+
+
+```xml
+<module name="SuperClone"/>
+```
 
 ## Further Reading
 

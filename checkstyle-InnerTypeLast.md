@@ -9,9 +9,11 @@ Check nested (inner) classes/interfaces are declared at the bottom of the class 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="InnerTypeLast"/>
+
+
+```xml
+<module name="InnerTypeLast"/>
+```
 
 ## Further Reading
 

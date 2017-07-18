@@ -9,9 +9,11 @@ Checks that classes (except abstract ones) define a constructor and don't rely o
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MissingCtor"/>
+
+
+```xml
+<module name="MissingCtor"/>
+```
 
 ## Further Reading
 

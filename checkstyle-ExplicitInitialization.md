@@ -11,47 +11,61 @@ Rationale: Each instance variable gets initialized twice, to the same value. Jav
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ExplicitInitialization"/>
-            
+
+
+```xml
+<module name="ExplicitInitialization"/>
+```
+        
 
 To configure the check so that it only checks for objects that explicitly initialize to null: 
-    
-    
-    <module name="ExplicitInitialization">
-        <property name="onlyObjectReferences" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="ExplicitInitialization">
+    <property name="onlyObjectReferences" value="true"/>
+</module>
+```
+        
 
 Example:
-    
-    
-                public class Test {
-                  private int a = 0;
-                  private int b = 1;
-                  private int c = 2;
-    
-                  private boolean a = true;
-                  private boolean b = false;
-                  private boolean c = true;
-                  private boolean d = false;
-                  private boolean e = false;
-    
-                  private A a = new A();
-                  private A b = null; // violation
-                  private C c = null; // violation
-                  private D d = new D();
-    
-                  int ar1[] = null; // violation
-                  int ar2[] = new int[];
-                  int ar3[];
-                  private Bar<String> bar = null; // violation
-                  private Bar<String>[] barArray = null; // violation
-    
-                  public static void main( String [] args ) {
-                  }
-                }
+
+
+```java
+   public class Test {
+ private int a = 0;
+ private int b = 1;
+ private int c = 2;
+```
+
+```java
+ private boolean a = true;
+ private boolean b = false;
+ private boolean c = true;
+ private boolean d = false;
+ private boolean e = false;
+```
+
+```java
+ private A a = new A();
+ private A b = null; // violation
+ private C c = null; // violation
+ private D d = new D();
+```
+
+```java
+ int ar1[] = null; // violation
+ int ar2[] = new int[];
+ int ar3[];
+ private Bar<String> bar = null; // violation
+ private Bar<String>[] barArray = null; // violation
+```
+
+```java
+ public static void main( String [] args ) {
+ }
+   }
+```
 
 ## Further Reading
 

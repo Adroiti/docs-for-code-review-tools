@@ -13,19 +13,23 @@ Rationale: Exceptions form part of a method's interface. Declaring a method to t
 ## Examples
 
 To configure the check so that it doesn't allow more than two throws per method: 
-    
-    
-    <module name="ThrowsCount">
-        <property name="max" value="2"/>
-    </module>
-            
+
+
+```xml
+<module name="ThrowsCount">
+    <property name="max" value="2"/>
+</module>
+```
+        
 
 To configure the check so that it doesn't skip private methods: 
-    
-    
-    <module name="ThrowsCount">
-        <property name="ignorePrivateMethods" value="false"/>
-    </module>
+
+
+```xml
+<module name="ThrowsCount">
+    <property name="ignorePrivateMethods" value="false"/>
+</module>
+```
 
 ## Further Reading
 

@@ -9,9 +9,11 @@ Validates identifiers for interface type parameters.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="InterfaceTypeParameterName"/>
+
+
+```xml
+<module name="InterfaceTypeParameterName"/>
+```
 
 ## Further Reading
 

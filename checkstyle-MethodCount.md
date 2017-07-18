@@ -9,17 +9,21 @@ Checks the number of methods declared in each type. This includes the number of 
 ## Examples
 
 To configure the check with defaults: 
-    
-    
-    <module name="MethodCount"/>
-            
+
+
+```xml
+<module name="MethodCount"/>
+```
+        
 
 To configure the check to allow at most 30 methods per type: 
-    
-    
-    <module name="MethodCount">
-          <property name="maxTotal" value="30"/>
-    </module>
+
+
+```xml
+<module name="MethodCount">
+      <property name="maxTotal" value="30"/>
+</module>
+```
 
 ## Further Reading
 

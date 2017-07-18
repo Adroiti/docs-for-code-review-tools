@@ -11,38 +11,44 @@ Rationale: Java allows `default` anywhere within the `switch` statement. But it 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="DefaultComesLast"/>
-            
+
+
+```xml
+<module name="DefaultComesLast"/>
+```
+        
 
 To configure the check for skipIfLastAndSharedWithCase: 
-    
-    
-    <module name="DefaultComesLast">
-        <property name="skipIfLastAndSharedWithCase" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="DefaultComesLast">
+    <property name="skipIfLastAndSharedWithCase" value="true"/>
+</module>
+```
+        
 
 Example when skipIfLastAndSharedWithCase is set to true. 
-    
-    
-    switch (i) {
-        case 1:
-            break;
-        case 2:
-        default: // No violation with the new option is expected
-            break;
-        case 3:
-            break;
-    }
-    switch (i) {
-        case 1:
-            break;
-        default: // violation with the new option is expected
-        case 2:
-            break;
-    }
+
+
+```java
+switch (i) {
+    case 1:
+        break;
+    case 2:
+    default: // No violation with the new option is expected
+        break;
+    case 3:
+        break;
+}
+switch (i) {
+    case 1:
+        break;
+    default: // violation with the new option is expected
+    case 2:
+        break;
+}
+```
 
 ## Further Reading
 

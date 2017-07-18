@@ -11,9 +11,11 @@ An error will be reported if both files exist as this is not allowed by the Java
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="JavadocPackage"/>
+
+
+```xml
+<module name="JavadocPackage"/>
+```
 
 ## Further Reading
 

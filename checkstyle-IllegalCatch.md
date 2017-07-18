@@ -11,9 +11,11 @@ Rationale: Catching `java.lang.Exception`, `java.lang.Error` or `java.lang.Runti
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="IllegalCatch"/>
+
+
+```xml
+<module name="IllegalCatch"/>
+```
 
 ## Further Reading
 

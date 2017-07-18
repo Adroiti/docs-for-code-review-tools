@@ -9,9 +9,11 @@ Validates identifiers for class type parameters.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ClassTypeParameterName"/>
+
+
+```xml
+<module name="ClassTypeParameterName"/>
+```
 
 ## Further Reading
 

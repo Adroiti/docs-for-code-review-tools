@@ -13,57 +13,69 @@ Javadoc is not required on a method that is tagged with the `@Override` annotati
 Note that only inheritable items will allow the `{@inheritDoc}` tag to be used in place of comments. Static methods at all visibilities, private non-static methods and constructors are not inheritable. 
 
 For example, if the following method is implementing a method required by an interface, then the Javadoc could be done as: 
-    
-    
-    /** {@inheritDoc} */
-    public int checkReturnTag(final int aTagIndex,
-                              JavadocTag[] aTags,
-                              int aLineNo)
+
+
+```java
+/** {@inheritDoc} */
+public int checkReturnTag(final int aTagIndex,
+             JavadocTag[] aTags,
+             int aLineNo)
+```
 
 The classpath may need to be configured to locate the class information. The classpath configuration is dependent on the mechanism used to invoke Checkstyle. 
 
 ## Examples
 
 To configure the default check: 
-    
-    
-    <module name="JavadocMethod"/>
-            
+
+
+```xml
+<module name="JavadocMethod"/>
+```
+        
 
 To configure the check for `public` scope and to allow documentation of undeclared RuntimeExceptions: 
-    
-    
-    <module name="JavadocMethod">
-       <property name="scope" value="public"/>
-       <property name="allowUndeclaredRTE" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocMethod">
+   <property name="scope" value="public"/>
+   <property name="allowUndeclaredRTE" value="true"/>
+</module>
+```
+        
 
 To configure the check for for `public` scope, to allow documentation of undeclared RuntimeExceptions, while ignoring any missing param tags is: 
-    
-    
-    <module name="JavadocMethod">
-      <property name="scope" value="public"/>
-      <property name="allowUndeclaredRTE" value="true"/>
-      <property name="allowMissingParamTags" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocMethod">
+  <property name="scope" value="public"/>
+  <property name="allowUndeclaredRTE" value="true"/>
+  <property name="allowMissingParamTags" value="true"/>
+</module>
+```
+        
 
 To configure the check for methods which are in `private` , but not in `protected` scope: 
-    
-    
-    <module name="JavadocMethod">
-       <property name="scope" value="private"/>
-       <property name="excludeScope" value="protected"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocMethod">
+   <property name="scope" value="private"/>
+   <property name="excludeScope" value="protected"/>
+</module>
+```
+        
 
 To configure the check for ignoring methods named `foo(),foo1(),foo2()`, etc.: 
-    
-    
-    <module name="JavadocMethod">
-       <property name="ignoreMethodNamesRegex" value="^foo.*$"/>
-    </module>
+
+
+```xml
+<module name="JavadocMethod">
+   <property name="ignoreMethodNamesRegex" value="^foo.*$"/>
+</module>
+```
 
 ## Further Reading
 

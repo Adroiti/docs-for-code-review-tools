@@ -9,17 +9,21 @@ Checks the policy on the padding of parentheses for typecasts. That is, whether 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="TypecastParenPad"/>
-            
+
+
+```xml
+<module name="TypecastParenPad"/>
+```
+        
 
 To configure the check to require spaces: 
-    
-    
-    <module name="TypecastParenPad">
-        <property name="option" value="space"/>
-    </module>
+
+
+```xml
+<module name="TypecastParenPad">
+    <property name="option" value="space"/>
+</module>
+```
 
 ## Further Reading
 

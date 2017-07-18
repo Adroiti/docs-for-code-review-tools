@@ -9,9 +9,11 @@ Checks for the use of unnecessary parentheses.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="UnnecessaryParentheses"/>
+
+
+```xml
+<module name="UnnecessaryParentheses"/>
+```
 
 ## Further Reading
 

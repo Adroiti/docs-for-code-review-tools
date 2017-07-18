@@ -11,17 +11,21 @@ Rationale: A `main()` method is often used for debugging purposes. When debuggin
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="UncommentedMain"/>
-            
+
+
+```xml
+<module name="UncommentedMain"/>
+```
+        
 
 To configure the check to allow the `main` method for all classes with "Main" name: 
-    
-    
-    <module name="UncommentedMain">
-        <property name="excludedClasses" value="\.Main$"/>
-    </module>
+
+
+```xml
+<module name="UncommentedMain">
+    <property name="excludedClasses" value="\.Main$"/>
+</module>
+```
 
 ## Further Reading
 

@@ -7,11 +7,13 @@ Issue: -
 The check to ensure that requires that comments be the only thing on a line. For the case of `//` comments that means that the only thing that should precede it is whitespace. It doesn't check comments if they do not end a line; for example, it accepts the following: `Thread.sleep( 10 <some comment here> );` Format property is intended to deal with the "} // while" example. 
 
 Rationale: Steve McConnell in Code Complete suggests that endline comments are a bad practice. An end line comment would be one that is on the same line as actual code. For example: 
-    
-    
-    a = b + c;      // Some insightful comment
-    d = e / f;        // Another comment for this line
-            
+
+
+```java
+a = b + c;      // Some insightful comment
+d = e / f;        // Another comment for this line
+```
+        
 
 Quoting Code Complete for the justification: 
 
@@ -26,17 +28,21 @@ McConnel's comments on being hard to maintain when the size of the line changes 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="TrailingComment"/>
-            
+
+
+```xml
+<module name="TrailingComment"/>
+```
+        
 
 To configure the check so it enforces only comment on a line: 
-    
-    
-    <module name="TrailingComment">
-        <property name="format" value="^\\s*$"/>
-     </module>
+
+
+```xml
+<module name="TrailingComment">
+    <property name="format" value="^\\s*$"/>
+ </module>
+```
 
 ## Further Reading
 

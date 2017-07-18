@@ -9,25 +9,31 @@ Checks that any combination of String literals is on the left side of an `equals
 Rationale: Calling the `equals()` method on String literals will avoid a potential `NullPointerException`. Also, it is pretty common to see null checks right before equals comparisons, which is not necessary in the example below. 
 
 For example, this code: 
-    
-    
-    String nullString = null;
-    nullString.equals("My_Sweet_String");
-            
+
+
+```java
+String nullString = null;
+nullString.equals("My_Sweet_String");
+```
+        
 
 should be refactored to:
-    
-    
-    String nullString = null;
-    "My_Sweet_String".equals(nullString);
-            
+
+
+```java
+String nullString = null;
+"My_Sweet_String".equals(nullString);
+```
+        
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="EqualsAvoidNull"/>
+
+
+```xml
+<module name="EqualsAvoidNull"/>
+```
 
 ## Further Reading
 

@@ -9,33 +9,41 @@ This check can be used to ensure that types are not declared to be thrown. Decla
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="IllegalThrows"/>
-            
+
+
+```xml
+<module name="IllegalThrows"/>
+```
+        
 
 To configure the check rejecting throws `NullPointerException` from methods: 
-    
-    
-    <module name="IllegalThrows">
-        <property name="illegalClassNames" value="NullPointerException"/>
-    </module>
-            
+
+
+```xml
+<module name="IllegalThrows">
+    <property name="illegalClassNames" value="NullPointerException"/>
+</module>
+```
+        
 
 To configure the check ignoring method named "foo()": 
-    
-    
-    <module name="IllegalThrows">
-        <property name="ignoredMethodNames" value="foo"/>
-    </module>
-            
+
+
+```xml
+<module name="IllegalThrows">
+    <property name="ignoredMethodNames" value="foo"/>
+</module>
+```
+        
 
 To configure the check to warn on overridden methods: 
-    
-    
-    <module name="IllegalThrows">
-        <property name="ignoreOverriddenMethods" value="false"/>
-    </module>
+
+
+```xml
+<module name="IllegalThrows">
+    <property name="ignoreOverriddenMethods" value="false"/>
+</module>
+```
 
 ## Further Reading
 

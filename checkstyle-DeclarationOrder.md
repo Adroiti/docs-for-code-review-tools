@@ -14,53 +14,63 @@ According to [Code Conventions for the Java Programming Language](http://www.ora
 Purpose of **ignore*** option is to ignore related violations, however it still impacts on other class members. 
 
 ATTENTION: the check skips class fields which have [forward references](http://docs.oracle.com/javase/specs/jls/se8/html/jls-8.html#jls-8.3.3) from validation due to the fact that we have Checkstyle's limitations to clearly detect user intention of fields location and grouping. For example, 
-    
-    
-    public class A {
-        private double x = 1.0;
-        private double y = 2.0;
-        public double slope = x / y; // will be skipped from validation due to forward reference
-    }
-              
+
+
+```java
+public class A {
+    private double x = 1.0;
+    private double y = 2.0;
+    public double slope = x / y; // will be skipped from validation due to forward reference
+}
+```
+ 
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="DeclarationOrder"/>
-            
+
+
+```xml
+<module name="DeclarationOrder"/>
+```
+        
 
 For example: 
-    
-    
-                class K {
-                    int a;
-                    void m(){}
-                    K(){}  <-- "Constructor definition in wrong order"
-                    int b; <-- "Instance variable definition in wrong order"
-                }
-            
+
+
+```java
+   class K {
+   int a;
+   void m(){}
+   K(){}  <-- "Constructor definition in wrong order"
+   int b; <-- "Instance variable definition in wrong order"
+   }
+```
+        
 
 With **ignoreConstructors** option: 
-    
-    
-                class K {
-                    int a;
-                    void m(){}
-                    K(){}
-                    int b; <-- "Instance variable definition in wrong order"
-                }
-            
+
+
+```java
+   class K {
+   int a;
+   void m(){}
+   K(){}
+   int b; <-- "Instance variable definition in wrong order"
+   }
+```
+        
 
 With **ignoreConstructors** option and without a method definition in a source class: 
-    
-    
-                class K {
-                    int a;
-                    K(){}
-                    int b; <-- "Instance variable definition in wrong order"
-                }
+
+
+```java
+   class K {
+   int a;
+   K(){}
+   int b; <-- "Instance variable definition in wrong order"
+   }
+```
 
 ## Further Reading
 

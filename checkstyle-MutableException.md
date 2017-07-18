@@ -13,9 +13,11 @@ Rationale: Exception instances should represent an error condition. Having non f
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MutableException"/>
+
+
+```xml
+<module name="MutableException"/>
+```
 
 ## Further Reading
 

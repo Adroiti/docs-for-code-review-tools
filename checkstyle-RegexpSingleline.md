@@ -11,34 +11,40 @@ Rationale: This check can be used to prototype checks and to find common bad pra
 ## Examples
 
 To configure the check to find trailing whitespace at the end of a line: 
-    
-    
-    <module name="RegexpSingleline">
-      <!-- \s matches whitespace character, $ matches end of line. -->
-      <property name="format" value="\s+$"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpSingleline">
+  <!-- \s matches whitespace character, $ matches end of line. -->
+  <property name="format" value="\s+$"/>
+</module>
+```
+        
 
 To configure the check to find trailing whitespace at the end of a line, with some _slack_ of allowing two occurrences per file: 
-    
-    
-    <module name="RegexpSingleline">
-      <property name="format" value="\s+$"/>
-      <!-- next line not required as 0 is the default -->
-      <property name="minimum" value="0"/>
-      <property name="maximum" value="2"/>
-    </module>
-            
+
+
+```xml
+<module name="RegexpSingleline">
+  <property name="format" value="\s+$"/>
+  <!-- next line not required as 0 is the default -->
+  <property name="minimum" value="0"/>
+  <property name="maximum" value="2"/>
+</module>
+```
+        
 
 An example of how to configure the check to make sure a copyright statement is included in the file: 
-    
-    
-    <module name="RegexpSingleline">
-      <property name="format" value="This file is copyrighted"/>
-      <property name="minimum" value="1"/>
-      <!--  Need to specify a maximum, so 10 times is more than enough. -->
-      <property name="maximum" value="10"/>
-    </module>
+
+
+```xml
+<module name="RegexpSingleline">
+  <property name="format" value="This file is copyrighted"/>
+  <property name="minimum" value="1"/>
+  <!--  Need to specify a maximum, so 10 times is more than enough. -->
+  <property name="maximum" value="10"/>
+</module>
+```
 
 ## Further Reading
 

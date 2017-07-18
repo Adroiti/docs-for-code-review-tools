@@ -14,85 +14,93 @@ Please use Suppression to avoid violations on cases that could not be split in f
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="CyclomaticComplexity"/>
-            
+
+
+```xml
+<module name="CyclomaticComplexity"/>
+```
+        
 
 To configure the check with a threshold of 15: 
-    
-    
-    <module name="CyclomaticComplexity">
-        <property name="max" value="15"/>
-    </module>
-            
+
+
+```xml
+<module name="CyclomaticComplexity">
+    <property name="max" value="15"/>
+</module>
+```
+        
 
 Explanation on how complexity is calculated (switchBlockAsSingleDecisionPoint is set to false): 
-    
-    
-    class CC {
-       // Cyclomatic Complexity = 12
-       public void doSmth()  {               // 1
-           if (a == b)  {                    // 2
-                if (a1 == b1                 // 3
-                    && c1 == d1) {   // 4
-                   fiddle();
-                }
-                else if (a2 == b2            // 5
-                          || c1 < d1) {   // 6
-                    fiddle();
-                }
-                else {
-                    fiddle();
-                }
-           }
-            else if (c == d) {               // 7
-                while (c == d) {             // 8
-                    fiddle();
-                }
-            }
-             else if (e == f) {
-                for (n = 0; n < h         // 9
-                        || n < 6; n++) {  // 10
-                    fiddle();
-                }
-            }
-            else {
-                switch (z) {
-                  case 1:                    // 11
-                        fiddle();
-                        break;
-                  case 2:                    // 12
-                        fiddle();
-                        break;
-                  default:
-                        fiddle();
-                        break;
-                }
-            }
+
+
+```java
+class CC {
+   // Cyclomatic Complexity = 12
+   public void doSmth()  {  // 1
+       if (a == b)  {       // 2
+   if (a1 == b1             // 3
+   && c1 == d1) {   // 4
+  fiddle();
+   }
+   else if (a2 == b2        // 5
+         || c1 < d1) {   // 6
+   fiddle();
+   }
+   else {
+   fiddle();
+   }
+       }
+        else if (c == d) {  // 7
+   while (c == d) {         // 8
+   fiddle();
+   }
         }
-    }        
+else if (e == f) {
+   for (n = 0; n < h     // 9
+       || n < 6; n++) {  // 10
+   fiddle();
+   }
+        }
+        else {
+   switch (z) {
+ case 1:                    // 11
+       fiddle();
+       break;
+ case 2:                    // 12
+       fiddle();
+       break;
+ default:
+       fiddle();
+       break;
+   }
+        }
+    }
+}        
+```
 
 Explanation on how complexity is calculated (switchBlockAsSingleDecisionPoint is set to true): 
-    
-    
-    class SwitchExample {
-       // Cyclomatic Complexity = 2
-       public void doSmth()  {            // 1
-           int z = 1;
-           switch (z) {                   // 2
-               case 1:
-                   foo1();
-                   break;
-               case 2:
-                   foo2();
-                   break;
-               default:
-                   fooDefault();
-                   break;
-           }
+
+
+```java
+class SwitchExample {
+   // Cyclomatic Complexity = 2
+   public void doSmth()  {            // 1
+       int z = 1;
+       switch (z) {      // 2
+  case 1:
+  foo1();
+  break;
+  case 2:
+  foo2();
+  break;
+  default:
+  fooDefault();
+  break;
        }
-    }
+   }
+}
+```
 
 ## Further Reading
 

@@ -11,39 +11,49 @@ The idea behind this is that while pretty printers are sometimes convenient for 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="Indentation"/>
-            
+
+
+```xml
+<module name="Indentation"/>
+```
+        
 
 To configure the check to enforce the indentation style recommended by Oracle: 
-    
-    
-    <module name="Indentation">
-        <property name="caseIndent" value="0"/>
-    </module>
-            
+
+
+```xml
+<module name="Indentation">
+    <property name="caseIndent" value="0"/>
+</module>
+```
+        
 
 To configure the check to enforce strict condition in line-wrapping validation. 
-    
-    
-    <module name="Indentation">
-        <property name="forceStrictCondition" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="Indentation">
+    <property name="forceStrictCondition" value="true"/>
+</module>
+```
+        
 
 Such config doesn't allow next cases: 
-    
-    
-    void foo(String aFooString,
-            int aFooInt) {} // indent:8 ; expected: 4; warn, because 8 != 4
-            
+
+
+```java
+void foo(String aFooString,
+        int aFooInt) {} // indent:8 ; expected: 4; warn, because 8 != 4
+```
+        
 
 But if forceStrictCondition = false, this code is valid: 
-    
-    
-    void foo(String aFooString,
-            int aFooInt) {} // indent:8 ; expected: > 4; ok, because 8 > 4
+
+
+```java
+void foo(String aFooString,
+        int aFooInt) {} // indent:8 ; expected: > 4; ok, because 8 > 4
+```
 
 ## Further Reading
 

@@ -33,240 +33,288 @@ Star imports are out of scope of this Check. So if one of type imported via **st
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="VisibilityModifier"/>
-            
+
+
+```xml
+<module name="VisibilityModifier"/>
+```
+        
 
 To configure the check so that it allows package visible members: 
-    
-    
-    <module name="VisibilityModifier">
-        <property name="packageAllowed" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+    <property name="packageAllowed" value="true"/>
+</module>
+```
+        
 
 To configure the check so that it allows no public members: 
-    
-    
-    <module name="VisibilityModifier">
-        <property name="publicMemberPattern" value="^$"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+    <property name="publicMemberPattern" value="^$"/>
+</module>
+```
+        
 
 To configure the check so that it allows public immutable fields (mostly for immutable classes): 
-    
-    
-    <module name="VisibilityModifier">
-        <property name="allowPublicImmutableFields" value="true"/>
-     </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+    <property name="allowPublicImmutableFields" value="true"/>
+ </module>
+```
+        
 
 Example of allowed public immutable fields: 
-    
-    
-    public class ImmutableClass
+
+
+```java
+public class ImmutableClass
+{
+    public final ImmutableSet<String> includes; // No warning
+    public final ImmutableSet<String> excludes; // No warning
+    public final java.lang.String notes; // No warning
+    public final BigDecimal value; // No warning
+```
+
+```java
+    public ImmutableClass(Collection<String> includes, Collection<String> excludes,
+    BigDecimal value, String notes)
     {
-        public final ImmutableSet<String> includes; // No warning
-        public final ImmutableSet<String> excludes; // No warning
-        public final java.lang.String notes; // No warning
-        public final BigDecimal value; // No warning
-    
-        public ImmutableClass(Collection<String> includes, Collection<String> excludes,
-                     BigDecimal value, String notes)
-        {
-            this.includes = ImmutableSet.copyOf(includes);
-            this.excludes = ImmutableSet.copyOf(excludes);
-            this.value = value;
-            this.notes = notes;
-        }
+        this.includes = ImmutableSet.copyOf(includes);
+        this.excludes = ImmutableSet.copyOf(excludes);
+        this.value = value;
+        this.notes = notes;
     }
-            
+}
+```
+        
 
 To configure the check in order to allow user specified immutable class names: 
-    
-    
-    <module name="VisibilityModifier">
-        <property name="allowPublicImmutableFields" value="true"/>
-        <property name="immutableClassCanonicalNames" value="
-        com.google.common.collect.ImmutableSet"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+    <property name="allowPublicImmutableFields" value="true"/>
+    <property name="immutableClassCanonicalNames" value="
+    com.google.common.collect.ImmutableSet"/>
+</module>
+```
+        
 
 Example of allowed public immutable fields: 
-    
-    
-    public class ImmutableClass
+
+
+```java
+public class ImmutableClass
+{
+    public final ImmutableSet<String> includes; // No warning
+    public final ImmutableSet<String> excludes; // No warning
+    public final java.lang.String notes; // Warning here because
+                            //'java.lang.String' wasn't specified as allowed class
+    public final int someValue; // No warning
+```
+
+```java
+    public ImmutableClass(Collection<String> includes, Collection<String> excludes,
+    String notes, int someValue)
     {
-        public final ImmutableSet<String> includes; // No warning
-        public final ImmutableSet<String> excludes; // No warning
-        public final java.lang.String notes; // Warning here because
-                                             //'java.lang.String' wasn't specified as allowed class
-        public final int someValue; // No warning
-    
-        public ImmutableClass(Collection<String> includes, Collection<String> excludes,
-                     String notes, int someValue)
-        {
-            this.includes = ImmutableSet.copyOf(includes);
-            this.excludes = ImmutableSet.copyOf(excludes);
-            this.value = value;
-            this.notes = notes;
-            this.someValue = someValue;
-        }
+        this.includes = ImmutableSet.copyOf(includes);
+        this.excludes = ImmutableSet.copyOf(excludes);
+        this.value = value;
+        this.notes = notes;
+        this.someValue = someValue;
     }
-            
+}
+```
+        
 
 Note, if allowPublicImmutableFields is set to true, the check will also check whether generic type parameters are immutable. If at least one generic type parameter is mutable, there will be a violation. 
-    
-    
-    <module name="VisibilityModifier">
-      <property name="allowPublicImmutableFields" value="true"/>
-      <property name="immutableClassCanonicalNames" value="
-      com.google.common.collect.ImmutableSet, com.google.common.collect.ImmutableMap,java.lang.String"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+  <property name="allowPublicImmutableFields" value="true"/>
+  <property name="immutableClassCanonicalNames" value="
+  com.google.common.collect.ImmutableSet, com.google.common.collect.ImmutableMap,java.lang.String"/>
+</module>
+```
+        
 
 Example of how the check works: 
-    
-    
-    public final class Test {
-        public final String s;
-        public final ImmutableSet<String> names;
-        public final ImmutableSet<Object> objects; // violation (Object class is mutable)
-        public final ImmutableMap<String, Object> links; // violation (Object class is mutable)
-    
-        public Test() {
-            s = "Hello!";
-            names = ImmutableSet.of();
-            objects = ImmutableSet.of();
-            links = ImmutableMap.of();
-        }
+
+
+```java
+public final class Test {
+    public final String s;
+    public final ImmutableSet<String> names;
+    public final ImmutableSet<Object> objects; // violation (Object class is mutable)
+    public final ImmutableMap<String, Object> links; // violation (Object class is mutable)
+```
+
+```java
+    public Test() {
+        s = "Hello!";
+        names = ImmutableSet.of();
+        objects = ImmutableSet.of();
+        links = ImmutableMap.of();
     }
-            
+}
+```
+        
 
 To configure the check passing fields annotated with `@com.annotation.CustomAnnotation`: 
-    
-    
-    <module name="VisibilityModifier">
-      <property name="ignoreAnnotationCanonicalNames" value=
-      "com.annotation.CustomAnnotation"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+  <property name="ignoreAnnotationCanonicalNames" value=
+  "com.annotation.CustomAnnotation"/>
+</module>
+```
+        
 
 Example of allowed field: 
-    
-    
-    class SomeClass
-    {
-        @com.annotation.CustomAnnotation
-        String annotatedString; // no warning
-        @CustomAnnotation
-        String shortCustomAnnotated; // no warning
-    }
-            
+
+
+```java
+class SomeClass
+{
+    @com.annotation.CustomAnnotation
+    String annotatedString; // no warning
+    @CustomAnnotation
+    String shortCustomAnnotated; // no warning
+}
+```
+        
 
 To configure the check passing fields annotated with `@org.junit.Rule`, `@org.junit.ClassRule` and `@com.google.common.annotations.VisibleForTesting` annotations: 
-    
-    
-    <module name="VisibilityModifier"/>
-            
+
+
+```xml
+<module name="VisibilityModifier"/>
+```
+        
 
 Example of allowed fields: 
-    
-    
-    class SomeClass
-    {
-        @org.junit.Rule
-        public TemporaryFolder publicJUnitRule = new TemporaryFolder(); // no warning
-        @org.junit.ClassRule
-        public static TemporaryFolder publicJUnitClassRule = new TemporaryFolder(); // no warning
-        @com.google.common.annotations.VisibleForTesting
-        public String testString = ""; // no warning
-    }
-            
+
+
+```java
+class SomeClass
+{
+    @org.junit.Rule
+    public TemporaryFolder publicJUnitRule = new TemporaryFolder(); // no warning
+    @org.junit.ClassRule
+    public static TemporaryFolder publicJUnitClassRule = new TemporaryFolder(); // no warning
+    @com.google.common.annotations.VisibleForTesting
+    public String testString = ""; // no warning
+}
+```
+        
 
 To configure the check passing fields annotated with short annotation name: 
-    
-    
-    <module name="VisibilityModifier">
-      <property name="ignoreAnnotationCanonicalNames"
-      value="CustomAnnotation"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+  <property name="ignoreAnnotationCanonicalNames"
+  value="CustomAnnotation"/>
+</module>
+```
+        
 
 Example of allowed fields: 
-    
-    
-    class SomeClass
-    {
-        @CustomAnnotation
-        String customAnnotated; // no warning
-        @com.annotation.CustomAnnotation
-        String customAnnotated1; // no warning
-        @mypackage.annotation.CustomAnnotation
-        String customAnnotatedAnotherPackage; // another package but short name matches
-                                              // so no violation
-    }
-            
+
+
+```java
+class SomeClass
+{
+    @CustomAnnotation
+    String customAnnotated; // no warning
+    @com.annotation.CustomAnnotation
+    String customAnnotated1; // no warning
+    @mypackage.annotation.CustomAnnotation
+    String customAnnotatedAnotherPackage; // another package but short name matches
+                             // so no violation
+}
+```
+        
 
 To understand the difference between allowPublicImmutableFields and allowPublicFinalFields options, please, study the following examples. 
 
 1) To configure the check to use only 'allowPublicImmutableFields' option: 
-    
-    
-    <module name="VisibilityModifier">
-      <property name="allowPublicImmutableFields" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+  <property name="allowPublicImmutableFields" value="true"/>
+</module>
+```
+        
 
 Code example: 
-    
-    
-    public class InputPublicImmutable {
-      public final int someIntValue; // violation
-      public final ImmutableSet<String> includes; // violation
-      public final java.lang.String notes; // violation
-      public final BigDecimal value; // violation
-      public final List list; // violation
-    
-      public InputPublicImmutable(Collection<String> includes,
-            BigDecimal value, String notes, int someValue, List l) {
-        this.includes = ImmutableSet.copyOf(includes);
-        this.value = value;
-        this.notes = notes;
-        this.someIntValue = someValue;
-        this.list = l;
-      }
-    }
-            
+
+
+```java
+public class InputPublicImmutable {
+  public final int someIntValue; // violation
+  public final ImmutableSet<String> includes; // violation
+  public final java.lang.String notes; // violation
+  public final BigDecimal value; // violation
+  public final List list; // violation
+```
+
+```java
+  public InputPublicImmutable(Collection<String> includes,
+        BigDecimal value, String notes, int someValue, List l) {
+    this.includes = ImmutableSet.copyOf(includes);
+    this.value = value;
+    this.notes = notes;
+    this.someIntValue = someValue;
+    this.list = l;
+  }
+}
+```
+        
 
 2) To configure the check to use only 'allowPublicFinalFields' option: 
-    
-    
-    <module name="VisibilityModifier">
-      <property name="allowPublicFinalFields" value="true"/>
-    </module>
-            
+
+
+```xml
+<module name="VisibilityModifier">
+  <property name="allowPublicFinalFields" value="true"/>
+</module>
+```
+        
 
 Code example: 
-    
-    
-    public class InputPublicImmutable {
-      public final int someIntValue;
-      public final ImmutableSet<String> includes;
-      public final java.lang.String notes;
-      public final BigDecimal value;
-      public final List list;
-    
-      public InputPublicImmutable(Collection<String> includes,
-            BigDecimal value, String notes, int someValue, List l) {
-        this.includes = ImmutableSet.copyOf(includes);
-        this.value = value;
-        this.notes = notes;
-        this.someIntValue = someValue;
-        this.list = l;
-      }
-    }
+
+
+```java
+public class InputPublicImmutable {
+  public final int someIntValue;
+  public final ImmutableSet<String> includes;
+  public final java.lang.String notes;
+  public final BigDecimal value;
+  public final List list;
+```
+
+```java
+  public InputPublicImmutable(Collection<String> includes,
+        BigDecimal value, String notes, int someValue, List l) {
+    this.includes = ImmutableSet.copyOf(includes);
+    this.value = value;
+    this.notes = notes;
+    this.someIntValue = someValue;
+    this.list = l;
+  }
+}
+```
 
 ## Further Reading
 

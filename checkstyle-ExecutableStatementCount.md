@@ -9,18 +9,22 @@ Restricts the number of executable statements to a specified limit.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ExecutableStatementCount"/>
-            
+
+
+```xml
+<module name="ExecutableStatementCount"/>
+```
+        
 
 To configure the check with a threshold of 20 for constructor and method definitions: 
-    
-    
-    <module name="ExecutableStatementCount">
-        <property name="max" value="20"/>
-        <property name="tokens" value="CTOR_DEF,METHOD_DEF"/>
-    </module>
+
+
+```xml
+<module name="ExecutableStatementCount">
+    <property name="max" value="20"/>
+    <property name="tokens" value="CTOR_DEF,METHOD_DEF"/>
+</module>
+```
 
 ## Further Reading
 

@@ -13,9 +13,11 @@ This check is almost exactly the same as the {@link NoFinalizerCheck}
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="NoClone"/>
+
+
+```xml
+<module name="NoClone"/>
+```
 
 ## Further Reading
 

@@ -9,9 +9,11 @@ Validates identifiers for methods.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MethodName"/>
+
+
+```xml
+<module name="MethodName"/>
+```
 
 ## Further Reading
 

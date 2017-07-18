@@ -13,10 +13,12 @@ Inspired by [Finding Bugs is Easy, chapter '2.3.1 Bad Covariant Definition of Eq
 Java classes may override the `equals(Object)` method to define a predicate for object equality. This method is used by many of the Java runtime library classes; for example, to implement generic containers. 
 
 Programmers sometimes mistakenly use the type of their class `Foo` as the type of the parameter to `equals()`: 
-    
-    
-    public boolean equals(Foo obj) {...}
-            
+
+
+```java
+public boolean equals(Foo obj) {...}
+```
+        
 
 This covariant version of `equals()` does not override the version in the `Object` class, and it may lead to unexpected behavior at runtime, especially if the class is used with one of the standard collection classes which expect that the standard `equals(Object)` method is overridden. 
 
@@ -25,33 +27,41 @@ This kind of bug is not obvious because it looks correct, and in circumstances w
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="CovariantEquals"/>
-            
+
+
+```xml
+<module name="CovariantEquals"/>
+```
+        
 
 For example: 
-    
-    
-    class Test {
-        public boolean equals(Test i) {  // violation
-            return false;
-        }
+
+
+```java
+class Test {
+    public boolean equals(Test i) {  // violation
+        return false;
     }
-              
+}
+```
+ 
 
 The same class without violations: 
-    
-    
-    class Test {
-        public boolean equals(Test i) {  // no violation
-            return false;
-        }
-    
-        public boolean equals(Object i) {
-           return false;
-        }
+
+
+```java
+class Test {
+    public boolean equals(Test i) {  // no violation
+        return false;
     }
+```
+
+```java
+    public boolean equals(Object i) {
+       return false;
+    }
+}
+```
 
 ## Further Reading
 

@@ -9,11 +9,13 @@ Validates identifiers for `abstract` classes.
 ## Examples
 
 The following example shows how to configure the `AbstractClassName` to checks names, but ignore missing `abstract` modifiers: 
-    
-    
-    <module name="AbstractClassName">
-      <property name="ignoreModifier" value="true"/>
-    </module>
+
+
+```xml
+<module name="AbstractClassName">
+  <property name="ignoreModifier" value="true"/>
+</module>
+```
 
 ## Further Reading
 

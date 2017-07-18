@@ -11,9 +11,11 @@ Rationale: It's usually a good idea to introduce a default case in every switch 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MissingSwitchDefault"/>
+
+
+```xml
+<module name="MissingSwitchDefault"/>
+```
 
 ## Further Reading
 

@@ -13,9 +13,11 @@ The check can be configured to also disallow marker interfaces like `java.io.Ser
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="InterfaceIsType"/>
+
+
+```xml
+<module name="InterfaceIsType"/>
+```
 
 ## Further Reading
 

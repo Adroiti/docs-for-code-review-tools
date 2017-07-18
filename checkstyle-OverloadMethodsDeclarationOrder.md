@@ -9,18 +9,22 @@ Checks that overload methods are grouped together.
 ## Examples
 
 Example of incorrect grouping overload methods: 
-    
-    
-    public void foo(int i) {}
-    public void foo(String s) {}
-    public void notFoo() {} // Have to be after foo(int i, String s)
-    public void foo(int i, String s) {}
-            
+
+
+```java
+public void foo(int i) {}
+public void foo(String s) {}
+public void notFoo() {} // Have to be after foo(int i, String s)
+public void foo(int i, String s) {}
+```
+        
 
 An example of how to configure the check is: 
-    
-    
-    <module name="OverloadMethodsDeclarationOrder"/>
+
+
+```xml
+<module name="OverloadMethodsDeclarationOrder"/>
+```
 
 ## Further Reading
 

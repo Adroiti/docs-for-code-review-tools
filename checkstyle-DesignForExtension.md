@@ -29,101 +29,137 @@ Rationale: This library design style protects superclasses against being broken 
 More specifically, it enforces a programming style where superclasses provide empty "hooks" that can be implemented by subclasses. 
 
 Example of code that cause violation as it is designed for extension: 
-    
-    
-    public abstract class Plant {
-        private String roots;
-        private String trunk;
-    
-        protected void validate() {
-          if (roots == null) throw new IllegalArgumentException("No roots!");
-          if (trunk == null) throw new IllegalArgumentException("No trunk!");
-        }
-    
-        public abstract void grow();
+
+
+```java
+public abstract class Plant {
+    private String roots;
+    private String trunk;
+```
+
+```java
+    protected void validate() {
+      if (roots == null) throw new IllegalArgumentException("No roots!");
+      if (trunk == null) throw new IllegalArgumentException("No trunk!");
     }
-    
-    public class Tree extends Plant {
-        private List leaves;
-    
-        @Overrides
-        protected void validate() {
-          super.validate();
-          if (leaves == null) throw new IllegalArgumentException("No leaves!");
-        }
-    
-        public void grow() {
-          validate();
-        }
+```
+
+```java
+    public abstract void grow();
+}
+```
+
+```java
+public class Tree extends Plant {
+    private List leaves;
+```
+
+```java
+    @Overrides
+    protected void validate() {
+      super.validate();
+      if (leaves == null) throw new IllegalArgumentException("No leaves!");
     }
-            
+```
+
+```java
+    public void grow() {
+      validate();
+    }
+}
+```
+        
 
 Example of code without violation: 
-    
-    
-    public abstract class Plant {
-        private String roots;
-        private String trunk;
-    
-        private void validate() {
-            if (roots == null) throw new IllegalArgumentException("No roots!");
-            if (trunk == null) throw new IllegalArgumentException("No trunk!");
-            validateEx();
-        }
-    
-        protected void validateEx() { }
-    
-        public abstract void grow();
+
+
+```java
+public abstract class Plant {
+    private String roots;
+    private String trunk;
+```
+
+```java
+    private void validate() {
+        if (roots == null) throw new IllegalArgumentException("No roots!");
+        if (trunk == null) throw new IllegalArgumentException("No trunk!");
+        validateEx();
     }
-            
+```
+
+```java
+    protected void validateEx() { }
+```
+
+```java
+    public abstract void grow();
+}
+```
+        
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="DesignForExtension"/>
-            
+
+
+```xml
+<module name="DesignForExtension"/>
+```
+        
 
 To configure the check to allow methods which have `@Override` and `@Test` annotations to be designed for extension. 
-    
-    
-    <module name="DesignForExtension">
-      <property name="ignoredAnnotations" value="Override, Test"/>
-    </module>
-            
-    
-    
-    public class A extends B {
-      @Override
-      public int foo() {
-        return 2;
-      }
-    
-      public int foo2() {return 8;} // violation
-    }
-    
-    public class B {
-      /**
-       * This implementation ...
-         @return some int value.
-       */
-      public int foo() {
-        return 1;
-      }
-    
-      public int foo3() {return 3;} // violation
-    }
-    
-    public class FooTest {
-      @Test
-      public void testFoo() {
-         final B b = new A();
-         assertEquals(2, b.foo());
-      }
-    
-      public int foo4() {return 4;} // violation
-    }
+
+
+```xml
+<module name="DesignForExtension">
+  <property name="ignoredAnnotations" value="Override, Test"/>
+</module>
+```
+        
+
+
+```java
+public class A extends B {
+  @Override
+  public int foo() {
+    return 2;
+  }
+```
+
+```java
+  public int foo2() {return 8;} // violation
+}
+```
+
+```java
+public class B {
+  /**
+   * This implementation ...
+     @return some int value.
+   */
+  public int foo() {
+    return 1;
+  }
+```
+
+```java
+  public int foo3() {return 3;} // violation
+}
+```
+
+```java
+public class FooTest {
+  @Test
+  public void testFoo() {
+     final B b = new A();
+     assertEquals(2, b.foo());
+  }
+```
+
+```java
+  public int foo4() {return 4;} // violation
+}
+```
 
 ## Further Reading
 

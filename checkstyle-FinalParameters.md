@@ -11,25 +11,31 @@ Rationale: Changing the value of parameters during the execution of the method's
 ## Examples
 
 To configure the check to enforce final parameters for methods and constructors: 
-    
-    
-    <module name="FinalParameters"/>
-            
+
+
+```xml
+<module name="FinalParameters"/>
+```
+        
 
 To configure the check to enforce final parameters only for constructors: 
-    
-    
-    <module name="FinalParameters">
-        <property name="tokens" value="CTOR_DEF"/>
-    </module>
-            
+
+
+```xml
+<module name="FinalParameters">
+    <property name="tokens" value="CTOR_DEF"/>
+</module>
+```
+        
 
 To configure the check to allow ignoring [primitive datatypes](http://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) as parameters: 
-    
-    
-    <module name="FinalParameters">
-        <property name="ignorePrimitiveTypes" value="true"/>
-    </module>
+
+
+```xml
+<module name="FinalParameters">
+    <property name="ignorePrimitiveTypes" value="true"/>
+</module>
+```
 
 ## Further Reading
 

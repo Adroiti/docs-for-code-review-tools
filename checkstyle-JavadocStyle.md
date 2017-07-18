@@ -17,34 +17,42 @@ These checks were patterned after the checks made by the [DocCheck](http://maven
 ## Examples
 
 To configure the default check: 
-    
-    
-    <module name="JavadocStyle"/>
-            
+
+
+```xml
+<module name="JavadocStyle"/>
+```
+        
 
 To configure the check for `public` scope: 
-    
-    
-    <module name="JavadocStyle">
-       <property name="scope" value="public"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocStyle">
+   <property name="scope" value="public"/>
+</module>
+```
+        
 
 To configure the check for Javadoc which is in `private`, but not in `package` scope: 
-    
-    
-    <module name="JavadocStyle">
-       <property name="scope" value="private"/>
-       <property name="excludeScope" value="package"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocStyle">
+   <property name="scope" value="private"/>
+   <property name="excludeScope" value="package"/>
+</module>
+```
+        
 
 To configure the check to turn off first sentence checking: 
-    
-    
-    <module name="JavadocStyle">
-       <property name="checkFirstSentence" value="false"/>
-    </module>
+
+
+```xml
+<module name="JavadocStyle">
+   <property name="checkFirstSentence" value="false"/>
+</module>
+```
 
 ## Further Reading
 

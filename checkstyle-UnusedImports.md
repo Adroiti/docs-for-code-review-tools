@@ -15,21 +15,25 @@ An import statement is considered unused if:
 The main limitation of this check is handling the case where an imported type has the same name as a declaration, such as a member variable. 
 
 For example, in the following case the import `java.awt.Component` will not be flagged as unused: 
-    
-    
-    import java.awt.Component;
-    class FooBar {
-        private Object Component; // a bad practice in my opinion
-        ...
-    }
-            
+
+
+```java
+import java.awt.Component;
+class FooBar {
+    private Object Component; // a bad practice in my opinion
+    ...
+}
+```
+        
 
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="UnusedImports"/>
+
+
+```xml
+<module name="UnusedImports"/>
+```
 
 ## Further Reading
 

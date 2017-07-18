@@ -13,42 +13,52 @@ Error messages about type parameters for which no param tags are present can be 
 ## Examples
 
 To configure the default check: 
-    
-    
-    <module name="JavadocType"/>
-            
+
+
+```xml
+<module name="JavadocType"/>
+```
+        
 
 To configure the check for `public` scope: 
-    
-    
-    <module name="JavadocType">
-       <property name="scope" value="public"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocType">
+   <property name="scope" value="public"/>
+</module>
+```
+        
 
 To configure the check for an @author tag: 
-    
-    
-    <module name="JavadocType">
-       <property name="authorFormat" value="\S"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocType">
+   <property name="authorFormat" value="\S"/>
+</module>
+```
+        
 
 To configure the check for a CVS revision version tag: 
-    
-    
-    <module name="JavadocType">
-       <property name="versionFormat" value="\$Revision.*\$"/>
-    </module>
-            
+
+
+```xml
+<module name="JavadocType">
+   <property name="versionFormat" value="\$Revision.*\$"/>
+</module>
+```
+        
 
 To configure the check for `private` classes only: 
-    
-    
-    <module name="JavadocType">
-       <property name="scope" value="private"/>
-       <property name="excludeScope" value="package"/>
-    </module>
+
+
+```xml
+<module name="JavadocType">
+   <property name="scope" value="private"/>
+   <property name="excludeScope" value="package"/>
+</module>
+```
 
 ## Further Reading
 

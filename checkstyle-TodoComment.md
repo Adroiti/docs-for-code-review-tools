@@ -9,17 +9,21 @@ A check for `TODO:` comments. Actually it is a generic [regular expression](http
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="TodoComment"/>
-            
+
+
+```xml
+<module name="TodoComment"/>
+```
+        
 
 To configure the check for comments that contain `TODO` and `FIXME`: 
-    
-    
-    <module name="TodoComment">
-        <property name="format" value="(TODO)|(FIXME)"/>
-    </module>
+
+
+```xml
+<module name="TodoComment">
+    <property name="format" value="(TODO)|(FIXME)"/>
+</module>
+```
 
 ## Further Reading
 

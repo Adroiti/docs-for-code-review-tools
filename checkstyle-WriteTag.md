@@ -9,23 +9,27 @@ Requires user defined Javadoc tag to be present in Javadoc comment with defined 
 ## Examples
 
 An example of how to configure the check for printing author name is: 
-    
-    
-    <module name="WriteTag">
-       <property name="tag" value="@author"/>
-       <property name="tagFormat" value="\S"/>
-    </module>
-            
+
+
+```xml
+<module name="WriteTag">
+   <property name="tag" value="@author"/>
+   <property name="tagFormat" value="\S"/>
+</module>
+```
+        
 
 An example of how to configure the check to print warnings if an "@incomplete" tag is found, and not print anything if it is not found: 
-    
-    
-    <module name="WriteTag">
-       <property name="tag" value="@incomplete"/>
-       <property name="tagFormat" value="\S"/>
-       <property name="severity" value="ignore"/>
-       <property name="tagSeverity" value="warning"/>
-    </module>
+
+
+```xml
+<module name="WriteTag">
+   <property name="tag" value="@incomplete"/>
+   <property name="tagFormat" value="\S"/>
+   <property name="severity" value="ignore"/>
+   <property name="tagSeverity" value="warning"/>
+</module>
+```
 
 ## Further Reading
 

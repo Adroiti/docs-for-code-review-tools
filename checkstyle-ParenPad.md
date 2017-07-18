@@ -9,19 +9,23 @@ Checks the policy on the padding of parentheses; i.e. whether a space is require
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ParenPad"/>
-            
+
+
+```xml
+<module name="ParenPad"/>
+```
+        
 
 To configure the check to require spaces for the parentheses of constructor, method, and super constructor calls: 
-    
-    
-    <module name="ParenPad">
-        <property name="tokens" value="CTOR_CALL, METHOD_CALL,
-        SUPER_CTOR_CALL"/>
-        <property name="option" value="space"/>
-    </module>
+
+
+```xml
+<module name="ParenPad">
+    <property name="tokens" value="CTOR_CALL, METHOD_CALL,
+    SUPER_CTOR_CALL"/>
+    <property name="option" value="space"/>
+</module>
+```
 
 ## Further Reading
 

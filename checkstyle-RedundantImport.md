@@ -13,9 +13,11 @@ Checks for redundant `import` statements. An `import` statement is considered re
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="RedundantImport"/>
+
+
+```xml
+<module name="RedundantImport"/>
+```
 
 ## Further Reading
 

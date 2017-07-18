@@ -9,28 +9,36 @@ Verifies that both the `java.lang.Deprecated` annotation is present and the `@de
 ## Examples
 
 To configure the check:
-    
-    
-    <module name="MissingDeprecated"/>
-            
+
+
+```xml
+<module name="MissingDeprecated"/>
+```
+        
 
 In addition you can configure this check with skipNoJavadoc option: 
-    
-    
-    <module name="MissingDeprecated">
-        <property name="skipNoJavadoc" value="true" />
-    </module>
-            
+
+
+```xml
+<module name="MissingDeprecated">
+    <property name="skipNoJavadoc" value="true" />
+</module>
+```
+        
 
 Examples of validating source code with skipNoJavadoc:
-    
-    
-    @deprecated
-    public static final int MY_CONST = 123456; // no violation
-    
-    /** This Javadoc is missing deprecated tag. */
-    @deprecated
-    public static final int COUNTER = 10; // violation as Javadoc exists
+
+
+```java
+@deprecated
+public static final int MY_CONST = 123456; // no violation
+```
+
+```java
+/** This Javadoc is missing deprecated tag. */
+@deprecated
+public static final int COUNTER = 10; // violation as Javadoc exists
+```
 
 ## Further Reading
 

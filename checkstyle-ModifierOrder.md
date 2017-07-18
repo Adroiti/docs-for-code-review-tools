@@ -24,9 +24,11 @@ ATTENTION: We skip [type annotations](http://www.oracle.com/technetwork/articles
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="ModifierOrder"/>
+
+
+```xml
+<module name="ModifierOrder"/>
+```
 
 ## Further Reading
 

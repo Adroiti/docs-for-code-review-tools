@@ -24,17 +24,21 @@ Here is some quotes:
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="NPathComplexity"/>
-            
+
+
+```xml
+<module name="NPathComplexity"/>
+```
+        
 
 To configure the check with a threshold of 1000: 
-    
-    
-    <module name="NPathComplexity">
-        <property name="max" value="1000"/>
-    </module>
+
+
+```xml
+<module name="NPathComplexity">
+    <property name="max" value="1000"/>
+</module>
+```
 
 ## Further Reading
 

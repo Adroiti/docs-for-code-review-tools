@@ -11,9 +11,11 @@ Rationale: [the Java code conventions chapter 6.1](http://www.oracle.com/technet
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MultipleVariableDeclarations"/>
+
+
+```xml
+<module name="MultipleVariableDeclarations"/>
+```
 
 ## Further Reading
 

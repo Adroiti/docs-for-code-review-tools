@@ -11,9 +11,11 @@ The capital `L` looks a lot like `1`.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="UpperEll"/>
+
+
+```xml
+<module name="UpperEll"/>
+```
 
 ## Further Reading
 

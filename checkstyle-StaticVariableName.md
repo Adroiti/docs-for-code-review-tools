@@ -9,9 +9,11 @@ Validates identifiers for `static`, non-`final` fields.
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="StaticVariableName"/>
+
+
+```xml
+<module name="StaticVariableName"/>
+```
 
 ## Further Reading
 

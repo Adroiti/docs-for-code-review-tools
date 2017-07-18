@@ -9,19 +9,23 @@ Checks the padding between the identifier of a method definition, constructor de
 ## Examples
 
 To configure the check: 
-    
-    
-    <module name="MethodParamPad"/>
-            
+
+
+```xml
+<module name="MethodParamPad"/>
+```
+        
 
 To configure the check to require a space after the identifier of a method definition, except if the left parenthesis occurs on a new line: 
-    
-    
-    <module name="MethodParamPad">
-        <property name="tokens" value="METHOD_DEF"/>
-        <property name="option" value="space"/>
-        <property name="allowLineBreaks" value="true"/>
-    </module>
+
+
+```xml
+<module name="MethodParamPad">
+    <property name="tokens" value="METHOD_DEF"/>
+    <property name="option" value="space"/>
+    <property name="allowLineBreaks" value="true"/>
+</module>
+```
 
 ## Further Reading
 
