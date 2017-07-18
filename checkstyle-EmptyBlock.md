@@ -4,9 +4,7 @@ Issue: -
 
 ## Description
 
-Checks for empty blocks. This check does not validate sequential blocks. 
-
-Sequential blocks won't be checked. Also, no violations for fall through:
+Checks for empty blocks. Sequential blocks won't be checked. Also, no violations for fall through:
 
 ```java
 switch (a) {
