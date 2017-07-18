@@ -16,7 +16,7 @@ switch (a) {
 ```
 
 
-This check processes LITERAL_CASE and LITERAL_DEFAULT separately. So, if tokens=LITERAL_DEFAULT, following code will not trigger any violation, as the empty block belongs to LITERAL_CASE: 
+This check processes `LITERAL_CASE` and `LITERAL_DEFAULT` separately. So, if `tokens=LITERAL_DEFAULT`, following code will not trigger any violation, as the empty block belongs to `LITERAL_CASE`: 
 
 Configuration:
 
