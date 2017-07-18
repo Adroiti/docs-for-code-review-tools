@@ -19,7 +19,7 @@ foo(i
 ```
         
 
-An example of how to configure the check is: 
+Configuration example: 
 
 
 ```xml
