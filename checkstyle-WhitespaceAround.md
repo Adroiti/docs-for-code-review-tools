@@ -1,4 +1,4 @@
-Pattern: Token is not surrounded by whitespace
+Pattern: Malformed whitespace around token
 
 Issue: -
 
