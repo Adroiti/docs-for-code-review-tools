@@ -131,29 +131,21 @@ To force checking imports sequence such as:
 
 ```java
 package com.puppycrawl.tools.checkstyle.imports;
-```
 
-```java
 import com.google.common.annotations.GwtCompatible;
 import com.google.common.annotations.Beta;
 import com.google.common.annotations.VisibleForTesting;
-```
 
-```java
 import org.abego.treelayout.Configuration;
-```
 
-```java
 import static sun.tools.util.ModifierFilter.ALL_ACCESS;
-```
 
-```java
 import com.google.common.annotations.GwtCompatible; // violation here - should be in the
-                                       // THIRD_PARTY_PACKAGE group
+                                                    // THIRD_PARTY_PACKAGE group
 import android.*;
 ```
-       
-
+ 
+ 
 configure as follows: 
 
 
