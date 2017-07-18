@@ -6,8 +6,6 @@ Issue: -
 
 Checks that the groups of import declarations appear in the order specified by the user. If there is an import but its group is not specified in the configuration such an import should be placed at the end of the import list. 
 
-Examples section contains examples that work with default formatter configurations of Eclipse, IntelliJ IDEA and NetBeans 
-
 ## Examples
 
 To configure the check so that it matches default Eclipse formatter configuration (tested on Kepler and Luna releases):
@@ -25,8 +23,7 @@ Notes:
 
 ```xml
 <module name="CustomImportOrder">
-    <property name="customImportOrderRules"
-        value="STATIC###STANDARD_JAVA_PACKAGE###SPECIAL_IMPORTS"/>
+    <property name="customImportOrderRules" value="STATIC###STANDARD_JAVA_PACKAGE###SPECIAL_IMPORTS"/>
     <property name="specialImportsRegExp" value="^org\."/>
     <property name="sortImportsInGroupAlphabetically" value="true"/>
     <property name="separateLineBetweenGroups" value="true"/>
@@ -44,8 +41,7 @@ To configure the check so that it matches default Eclipse formatter configuratio
 
 ```xml
 <module name="CustomImportOrder">
-    <property name="customImportOrderRules"
-        value="STATIC###STANDARD_JAVA_PACKAGE###SPECIAL_IMPORTS###THIRD_PARTY_PACKAGE"/>
+    <property name="customImportOrderRules" value="STATIC###STANDARD_JAVA_PACKAGE###SPECIAL_IMPORTS###THIRD_PARTY_PACKAGE"/>
     <property name="specialImportsRegExp" value="^org\."/>
     <property name="thirdPartyPackageRegExp" value="^com\."/>
     <property name="sortImportsInGroupAlphabetically" value="true"/>
@@ -66,8 +62,7 @@ Note: "separated" option is disabled because IDEA default has blank line between
 
 ```xml
 <module name="CustomImportOrder">
-    <property name="customImportOrderRules"
-        value="THIRD_PARTY_PACKAGE###SPECIAL_IMPORTS###STANDARD_JAVA_PACKAGE###STATIC"/>
+    <property name="customImportOrderRules" value="THIRD_PARTY_PACKAGE###SPECIAL_IMPORTS###STANDARD_JAVA_PACKAGE###STATIC"/>
     <property name="specialImportsRegExp" value="^javax\."/>
     <property name="standardPackageRegExp" value="^java\."/>
     <property name="sortImportsInGroupAlphabetically" value="true"/>
@@ -92,8 +87,7 @@ To set RegExps for THIRD_PARTY_PACKAGE and STANDARD_JAVA_PACKAGE groups use thir
 
 ```xml
 <module name="CustomImportOrder">
-    <property name="customImportOrderRules"
-        value="STATIC###SAME_PACKAGE(3)###THIRD_PARTY_PACKAGE###STANDARD_JAVA_PACKAGE"/>
+    <property name="customImportOrderRules" value="STATIC###SAME_PACKAGE(3)###THIRD_PARTY_PACKAGE###STANDARD_JAVA_PACKAGE"/>
     <property name="thirdPartyPackageRegExp" value="^(com|org)\."/>
     <property name="standardPackageRegExp" value="^(java|javax)\."/>
 </module>
@@ -165,8 +159,7 @@ configure as follows:
 
 ```xml
 <module name="CustomImportOrder">
-    <property name="customImportOrderRules"
-    value="SAME_PACKAGE(3)###THIRD_PARTY_PACKAGE###STATIC###SPECIAL_IMPORTS"/>
+    <property name="customImportOrderRules" value="SAME_PACKAGE(3)###THIRD_PARTY_PACKAGE###STATIC###SPECIAL_IMPORTS"/>
     <property name="specialImportsRegExp" value="^android\."/>
 </module>
 ```
