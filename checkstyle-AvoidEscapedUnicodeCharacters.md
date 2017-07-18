@@ -20,14 +20,14 @@ An example of how to configure the check is:
 
 
 ```xml
-    <module name="AvoidEscapedUnicodeCharacters"/>
+<module name="AvoidEscapedUnicodeCharacters"/>
 ```
 
 An example of non-printable(control) characters.
 
 
 ```java
-    return '\ufeff' + content; // byte order mark
+return '\ufeff' + content; // byte order mark
 ```
 
 An example of how to configure the check to allow using escapes for non-printable(control) characters:
@@ -43,7 +43,7 @@ Example of using escapes with trail comment:
 
 
 ```java
-    String unitAbbrev = "\u03bcs"; // Greek letter mu, "s"
+String unitAbbrev = "\u03bcs"; // Greek letter mu, "s"
 ```
 
 An example of how to configure the check to allow using escapes if trail comment is present: 
@@ -59,25 +59,25 @@ Example of using escapes if literal contains only them:
 
 
 ```java
-    String unitAbbrev = "\u03bc\u03bc\u03bc";
+String unitAbbrev = "\u03bc\u03bc\u03bc";
 ```
 
 An example of how to configure the check to allow escapes if literal contains only them: 
 
 
 ```xml
-    <module name="AvoidEscapedUnicodeCharacters">
-        <property name="allowIfAllCharactersEscaped" value="true"/>
-    </module>
+<module name="AvoidEscapedUnicodeCharacters">
+    <property name="allowIfAllCharactersEscaped" value="true"/>
+</module>
 ```
 
 An example of how to configure the check to allow non-printable escapes: 
 
 
 ```xml
-    <module name="AvoidEscapedUnicodeCharacters">
-        <property name="allowNonPrintableEscapes" value="true"/>
-    </module>
+<module name="AvoidEscapedUnicodeCharacters">
+    <property name="allowNonPrintableEscapes" value="true"/>
+</module>
 ```
 
 ## Further Reading
