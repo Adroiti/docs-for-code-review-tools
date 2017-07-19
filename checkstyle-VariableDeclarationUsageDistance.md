@@ -4,7 +4,9 @@ Issue: -
 
 ## Description
 
-Checks the distance between declaration of variable and its first usage. 
+Checks the distance between declaration of variable and its first usage.
+
+Consider making variable final if you still need to store its value in advance (before method calls that might have side effects on the original value).
 
 ## Examples
 
@@ -76,8 +78,11 @@ An example how to configure this check:
 ```
 
 
-An example of how to configure this check: \- to set the allowed distance to 4; \- to ignore variables with prefix '^temp'; \- to force the validation between scopes; \- to check the final variables; 
-
+An example of how to configure this check: 
+- to set the allowed distance to `4`; 
+- to ignore variables with prefix `^temp`;
+- to force the validation between scopes; 
+- to check the final variables; 
 
 ```xml
 <module name="VariableDeclarationUsageDistance">

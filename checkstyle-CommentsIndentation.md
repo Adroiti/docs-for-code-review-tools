@@ -4,9 +4,11 @@ Issue: -
 
 ## Description
 
-Controls the indentation between comments and surrounding code. Comments are indented at the same level as the surrounding code. Detailed info about such convention can be found [here](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html#s4.8.6.1-block-comment-style)
+This rule controls the indentation between comments and surrounding code. By default it enforces recommendation by Google Java Style Guide - comments should be indented at the same level as the surrounding code.
 
-Please take a look at the following examples to understand how the check works:
+**Note**: if comment block _appears_ to be at the same level as surrounding code it's most likely caused by usage of mixed spaces and tabs.
+
+## Examples
 
 Example #1: Block comments.
 
@@ -203,4 +205,5 @@ To configure the check:
 
 ## Further Reading
 
+* [Google Java Style Guide - Block comment style](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html#s4.8.6.1-block-comment-style)
 * [checkstyle - CommentsIndentation](http://checkstyle.sourceforge.net/config_misc.html#CommentsIndentation)

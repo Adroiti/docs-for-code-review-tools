@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks the style of array type definitions. Some like Java style: `public static void main(String[] args)` and some like C style: `public static void main(String args[])`.
+This rule enforces the use of either C-style or Java-style for array declarations. The default is Java-style based on Google Java Style Guide - the square brackets form a part of the _type_, not the variable: `String[] args`, not `String args[]`.
 
 ## Examples
 
@@ -27,4 +27,5 @@ To configure the check to enforce C style:
 
 ## Further Reading
 
+* [Google Java Style Guide - Arrays](https://google.github.io/styleguide/javaguide.html#s4.8.3-arrays)
 * [checkstyle - ArrayTypeStyle](http://checkstyle.sourceforge.net/config_misc.html#ArrayTypeStyle)

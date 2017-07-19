@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Verifies there are no `finalize()` methods defined in a class. 
+This rule enforces recommendation by Google Java Style guide to avoid use of `finalize()` method. It is **extremely rare** to override `Object.finalize`.
 
 ## Examples
 
@@ -17,4 +17,5 @@ To configure the check:
 
 ## Further Reading
 
+* [Google Java Style Guide - Finalizers: not used](https://google.github.io/styleguide/javaguide.html#s6.4-finalizers)
 * [checkstyle - NoFinalizer](http://checkstyle.sourceforge.net/config_coding.html#NoFinalizer)
