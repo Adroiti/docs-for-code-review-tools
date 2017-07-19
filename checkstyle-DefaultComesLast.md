@@ -18,7 +18,7 @@ To configure the check:
 ```
         
 
-To configure the check for skipIfLastAndSharedWithCase: 
+To configure the check to allow `default` along with case if they are not last: 
 
 
 ```xml
@@ -28,7 +28,7 @@ To configure the check for skipIfLastAndSharedWithCase:
 ```
         
 
-Example when skipIfLastAndSharedWithCase is set to true. 
+Example when `skipIfLastAndSharedWithCase` is set to true. 
 
 
 ```java
