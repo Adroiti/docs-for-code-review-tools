@@ -196,175 +196,25 @@ A more complex example. Note how the import and Javadoc multi-lines are handled,
 
 ```java
  package com.puppycrawl.checkstyle;
-```
-
-```java
+ 
  import java.util.thing1;
  import java.util.thing2;
  import java.util.thing3;
-```
-
-```java
+ 
  /**
  * Javadoc line 1
  * Javadoc line 2
  * Javadoc line 3
  */
-```
-        
-
-
-```java
+ 
  <module name="Regexp">
- <property
- name="format"
+ <property  name="format"
  value="\A/{71}\n// checkstyle:\n// Checks Java source code for
  adherence to a set of rules\.\n// Copyright \(C\) \d\d\d\d  Oliver Burn\n
  // Last modification by \$Author.*\$\n/{71}\n\npackage [\w\.]*;\n\n
  (import [\w\.]*;\n)*\n/\*\*\n( \*[^/]*\n)* \*/"/>
  </module>
 ```
-        
-
-**More examples:**
-
-The next 2 examples deal with the following example Java source file: 
-
-
-```java
- /*
- * PID.java
- *
- * Copyright (c) 2001 ACME
- * 123 Some St.
- * Somewhere.
- *
- * This software is the confidential and proprietary information of ACME.
- * ("Confidential Information"). You shall not disclose such
- * Confidential Information and shall use it only in accordance with
- * the terms of the license agreement you entered into with ACME.
- *
- * $Log: config_misc.xml,v $
- * Revision 1.7  2007/01/16 12:16:35  oburn
- * Removing all reference to mailing lists
- *
- * Revision 1.6  2005/12/25 16:13:10  o_sukhodolsky
- * Fix for rfe 1248106 (TYPECAST is now accepted by NoWhitespaceAfter)
- *
- * Fix for rfe 953266 (thanks to Paul Guyot (pguyot) for submitting patch)
- * IllegalType can be configured to accept some abstract classes which
- * matches to regexp of illegal type names (property legalAbstractClassNames)
- *
- * TrailingComment now can be configured to accept some trailing comments
- * (such as NOI18N) (property legalComment, rfe 1385344).
- *
- * Revision 1.5  2005/11/06 11:54:12  oburn
- * Incorporate excellent patch [1344344] Consolidation of regexp checks.
- *
- * Revision 1.3.8.1  2005/10/11 14:26:32  someone
- * Fix for bug 251.  The broken bit is fixed
- */
-```
-
-```java
- package com.acme.tools;
-```
-
-```java
- import com.acme.thing1;
- import com.acme.thing2;
- import com.acme.thing3;
-```
-
-```java
- /**
- *
- * <P>
- *   <I>This software is the confidential and proprietary information of
- *   ACME (<B>"Confidential Information"</B>). You shall not
- *   disclose such Confidential Information and shall use it only in
- *   accordance with the terms of the license agreement you entered into
- *   with ACME.</I>
- * </P>
- *
- * &#169; copyright 2002 ACME
- *
- * @author   Some Body
- */
- public class PID extends StateMachine implements WebObject.Constants {
-```
-
-```java
- /** Javadoc. */
- public static final int A_SETPOINT = 1;
- .
- .
- .
- } // class PID
-```
-        
-
-This checks for the presence of the header, the first 16 lines. 
-
-Note the following:
-
-  - Line 2 and 13 contain the file name. These are checked to make sure they are the same, and that they match the class name.
-  - The date can be any 4 digit number.
-
-
-```java
- <module name="Regexp">
- <property
- name="format"
- value="\A/\*\n \* (\w*)\.java\n \*\n \* Copyright \(c\)
- \d\d\d\d ACME\n \* 123 Some St\.\n \* Somewhere\.\n \*\n
- \* This software is the confidential and proprietary information
- of ACME\.\n \* \(&quot;Confidential Information&quot;\)\. You
- shall not disclose such\n \* Confidential Information and shall
- use it only in accordance with\n \* the terms of the license
- agreement you entered into with ACME\.\n \*\n
- \* \$Log: config_misc\.xml,v $
- \* Revision 1\.7  2007/01/16 12:16:35  oburn
- \* Removing all reference to mailing lists
- \* \
- \* Revision 1.6  2005/12/25 16:13:10  o_sukhodolsky
- \* Fix for rfe 1248106 \(TYPECAST is now accepted by NoWhitespaceAfter\)
- \* \
- \* Fix for rfe 953266 \(thanks to Paul Guyot \(pguyot\) for submitting patch\)
- \* IllegalType can be configured to accept some abstract classes which
- \* matches to regexp of illegal type names \(property legalAbstractClassNames\)
- \*
- \* TrailingComment now can be configured to accept some trailing comments
- \* \(such as NOI18N\) \(property legalComment, rfe 1385344\).
- \*
- \* Revision 1.5  2005/11/06 11:54:12  oburn
- \* Incorporate excellent patch \[ 1344344 \] Consolidation of regexp checks.
- \* \\n(.*\n)*([\w|\s]*( class | interface )\1)"/>
- <property name="message" value="Correct header not found"/>
- </module>
-```
-        
-
-This checks for the presence of a copyright notice within the class Javadoc, lines 24 to 37. 
-
-
-```java
- <module name="Regexp">
- <property
- name="format"
- value="(/\*\*\n)( \*.*\n)*( \* &lt;P&gt;\n \*   &lt;I&gt;
- This software is the confidential and proprietary information of\n
- \*   ACME \(&lt;B&gt;&quot;Confidential Information&quot;&lt;/B&gt;
- \)\. You shall not\n \*   disclose such Confidential Information
- and shall use it only in\n \*   accordance with the terms of the
- license agreement you entered into\n \*   with ACME\.&lt;/I&gt;\n
- \* &lt;/P&gt;\n \*\n \* &#169; copyright \d\d\d\d ACME\n
- \*\n \* @author .*)(\n\s\*.*)*/\n[\w|\s]*( class | interface )"/>
- <property name="message" value="Copyright in class/interface Javadoc"/>
- <property name="duplicateLimit" value="0"/>
- </module>
-```
-        
 
 **Note:** To search for things that mean something in XML, like < you need to escape them like &lt;. This is required so the XML parser does not act on them, but instead passes the correct character to the regexp engine.
 
