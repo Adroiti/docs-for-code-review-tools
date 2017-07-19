@@ -153,21 +153,18 @@ And the file `a.b.Foo.java` is:
 
 ```java
 package a.b;
-```
+ 
 
-```java
 import a.b.Bar;
 import a.b.c.Baz;
-```
+ 
 
-```java
 public class Foo {
     public Bar bar; // Will be ignored, located inside ignored a.b package
     public Baz baz; // Will not be ignored, located inside a.b.c package
     public Data data; // Will not be ignored, same file
-```
+ 
 
-```java
     class Data {
         public Foo foo; // Will not be ignored, same file
     }

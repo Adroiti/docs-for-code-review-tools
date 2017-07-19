@@ -13,9 +13,8 @@ Consider the following properties file in the same directory:
 #messages.properties
 hello=Hello
 cancel=Cancel
-```
+ 
 
-```java
 #messages_de.properties
 hell=Hallo
 ok=OK

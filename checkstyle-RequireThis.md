@@ -40,37 +40,32 @@ Examples of how the check works if validateOnlyOverlapping option is set to true
 public static class A {
   private int field1;
   private int field2;
-```
+ 
 
-```java
   public A(int field1) {
     // Overlapping by constructor argument.
     field1 = field1; // violation: Reference to instance variable "field1" needs "this".
     field2 = 0;
   }
-```
+ 
 
-```java
   void foo3() {
     String field1 = "values";
     // Overlapping by local variable.
     field1 = field1; // violation:  Reference to instance variable "field1" needs "this".
   }
 }
-```
+ 
 
-```java
 public static class B {
   private int field1;
-```
+ 
 
-```java
   public A(int f) {
     field1 = f;
   }
-```
+ 
 
-```java
   String addSuffixToField(String field1) {
     // Overlapping by method argument. Equal to "return field1 = field1 + "suffix";"
     return field1 += "suffix"; // violation: Reference to instance variable "field1" needs "this".
@@ -120,51 +115,44 @@ Examples of how the check works if validateOnlyOverlapping option is set to fals
 public static class A {
   private int field1;
   private int field2;
-```
+ 
 
-```java
   public A(int field1) {
     field1 = field1; // violation: Reference to instance variable "field1" needs "this".
     field2 = 0; // violation: Reference to instance variable "field2" needs "this".
     String field2;
     field2 = "0"; // No violation. Local var allowed
   }
-```
+ 
 
-```java
   void foo3() {
     String field1 = "values";
     field1 = field1; // violation:  Reference to instance variable "field1" needs "this".
   }
 }
-```
+ 
 
-```java
 public static class B {
   private int field1;
-```
+ 
 
-```java
   public A(int f) {
     field1 = f; // violation:  Reference to instance variable "field1" needs "this".
   }
-```
+ 
 
-```java
   String addSuffixToField(String field1) {
     return field1 += "suffix"; // violation: Reference to instance variable "field1" needs "this".
   }
 }
-```
+ 
 
-```java
 // If the variable is locally defined, there won't be a violation provided the variable doesn't overlap.
 class C {
   private String s1 = "foo1";
   String s2 = "foo2";
-```
+ 
 
-```java
   C() {
       s1 = "bar1"; // Violation. Reference to instance variable 's1' needs "this.".
       String s2;

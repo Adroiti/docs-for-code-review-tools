@@ -110,17 +110,14 @@ To configure the check allows static imports grouped to the **top** being sorted
 import static java.lang.Math.PI;
 import static java.lang.Math.abs; // OK, alphabetical case sensitive ASCII order, 'P' < 'a'
 import static org.abego.treelayout.Configuration.AlignmentInLevel; // OK, alphabetical order
-```
+ 
 
-```java
 import org.abego.*;
-```
+ 
 
-```java
 import java.util.Set; //  Wrong order for 'java.util.Set' import.
-```
+ 
 
-```java
 public class SomeClass { ... }
 ```
         
@@ -145,9 +142,8 @@ import static io.netty.handler.codec.http.HttpConstants.COLON;
 import static io.netty.handler.codec.http.HttpHeaders.addHeader;
 import static io.netty.handler.codec.http.HttpHeaders.setHeader;
 import static io.netty.handler.codec.http.HttpHeaders.Names.DATE;
-```
+ 
 
-```java
 public class InputEclipseStaticImportsOrder { }
 ```
         
@@ -170,9 +166,8 @@ import static io.netty.handler.codec.http.HttpConstants.COLON;
 import static io.netty.handler.codec.http.HttpHeaders.addHeader;
 import static io.netty.handler.codec.http.HttpHeaders.setHeader;
 import static io.netty.handler.codec.http.HttpHeaders.Names.DATE; // violation
-```
+ 
 
-```java
 public class InputEclipseStaticImportsOrder { }
 ```
 

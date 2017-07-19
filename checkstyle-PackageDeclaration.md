@@ -44,9 +44,8 @@ Example of how the check works when matchDirectoryStructure option is set to fal
 
 ```java
 package com.puppycrawl.tools.checkstyle.checks;  //No Violation
-```
+ 
 
-```java
 public class AnnotationLocationCheck extends AbstractCheck {
 //...
 }

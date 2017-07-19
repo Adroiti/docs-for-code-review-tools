@@ -35,34 +35,29 @@ Example of code that cause violation as it is designed for extension:
 public abstract class Plant {
     private String roots;
     private String trunk;
-```
+ 
 
-```java
     protected void validate() {
       if (roots == null) throw new IllegalArgumentException("No roots!");
       if (trunk == null) throw new IllegalArgumentException("No trunk!");
     }
-```
+ 
 
-```java
     public abstract void grow();
 }
-```
+ 
 
-```java
 public class Tree extends Plant {
     private List leaves;
-```
+ 
 
-```java
     @Overrides
     protected void validate() {
       super.validate();
       if (leaves == null) throw new IllegalArgumentException("No leaves!");
     }
-```
+ 
 
-```java
     public void grow() {
       validate();
     }
@@ -77,21 +72,18 @@ Example of code without violation:
 public abstract class Plant {
     private String roots;
     private String trunk;
-```
+ 
 
-```java
     private void validate() {
         if (roots == null) throw new IllegalArgumentException("No roots!");
         if (trunk == null) throw new IllegalArgumentException("No trunk!");
         validateEx();
     }
-```
+ 
 
-```java
     protected void validateEx() { }
-```
+ 
 
-```java
     public abstract void grow();
 }
 ```
@@ -124,14 +116,12 @@ public class A extends B {
   public int foo() {
     return 2;
   }
-```
+ 
 
-```java
   public int foo2() {return 8;} // violation
 }
-```
+ 
 
-```java
 public class B {
   /**
    * This implementation ...
@@ -140,23 +130,20 @@ public class B {
   public int foo() {
     return 1;
   }
-```
+ 
 
-```java
   public int foo3() {return 3;} // violation
 }
-```
+ 
 
-```java
 public class FooTest {
   @Test
   public void testFoo() {
      final B b = new A();
      assertEquals(2, b.foo());
   }
-```
+ 
 
-```java
   public int foo4() {return 4;} // violation
 }
 ```

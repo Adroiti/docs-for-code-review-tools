@@ -54,9 +54,8 @@ class Test {
     public boolean equals(Test i) {  // no violation
         return false;
     }
-```
+ 
 
-```java
     public boolean equals(Object i) {
        return false;
     }

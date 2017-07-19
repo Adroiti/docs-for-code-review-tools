@@ -178,9 +178,8 @@ In the next example imports `java.util.stream.Stream` and `java.util.stream.Coll
 
 ```java
 package com.puppycrawl.tools.checkstyle.checks.imports;
-```
+ 
 
-```java
 import java.util.stream.Stream;     // violation here
 import java.util.stream.Collectors; // violation here
 import java.util.stream.IntStream;

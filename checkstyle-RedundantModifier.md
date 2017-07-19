@@ -34,9 +34,8 @@ FIELD_2 {
     @Override
     public final void method1() {} // violation expected
 };
-```
+ 
 
-```java
 public void method1() {}
 public final void method2() {} // no violation expected
  }
@@ -56,9 +55,8 @@ Public modifier for constructors in non-public non-protected classes is always o
  public class PublicClass {
    public PublicClass() {} // OK
  }
-```
+ 
 
-```java
  class PackagePrivateClass {
    public PackagePrivateClass() {} // violation expected
  }
@@ -75,9 +73,8 @@ There is no violation in the following example, because removing public modifier
  public ProtectedInnerClass () {}
    }
  }
-```
+ 
 
-```java
  package b;
  import a.ClassExample;
  public class ClassExtending extends ClassExample {

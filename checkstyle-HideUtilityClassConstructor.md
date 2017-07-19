@@ -18,9 +18,8 @@ public class StringUtils // not final to allow subclassing
         // prevents calls from subclass
         throw new UnsupportedOperationException();
     }
-```
+ 
 
-```java
     public static int count(char c, String s) {
         // ...
     }

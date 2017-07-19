@@ -13,9 +13,8 @@ The check honors special comments to suppress the warning. By default the text "
 switch (i){
 case 0:
     i++; // fall through
-```
+ 
 
-```java
 case 1:
     i++;
     // falls through

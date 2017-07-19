@@ -80,9 +80,8 @@ public class ImmutableClass
     public final ImmutableSet<String> excludes; // No warning
     public final java.lang.String notes; // No warning
     public final BigDecimal value; // No warning
-```
+ 
 
-```java
     public ImmutableClass(Collection<String> includes, Collection<String> excludes,
     BigDecimal value, String notes)
     {
@@ -118,9 +117,8 @@ public class ImmutableClass
     public final java.lang.String notes; // Warning here because
                             //'java.lang.String' wasn't specified as allowed class
     public final int someValue; // No warning
-```
+ 
 
-```java
     public ImmutableClass(Collection<String> includes, Collection<String> excludes,
     String notes, int someValue)
     {
@@ -155,9 +153,8 @@ public final class Test {
     public final ImmutableSet<String> names;
     public final ImmutableSet<Object> objects; // violation (Object class is mutable)
     public final ImmutableMap<String, Object> links; // violation (Object class is mutable)
-```
+ 
 
-```java
     public Test() {
         s = "Hello!";
         names = ImmutableSet.of();
@@ -267,9 +264,8 @@ public class InputPublicImmutable {
   public final java.lang.String notes; // violation
   public final BigDecimal value; // violation
   public final List list; // violation
-```
+ 
 
-```java
   public InputPublicImmutable(Collection<String> includes,
         BigDecimal value, String notes, int someValue, List l) {
     this.includes = ImmutableSet.copyOf(includes);
@@ -302,9 +298,8 @@ public class InputPublicImmutable {
   public final java.lang.String notes;
   public final BigDecimal value;
   public final List list;
-```
+ 
 
-```java
   public InputPublicImmutable(Collection<String> includes,
         BigDecimal value, String notes, int someValue, List l) {
     this.includes = ImmutableSet.copyOf(includes);

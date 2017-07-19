@@ -36,32 +36,28 @@ Example:
  private int a = 0;
  private int b = 1;
  private int c = 2;
-```
+ 
 
-```java
  private boolean a = true;
  private boolean b = false;
  private boolean c = true;
  private boolean d = false;
  private boolean e = false;
-```
+ 
 
-```java
  private A a = new A();
  private A b = null; // violation
  private C c = null; // violation
  private D d = new D();
-```
+ 
 
-```java
  int ar1[] = null; // violation
  int ar2[] = new int[];
  int ar3[];
  private Bar<String> bar = null; // violation
  private Bar<String>[] barArray = null; // violation
-```
+ 
 
-```java
  public static void main( String [] args ) {
  }
    }

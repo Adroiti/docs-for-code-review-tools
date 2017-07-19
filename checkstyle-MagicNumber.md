@@ -36,9 +36,8 @@ results is following violations:
 @MyAnnotation(6) // violation
 class MyClass {
     private field = 7; // violation
-```
+ 
 
-```java
     void foo() {
        int i = i + 1; // no violation
        int j = j + 8; // violation
@@ -67,9 +66,8 @@ results is following violations:
 @MyAnnotation(6) // no violation
 class MyClass {
     private field = 7; // no violation
-```
+ 
 
-```java
     void foo() {
        int i = i + 1; // no violation
        int j = j + 8; // violation

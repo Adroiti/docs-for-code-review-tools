@@ -41,16 +41,14 @@ To configure the check so that it ignores the variables and parameters named "te
 class SomeClass
 {
     private List<String> test;
-```
+ 
 
-```java
     private void addTest(List<String> test) // no violation
     {
         this.test.addAll(test);
     }
-```
+ 
 
-```java
     private void foo()
     {
         final List<String> test = new ArrayList<>(); // no violation
