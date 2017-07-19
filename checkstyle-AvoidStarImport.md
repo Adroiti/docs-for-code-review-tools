@@ -23,5 +23,5 @@ An example how to configure the check so that star imports from packages `java.i
 ## Further Reading
 
 * [Google Java Style Guide - No wildcard imports](https://google.github.io/styleguide/javaguide.html#s3.3.1-wildcard-imports)
-* [Scott Stanchfield - Import on Demand is EVIL!](http://javadude.com/articles/importondemandisevil.html)
+* [Stack Overflow - Why is using a wild card with a Java import statement bad?](https://stackoverflow.com/questions/147454/why-is-using-a-wild-card-with-a-java-import-statement-bad)
 * [checkstyle - AvoidStarImport](http://checkstyle.sourceforge.net/config_imports.html#AvoidStarImport)
