@@ -192,9 +192,7 @@ A more complex example. Note how the import and Javadoc multi-lines are handled,
  // Copyright (C) 2004  Oliver Burn
  // Last modification by $Author A.N.Other$
  ///////////////////////////////////////////////////////////////////////
-```
-
-```java
+ 
  package com.puppycrawl.checkstyle;
  
  import java.util.thing1;
