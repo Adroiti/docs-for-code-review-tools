@@ -35,9 +35,7 @@ import java.util.List;
 import java.util.Enumeration;
 import java.util.Arrays;
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -56,9 +54,7 @@ import java.util.List;
 import java.util.Enumeration;
 import java.util.Arrays;
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -83,9 +79,7 @@ import java.util.List;
 import java.util.Enumeration;
 import java.util.Arrays;
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -105,9 +99,7 @@ import java.util.Enumeration;
 import java.util.Arrays;
 import java.util.Date;      // violation
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -131,9 +123,7 @@ import java.io.*;
 import java.lang.ArithmeticException;
 import java.sql.Connection;
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -156,9 +146,7 @@ import java.util.Enumeration;   // violation
 import java.util.Arrays;        // violation
 import java.util.Date;          // violation
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -183,9 +171,7 @@ import java.lang.ArithmeticException;
 import java.util.Enumeration;
 import java.util.Date;
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
         
@@ -206,9 +192,7 @@ import java.util.Enumeration;
 import java.util.Arrays;        // violation
 import java.util.Date;
 import sun.applet.*;
-```
-
-```java
+ 
 public class InputIllegalImport { }
 ```
 
