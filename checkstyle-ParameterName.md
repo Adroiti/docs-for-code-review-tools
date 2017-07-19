@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks that method and `catch` parameter names conform to a format specified by the format property. By using `accessModifiers` property it is possible to specify different formats for methods at different visibility levels. 
+Checks that method and `catch` parameter names conform to a format specified by the `format` property. By using `accessModifiers` property it is possible to specify different formats for methods at different visibility levels. 
 
 ## Examples
 
