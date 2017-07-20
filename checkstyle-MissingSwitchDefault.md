@@ -26,8 +26,10 @@ switch(type)
 {
     case 1:
         doSomething();
+        break;
     case 2:
         doSomethingElse();
+        break;
 }
 ```
 
@@ -38,8 +40,10 @@ switch(type)
 {
     case 1:
         doSomething();
+        break;
     case 2:
         doSomethingElse();
+        break;
     default:
         // unknown type! 
         // there should probably be some error-handling here, maybe an exception
