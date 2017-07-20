@@ -1,4 +1,5 @@
 Pattern: Use of letter `l` (ell) as suffix
+
 Issue: -
 
 ## Description
