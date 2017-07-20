@@ -8,6 +8,16 @@ Prefer using actual Unicode character (e.g. `∞`) over the equivalent Unicode e
 
 Never make your code less readable simply out of fear that some programs might not handle non-ASCII characters properly. If that should happen, those programs are **broken** and they must be **fixed**.
 
+## Default configuration
+
+```xml
+<module name="AvoidEscapedUnicodeCharacters">
+    <property name="allowEscapesForControlCharacters" value="true"/>
+    <property name="allowByTailComment" value="true"/>
+    <property name="allowNonPrintableEscapes" value="true"/>
+</module>
+```
+
 ## Examples
 
 Examples of using Unicode:
@@ -18,18 +28,7 @@ String unitAbbrev = "μs"; //Best: perfectly clear even without a comment.
 String unitAbbrev = "\u03bcs"; //Poor: the reader has no idea what this is.
 ```
 
-Default configuration:
-
-```xml
-<module name="AvoidEscapedUnicodeCharacters">
-    <property name="allowEscapesForControlCharacters" value="true"/>
-    <property name="allowByTailComment" value="true"/>
-    <property name="allowNonPrintableEscapes" value="true"/>
-</module>
-```
-
 An example of non-printable (control) characters:
-
 
 ```java
 return '\ufeff' + content; // byte order mark
