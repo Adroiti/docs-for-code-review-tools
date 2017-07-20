@@ -6,6 +6,12 @@ Issue: -
 
 Checks that chosen statements are not line-wrapped. By default this check restricts wrapping `import` and `package` statements, but it's possible to check any statement. 
 
+## Default configuration
+
+```xml
+<module name="NoLineWrap"/>
+```
+
 ## Examples
 
 Examples of line-wrapped statements (bad case):
@@ -20,14 +26,6 @@ import com.puppycrawl.tools. //violation
 import static java.math. //violation
     BigInteger.ZERO;
 ```
-
-
-To configure the check to force no line-wrapping in `package` and `import` statements (default values): 
-
-```xml
-<module name="NoLineWrap"/>
-```
-
 
 To configure the check to force no line-wrapping only in `import` statements:
 
