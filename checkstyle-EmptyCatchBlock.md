@@ -6,6 +6,8 @@ Issue: -
 
 Except as noted below, it is very rarely correct to do nothing in response to a caught exception. Typical responses are to log it, or if it is considered "impossible", rethrow it as an `AssertionError`.
 
+**Exception**: In tests, a caught exception may be ignored without comment if its name is or begins with expected. The following is a very common idiom for ensuring that the code under test does throw an exception of the expected type, so a comment is unnecessary here.
+
 ## Default configuration
 
 ```xml
@@ -22,7 +24,7 @@ Example of **incorrect** code:
 try {
   int i = Integer.parseInt(response);
   return handleNumericResponse(i);
-} catch (NumberFormatException ok) {
+} catch (NumberFormatException exception) {
 }
 return handleTextResponse(response);
 ```
@@ -33,7 +35,7 @@ Example of **correct** code:
 try {
   int i = Integer.parseInt(response);
   return handleNumericResponse(i);
-} catch (NumberFormatException ok) {
+} catch (NumberFormatException exception) {
   // it's not numeric; that's fine, just continue
 }
 return handleTextResponse(response);
