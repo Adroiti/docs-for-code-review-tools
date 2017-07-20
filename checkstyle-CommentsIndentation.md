@@ -19,7 +19,7 @@ This rule controls the indentation between comments and surrounding code. By def
 Example of **incorrect** code:
 
 ```java
-// comment on same same indentation level
+// comment at the same identation level
 boolean bool = true;
 
   /* violation
@@ -32,12 +32,12 @@ Example of **correct** code:
 
 ```java
 /*
-* comment on same same indentation level
+* comment at the same indentation level
 */
 boolean bool = true;
 
 /* Block comment
-*  on same same indentation level
+*  at the same indentation level
 */
 double d = 3.14;
 ```
