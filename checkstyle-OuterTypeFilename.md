@@ -6,10 +6,7 @@ Issue: -
 
 Outer type name and the file name should match to avoid any confusion or misunderstanding. For example, the class `Foo` must be in a file named `Foo.java`. 
 
-## Examples
-
-To configure the check: 
-
+## Default configuration: 
 
 ```xml
 <module name="OuterTypeFilename"/>
