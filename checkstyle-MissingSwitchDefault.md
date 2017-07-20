@@ -4,17 +4,46 @@ Issue: -
 
 ## Description
 
-Checks that switch statement has a `default` clause. 
+This rule enforces to use default case in every `switch` statement.
 
-Rationale: It's usually a good idea to introduce a default case in every switch statement. Even if the developer is sure that all currently possible cases are covered, this should be expressed in the default branch, e.g. by using an assertion. This way the code is protected against later changes, e.g. introduction of new types in an enumeration type. 
+Rationale:
+- To 'catch' an unexpected value. Even if the developer is sure that all currently possible cases are covered, this should be expressed in the default branch, e.g. by using an assertion. This way the code is protected against later changes.
+- To handle 'default' actions, where the cases are for special behavior.
+- To show someone reading your code that you've covered that case.
 
-## Examples
-
-To configure the check: 
-
+## Default configuration
 
 ```xml
 <module name="MissingSwitchDefault"/>
+```
+
+## Examples
+
+Example of **incorrect** code:
+
+```java
+switch(type)
+{
+    case 1:
+        doSomething();
+    case 2:
+        doSomethingElse();
+}
+```
+
+Example of **correct** code:
+
+```java
+switch(type)
+{
+    case 1:
+        doSomething();
+    case 2:
+        doSomethingElse();
+    default:
+        // unknown type! 
+        // there should probably be some error-handling here, maybe an exception
+}
 ```
 
 ## Further Reading
