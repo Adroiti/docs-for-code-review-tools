@@ -6,13 +6,13 @@ Issue: -
 
 Each top-level class should reside in a source file of its own to avoid any confusion or misunderstanding. If file doesn't contain public class, enum or interface, top-level type is the first type in file.
 
-## Examples
-
-An example of check's configuration:
+## Default configuration
 
 ```xml
 <module name="OneTopLevelClass"/>
 ```
+
+## Examples
 
 An example of code with violations:
 
@@ -25,20 +25,6 @@ class Foo2{
     //methods
 }
 ```
-
-
-An example of code without public top-level type:
-
-```java
-class Foo{ // top-level class
-    //methods
-}
-
-class Foo2{
-    //methods
-}
-```
-
 
 An example of code without violations:
 
