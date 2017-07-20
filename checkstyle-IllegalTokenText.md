@@ -6,7 +6,11 @@ Issue: -
 
 Checks specified tokens text for matching an illegal pattern from `format` property.
 
-Default configuration:
+Default configuration enforces Google Java Style Guide recommendation: For any character that has a special escape sequence, that sequence should be use rather than the corresponding octal (e.g. `\012`) or Unicode (e.g. `\u000a`) escape.
+
+## Examples
+
+Default configuration: 
 
 ```xml
 <module name="IllegalTokenText">
@@ -27,4 +31,5 @@ To configure the check to forbid String literals containing `"a href"`:
 
 ## Further Reading
 
+* [Google Java Style Guide - Special escape sequences](https://google.github.io/styleguide/javaguide.html#s2.1-file-name)
 * [checkstyle - IllegalTokenText](http://checkstyle.sourceforge.net/config_coding.html#IllegalTokenText)
