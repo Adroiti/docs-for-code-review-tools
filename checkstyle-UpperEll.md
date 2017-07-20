@@ -11,6 +11,8 @@ The suffix `L` is preferred, because the letter `l` (ell) is often hard to disti
 <module name="UpperEll"/>
 ```
 
+## Examples
+
 Example of **incorrect** code:
 
 ```java
