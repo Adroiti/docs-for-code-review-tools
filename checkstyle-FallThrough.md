@@ -4,56 +4,48 @@ Issue: -
 
 ## Description
 
-Checks for fall-through in `switch` statements. Finds locations where a `case` **contains** Java code but lacks a `break`, `return`, `throw` or `continue` statement.
+This rule enforces convention to comment any fall-throughs (multiple case statements before termination) in `switch` block. Any of the following comments that communicate the idea of fall-through is sufficient: `fallthru`, `fall through`, `fallthrough`, `falls through` and `fallsthrough` (case sensitive).
 
-The check honors special comments to suppress the warning. By default the text "fallthru", "fall through", "fallthrough", "falls through" and "fallsthrough" are recognized (case sensitive). The comment containing these words must be all on one line, and must be on the last non-empty line before the `case` triggering the warning or on the same line before the `case` (ugly, but possible).
-
-
-```java
-switch (i){
-case 0:
-    i++; // fall through
- 
-
-case 1:
-    i++;
-    // falls through
-case 2:
-case 3:
-case 4: {
-    i++;
-}
-// fallthrough
-case 5:
-    i++;
-/* fallthru */case 6:
-    i++
-    break;
-}
-```
-        
-
-Note: The check assumes that there is no unreachable code in the `case`. 
-
-## Examples
-
-To configure the check: 
-
+## Default configuration
 
 ```xml
 <module name="FallThrough"/>
 ```
-        
 
-or 
+## Examples
 
+Example of **incorrect** code:
 
-```xml
-<module name="FallThrough">
-    <property name="reliefPattern" value="continue in next case"/>
-</module>
+```java
+switch (input) {
+  case 1:
+  case 2:
+    prepareOneOrTwo();
+  case 3:
+    handleOneTwoOrThree();
+    break;
+  default:
+    handleLargeNumber(input);
+}
+```
+
+Example of **correct** code:
+
+```java
+switch (input) {
+  case 1:
+  case 2:
+    prepareOneOrTwo();
+    // fall through
+  case 3:
+    handleOneTwoOrThree();
+    break;
+  default:
+    handleLargeNumber(input);
+}
 ```
 
 ## Further Reading
 
+* [Google Java Style Guide - Switch statements](https://google.github.io/styleguide/javaguide.html#s4.8.4-switch)
 * [checkstyle - FallThrough](http://checkstyle.sourceforge.net/config_coding.html#FallThrough)
