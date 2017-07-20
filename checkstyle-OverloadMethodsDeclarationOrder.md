@@ -4,28 +4,37 @@ Issue: -
 
 ## Description
 
-Checks that overload methods are grouped together. 
+Methods with the same name should appear sequentially to improve code readability.
 
-## Examples
-
-Example of incorrect grouping overload methods: 
-
-
-```java
-public void foo(int i) {}
-public void foo(String s) {}
-public void notFoo() {} // Have to be after foo(int i, String s)
-public void foo(int i, String s) {}
-```
-        
-
-An example of how to configure the check is: 
-
+## Default configuration
 
 ```xml
 <module name="OverloadMethodsDeclarationOrder"/>
 ```
 
+## Examples
+
+Example of **incorrect** code:
+
+```java
+public void foo(int i) {}
+public void foo(String s) {}
+public void notFoo() {} // unrelated method
+public void foo(int i, String s) {}
+```
+        
+Example of **correct** code:
+
+
+```java
+public void foo(int i) {}
+public void foo(String s) {}
+public void foo(int i, String s) {}
+public void notFoo() {}
+```
+
+
 ## Further Reading
 
+* [Google Java Style Guide - Ordering of class contents](https://google.github.io/styleguide/javaguide.html#s3.4.2-ordering-class-contents)
 * [checkstyle - OverloadMethodsDeclarationOrder](http://checkstyle.sourceforge.net/config_coding.html#OverloadMethodsDeclarationOrder)
