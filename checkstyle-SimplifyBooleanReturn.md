@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks for over-complicated boolean return statements. For example the following code 
+Checks for over-complicated boolean return statements. For example the following code:
 
 
 ```java
@@ -15,7 +15,7 @@ else
 ```
         
 
-could be written as 
+could be written as:
 
 
 ```java
@@ -23,10 +23,7 @@ return !valid();
 ```
         
 
-## Examples
-
-To configure the check: 
-
+## Default configuration
 
 ```xml
 <module name="SimplifyBooleanReturn"/>
