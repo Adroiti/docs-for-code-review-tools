@@ -1,22 +1,30 @@
-Pattern: Use of letter `l` (ell) for long constant names
-
+Pattern: Use of letter `l` (ell) as suffix
 Issue: -
 
 ## Description
 
-Checks that long constants are defined with capitalized `'l'`. This is in accordance with the Java Language Specification, [Section 3.10.1](http://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.10.1). 
-
 The suffix `L` is preferred, because the letter `l` (ell) is often hard to distinguish from the digit `1` (one).
 
-## Examples
-
-To configure the check: 
-
+## Default configuration
 
 ```xml
 <module name="UpperEll"/>
 ```
 
+Example of **incorrect** code:
+
+```java
+long number = 1234567891l;
+```
+
+Example of **correct** code:
+
+```java
+long number = 1234567891L;
+```
+
 ## Further Reading
 
+* [Java Language Specification - Integer Literals](http://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.10.1)
+* [Google Java Style Guide - Numeric Literals](https://google.github.io/styleguide/javaguide.html#s4.8.8-numeric-literals)
 * [checkstyle - UpperEll](http://checkstyle.sourceforge.net/config_misc.html#UpperEll)
