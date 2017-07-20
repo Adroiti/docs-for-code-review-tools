@@ -6,7 +6,7 @@ Issue: -
 
 Prefer using actual Unicode character (e.g. `∞`) over the equivalent Unicode escape (e.g. `\u221e`) - this makes the code easier to read and understand. Use escapes for non-printable characters, and comment if necessary.
 
-You should not make code less readable simply out of fear that some programs might not handle non-ASCII characters properly. If that should happen, those programs are **broken** and they must be **fixed**.
+You should not make code less readable simply out of fear that some programs might not handle non-ASCII characters properly. If that should happen, those programs are **broken** and they should be **fixed**.
 
 ## Default configuration
 
