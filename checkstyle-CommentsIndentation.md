@@ -31,9 +31,7 @@ double d = 3.14;
 Example of **correct** code:
 
 ```java
-/*
-* comment at the same indentation level
-*/
+// comment at the same identation level
 boolean bool = true;
 
 /* Block comment
