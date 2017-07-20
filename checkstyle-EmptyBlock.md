@@ -4,56 +4,47 @@ Issue: -
 
 ## Description
 
-Checks for empty blocks. Sequential blocks won't be checked. Also, no violations for fall through:
+Empty block statements, while not technically errors, usually occur due to refactoring that wasn’t completed. They can cause confusion when reading code.
 
-```java
-switch (a) {
-    case 1:                          // no violation
-    case 2:                          // no violation
-    case 3: someMethod(); { }        // no violation
-    default: break;
-}
-```
+By default, this rule disallows empty blocks for `if`, `else`, `switch`, `try` and `finally` statements. It ignores block statements which contain a comment (for example, in an finally block of try statement to indicate that execution should continue regardless of errors).
 
-
-This check processes `LITERAL_CASE` and `LITERAL_DEFAULT` separately. So, if `tokens=LITERAL_DEFAULT`, following code will not trigger any violation, as the empty block belongs to `LITERAL_CASE`: 
-
-Configuration:
+## Default configuration
 
 ```xml
 <module name="EmptyBlock">
-    <property name="tokens" value="LITERAL_DEFAULT"/>
+    <property name="option" value="TEXT"/>
+    <property name="tokens" value="LITERAL_TRY, LITERAL_FINALLY, LITERAL_IF, LITERAL_ELSE, LITERAL_SWITCH"/>
 </module>
 ```
-
-
-Result:
-```java
-switch (a) {
-    default:        // no violation for "default:" as empty block belong to "case 1:"
-    case 1: { }
-}
-```
-
 
 ## Examples
 
-To configure the check: 
+Example of **incorrect** code:
 
-```xml
-<module name="EmptyBlock"/>
+```java
+if(optimistic)
+{
+}
+else
+{
+}
 ```
 
-To configure the check for the `text` policy and only `try` blocks:
+Example of **correct** code:
 
-```xml
-<module name="EmptyBlock">
-    <property name="option" value="text"/>
-    <property name="tokens" value="LITERAL_TRY"/>
-</module>
+```java
+if(optimistic)
+{
+    message = "half full";
+}
+else
+{
+    message = "half empty";
+}
 ```
 
 
 ## Further Reading
 
+* [checkstyle - block policy](http://checkstyle.sourceforge.net/property_types.html#block)
 * [checkstyle - EmptyBlock](http://checkstyle.sourceforge.net/config_blocks.html#EmptyBlock)
