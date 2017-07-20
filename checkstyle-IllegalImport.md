@@ -19,13 +19,13 @@ Try to avoid uses of such APIs, always prefer a public documented and specified 
 Example of **incorrect** code:
 
 ```java
-import sun.misc.Cleaner
+import sun.misc.Cleaner;
 ```
 
 Example of **correct** code:
 
 ```java
-import java.lang.ref.Cleaner // standard replacement for sun.misc.Cleaner
+import java.lang.ref.Cleaner; // standard replacement for sun.misc.Cleaner
 ```
 
 
