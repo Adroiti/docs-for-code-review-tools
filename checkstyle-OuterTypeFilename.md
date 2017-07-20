@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-To avoid any confusion or misunderstanding, outer type name and the file name should. For example, the class `Foo` must be in a file named `Foo.java`. 
+Outer type name and the file name should match to avoid any confusion or misunderstanding. For example, the class `Foo` must be in a file named `Foo.java`. 
 
 ## Examples
 
