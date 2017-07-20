@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Prefer using actual Unicode character (e.g. ∞) over the equivalent Unicode escape (e.g. \u221e) - this makes the code easier to read and understand. Use escapes for non-printable characters, and comment if necessary.
+Prefer using actual Unicode character (e.g. `∞`) over the equivalent Unicode escape (e.g. `\u221e`) - this makes the code easier to read and understand. Use escapes for non-printable characters, and comment if necessary.
 
 Never make your code less readable simply out of fear that some programs might not handle non-ASCII characters properly. If that should happen, those programs are **broken** and they must be **fixed**.
 
@@ -28,7 +28,7 @@ Default configuration:
 </module>
 ```
 
-An example of non-printable (control) characters.
+An example of non-printable (control) characters:
 
 
 ```java
