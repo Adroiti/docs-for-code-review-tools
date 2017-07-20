@@ -46,4 +46,6 @@ import static java.math.BigInteger.ZERO;
 
 ## Further Reading
 
+* [Google Java Style Guide - Package statement](https://google.github.io/styleguide/javaguide.html#s3.2-package-statement)
+* [Google Java Style Guide - Import statements](https://google.github.io/styleguide/javaguide.html#s3.3.2-import-line-wrapping)
 * [checkstyle - NoLineWrap](http://checkstyle.sourceforge.net/config_whitespace.html#NoLineWrap)
