@@ -24,7 +24,7 @@ doSomething();
 doSomethingElse();
 initialize();
 Calendar cal = Calendar.getInstance();
-cal.set(Calendar.MINUTE, minutes);
+cal.set(Calendar.MINUTE, minutes); // minutes could be declared closer to it's firt usage
 ```
         
 Example of **correct** code:
