@@ -6,16 +6,18 @@ Issue: -
 
 Prefer using one statement per line to improve code readability.
 
-This rule checks: 
-- variable declaration statements
-- empty statements, import statements
-- assignment statements, expression statements
-- increment statements
-- object creation statements
-- `for loop` statements
-- `break` statements
-- `continue` statements
-- `return` statements
+The following statement types are checked: 
+- variable declaration
+- empty
+- import
+- assignment
+- expression
+- increment
+- object creation
+- `for` loop
+- `break`
+- `continue`
+- `return`
 
 ## Default configuration
 
