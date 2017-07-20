@@ -4,198 +4,33 @@ Issue: -
 
 ## Description
 
-Checks for imports from a set of illegal packages. By default, the check rejects all `sun.*` packages since programs that contain direct calls to the `sun.*` packages are "[not guaranteed to work on all Java-compatible platforms"](http://www.oracle.com/technetwork/java/faq-sun-packages-142232.html). To reject other packages, set property `illegalPkgs` to a list of the illegal packages. 
+By default this rule rejects all `sun.*` packages since they are internal APIs: they are subject to change in a **undocumented** or **unsupported** way and they are bound to a specific JRE/JDK (Sun in this case), limiting portability of your programs.
 
-## Examples
+Try to avoid uses of such APIs, always prefer a public documented and specified class.
 
-To configure the check: 
-
+## Default configuration
 
 ```xml
 <module name="IllegalImport"/>
 ```
-        
 
-To configure the check so that it rejects packages `java.io.*` and `java.sql.*`: 
+## Examples
 
-
-```xml
-<module name="IllegalImport">
-    <property name="illegalPkgs" value="java.io, java.sql"/>
-</module>
-```
-        
-
-The following example shows class with no illegal imports 
-
+Example of **incorrect** code:
 
 ```java
-import java.lang.ArithmeticException;
-import java.util.List;
-import java.util.Enumeration;
-import java.util.Arrays;
-import sun.applet.*;
- 
-public class InputIllegalImport { }
+import sun.misc.Cleaner
 ```
-        
 
-The following example shows class with two illegal imports 
-
-  - **java.io.***, `illegalPkgs` property contains this package
-  - **java.sql.Connection** is inside `java.sql` package
-
+Example of **correct** code:
 
 ```java
-import java.io.*;           // violation
-import java.lang.ArithmeticException;
-import java.sql.Connection; // violation
-import java.util.List;
-import java.util.Enumeration;
-import java.util.Arrays;
-import sun.applet.*;
- 
-public class InputIllegalImport { }
+import java.lang.ref.Cleaner // standard replacement for sun.misc.Cleaner
 ```
-        
 
-To configure the check so that it rejects classes `java.util.Date` and `java.sql.Connection`: 
-
-
-```xml
-<module name="IllegalImport">
-    <property name="illegalClasses" value="java.util.Date, java.sql.Connection"/>
-</module>
-```
-        
-
-The following example shows class with no illegal imports 
-
-
-```java
-import java.io.*;
-import java.lang.ArithmeticException;
-import java.util.List;
-import java.util.Enumeration;
-import java.util.Arrays;
-import sun.applet.*;
- 
-public class InputIllegalImport { }
-```
-        
-
-The following example shows class with two illegal imports 
-
-  - **java.sql.Connection**, illegalClasses property contains this class
-  - **java.util.Date**, illegalClasses property contains this class
-
-
-```java
-import java.io.*;
-import java.lang.ArithmeticException;
-import java.sql.Connection; // violation
-import java.util.List;
-import java.util.Enumeration;
-import java.util.Arrays;
-import java.util.Date;      // violation
-import sun.applet.*;
- 
-public class InputIllegalImport { }
-```
-        
-
-To configure the check so that it rejects packages not satisfying to regular expression `java\\.util`: 
-
-
-```xml
-<module name="IllegalImport">
-    <property name="regexp" value="true"/>
-    <property name="illegalPkgs" value="java\.util"/>
-</module>
-```
-        
-
-The following example shows class with no illegal imports 
-
-
-```java
-import java.io.*;
-import java.lang.ArithmeticException;
-import java.sql.Connection;
-import sun.applet.*;
- 
-public class InputIllegalImport { }
-```
-        
-
-The following example shows class with four illegal imports 
-
-  - **java.util.List**
-  - **java.util.Enumeration**
-  - **java.util.Arrays**
-  - **java.util.Date**
-All four imports match "java\\.util" regular expression 
-
-
-```java
-import java.io.*;
-import java.lang.ArithmeticException;
-import java.sql.Connection;
-import java.util.List;          // violation
-import java.util.Enumeration;   // violation
-import java.util.Arrays;        // violation
-import java.util.Date;          // violation
-import sun.applet.*;
- 
-public class InputIllegalImport { }
-```
-        
-
-To configure the check so that it rejects class names not satisfying to regular expression `^java\\.util\\.(List|Arrays)` and `^java\\.sql\\.Connection`: 
-
-
-```xml
-<module name="IllegalImport">
-    <property name="regexp" value="true"/>
-    <property name="illegalClasses" value="^java\.util\.(List|Arrays), ^java\.sql\.Connection"/>
-</module>
-```
-        
-
-The following example shows class with no illegal imports 
-
-
-```java
-import java.io.*;
-import java.lang.ArithmeticException;
-import java.util.Enumeration;
-import java.util.Date;
-import sun.applet.*;
- 
-public class InputIllegalImport { }
-```
-        
-
-The following example shows class with three illegal imports 
-
-  - **java.sql.Connection** matches "^java\\.sql\\.Connection" regular expression
-  - **java.util.List** matches "^java\\.util\\.(List|Arrays)" regular expression
-  - **java.util.Arrays** matches "^java\\.util\\.(List|Arrays)" regular expression
-
-
-```java
-import java.io.*;
-import java.lang.ArithmeticException;
-import java.sql.Connection;     // violation
-import java.util.List;          // violation
-import java.util.Enumeration;
-import java.util.Arrays;        // violation
-import java.util.Date;
-import sun.applet.*;
- 
-public class InputIllegalImport { }
-```
 
 ## Further Reading
 
+* [Oracle Technology Network - Why Developers Should Not Write Programs 
+That Call 'sun' Packages](http://www.oracle.com/technetwork/java/faq-sun-packages-142232.html)
 * [checkstyle - IllegalImport](http://checkstyle.sourceforge.net/config_imports.html#IllegalImport)
