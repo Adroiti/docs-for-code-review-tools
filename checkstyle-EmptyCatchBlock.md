@@ -4,31 +4,43 @@ Issue: -
 
 ## Description
 
-Checks for empty `catch` blocks. There are two options to make validation more precise (by default check allows empty `catch` block with any comment inside): 
+Except as noted below, it is very rarely correct to do nothing in response to a caught exception. Typical responses are to log it, or if it is considered "impossible", rethrow it as an `AssertionError`.
+
+## Default configuration
+
+```xml
+<module name="EmptyCatchBlock">
+    <property name="exceptionVariableName" value="expected"/>
+</module>
+```
 
 ## Examples
 
-To configure the check to suppress empty `catch` block if exception's variable name is `expected` or `ignore` or there's any comment inside: 
+Example of **incorrect** code:
 
-
-```xml
-<module name="EmptyCatchBlock">
-    <property name="exceptionVariableName" value="expected|ignore"/>
-</module>
+```java
+try {
+  int i = Integer.parseInt(response);
+  return handleNumericResponse(i);
+} catch (NumberFormatException ok) {
+}
+return handleTextResponse(response);
 ```
-        
 
-To configure the check to suppress empty `catch` block if single-line comment inside is "//This is expected": 
+Example of **correct** code:
+
+```java
+try {
+  int i = Integer.parseInt(response);
+  return handleNumericResponse(i);
+} catch (NumberFormatException ok) {
+  // it's not numeric; that's fine, just continue
+}
+return handleTextResponse(response);
+```        
 
 
-```xml
-<module name="EmptyCatchBlock">
-    <property name="commentFormat" value="This is expected"/>
-</module>
-```
-        
-
-To configure the check to suppress empty `catch` block if single-line comment inside is "//This is expected" or exception's variable name is "myException" (any option is matching): 
+To configure the check to suppress empty `catch` block if single-line comment inside is `//This is expected` or exception's variable name is `myException` (any option is matching): 
 
 
 ```xml
@@ -37,54 +49,8 @@ To configure the check to suppress empty `catch` block if single-line comment in
     <property name="exceptionVariableName" value="myException"/>
 </module>
 ```
-        
-
-Such empty blocks would be suppressed: 
-
-
-```java
-try {
-    throw new RuntimeException();
-} catch (RuntimeException e) {
-    //This is expected
-}
-...
-try {
-    throw new RuntimeException();
-} catch (RuntimeException e) {
-    //   This is expected
-}
-...
-try {
-    throw new RuntimeException();
-} catch (RuntimeException e) {
-    // This is expected
-    // some another comment
-}
-...
-try {
-    throw new RuntimeException();
-} catch (RuntimeException e) {
-    /* This is expected */
-}
-...
-try {
-    throw new RuntimeException();
-} catch (RuntimeException e) {
-    /*
-    *
-    * This is expected
-    * some another comment
-    */
-}
-...
-try {
-    throw new RuntimeException();
-} catch (RuntimeException myException) {
-
-}
-```
 
 ## Further Reading
 
+* [Google Java Style Guide - Caught exceptions: not ignored](https://google.github.io/styleguide/javaguide.html#s6.2-caught-exceptions)
 * [checkstyle - EmptyCatchBlock](http://checkstyle.sourceforge.net/config_blocks.html#EmptyCatchBlock)
