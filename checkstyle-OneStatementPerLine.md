@@ -9,11 +9,11 @@ Prefer using one statement per line to improve code readability.
 The following statement types are checked: 
 - variable declaration
 - empty
-- import
 - assignment
 - expression
 - increment
 - object creation
+- `import`
 - `for` loop
 - `break`
 - `continue`
