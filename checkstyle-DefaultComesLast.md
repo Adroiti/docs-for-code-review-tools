@@ -14,7 +14,7 @@ Java allows `default` anywhere within the `switch` statement, but it is more rea
 </module>
 ```
 
-`skipIfLastAndSharedWithCase` - whether to allow default along with case if they are not last.
+`skipIfLastAndSharedWithCase` - whether to allow `default` along with `case` if they are not last.
 
 ## Examples
 
