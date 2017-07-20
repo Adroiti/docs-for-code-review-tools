@@ -14,17 +14,21 @@ Checks that chosen statements are not line-wrapped. By default this check restri
 
 ## Examples
 
-Examples of line-wrapped statements (bad case):
+Example of **incorrect** code:
 
 ```java
-package com.puppycrawl. //violation
-    tools.checkstyle.checks;
-
 import com.puppycrawl.tools. //violation
     checkstyle.api.AbstractCheck;
 
 import static java.math. //violation
     BigInteger.ZERO;
+```
+
+Example of **correct** code:
+
+```java
+import com.puppycrawl.tools.checkstyle.api.AbstractCheck;
+import static java.math.BigInteger.ZERO;
 ```
 
 To configure the check to force no line-wrapping only in `import` statements:
@@ -34,15 +38,6 @@ To configure the check to force no line-wrapping only in `import` statements:
     <property name="tokens" value="IMPORT"/>
 </module>
 ```
-
-
-Examples of not line-wrapped statements (good case): 
-
-```java
-import com.puppycrawl.tools.checkstyle.api.AbstractCheck;
-import static java.math.BigInteger.ZERO;
-```
-
 
 ## Further Reading
 
