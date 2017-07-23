@@ -11,7 +11,7 @@ Developers often add comments to code which is not complete or needs review. Mos
 ```xml
 <module name="TodoComment">
     <property name="format" value="(TODO)|(FIXME)"/>
-    <message key="todo.match" value="Unexpected ''{0}'' comment."/>
+    <message key="todo.match" value="Resolve unexpected comment."/>
 </module>
 ```
 
