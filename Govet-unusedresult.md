@@ -1,4 +1,4 @@
-Pattern: Unused result of certain function calls
+Pattern: Unused result of certain function call
 
 Issue: -
 

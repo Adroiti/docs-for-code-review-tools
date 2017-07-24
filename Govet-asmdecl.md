@@ -1,4 +1,4 @@
-Pattern: Assembly declarations
+Pattern: Mismatch between assembly file and function declaration
 
 Issue: -
 

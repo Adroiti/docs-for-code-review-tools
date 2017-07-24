@@ -1,4 +1,4 @@
-Pattern: Non-standard signatures for methods with familiar names
+Pattern: Non-standard signature for method with familiar name
 
 Issue: -
 

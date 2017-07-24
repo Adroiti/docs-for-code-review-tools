@@ -1,4 +1,4 @@
-Pattern: Useless shifts
+Pattern: Useless shift
 
 Issue: -
 

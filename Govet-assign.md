@@ -1,4 +1,4 @@
-Pattern: Useless assignments
+Pattern: Useless assignment
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Common mistaken usages of the sync/atomic package
+Pattern: Mistaken usage of `sync/atomic` package
 
 Issue: -
 

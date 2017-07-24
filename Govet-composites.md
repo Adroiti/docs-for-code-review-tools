@@ -1,4 +1,4 @@
-Pattern: Unkeyed composite literals
+Pattern: Unkeyed composite literal
 
 Issue: -
 

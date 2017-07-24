@@ -1,4 +1,4 @@
-Pattern: Common mistaken usages of tests/documentation
+Pattern: Common mistaken usage of tests/documentation
 
 Issue: -
 

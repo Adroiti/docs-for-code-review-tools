@@ -1,4 +1,4 @@
-Pattern: Mistakes involving boolean operators
+Pattern: Redundant or suspicious boolean operator
 
 Issue: -
 

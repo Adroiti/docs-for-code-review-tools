@@ -1,4 +1,4 @@
-Pattern: Misuse of unsafe Pointers
+Pattern: Misuse of `unsafe.Pointer`
 
 Issue: -
 

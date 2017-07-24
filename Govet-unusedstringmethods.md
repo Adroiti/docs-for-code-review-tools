@@ -1,4 +1,4 @@
-Pattern: Unused result of methods of type `func()`
+Pattern: Unused result of method of type `func()`
 
 Issue: -
 

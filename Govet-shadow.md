@@ -1,4 +1,4 @@
-Pattern: Variables that may have been unintentionally shadowed
+Pattern: Use of shadowed variable
 
 Issue: -
 

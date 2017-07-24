@@ -1,4 +1,4 @@
-Pattern: Invalid uses of `cgo`
+Pattern: Invalid use of `cgo`
 
 Issue: -
 

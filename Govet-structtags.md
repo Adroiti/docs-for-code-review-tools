@@ -1,4 +1,4 @@
-Pattern: Struct field tags do not have canonical format
+Pattern: Malformed Struct field tag
 
 Issue: -
 

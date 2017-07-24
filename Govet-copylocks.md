@@ -1,4 +1,4 @@
-Pattern: Locks are passed by value
+Pattern: Lock passed by value
 
 Issue: -
 

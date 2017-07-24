@@ -1,4 +1,4 @@
-Pattern: Incorrect uses of range loop variables in closures
+Pattern: Incorrect use of range loop variables in closure
 
 Issue: -
 

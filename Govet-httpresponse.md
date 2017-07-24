@@ -1,4 +1,4 @@
-Pattern: HTTP responses used incorrectly
+Pattern: Misuse of HTTP response
 
 Issue: -
 
