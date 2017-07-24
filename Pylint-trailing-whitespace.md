@@ -1,4 +1,4 @@
-Pattern: Remove trailing whitespace
+Pattern: Trailing whitespace
 
 Issue: -
 

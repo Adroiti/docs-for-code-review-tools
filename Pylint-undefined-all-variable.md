@@ -1,4 +1,4 @@
-Pattern: Check undefined name in `__all__`
+Pattern: Undefined name in `__all__`
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Avoid calling uncallable object
+Pattern: Calling uncallable object
 
 Issue: -
 

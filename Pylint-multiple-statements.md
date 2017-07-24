@@ -1,4 +1,4 @@
-Pattern: Avoid multiple statements on a single line
+Pattern: Multiple statements in one line
 
 Issue: -
 

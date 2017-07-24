@@ -1,4 +1,4 @@
-Pattern: Don't hide methods via attributes
+Pattern: Use of hidden method via attribute
 
 Issue: -
 

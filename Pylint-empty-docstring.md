@@ -1,4 +1,4 @@
-Pattern: Avoid empty docstrings
+Pattern: Empty docstring
 
 Issue: -
 

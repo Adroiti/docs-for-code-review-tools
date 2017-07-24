@@ -1,4 +1,4 @@
-Pattern: Call `__init__` related to direct ancestor
+Pattern: `__init__` call unrelated to direct ancestor
 
 Issue: -
 

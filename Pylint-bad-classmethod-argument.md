@@ -1,4 +1,4 @@
-Pattern: Use `cls` as first argument of classmethod
+Pattern: `cls` not as first argument of classmethod
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Avoid mutable default arguments
+Pattern: Use of mutable default argument
 
 Issue: -
 

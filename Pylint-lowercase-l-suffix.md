@@ -1,4 +1,4 @@
-Pattern: Lowercase l suffix
+Pattern: Use of letter `l` (ell) as suffix
 
 Issue: -
 

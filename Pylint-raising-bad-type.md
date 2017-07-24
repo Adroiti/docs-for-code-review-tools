@@ -1,4 +1,4 @@
-Pattern: Use valid type when raising exceptions
+Pattern: Use of invalid type when raising exception
 
 Issue: -
 

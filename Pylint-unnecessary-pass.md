@@ -1,4 +1,4 @@
-Pattern: Avoid unnecessary `pass` statements
+Pattern: Unnecessary `pass` statement
 
 Issue: -
 

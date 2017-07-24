@@ -1,4 +1,4 @@
-Pattern: Avoid unnecessary semicolons
+Pattern: Unnecessary `;`
 
 Issue: -
 

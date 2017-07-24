@@ -1,4 +1,4 @@
-Pattern: Prefer absolute over relative imports
+Pattern: Use of relative import instead of absolute import
 
 Issue: -
 

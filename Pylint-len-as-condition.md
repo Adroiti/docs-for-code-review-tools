@@ -1,4 +1,4 @@
-Pattern: Do not use `len(sequence)` as condition value
+Pattern: Use of `len(sequence)` as condition value
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Avoid unused arguments
+Pattern: Unused argument
 
 Issue: -
 

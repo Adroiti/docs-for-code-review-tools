@@ -1,4 +1,4 @@
-Pattern: Avoid accessing protected class members from outside
+Pattern: Accessing protected class member from outside
 
 Issue: -
 

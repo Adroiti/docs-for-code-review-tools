@@ -1,4 +1,4 @@
-Pattern: Avoid bare `except`
+Pattern: Use of bare `except`
 
 Issue: -
 

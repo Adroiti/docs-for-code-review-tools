@@ -1,4 +1,4 @@
-Pattern: Class `__slots__` should be a non-string iterable
+Pattern: Use of `__slots__` as string
 
 Issue: -
 

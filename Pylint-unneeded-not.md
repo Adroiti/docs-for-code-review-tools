@@ -1,4 +1,4 @@
-Pattern: Simplify `if not`
+Pattern: Use of verbose boolean negation
 
 Issue: -
 

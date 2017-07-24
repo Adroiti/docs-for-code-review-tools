@@ -1,4 +1,4 @@
-Pattern: Call `__init__` method from base class
+Pattern: `__init__` not called from derived class
 
 Issue: -
 

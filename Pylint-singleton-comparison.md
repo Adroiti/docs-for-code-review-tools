@@ -1,4 +1,4 @@
-Pattern: Use `is` or `is not` for singleton comparison
+Pattern: Missing `is` or `is not` for singleton comparison
 
 Issue: -
 

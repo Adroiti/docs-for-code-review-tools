@@ -1,4 +1,4 @@
-Pattern: Avoid using constant in test
+Pattern: Use of constant in conditional statement
 
 Issue: -
 

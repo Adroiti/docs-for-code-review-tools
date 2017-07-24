@@ -1,4 +1,4 @@
-Pattern: Avoid `cmp()` argument
+Pattern: Use of `cmp()` argument
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Use correct order for `except` clauses
+Pattern: Wrong order for `except` clauses
 
 Issue: -
 

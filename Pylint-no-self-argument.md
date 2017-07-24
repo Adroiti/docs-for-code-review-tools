@@ -1,4 +1,4 @@
-Pattern: Use `self` as first method argument
+Pattern: `self` not as first method argument
 
 Issue: -
 

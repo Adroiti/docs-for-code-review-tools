@@ -1,4 +1,4 @@
-Pattern: Bad `reversed()` sequence
+Pattern: Wrong `reversed()` sequence
 
 Issue: -
 

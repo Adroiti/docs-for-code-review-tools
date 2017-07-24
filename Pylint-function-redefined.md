@@ -1,4 +1,4 @@
-Pattern: Avoid redefining functions, classes or methods
+Pattern: Redefining function, class or method
 
 Issue: -
 

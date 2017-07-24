@@ -1,4 +1,4 @@
-Pattern: Bad indentation
+Pattern: Inconsistent indentation
 
 Issue: -
 

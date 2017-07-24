@@ -1,4 +1,4 @@
-Pattern: Avoid mixed indentation
+Pattern: Mixed indentation
 
 Issue: -
 

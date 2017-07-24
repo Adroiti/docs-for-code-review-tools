@@ -1,4 +1,4 @@
-Pattern: Consider iterating dictionary
+Pattern: Iterating dictionary  via `.keys()` instead of itself
 
 Issue: -
 

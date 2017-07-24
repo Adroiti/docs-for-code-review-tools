@@ -1,4 +1,4 @@
-Pattern: Avoid unused wildcard imports
+Pattern: Unused wildcard import
 
 Issue: -
 

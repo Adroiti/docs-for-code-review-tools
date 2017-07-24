@@ -1,4 +1,4 @@
-Pattern: Avoid defining closure variables in loops
+Pattern: Defining closure variable in loop
 
 Issue: -
 

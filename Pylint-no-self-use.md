@@ -1,4 +1,4 @@
-Pattern: Prefer static functions over instance methods
+Pattern: Use of instance method instead of static function
 
 Issue: Instance method could be a static function
 

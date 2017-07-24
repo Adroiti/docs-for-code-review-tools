@@ -1,4 +1,4 @@
-Pattern: Consider using enumerate
+Pattern: Use of `range()` and `len()` instead of `enumerate()`
 
 Issue: -
 

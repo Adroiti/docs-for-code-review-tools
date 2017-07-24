@@ -1,4 +1,4 @@
-Pattern: Avoid unused variables
+Pattern: Unused variable
 
 Issue: -
 

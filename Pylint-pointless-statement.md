@@ -1,4 +1,4 @@
-Pattern: Avoid pointless statements
+Pattern: Pointless statement
 
 Issue: -
 

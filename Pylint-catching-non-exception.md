@@ -1,4 +1,4 @@
-Pattern: Inherit from `Exception` for all custom exceptions
+Pattern: Custom exception does not inherit `Exception`
 
 Issue: -
 

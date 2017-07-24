@@ -1,4 +1,4 @@
-Pattern: Fixme
+Pattern: Unresolved warning comment
 
 Issue: -
 

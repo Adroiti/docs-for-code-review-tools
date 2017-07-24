@@ -1,4 +1,4 @@
-Pattern: Prefer separate lines over single line for imports
+Pattern: Use of single line instead of separate lines for imports
 
 Issue: -
 

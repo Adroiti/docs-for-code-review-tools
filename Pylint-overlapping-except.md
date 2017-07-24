@@ -1,4 +1,4 @@
-Pattern: Avoid overlapping exceptions
+Pattern: Overlapping exception
 
 Issue: -
 

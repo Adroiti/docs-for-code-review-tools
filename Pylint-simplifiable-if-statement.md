@@ -1,4 +1,4 @@
-Pattern: Simplify `if` statement
+Pattern: Use of verbose boolean return
 
 Issue: -
 

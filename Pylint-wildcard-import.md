@@ -1,4 +1,4 @@
-Pattern: Avoid using wildcard (*) imports
+Pattern: Use of wildcard import
 
 Issue: -
 

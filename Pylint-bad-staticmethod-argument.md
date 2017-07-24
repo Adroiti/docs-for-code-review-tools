@@ -1,4 +1,4 @@
-Pattern: Avoid using `self` or `cls` as first static method argument
+Pattern: Use of `self` or `cls` as first static method argument
 
 Issue: -
 

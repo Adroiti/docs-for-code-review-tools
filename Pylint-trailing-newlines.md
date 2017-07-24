@@ -1,4 +1,4 @@
-Pattern: Avoid trailing newlines
+Pattern: Trailing newline
 
 Issue: -
 

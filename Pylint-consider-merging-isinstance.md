@@ -1,4 +1,4 @@
-Pattern: Consider merging `isinstance()` calls
+Pattern: Unmerged `isinstance()` call
 
 Issue: -
 

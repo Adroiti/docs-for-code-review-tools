@@ -1,4 +1,4 @@
-Pattern: Avoid non-lazy format logging
+Pattern: Use of non-lazy format logging
 
 Issue: -
 
