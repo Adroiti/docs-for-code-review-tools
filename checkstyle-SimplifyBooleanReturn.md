@@ -1,4 +1,4 @@
-Pattern: Overly complicated boolean return statement
+Pattern: Use of verbose boolean return
 
 Issue: -
 
@@ -21,8 +21,12 @@ could be written as:
 ```java
 return !valid();
 ```
+
+
+This change will make the code more succinct and clear to the readers.
         
 
+		
 ## Default configuration
 
 ```xml

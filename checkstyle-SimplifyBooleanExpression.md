@@ -1,4 +1,4 @@
-Pattern: Overly complicated boolean expression
+Pattern: Use of verbose boolean expression
 
 Issue: -
 
