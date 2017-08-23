@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Redundant pointer operation on `varname` - it`s already a pointer.
+Redundant pointer operation on `varname` - it’s already a pointer.
 
 ## Further Reading
 

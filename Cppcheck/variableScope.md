@@ -9,7 +9,7 @@ void f(int x)
 {
     int i = 0;
     if (x) {
-        // it`s safe to move `int i = 0;` here
+        // it’s safe to move `int i = 0;` here
         for (int n = 0; n < 10; ++n) {
             // it is possible but not safe to move `int i = 0;` here
             do_something(&i);
