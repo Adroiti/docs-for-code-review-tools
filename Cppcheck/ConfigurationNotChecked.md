@@ -1,0 +1,7 @@
+Pattern: Configuration not checked
+
+Issue: -
+
+## Description
+
+Skipping configuration `X` since the value of `X` is unknown. Use -D if you want to check it. You can use -U to skip it explicitly.
