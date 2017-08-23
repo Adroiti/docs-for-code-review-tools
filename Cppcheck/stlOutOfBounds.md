@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-When i==foo.size(), foo[i] is out of bounds.
+When i==foo.`size()`, foo[i] is out of bounds.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Multiplying sizeof() with sizeof() indicates a logic error.
+Multiplying `sizeof()` with `sizeof()` indicates a logic error.
 
 ## Further Reading
 

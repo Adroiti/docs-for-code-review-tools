@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-scanf() without field width limits can crash with huge input data. Add a field width specifier to fix this problem.
+`scanf()` without field width limits can crash with huge input data. Add a field width specifier to fix this problem.
 
 Sample program that can crash:
 

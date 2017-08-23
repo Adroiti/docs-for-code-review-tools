@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Invalid func_name() argument nr 1. A non-boolean value is required.
+Invalid `func_name()` argument nr 1. A non-boolean value is required.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-fflush() called on input stream `stdin` may result in undefined behaviour on non-linux systems.
+`fflush()` called on input stream `stdin` may result in undefined behaviour on non-linux systems.
 
 ## Further Reading
 

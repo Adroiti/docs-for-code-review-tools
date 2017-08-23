@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Memory for class instance allocated with malloc(), but class a std::string. This is unsafe, since no constructor is called and class members remain uninitialized. Consider using `new` instead.
+Memory for class instance allocated with `malloc()`, but class a std::string. This is unsafe, since no constructor is called and class members remain uninitialized. Consider using `new` instead.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Using reference `arg1` as parameter for va_start() results in undefined behaviour.
+Using reference `arg1` as parameter for `va_start()` results in undefined behaviour.
 
 ## Further Reading
 

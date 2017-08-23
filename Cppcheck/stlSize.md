@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checking for `list` emptiness might be inefficient. Using list.empty() instead of list.size() can be faster. list.size() can take linear time but list.empty() is guaranteed to take constant time.
+Checking for `list` emptiness might be inefficient. Using list.`empty()` instead of list.`size()` can be faster. list.`size()` can take linear time but list.`empty()` is guaranteed to take constant time.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-String literal "Hello World" doesn`t match length argument for substr().
+String literal "Hello World" doesn`t match length argument for `substr()`.
 
 ## Further Reading
 

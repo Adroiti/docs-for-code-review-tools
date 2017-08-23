@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Found calculation inside sizeof().
+Found calculation inside `sizeof()`.
 
 ## Further Reading
 

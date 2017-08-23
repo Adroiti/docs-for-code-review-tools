@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Suspicious condition. The result of find() is an iterator, but it is not properly checked.
+Suspicious condition. The result of `find()` is an iterator, but it is not properly checked.
 
 ## Further Reading
 

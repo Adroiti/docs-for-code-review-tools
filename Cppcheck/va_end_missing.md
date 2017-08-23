@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-va_list `vl` was opened but not closed by va_end().
+va_list `vl` was opened but not closed by `va_end()`.
 
 ## Further Reading
 

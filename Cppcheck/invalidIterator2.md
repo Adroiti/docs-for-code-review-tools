@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-After push_back|push_front|insert(), the iterator `iterator` may be invalid.
+After `push_back|push_front|insert()`, the iterator `iterator` may be invalid.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Passing value `#` to #() leads to implementation-defined result.
+Passing value `#` to `#()` leads to implementation-defined result.
 
 ## Further Reading
 

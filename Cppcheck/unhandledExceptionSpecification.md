@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unhandled exception specification when calling function foo(). Either use a try/catch around the function call, or add a exception specification for funcname() also.
+Unhandled exception specification when calling function `foo()`. Either use a try/catch around the function call, or add a exception specification for `funcname()` also.
 
 ## Further Reading
 

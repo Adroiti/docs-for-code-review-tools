@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Invalid pointer `pointer` after push_back().
+Invalid pointer `pointer` after `push_back()`.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Division of result of sizeof() on pointer type. sizeof() returns the size of the pointer, not the size of the memory area it points to.
+Division of result of `sizeof()` on pointer type. `sizeof()` returns the size of the pointer, not the size of the memory area it points to.
 
 ## Further Reading
 

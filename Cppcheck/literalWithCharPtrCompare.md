@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-String literal compared with variable `foo`. Did you intend to use strcmp() instead?
+String literal compared with variable `foo`. Did you intend to use `strcmp()` instead?
 
 ## Further Reading
 

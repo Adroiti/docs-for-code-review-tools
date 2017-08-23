@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Return value of function malloc() is not used.
+Return value of function `malloc()` is not used.
 
 ## Further Reading
 

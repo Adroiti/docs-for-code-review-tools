@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-va_list `vl` used before va_start() was called.
+va_list `vl` used before `va_start()` was called.
 
 ## Further Reading
 

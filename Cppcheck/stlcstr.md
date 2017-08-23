@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Dangerous usage of c_str(). The c_str() return value is only valid until its string is deleted.
+Dangerous usage of `c_str()`. The `c_str()` return value is only valid until its string is deleted.
 
 ## Further Reading
 

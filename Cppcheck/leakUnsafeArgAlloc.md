@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unsafe allocation. If funcName() throws, memory could be leaked. Use make_shared<int>() instead.
+Unsafe allocation. If `funcName()` throws, memory could be leaked. Use `make_shared<int>()` instead.
 
 ## Further Reading
 
