@@ -1,10 +1,10 @@
-Pattern: Access moved
+Pattern: Access of moved variable
 
 Issue: -
 
 ## Description
 
-Access of moved variable v.
+Access of moved variable.
 
 ## Further Reading
 

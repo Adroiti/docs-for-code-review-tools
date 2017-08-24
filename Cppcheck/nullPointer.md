@@ -1,10 +1,10 @@
-Pattern: Null pointer
+Pattern: Null pointer dereference
 
 Issue: -
 
 ## Description
 
-Null pointer dereference
+Null pointer dereference.
 
 ## Further Reading
 

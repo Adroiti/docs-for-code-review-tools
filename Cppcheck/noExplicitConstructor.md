@@ -1,10 +1,10 @@
-Pattern: No explicit constructor
+Pattern: Class constructor not explicit
 
 Issue: -
 
 ## Description
 
-Class `classname` has a constructor with 1 argument that is not explicit. Such constructors should in general be explicit for type safety reasons. Using the explicit keyword in the constructor means some mistakes when using the class can be avoided.
+Class has a constructor that is not explicit. Such constructors should in general be explicit for type safety reasons. Using the `explicit` keyword in the constructor means some mistakes when using the class can be avoided.
 
 ## Further Reading
 

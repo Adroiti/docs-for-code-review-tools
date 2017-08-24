@@ -1,10 +1,10 @@
-Pattern: Mismatch alloc dealloc
+Pattern: Mismatching allocation and deallocation
 
 Issue: -
 
 ## Description
 
-Mismatching allocation and deallocation: varname
+Mismatching allocation and deallocation.
 
 ## Further Reading
 

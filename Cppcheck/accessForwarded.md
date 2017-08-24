@@ -1,10 +1,10 @@
-Pattern: Access forwarded
+Pattern: Access of forwarded variable
 
 Issue: -
 
 ## Description
 
-Access of forwarded variable v.
+Access of forwarded variable.
 
 ## Further Reading
 

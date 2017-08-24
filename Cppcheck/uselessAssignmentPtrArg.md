@@ -1,4 +1,4 @@
-Pattern: Useless assignment ptr arg
+Pattern: Useless assignment of function parameter
 
 Issue: -
 

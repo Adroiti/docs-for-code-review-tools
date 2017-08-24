@@ -1,4 +1,4 @@
-Pattern: Useless calls empty
+Pattern: Ineffective call of `empty()`
 
 Issue: -
 

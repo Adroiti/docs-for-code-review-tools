@@ -1,4 +1,4 @@
-Pattern: Pointer size
+Pattern: Size of pointer used instead of size of its data
 
 Issue: -
 

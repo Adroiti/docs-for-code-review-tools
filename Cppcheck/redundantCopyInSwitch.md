@@ -1,10 +1,10 @@
-Pattern: Redundant copy in switch
+Pattern: Redundant copy in `switch`
 
 Issue: -
 
 ## Description
 
-Buffer `var` is being written before its old content has been used. `break;` missing?
+Buffer is being written before its old content has been used. `break;` missing?
 
 ## Further Reading
 

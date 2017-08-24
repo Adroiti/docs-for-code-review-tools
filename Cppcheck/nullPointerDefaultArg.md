@@ -1,10 +1,10 @@
-Pattern: Null pointer default arg
+Pattern: Possible null pointer dereference
 
 Issue: -
 
 ## Description
 
-Possible null pointer dereference if the default parameter value is used: pointer
+Possible null pointer dereference if the default parameter value is used: pointer.
 
 ## Further Reading
 

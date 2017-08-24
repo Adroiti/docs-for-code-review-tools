@@ -1,10 +1,10 @@
-Pattern: Memleak on realloc
+Pattern: Memory leak for `realloc()`
 
 Issue: -
 
 ## Description
 
-Common realloc mistake: nulled but not freed upon failure
+Common `realloc()` mistake: nulled but not freed upon failure.
 
 ## Further Reading
 

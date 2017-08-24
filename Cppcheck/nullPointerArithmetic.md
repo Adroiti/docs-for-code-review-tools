@@ -1,4 +1,4 @@
-Pattern: Null pointer arithmetic
+Pattern: Overflow in pointer arithmetic
 
 Issue: -
 

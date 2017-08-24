@@ -1,10 +1,10 @@
-Pattern: Va parameter
+Pattern: Wrong `va_start()` parameter
 
 Issue: -
 
 ## Description
 
-`arg1` given to `va_start()` is not last named argument of the function. Did you intend to pass `arg2`?
+Given argument to `va_start()` is not last named argument of the function. Did you intend to pass another argument?
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Pointer arith bool
+Pattern: Suspicious pointer bool conversion
 
 Issue: -
 

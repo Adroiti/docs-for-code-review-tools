@@ -1,10 +1,10 @@
-Pattern: Operator eq should be left unimplemented
+Pattern: Possible misuse of `=` operator
 
 Issue: -
 
 ## Description
 
-`operator=` should either return reference to `this` instance or be declared private and left unimplemented.
+`=` should either return reference to `this` instance or be declared private and left unimplemented.
 
 ## Further Reading
 

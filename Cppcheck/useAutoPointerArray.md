@@ -1,4 +1,4 @@
-Pattern: Use auto pointer array
+Pattern: Use of `auto_ptr` array
 
 Issue: -
 

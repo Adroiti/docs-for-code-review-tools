@@ -1,4 +1,4 @@
-Pattern: Zerodiv
+Pattern: Division by zero
 
 Issue: -
 

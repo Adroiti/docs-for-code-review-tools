@@ -1,4 +1,4 @@
-Pattern: Pointer less than zero
+Pattern: Less than zero pointer check
 
 Issue: -
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The function `funcName` is never used.
+The function is never used.
 
 ## Further Reading
 

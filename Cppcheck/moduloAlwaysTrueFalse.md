@@ -1,4 +1,4 @@
-Pattern: Modulo always true false
+Pattern: Redundant use of modulo result
 
 Issue: -
 

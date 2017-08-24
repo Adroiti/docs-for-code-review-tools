@@ -1,4 +1,4 @@
-Pattern: Use closed file
+Pattern: Use of closed file
 
 Issue: -
 

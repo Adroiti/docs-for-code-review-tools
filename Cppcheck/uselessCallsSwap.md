@@ -1,10 +1,10 @@
-Pattern: Useless calls swap
+Pattern: Redundant `swap()` call
 
 Issue: -
 
 ## Description
 
-The `swap()` function has no logical effect when given itself as parameter (str.swap(str)). As it is currently the code is inefficient. Is the object or the parameter wrong here?
+The `swap()` function has no logical effect when given itself as parameter (`str.swap(str)`).
 
 ## Further Reading
 

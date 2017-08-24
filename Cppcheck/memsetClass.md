@@ -1,10 +1,10 @@
-Pattern: Memset class
+Pattern: Use of `memset` on class 
 
 Issue: -
 
 ## Description
 
-Using `memfunc` on class that contains a classname is unsafe, because constructor, destructor and copy operator calls are omitted. These are necessary for this non-POD type to ensure that a valid object is created.
+Using `memset` on class is unsafe, because constructor, destructor and copy operator calls are omitted. These are necessary for this non-POD type to ensure that a valid object is created.
 
 ## Further Reading
 

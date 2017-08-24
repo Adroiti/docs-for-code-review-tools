@@ -1,10 +1,10 @@
-Pattern: Passed by value
+Pattern: Parameter passed by value
 
 Issue: -
 
 ## Description
 
-Parameter `parametername` is passed by value. It could be passed as a (const) reference which is usually faster and recommended in C++.
+Parameter is passed by value. It could be passed as a `const` reference which is usually faster and recommended in C++.
 
 ## Further Reading
 

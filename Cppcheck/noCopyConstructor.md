@@ -1,10 +1,10 @@
-Pattern: No copy constructor
+Pattern: Class with no copy constructor
 
 Issue: -
 
 ## Description
 
-class `class` does not have a copy constructor which is recommended since the class contains a pointer to allocated memory.
+Class does not have a copy constructor which is recommended since the class contains a pointer to allocated memory.
 
 ## Further Reading
 

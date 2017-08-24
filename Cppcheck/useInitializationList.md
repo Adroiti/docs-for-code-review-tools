@@ -1,10 +1,12 @@
-Pattern: Use initialization list
+Pattern:  Variable is assigned in constructor body
 
 Issue: -
 
 ## Description
 
-When an object of a class is created, the constructors of all member variables are called consecutively in the order the variables are declared, even if you don`t explicitly write them to the initialization list. You could avoid assigning `variable` a value by passing the value to the constructor in the initialization list.
+Variable is assigned in constructor body. Consider performing initialization in initialization list.
+
+When an object of a class is created, the constructors of all member variables are called consecutively in the order the variables are declared, even if you don’t explicitly write them to the initialization list. You could avoid assigning variable a value by passing the value to the constructor in the initialization list.
 
 ## Further Reading
 

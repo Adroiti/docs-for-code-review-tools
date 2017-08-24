@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Redundant condition: If x > 11 the condition x > 10 is always true.
+Redundant condition: If `x > 11` the condition `x > 10` is always true.
 
 ## Further Reading
 

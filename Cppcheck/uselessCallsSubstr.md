@@ -1,10 +1,10 @@
-Pattern: Useless calls substr
+Pattern: Ineffective call of `string::substr()`
 
 Issue: -
 
 ## Description
 
-Ineffective call of function `substr` because it returns a copy of the object. Use operator= instead.
+Ineffective call of function `string::substr()` because it returns a copy of the object. Use `=` instead.
 
 ## Further Reading
 

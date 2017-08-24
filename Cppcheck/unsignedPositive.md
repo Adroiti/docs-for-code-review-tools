@@ -1,10 +1,10 @@
-Pattern: Unsigned positive
+Pattern: Negative unsigned variable check
 
 Issue: -
 
 ## Description
 
-Unsigned variable can`t be negative so it is unnecessary to test it.
+Unsigned variable can’t be negative so it is unnecessary to test it.
 
 ## Further Reading
 

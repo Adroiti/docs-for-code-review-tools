@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Variable `var` is reassigned a value before the old one has been used. `break;` missing?
+Variable is reassigned a value before the old one has been used. `break;` missing?
 
 ## Further Reading
 

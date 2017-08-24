@@ -1,10 +1,10 @@
-Pattern: Va passed
+Pattern: Using reference as parameter for `va_start()`
 
 Issue: -
 
 ## Description
 
-Using reference `arg1` as parameter for `va_start()` results in undefined behaviour.
+Using reference as parameter for `va_start()` results in undefined behaviour.
 
 ## Further Reading
 

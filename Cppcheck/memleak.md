@@ -1,10 +1,10 @@
-Pattern: Memleak
+Pattern: Memory leak
 
 Issue: -
 
 ## Description
 
-Memory leak: varname
+Memory leak.
 
 ## Further Reading
 

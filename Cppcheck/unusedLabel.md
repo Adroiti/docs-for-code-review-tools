@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Label `` is not used.
+Label is not used.
 
 ## Further Reading
 

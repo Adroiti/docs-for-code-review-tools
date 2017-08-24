@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Declaration of array `` with negative size is undefined behaviour
+Declaration of array with negative size is undefined behaviour
 
 ## Further Reading
 

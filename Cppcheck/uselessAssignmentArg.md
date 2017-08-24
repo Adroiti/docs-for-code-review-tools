@@ -1,4 +1,4 @@
-Pattern: Useless assignment arg
+Pattern: Useless assignment function argument
 
 Issue: -
 

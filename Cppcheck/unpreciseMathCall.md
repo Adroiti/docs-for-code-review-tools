@@ -1,4 +1,4 @@
-Pattern: Unprecise math call
+Pattern: Imprecise math call
 
 Issue: -
 

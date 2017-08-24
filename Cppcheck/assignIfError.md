@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Mismatching assignment and comparison, comparison `` is always false.
+Mismatching assignment and comparison, comparison is always false.
 
 ## Further Reading
 

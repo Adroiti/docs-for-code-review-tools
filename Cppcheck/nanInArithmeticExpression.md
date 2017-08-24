@@ -1,10 +1,10 @@
-Pattern: Nan in arithmetic expression
+Pattern: `NaN`/`Inf` in arithmetic expression
 
 Issue: -
 
 ## Description
 
-Using NaN/Inf in a computation. Although nothing bad really happens, it is suspicious.
+Using `NaN`/`Inf` in a computation. Although nothing bad really happens, it is suspicious.
 
 ## Further Reading
 

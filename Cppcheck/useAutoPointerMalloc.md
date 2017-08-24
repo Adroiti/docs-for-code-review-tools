@@ -1,4 +1,4 @@
-Pattern: Use auto pointer malloc
+Pattern: Use of `auto_ptr` for pointers obtained with `malloc`
 
 Issue: -
 

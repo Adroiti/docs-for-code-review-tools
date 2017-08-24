@@ -1,10 +1,10 @@
-Pattern: No constructor
+Pattern: Class with no constructor
 
 Issue: -
 
 ## Description
 
-The class `classname` does not have a constructor although it has private member variables. Member variables of builtin types are left uninitialized when the class is instantiated. That may cause bugs or undefined behavior.
+Class does not have a constructor although it has private member variables. Member variables of builtin types are left uninitialized when the class is instantiated. That may cause bugs or undefined behavior.
 
 ## Further Reading
 

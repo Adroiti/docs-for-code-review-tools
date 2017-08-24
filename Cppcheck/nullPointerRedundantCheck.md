@@ -1,4 +1,4 @@
-Pattern: Null pointer redundant check
+Pattern: Redundant null pointer check
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Va
+Pattern: `va_list` not closed by `va_end()`
 
 Issue: -
 
 ## Description
 
-va_list `vl` was opened but not closed by `va_end()`.
+`va_list` was opened but not closed by `va_end()`.
 
 ## Further Reading
 

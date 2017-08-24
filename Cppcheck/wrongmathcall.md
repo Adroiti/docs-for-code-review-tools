@@ -1,4 +1,4 @@
-Pattern: Wrongmathcall
+Pattern: Passing value `#` to `#()`
 
 Issue: -
 

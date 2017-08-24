@@ -1,10 +1,10 @@
-Pattern: Operator eq to self
+Pattern: Missing check for assignment to self for `=`
 
 Issue: -
 
 ## Description
 
-`operator=` should check for assignment to self to ensure that each block of dynamically allocated memory is owned and managed by only one instance of the class.
+`=` should check for assignment to self to ensure that each block of dynamically allocated memory is owned and managed by only one instance of the class.
 
 ## Further Reading
 

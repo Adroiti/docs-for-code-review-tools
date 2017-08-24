@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Statements following return, break, continue, goto or throw will never be executed.
+Statements following `return`, `break`, `continue`, `goto` or `throw` will never be executed.
 
 ## Further Reading
 

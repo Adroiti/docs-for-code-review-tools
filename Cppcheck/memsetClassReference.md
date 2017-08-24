@@ -1,4 +1,4 @@
-Pattern: Memset class reference
+Pattern: Use of `memfunc` on class that contains reference
 
 Issue: -
 

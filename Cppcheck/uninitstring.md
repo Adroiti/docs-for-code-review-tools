@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Dangerous usage of (strncpy doesn`t always null-terminate it).
+Dangerous usage of (strncpy doesn’t always null-terminate it).
 
 ## Further Reading
 

@@ -1,10 +1,10 @@
-Pattern: Mismatch size
+Pattern: Mismatched size
 
 Issue: -
 
 ## Description
 
-The allocated size sz is not a multiple of the underlying type’s size.
+The allocated size is not a multiple of the underlying type’s size.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Wrong pipe parameter size
+Pattern: Wrong `pipe()/pipe2()` parameter size
 
 Issue: -
 

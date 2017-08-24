@@ -1,4 +1,4 @@
-Pattern: Opposite inner condition
+Pattern: Opposite conditions in nested `if` blocks
 
 Issue: -
 

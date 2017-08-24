@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Suspicious calculation. Please use parentheses to clarify the code. The code ``a+b?c:d`` should be written as either ``(a+b)?c:d`` or ``a+(b?c:d)``.
+Suspicious calculation. Please use parentheses to clarify the code. The code ``a+b?c:d`` should be written as either `(a+b)?c:d` or `a+(b?c:d)`.
 
 ## Further Reading
 

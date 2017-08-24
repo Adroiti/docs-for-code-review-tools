@@ -1,4 +1,4 @@
-Pattern: Memset float
+Pattern: `memset()` argument not a float
 
 Issue: -
 

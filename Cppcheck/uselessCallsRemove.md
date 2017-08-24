@@ -1,4 +1,4 @@
-Pattern: Useless calls remove
+Pattern: Useless `std::remove()` call
 
 Issue: -
 

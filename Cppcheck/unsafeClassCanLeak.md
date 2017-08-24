@@ -1,10 +1,10 @@
-Pattern: Unsafe class can leak
+Pattern: Use of unsafe class
 
 Issue: -
 
 ## Description
 
-The class `class` is unsafe, wrong usage can cause memory/resource leaks for `class::varname`. This can for instance be fixed by adding proper cleanup in the destructor.
+The class is unsafe, wrong usage can cause memory/resource leaks. This can for instance be fixed by adding proper cleanup in the destructor.
 
 ## Further Reading
 

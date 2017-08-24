@@ -1,10 +1,10 @@
-Pattern: Va before started
+Pattern: `va_list` used before `va_start()`
 
 Issue: -
 
 ## Description
 
-va_list `vl` used before `va_start()` was called.
+`va_list` used before `va_start()` was called.
 
 ## Further Reading
 

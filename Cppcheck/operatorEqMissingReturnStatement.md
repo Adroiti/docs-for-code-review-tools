@@ -1,4 +1,4 @@
-Pattern: Operator eq missing return statement
+Pattern: No `return` statement in non-void function
 
 Issue: -
 

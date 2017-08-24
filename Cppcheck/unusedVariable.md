@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unused variable: varname
+Unused variable.
 
 ## Further Reading
 

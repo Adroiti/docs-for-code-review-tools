@@ -1,10 +1,10 @@
-Pattern: Operator eq ret ref this
+Pattern: `=` not returning reference to `this`
 
 Issue: -
 
 ## Description
 
-`operator=` should return reference to `this` instance.
+`=` should return reference to `this` instance.
 
 ## Further Reading
 

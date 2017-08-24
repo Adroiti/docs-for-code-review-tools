@@ -1,4 +1,4 @@
-Pattern: Unsigned less than zero
+Pattern: Less than zero check for unsigned variable
 
 Issue: -
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Allocation with funcName, funcName doesn`t release it.
+Allocation with funcName, funcName doesn’t release it.
 
 ## Further Reading
 

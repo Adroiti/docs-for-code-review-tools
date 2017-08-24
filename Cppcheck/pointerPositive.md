@@ -1,10 +1,10 @@
-Pattern: Pointer positive
+Pattern: Negative pointer check
 
 Issue: -
 
 ## Description
 
-A pointer can not be negative so it is either pointless or an error to check if it is not.
+A pointer cannot be negative so it is either pointless or an error to check if it is not.
 
 ## Further Reading
 

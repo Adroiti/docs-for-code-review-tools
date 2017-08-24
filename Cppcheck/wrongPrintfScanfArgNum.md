@@ -1,10 +1,10 @@
-Pattern: Wrong printf scanf arg num
+Pattern: Misuse of `printf()` format string
 
 Issue: -
 
 ## Description
 
-printf format string requires 3 parameters but only 2 are given.
+`printf()` format string requires 3 parameters but only 2 are given.
 
 ## Further Reading
 

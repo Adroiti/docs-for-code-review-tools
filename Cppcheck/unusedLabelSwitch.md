@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Label `` is not used. Should this be a `case` of the enclosing switch()?
+Label is not used. Should this be a `case` of the enclosing `switch`?
 
 ## Further Reading
 

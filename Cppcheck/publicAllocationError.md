@@ -1,4 +1,4 @@
-Pattern: Public allocation error
+Pattern: Possible allocation leak in public function
 
 Issue: -
 

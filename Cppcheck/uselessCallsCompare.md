@@ -1,10 +1,10 @@
-Pattern: Useless calls compare
+Pattern: Inefficient `string::find()` call
 
 Issue: -
 
 ## Description
 
-`std::string::find()` returns zero when given itself as parameter (str.find(str)). As it is currently the code is inefficient. It is possible either the string searched (`str`) or searched for (`str`) is wrong.
+It is inefficient to call `string::find()` as it always returns 0.
 
 ## Further Reading
 

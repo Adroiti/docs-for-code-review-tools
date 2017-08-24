@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Memory allocation size is negative.Negative allocation size has no specified behaviour.
+Memory allocation size is negative. Negative allocation size has no specified behaviour.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Zerodivcond
+Pattern: Possible division by zero
 
 Issue: -
 

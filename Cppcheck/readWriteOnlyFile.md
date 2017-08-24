@@ -1,4 +1,4 @@
-Pattern: Read write only file
+Pattern: Reading file opened for writing
 
 Issue: -
 

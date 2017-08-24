@@ -1,10 +1,10 @@
-Pattern: Argument size
+Pattern: Array is too small
 
 Issue: -
 
 ## Description
 
-The array `array` is too small, the function `function` expects a bigger one.
+The array is too small, function expects a bigger one.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-struct member `structname::variable` is never used.
+Struct member is never used.
 
 ## Further Reading
 

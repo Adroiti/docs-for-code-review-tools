@@ -1,4 +1,4 @@
-Pattern: Operator eq var error
+Pattern: `classname::` is not assigned a value
 
 Issue: -
 

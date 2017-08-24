@@ -1,10 +1,10 @@
-Pattern: Reademptycontainer
+Pattern: Reading from empty STL container
 
 Issue: -
 
 ## Description
 
-Reading from empty STL container `var`
+Reading from empty STL container.
 
 ## Further Reading
 

@@ -1,10 +1,10 @@
-Pattern: Out of bounds
+Pattern: Index out of bounds
 
 Issue: -
 
 ## Description
 
-index is out of bounds: Supplied size 2 is larger than actual size 1.
+Index is out of bounds: Supplied size is larger than actual size.
 
 ## Further Reading
 

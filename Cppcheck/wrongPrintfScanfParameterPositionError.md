@@ -1,10 +1,10 @@
-Pattern: Wrong printf scanf parameter position error
+Pattern: Misuse of `printf()`
 
 Issue: -
 
 ## Description
 
-printf: referencing parameter 2 while 1 arguments given
+`printf()`: referencing parameter 2 while 1 arguments given.
 
 ## Further Reading
 

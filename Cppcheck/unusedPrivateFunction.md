@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Unused private function: `classname::funcname`
+Unused private function.
 
 ## Further Reading
 

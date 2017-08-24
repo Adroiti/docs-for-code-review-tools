@@ -1,4 +1,4 @@
-Pattern: Multiply sizeof
+Pattern: Multiplying `sizeof()` with `sizeof()`
 
 Issue: -
 

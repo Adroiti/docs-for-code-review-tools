@@ -1,4 +1,4 @@
-Pattern: Virtual destructor
+Pattern: Missing virtual destructor
 
 Issue: -
 

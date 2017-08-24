@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Buffer `var` is being written before its old content has been used.
+Buffer is being written before its old content has been used.
 
 ## Further Reading
 
