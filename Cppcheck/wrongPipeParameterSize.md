@@ -5,7 +5,7 @@ Issue: -
 ## Description
 
 The `pipe()/pipe2()` system command takes an argument, which is an array of exactly two integers.
-The variable `varname` is an array of size dimension, which does not match.
+The variable is an array of size dimension, which does not match.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Redundant assignment of `varname` to itself.
+Redundant assignment of to itself.
 
 ## Further Reading
 

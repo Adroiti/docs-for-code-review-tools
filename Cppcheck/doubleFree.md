@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Memory pointed to by `varname` is freed twice.
+Memory pointed to by is freed twice.
 
 ## Further Reading
 

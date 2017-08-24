@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Instance of `varname` object is destroyed immediately.
+Instance of object is destroyed immediately.
 
 ## Further Reading
 

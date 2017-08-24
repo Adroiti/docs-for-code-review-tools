@@ -1,10 +1,10 @@
-Pattern: Sizeof dereferenced void pointer
+Pattern: Use of `sizeof(void)`
 
 Issue: -
 
 ## Description
 
-`*varname` is of type `void`, the behaviour of `sizeof(void)` is not covered by the ISO C standard. A value for `sizeof(void)` is defined only as part of a GNU C extension, which defines `sizeof(void)` to be 1.
+The behaviour of `sizeof(void)` is not covered by the ISO C standard. A value for `sizeof(void)` is defined only as part of a GNU C extension, which defines `sizeof(void)` to be 1.
 
 ## Further Reading
 

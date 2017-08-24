@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Found suspicious equality comparison. Did you intend to assign a value instead?
+Suspicious equality comparison. Did you intend to assign a value instead?
 
 ## Further Reading
 

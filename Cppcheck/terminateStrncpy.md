@@ -1,4 +1,4 @@
-Pattern: Terminate strncpy
+Pattern: Possibly improper use of `strncpy()`
 
 Issue: -
 

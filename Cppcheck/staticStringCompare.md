@@ -1,10 +1,10 @@
-Pattern: Static string compare
+Pattern: Unnecessary comparison of static strings
 
 Issue: -
 
 ## Description
 
-The compared strings, `str1` and `str2`, are always unequal. Therefore the comparison is unnecessary and looks suspicious.
+Unnecessary comparison of static strings as compared strings are always unequal.
 
 ## Further Reading
 

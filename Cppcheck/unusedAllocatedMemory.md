@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Variable `varname` is allocated memory that is never used.
+Variable is allocated memory that is never used.
 
 ## Further Reading
 

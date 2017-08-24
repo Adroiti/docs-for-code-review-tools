@@ -1,10 +1,10 @@
-Pattern: Shift negative
+Pattern: Shifting by negative value
 
 Issue: -
 
 ## Description
 
-Shifting by a negative value is undefined behaviour
+Shifting by a negative value is undefined behaviour.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The const variable `varname` is assigned a copy of the data. You can avoid the unnecessary data copying by converting `varname` to const reference.
+The const variable is assigned a copy of the data. You can avoid the unnecessary data copying by converting to const reference.
 
 ## Further Reading
 

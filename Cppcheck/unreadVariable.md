@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Variable `varname` is assigned a value that is never used.
+Variable is assigned a value that is never used.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Sizeof division memfunc
+Pattern: Division by result of `sizeof()`
 
 Issue: -
 

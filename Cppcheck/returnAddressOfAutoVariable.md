@@ -1,4 +1,4 @@
-Pattern: Return address of auto variable
+Pattern: Address of auto-variable returned
 
 Issue: -
 

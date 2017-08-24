@@ -1,4 +1,4 @@
-Pattern: Stl if find
+Pattern: Suspicious `find()` condition
 
 Issue: -
 

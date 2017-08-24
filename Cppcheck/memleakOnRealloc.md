@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Common realloc mistake: `varname` nulled but not freed upon failure
+Common realloc mistake: nulled but not freed upon failure
 
 ## Further Reading
 

@@ -1,10 +1,10 @@
-Pattern: Stl missing comparison
+Pattern: Missing bounds check in loop
 
 Issue: -
 
 ## Description
 
-The iterator incrementing is suspicious - it is incremented at line  and then at line . The loop might unintentionally skip an element in the container. There is no comparison between these increments to prevent that the iterator is incremented beyond the end.
+Missing bounds check for extra iterator increment in loop. The loop might unintentionally skip an element in the container. There is no comparison between these increments to prevent that the iterator is incremented beyond the end.
 
 ## Further Reading
 

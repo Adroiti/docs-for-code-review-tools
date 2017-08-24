@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The scope of the variable `varname` can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for `i` can be reduced:
+The scope of the variable can be reduced. Warning: Be careful when fixing this message, especially when there are inner loops. Here is an example where cppcheck will write that the scope for `i` can be reduced:
 void f(int x)
 {
     int i = 0;

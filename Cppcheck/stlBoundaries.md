@@ -1,10 +1,10 @@
-Pattern: Stl boundaries
+Pattern: Dangerous iterator comparison
 
 Issue: -
 
 ## Description
 
-Iterator compared with operator<. This is dangerous since the order of items in the container is not guaranteed. One should use operator!= instead to compare iterators.
+Iterator compared with operator `<`. This is dangerous since the order of items in the container is not guaranteed. One should use `!=` instead to compare iterators.
 
 ## Further Reading
 

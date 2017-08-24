@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Possible leak in public function. The pointer `varname` is not deallocated before it is allocated.
+Possible leak in public function. The pointer is not deallocated before it is allocated.
 
 ## Further Reading
 

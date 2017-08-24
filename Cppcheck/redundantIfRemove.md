@@ -1,4 +1,4 @@
-Pattern: Redundant if remove
+Pattern: Redundant STL container check
 
 Issue: -
 

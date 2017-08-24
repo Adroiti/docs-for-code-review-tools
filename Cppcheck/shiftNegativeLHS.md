@@ -1,10 +1,10 @@
-Pattern: Shift negative
+Pattern: Shifting negative value
 
 Issue: -
 
 ## Description
 
-Shifting a negative value is technically undefined behaviour
+Shifting a negative value is technically undefined behaviour.
 
 ## Further Reading
 

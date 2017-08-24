@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Boolean variable `varname` is used in bitwise operation. Did you mean `&&`?
+Boolean variable is used in bitwise operation. Did you mean `&&`?
 
 ## Further Reading
 

@@ -1,10 +1,10 @@
-Pattern: Stl out of bounds
+Pattern: Access of out of bounds
 
 Issue: -
 
 ## Description
 
-When i==foo.`size()`, foo[i] is out of bounds.
+When `i==foo.size()`, foo[i] is out of bounds.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Signed char array index
+Pattern: Signed `char` used as array index
 
 Issue: -
 

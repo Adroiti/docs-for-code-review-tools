@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Resource leak: varname
+Resource leak.
 
 ## Further Reading
 

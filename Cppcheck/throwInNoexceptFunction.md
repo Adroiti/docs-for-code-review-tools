@@ -1,4 +1,4 @@
-Pattern: Throw in noexcept function
+Pattern: Throw in `noexcept` function
 
 Issue: -
 

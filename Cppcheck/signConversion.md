@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Suspicious code: sign conversion of var in calculation, even though var can have a negative value
+Sign conversion of variable in calculation, even though variable can have a negative value.
 
 ## Further Reading
 

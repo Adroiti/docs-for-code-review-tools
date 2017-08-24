@@ -1,4 +1,4 @@
-Pattern: This subtraction
+Pattern: Suspicious pointer subtraction
 
 Issue: -
 

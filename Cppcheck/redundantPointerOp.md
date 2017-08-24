@@ -1,10 +1,10 @@
-Pattern: Redundant pointer op
+Pattern: Redundant pointer operation
 
 Issue: -
 
 ## Description
 
-Redundant pointer operation on `varname` - it’s already a pointer.
+Redundant pointer operation on variable - it’s already a pointer.
 
 ## Further Reading
 

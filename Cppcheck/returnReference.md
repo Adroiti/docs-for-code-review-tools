@@ -1,4 +1,4 @@
-Pattern: Return reference
+Pattern: Reference to auto variable returned
 
 Issue: -
 

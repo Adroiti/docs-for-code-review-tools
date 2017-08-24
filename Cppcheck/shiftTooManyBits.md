@@ -1,10 +1,10 @@
-Pattern: Shift too many bits
+Pattern: Shifting too many bits
 
 Issue: -
 
 ## Description
 
-Shifting 32-bit value by 40 bits is undefined behaviour
+Shifting 32-bit value by 40 bits is undefined behaviour.
 
 ## Further Reading
 

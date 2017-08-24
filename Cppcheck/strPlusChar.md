@@ -1,4 +1,4 @@
-Pattern: Str plus char
+Pattern: Unusual pointer arithmetic
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Sizeof void
+Pattern: Use of `sizeof(void)`
 
 Issue: -
 

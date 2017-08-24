@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Variable `varname` is not assigned a value.
+Variable is not assigned a value.
 
 ## Further Reading
 

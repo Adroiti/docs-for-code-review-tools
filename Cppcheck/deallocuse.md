@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Dereferencing `varname` after it is deallocated / released
+Dereferencing after it is deallocated / released
 
 ## Further Reading
 

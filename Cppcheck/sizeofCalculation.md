@@ -1,4 +1,4 @@
-Pattern: Sizeof calculation
+Pattern: Calculation inside `sizeof()`
 
 Issue: -
 

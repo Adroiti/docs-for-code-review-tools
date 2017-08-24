@@ -1,10 +1,10 @@
-Pattern: Suspicious semicolon
+Pattern: Suspicious `;`
 
 Issue: -
 
 ## Description
 
-Suspicious use of ; at the end of `` statement.
+Suspicious use of `;` at the end of statement.
 
 ## Further Reading
 

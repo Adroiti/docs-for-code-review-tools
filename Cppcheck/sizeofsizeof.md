@@ -1,10 +1,10 @@
-Pattern: Sizeofsizeof
+Pattern: Calling `sizeof` on `sizeof`
 
 Issue: -
 
 ## Description
 
-Calling sizeof for `sizeof looks like a suspicious code and most likely there should be just one `sizeof`. The current code is equivalent to `sizeof(size_t)`
+Calling `sizeof` on `sizeof` looks like a suspicious code and most likely there should be just one `sizeof`. The current code is equivalent to `sizeof(size_t)`.
 
 ## Further Reading
 

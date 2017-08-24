@@ -1,4 +1,4 @@
-Pattern: Return local variable
+Pattern: Pointer to local array variable returned
 
 Issue: -
 

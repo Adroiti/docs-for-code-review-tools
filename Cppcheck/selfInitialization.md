@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Member variable `var` is initialized by itself.
+Member variable is initialized by itself.
 
 ## Further Reading
 

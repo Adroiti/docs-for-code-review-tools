@@ -1,4 +1,4 @@
-Pattern: Return temp reference
+Pattern: Reference to temporary returned
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Size argument as char
+Pattern: Size argument as `char`
 
 Issue: -
 
 ## Description
 
-The size argument is given as a char constant.
+The size argument is given as a `char` constant.
 
 ## Further Reading
 

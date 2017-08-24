@@ -1,4 +1,4 @@
-Pattern: Suspicious case
+Pattern: Suspicious case label
 
 Issue: -
 

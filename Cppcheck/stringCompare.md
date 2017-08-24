@@ -1,10 +1,10 @@
-Pattern: String compare
+Pattern: Identical string comparison
 
 Issue: -
 
 ## Description
 
-The compared strings, `varname1` and `varname2`, are identical. This could be a logic bug.
+The compared strings are identical. This could be a logic bug.
 
 ## Further Reading
 

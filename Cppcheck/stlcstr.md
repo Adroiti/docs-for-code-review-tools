@@ -1,4 +1,4 @@
-Pattern: Stlcstr
+Pattern: Dangerous use of `c_str()`
 
 Issue: -
 
