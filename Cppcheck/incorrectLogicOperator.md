@@ -1,10 +1,10 @@
-Pattern: Incorrect logic operator
+Pattern: Redundant logical disjunction
 
 Issue: -
 
 ## Description
 
-Logical disjunction always evaluates to true: foo > 3 && foo < 4. Are these conditions necessary? Did you intend to use && instead? Are the numbers correct? Are you comparing the correct variables?
+Logical disjunction always evaluates to true: `foo > 3 && foo < 4`. Are these conditions necessary? Did you intend to use `&& `instead? Are the numbers correct? Are you comparing the correct variables?
 
 ## Further Reading
 

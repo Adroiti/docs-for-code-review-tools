@@ -1,4 +1,4 @@
-Pattern: Incrementboolean
+Pattern: Operand of a postfix increment operator is bool
 
 Issue: -
 

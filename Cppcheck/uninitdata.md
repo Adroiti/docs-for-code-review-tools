@@ -1,10 +1,10 @@
-Pattern: Uninitdata
+Pattern: Memory is allocated but not initialized
 
 Issue: -
 
 ## Description
 
-Memory is allocated but not initialized: varname
+Memory is allocated but not initialized.
 
 ## Further Reading
 

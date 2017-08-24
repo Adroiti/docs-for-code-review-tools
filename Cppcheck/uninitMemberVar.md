@@ -1,10 +1,10 @@
-Pattern: Uninit member var
+Pattern: Uninitialized constructor variable
 
 Issue: -
 
 ## Description
 
-Member variable `classname::varname` is not initialized in the constructor.
+Member variable is not initialized in the constructor.
 
 ## Further Reading
 

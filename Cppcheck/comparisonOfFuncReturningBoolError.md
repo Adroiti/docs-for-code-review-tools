@@ -1,11 +1,11 @@
-Pattern: Comparison of func returning bool error
+Pattern: Comparison of boolean function value using `<`, `>`, `<=` or `>=`
 
 Issue: -
 
-## Description
+## Descriptions	
 
-The return type of function `func_name` is `bool` and result is of type `bool`. Comparing `bool` value using relational (<, >, <= or >=) operator could cause unexpected results.
+Comparing `bool` value using relational (`<`, `>`, `<=` or `>=`) operator could cause unexpected results.
 
-## Further Reading
+## Further Reading	
 
 * [Common Weakness Enumeration (CWE) - 398](https://cwe.mitre.org/data/definitions/398.html)

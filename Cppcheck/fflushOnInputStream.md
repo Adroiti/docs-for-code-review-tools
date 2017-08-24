@@ -1,10 +1,10 @@
-Pattern: Fflush on input stream
+Pattern: `fflush()` on input stream
 
 Issue: -
 
 ## Description
 
-`fflush()` called on input stream `stdin` may result in undefined behaviour on non-linux systems.
+`fflush()` called on input stream `stdin` may result in undefined behaviour on non-Linux systems.
 
 ## Further Reading
 

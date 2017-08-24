@@ -1,7 +1,7 @@
-Pattern: Copy ctor and eq operator
+Pattern: Class has `=` but lacks copy ctor
 
 Issue: -
 
 ## Description
 
-The class `class` has `operator=` but lack of `copy constructor`.
+The class has `=` but lacks copy constructor.

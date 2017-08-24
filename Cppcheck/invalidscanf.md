@@ -1,4 +1,4 @@
-Pattern: Invalidscanf
+Pattern: Use of `scanf()` without field width
 
 Issue: -
 
@@ -8,6 +8,7 @@ Issue: -
 
 Sample program that can crash:
 
+```cpp
 #include <stdio.h>
 int main()
 {
@@ -15,10 +16,10 @@ int main()
     scanf("%s", c);
     return 0;
 }
+```
+
 
 Typing in 5 or more characters may make the program crash. The correct usage here is `scanf("%4s", c);`, as the maximum field width does not include the terminating null byte.
-Source: http://linux.die.net/man/3/scanf
-Source: http://www.opensource.apple.com/source/xnu/xnu-1456.1.26/libkern/stdio/scanf.c
 
 ## Further Reading
 

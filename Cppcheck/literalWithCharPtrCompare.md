@@ -1,4 +1,4 @@
-Pattern: Literal with char ptr compare
+Pattern: Literal with `char` `ptr` compare
 
 Issue: -
 

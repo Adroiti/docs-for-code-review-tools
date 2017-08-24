@@ -1,10 +1,10 @@
-Pattern: Deadpointer
+Pattern: Use of dead pointer
 
 Issue: -
 
 ## Description
 
-Dead pointer usage. Pointer `pointer` is dead if it has been assigned `&x` at line 0.
+Pointer `pointer` is dead if it has been assigned `&x` at line 0.
 
 ## Further Reading
 

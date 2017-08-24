@@ -1,10 +1,10 @@
-Pattern: Invalid function arg bool
+Pattern: Invalid function boolean argument
 
 Issue: -
 
 ## Description
 
-Invalid `func_name()` argument nr 1. A non-boolean value is required.
+Invalid function argument: A non-boolean value is required.
 
 ## Further Reading
 

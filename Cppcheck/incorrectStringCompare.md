@@ -1,10 +1,10 @@
-Pattern: Incorrect string compare
+Pattern: Incorrect string comparison
 
 Issue: -
 
 ## Description
 
-String literal "Hello World" doesn’t match length argument for `substr()`.
+String literal _Hello World_ doesn’t match length argument for `substr()`.
 
 ## Further Reading
 

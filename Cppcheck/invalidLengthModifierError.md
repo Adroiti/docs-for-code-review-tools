@@ -1,10 +1,10 @@
-Pattern: Invalid length modifier error
+Pattern: Invalid length modifier
 
 Issue: -
 
 ## Description
 
-`I` in format string (no. 1) is a length modifier and cannot be used without a conversion specifier.
+`I` in format string is a length modifier and cannot be used without a conversion specifier.
 
 ## Further Reading
 

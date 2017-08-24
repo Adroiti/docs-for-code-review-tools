@@ -1,10 +1,10 @@
-Pattern: Dupl inherited member
+Pattern: Duplicate inherited member
 
 Issue: -
 
 ## Description
 
-The class `class` defines member variable with name `variable` also defined in its parent class `class`.
+The class defines member variable which is also defined in its parent class.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Cout cerr misusage
+Pattern: Misuse of `<< std::cout`
 
 Issue: -
 

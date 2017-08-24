@@ -1,4 +1,4 @@
-Pattern: Incorrect string boolean error
+Pattern: Incorrect string boolean conversion
 
 Issue: -
 

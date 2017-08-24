@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Consecutive return, break, continue, goto or throw statements are unnecessary. The second statement can never be executed, and so should be removed.
+Consecutive `return`, `break`, `continue`, `goto` or `throw` statements are unnecessary. The second statement can never be executed, and so should be removed.
 
 ## Further Reading
 

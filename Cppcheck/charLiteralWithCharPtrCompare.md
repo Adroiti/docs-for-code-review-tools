@@ -1,10 +1,10 @@
-Pattern: Char literal with char ptr compare
+Pattern: Char literal compared with pointer
 
 Issue: -
 
 ## Description
 
-Char literal compared with pointer `foo`. Did you intend to dereference it?
+Char literal compared with pointer. Did you intend to dereference it?
 
 ## Further Reading
 

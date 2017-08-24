@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Value of pointer `var`, which points to allocated memory, is copied in copy constructor instead of allocating new memory.
+Value of pointer points to allocated memory and is copied in copy constructor instead of allocating new memory.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Const statement
+Pattern: Statement begins with type constant
 
 Issue: -
 

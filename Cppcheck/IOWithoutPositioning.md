@@ -1,10 +1,10 @@
-Pattern: Without positioning
+Pattern: Read and write operations without call to a positioning function
 
 Issue: -
 
 ## Description
 
-Read and write operations without a call to a positioning function (fseek, fsetpos or rewind) or fflush in between result in undefined behaviour.
+Read and write operations without a call to a positioning function (`fseek`, `fsetpos` or `rewind`) or `fflush` in between result in undefined behaviour.
 
 ## Further Reading
 

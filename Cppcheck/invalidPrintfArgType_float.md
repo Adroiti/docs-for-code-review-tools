@@ -1,10 +1,10 @@
-Pattern: Invalid printf arg type
+Pattern: Invalid `printf()` arg type
 
 Issue: -
 
 ## Description
 
-%f in format string (no. 1) requires `double` but the argument type is Unknown.
+`%f` in format string (no. 1) requires `double` but the argument type is Unknown.
 
 ## Further Reading
 

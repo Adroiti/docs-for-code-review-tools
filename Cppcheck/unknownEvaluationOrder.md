@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Expression `x = x++;` depends on order of evaluation of side effects
+Expression `x = x++;` depends on order of evaluation of side effects.
 
 ## Further Reading
 

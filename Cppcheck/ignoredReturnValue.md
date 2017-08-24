@@ -1,4 +1,4 @@
-Pattern: Ignored return value
+Pattern: Ignored `malloc()` return value
 
 Issue: -
 

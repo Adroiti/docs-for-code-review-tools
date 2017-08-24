@@ -1,4 +1,4 @@
-Pattern: Cast address to integer at return
+Pattern: Returning address value in function with integer return type
 
 Issue: -
 

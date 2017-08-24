@@ -1,10 +1,10 @@
-Pattern: Comparison of two funcs returning bool error
+Pattern: Comparison of two boolean function values using `<`, `>`, `<=` or `>=`
 
 Issue: -
 
 ## Description
 
-The return type of function `func_name1` and function `func_name2` is `bool` and result is of type `bool`. Comparing `bool` value using relational (<, >, <= or >=) operator could cause unexpected results.
+Comparing `bool` value using relational (`<`, `>`, `<=` or `>=`) operator could cause unexpected results.
 
 ## Further Reading
 

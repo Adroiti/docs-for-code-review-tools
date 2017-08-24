@@ -1,10 +1,10 @@
-Pattern: Uninitstring
+Pattern: Dangerous usage of variable
 
 Issue: -
 
 ## Description
 
-Dangerous usage of (strncpy doesn’t always null-terminate it).
+Dangerous usage of variable (strncpy doesn’t always null-terminate it).
 
 ## Further Reading
 

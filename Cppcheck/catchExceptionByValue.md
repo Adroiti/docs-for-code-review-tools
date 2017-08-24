@@ -1,4 +1,4 @@
-Pattern: Catch exception by value
+Pattern: Exception is caught by value
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Leak no var function call
+Pattern: Function allocation not released
 
 Issue: -
 
 ## Description
 
-Allocation with funcName, funcName doesn’t release it.
+Allocation with function is not released.
 
 ## Further Reading
 

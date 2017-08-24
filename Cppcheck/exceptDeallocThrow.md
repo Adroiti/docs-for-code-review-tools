@@ -1,4 +1,4 @@
-Pattern: Except dealloc throw
+Pattern: Exception thrown in invalid state
 
 Issue: -
 

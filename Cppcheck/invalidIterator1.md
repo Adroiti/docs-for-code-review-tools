@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Invalid iterator: iterator
+Invalid iterator.
 
 ## Further Reading
 

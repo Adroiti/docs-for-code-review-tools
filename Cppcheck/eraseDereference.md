@@ -1,10 +1,10 @@
-Pattern: Erase dereference
+Pattern: Assignment of invalid iterator
 
 Issue: -
 
 ## Description
 
-The iterator `iter` is invalid before being assigned. Dereferencing or comparing it with another iterator is invalid operation.
+The iterator is invalid before being assigned. Dereferencing or comparing it with another iterator is invalid operation.
 
 ## Further Reading
 

@@ -1,10 +1,10 @@
-Pattern: Deallocret
+Pattern: Return after deallocation
 
 Issue: -
 
 ## Description
 
-Returning/dereferencing `p` after it is deallocated / released
+Returning/dereferencing variable after it is deallocated/released.
 
 ## Further Reading
 

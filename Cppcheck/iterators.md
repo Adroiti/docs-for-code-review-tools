@@ -1,10 +1,10 @@
-Pattern: Iterators
+Pattern: Same iterator used with different containers
 
 Issue: -
 
 ## Description
 
-Same iterator is used with different containers `container1` and `container2`.
+Same iterator is used with different containers.
 
 ## Further Reading
 

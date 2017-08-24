@@ -1,4 +1,4 @@
-Pattern: Invalid pointer
+Pattern: Invalid pointer `pointer` after `push_back()`
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Clarify statement
+Pattern: Unclear statement
 
 Issue: -
 

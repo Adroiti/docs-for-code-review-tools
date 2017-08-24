@@ -1,4 +1,4 @@
-Pattern: Unknown sign char array index
+Pattern: `char` type used as array index
 
 Issue: -
 

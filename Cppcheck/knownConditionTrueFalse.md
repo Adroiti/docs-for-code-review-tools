@@ -1,10 +1,10 @@
-Pattern: Known condition true false
+Pattern: Redundant condition
 
 Issue: -
 
 ## Description
 
-Condition `x` is always true
+Condition `x` is always true.
 
 ## Further Reading
 

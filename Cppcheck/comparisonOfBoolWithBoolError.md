@@ -1,10 +1,10 @@
-Pattern: Comparison of bool with bool error
+Pattern: Comparison of boolean using `<`, `>`, `<=` or `>=`
 
 Issue: -
 
 ## Description
 
-The variable `var_name` is of type `bool` and comparing `bool` value using relational (<, >, <= or >=) operator could cause unexpected results.
+Comparing `bool` value using relational (`<`, `>`, `<=` or `>=`) operator could cause unexpected results.
 
 ## Further Reading
 

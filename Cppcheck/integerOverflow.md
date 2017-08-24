@@ -1,10 +1,10 @@
-Pattern: Integer overflow
+Pattern: Signed integer overflow
 
 Issue: -
 
 ## Description
 
-Signed integer overflow for expression ``.
+Signed integer overflow for expression.
 
 ## Further Reading
 

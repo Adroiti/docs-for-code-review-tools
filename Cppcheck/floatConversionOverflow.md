@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Undefined behaviour: float (1e+100) to integer conversion overflow.
+Undefined behaviour: float (`1e+100`) to integer conversion overflow.
 
 ## Further Reading
 

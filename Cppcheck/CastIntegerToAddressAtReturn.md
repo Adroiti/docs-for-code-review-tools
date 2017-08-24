@@ -1,4 +1,4 @@
-Pattern: Cast integer to address at return
+Pattern: Returning integer in function with pointer return type
 
 Issue: -
 

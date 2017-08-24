@@ -1,10 +1,10 @@
-Pattern: Deref invalid iterator
+Pattern: Possible dereference of an invalid iterator
 
 Issue: -
 
 ## Description
 
-Make sure to check that the iterator is valid before dereferencing it - not after.
+Possible dereference of an invalid iterator. Make sure to check that the iterator is valid before dereferencing it - not after.
 
 ## Further Reading
 

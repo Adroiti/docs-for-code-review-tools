@@ -1,10 +1,10 @@
-Pattern: Double free
+Pattern: Memory is freed twice
 
 Issue: -
 
 ## Description
 
-Memory pointed to by is freed twice.
+Memory pointed to by variable is freed twice.
 
 ## Further Reading
 

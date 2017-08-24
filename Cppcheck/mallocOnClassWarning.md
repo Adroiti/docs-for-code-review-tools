@@ -1,4 +1,4 @@
-Pattern: Malloc on class warning
+Pattern: Class with constructors allocated with `malloc()`
 
 Issue: -
 

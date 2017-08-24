@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The class Class is not safe because its destructor throws an exception. If Class is used and an exception is thrown that is caught in an outer scope the program will terminate.
+The class is not safe because its destructor throws an exception. If Class is used and an exception is thrown that is caught in an outer scope the program will terminate.
 
 ## Further Reading
 

@@ -1,10 +1,10 @@
-Pattern: Func arg names different
+Pattern: Wrong function argument names
 
 Issue: -
 
 ## Description
 
-Function `function` argument 2 names different: declaration `A` definition `B`.
+Wrong function argument names.
 
 ## Further Reading
 

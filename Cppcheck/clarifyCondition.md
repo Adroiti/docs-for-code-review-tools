@@ -1,4 +1,4 @@
-Pattern: Clarify condition
+Pattern: Unclear condition
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Func arg order different
+Pattern: Wrong function argument order
 
 Issue: -
 
 ## Description
 
-Function `function` argument order different: declaration `` definition ``
+Function argument order is different.
 
 ## Further Reading
 

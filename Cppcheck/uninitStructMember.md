@@ -1,10 +1,10 @@
-Pattern: Uninit struct member
+Pattern: Uninitialized struct member
 
 Issue: -
 
 ## Description
 
-Uninitialized struct member: a.b
+Uninitialized struct member.
 
 ## Further Reading
 

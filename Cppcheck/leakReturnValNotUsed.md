@@ -1,10 +1,10 @@
-Pattern: Leak return val not used
+Pattern: Return value of allocation function not stored
 
 Issue: -
 
 ## Description
 
-Return value of allocation function `funcName` is not stored.
+Return value of allocation function is not stored.
 
 ## Further Reading
 

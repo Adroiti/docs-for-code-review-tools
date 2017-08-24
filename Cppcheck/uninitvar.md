@@ -1,10 +1,10 @@
-Pattern: Uninitvar
+Pattern: Uninitialized variable
 
 Issue: -
 
 ## Description
 
-Uninitialized variable: varname
+Uninitialized variable.
 
 ## Further Reading
 

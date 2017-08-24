@@ -1,10 +1,10 @@
-Pattern: Invalid scanf arg type
+Pattern: Invalid `scanf()` arg type
 
 Issue: -
 
 ## Description
 
-%d in format string (no. 1) requires `int *` but the argument type is Unknown.
+`%d` in format string (no. 1) requires `int *` but the argument type is Unknown.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Invalid iterator
+Pattern: Possibly invalid iterator
 
 Issue: -
 

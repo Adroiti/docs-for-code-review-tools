@@ -1,4 +1,4 @@
-Pattern: Insecure cmd line args
+Pattern: Insecure command line arguments
 
 Issue: -
 

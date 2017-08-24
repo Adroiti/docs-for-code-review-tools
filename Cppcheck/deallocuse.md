@@ -1,10 +1,10 @@
-Pattern: Deallocuse
+Pattern: Use after deallocation
 
 Issue: -
 
 ## Description
 
-Dereferencing after it is deallocated / released
+Dereferencing variable after it is deallocated/released.
 
 ## Further Reading
 

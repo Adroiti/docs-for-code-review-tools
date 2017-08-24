@@ -1,10 +1,10 @@
-Pattern: Leak unsafe arg alloc
+Pattern: Unsafe argument allocation
 
 Issue: -
 
 ## Description
 
-Unsafe allocation. If `funcName()` throws, memory could be leaked. Use `make_shared<int>()` instead.
+Unsafe allocation. If function throws, memory could be leaked. Use `make_shared<int>()` instead.
 
 ## Further Reading
 

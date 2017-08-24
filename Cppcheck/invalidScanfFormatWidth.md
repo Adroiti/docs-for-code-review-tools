@@ -1,10 +1,10 @@
-Pattern: Invalid scanf format width
+Pattern: Invalid `scanf()` format width
 
 Issue: -
 
 ## Description
 
-Width 5 given in format string (no. 10) is larger than destination buffer `[0]`, use %-1s to prevent overflowing it.
+Width 5 given in format string (no. 10) is larger than destination buffer `[0]`, use `%-1s` to prevent overflowing it.
 
 ## Further Reading
 

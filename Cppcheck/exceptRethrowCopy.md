@@ -1,4 +1,4 @@
-Pattern: Except rethrow copy
+Pattern: Rethrowing with copy
 
 Issue: -
 

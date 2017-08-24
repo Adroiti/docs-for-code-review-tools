@@ -1,10 +1,10 @@
-Pattern: Dealloc dealloc
+Pattern: Deallocating a deallocated pointer
 
 Issue: -
 
 ## Description
 
-Deallocating a deallocated pointer: varname
+Deallocating a deallocated pointer.
 
 ## Further Reading
 
