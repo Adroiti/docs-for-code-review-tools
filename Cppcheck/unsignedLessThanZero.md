@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-The unsigned variable `varname` will never be negative so it is either pointless or an error to check if it is.
+The unsigned variable will never be negative so it is either pointless or an error to check if it is.
 
 ## Further Reading
 
