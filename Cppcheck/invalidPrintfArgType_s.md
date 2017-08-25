@@ -1,10 +1,10 @@
-Pattern: Invalid `printf()` arg type
+Pattern: Misused `%s` in `printf()`
 
 Issue: -
 
 ## Description
 
-`%s` in format string requires `char *` but the argument type is Unknown.
+`%s` in format string requires `char *`.
 
 ## Further Reading
 

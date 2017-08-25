@@ -1,10 +1,10 @@
-Pattern: Invalid `printf()` arg type
+Pattern: Misused `%X` in `printf()`
 
 Issue: -
 
 ## Description
 
-`%X` in format string requires `unsigned int` but the argument type is Unknown.
+`%X` in format string requires `unsigned int`.
 
 ## Further Reading
 

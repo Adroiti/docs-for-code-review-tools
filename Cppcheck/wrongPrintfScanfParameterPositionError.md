@@ -1,10 +1,10 @@
-Pattern: Misuse of `printf()`
+Pattern: Misuse of `printf()/scanf()` parameter position
 
 Issue: -
 
 ## Description
 
-`printf()`: referencing parameter 2 while 1 arguments given.
+Misuse of `printf()/scanf()` parameter position.
 
 ## Further Reading
 

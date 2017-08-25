@@ -1,10 +1,10 @@
-Pattern: Invalid `printf()` arg type
+Pattern: Misused `%u` in `printf()`
 
 Issue: -
 
 ## Description
 
-`%u `in format string requires `unsigned int` but the argument type is Unknown.
+`%u` in format string requires `unsigned int`.
 
 ## Further Reading
 

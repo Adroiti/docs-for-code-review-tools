@@ -1,10 +1,10 @@
-Pattern: Misuse of `printf()` format string
+Pattern: Wrong number of arguments for `printf()`/`scanf()`
 
 Issue: -
 
 ## Description
 
-`printf()` format string requires 3 parameters but only 2 are given.
+`printf()`/`scanf()` format string was given wrong number of parameters.
 
 ## Further Reading
 

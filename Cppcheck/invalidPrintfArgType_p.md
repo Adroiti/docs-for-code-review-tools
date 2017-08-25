@@ -1,10 +1,10 @@
-Pattern: Invalid `printf()` arg type
+Pattern: Misused `%p` in `printf()`
 
 Issue: -
 
 ## Description
 
-`%p` in format string requires an address but the argument type is Unknown.
+`%p` in format string requires an address.
 
 ## Further Reading
 

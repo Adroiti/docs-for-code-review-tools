@@ -1,10 +1,10 @@
-Pattern: Invalid `printf()` arg type
+Pattern: Misused `%i` in `printf()`
 
 Issue: -
 
 ## Description
 
-`%i` in format string requires `int` but the argument type is Unknown.
+`%i` in format string requires `int`.
 
 ## Further Reading
 
