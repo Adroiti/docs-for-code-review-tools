@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Pointer `pointer` is dead if it has been assigned `&x` at line 0.
+Pointer is dead if it has been assigned `&x`.
 
 ## Further Reading
 

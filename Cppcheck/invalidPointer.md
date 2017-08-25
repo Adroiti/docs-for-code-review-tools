@@ -1,10 +1,10 @@
-Pattern: Invalid pointer `pointer` after `push_back()`
+Pattern: Invalid pointer after function
 
 Issue: -
 
 ## Description
 
-Invalid pointer `pointer` after `push_back()`.
+Invalid pointer after function.
 
 ## Further Reading
 
