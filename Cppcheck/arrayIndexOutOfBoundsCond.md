@@ -1,10 +1,10 @@
-Pattern: Array index out of bounds cond
+Pattern: Array index out of bounds condition
 
 Issue: -
 
 ## Description
 
-Array `x[10]` accessed at index 20, which is out of bounds. Otherwise condition `y==20` is redundant.
+Array accessed at index which is out of bounds. Otherwise condition is redundant.
 
 ## Further Reading
 

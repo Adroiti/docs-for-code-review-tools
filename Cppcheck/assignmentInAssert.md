@@ -1,10 +1,10 @@
-Pattern: Assignment in assert
+Pattern: Assignment in assert statement
 
 Issue: -
 
 ## Description
 
-Variable `var` is modified insert assert statement. Assert statements are removed from release builds so the code inside assert statement is not executed. If the code is needed also in release builds, this is a bug.
+Variable is modified inside assert statement. Assert statements are removed from release builds so the code inside assert statement is not executed. If the code is needed also in release builds, this is a bug.
 
 ## Further Reading
 

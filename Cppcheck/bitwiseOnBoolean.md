@@ -1,4 +1,4 @@
-Pattern: Bitwise on boolean
+Pattern: Boolean used in bitwise operation
 
 Issue: -
 

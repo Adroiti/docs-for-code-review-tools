@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Array `array[2]` index array[1][1] out of bounds.
+Array index is out of bounds.
 
 ## Further Reading
 

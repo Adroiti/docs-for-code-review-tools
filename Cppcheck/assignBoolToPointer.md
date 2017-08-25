@@ -1,4 +1,4 @@
-Pattern: Assign bool to pointer
+Pattern: Assigning bool to pointer
 
 Issue: -
 

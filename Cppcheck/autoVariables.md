@@ -1,4 +1,4 @@
-Pattern: Auto variables
+Pattern: Local auto-variable assigned to function parameter
 
 Issue: -
 

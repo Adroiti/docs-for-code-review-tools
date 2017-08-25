@@ -1,4 +1,4 @@
-Pattern: Autovar invalid deallocation
+Pattern: Deallocation of auto-variable
 
 Issue: -
 

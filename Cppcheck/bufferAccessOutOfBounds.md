@@ -1,10 +1,10 @@
-Pattern: Buffer access out of bounds
+Pattern: Buffer accessed out of bounds
 
 Issue: -
 
 ## Description
 
-Buffer is accessed out of bounds: buffer
+Buffer is accessed out of bounds.
 
 ## Further Reading
 

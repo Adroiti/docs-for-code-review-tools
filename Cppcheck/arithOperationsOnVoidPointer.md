@@ -1,10 +1,10 @@
-Pattern: Arith operations on void pointer
+Pattern: Arithmetic operation on void pointer
 
 Issue: -
 
 ## Description
 
-`varname` is of type `vartype`. When using void pointers in calculations, the behaviour is undefined. Arithmetic operations on `void *` is a GNU C extension, which defines the `sizeof(void)` to be 1.
+When using void pointers in calculations, the behaviour is undefined. Arithmetic operations on `void *` is a GNU C extension, which defines the `sizeof(void)` to be 1.
 
 ## Further Reading
 

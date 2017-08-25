@@ -1,4 +1,4 @@
-Pattern: Assign bool to float
+Pattern: Assigning bool to float
 
 Issue: -
 
