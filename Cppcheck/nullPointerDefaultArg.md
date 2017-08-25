@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Possible null pointer dereference if the default parameter value is used: pointer.
+Possible null pointer dereference if the default parameter value is used.
 
 ## Further Reading
 

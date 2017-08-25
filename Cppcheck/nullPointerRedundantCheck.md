@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Either the condition is redundant or there is possible null pointer dereference: pointer.
+Either the condition is redundant or there is possible null pointer dereference.
 
 ## Further Reading
 
