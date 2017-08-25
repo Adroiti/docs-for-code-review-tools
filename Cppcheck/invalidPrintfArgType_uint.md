@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-`%u `in format string (no. 1) requires `unsigned int` but the argument type is Unknown.
+`%u `in format string requires `unsigned int` but the argument type is Unknown.
 
 ## Further Reading
 

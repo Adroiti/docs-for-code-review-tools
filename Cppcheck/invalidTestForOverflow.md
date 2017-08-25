@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Invalid test for overflow `x + u < x`. Condition is always false unless there is overflow, and overflow is UB.
+Invalid test for overflow `x + u < x`. Condition is always true or false unless there is overflow, and overflow is UB.
 
 ## Further Reading
 

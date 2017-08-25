@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-`%f` in format string (no. 1) requires `float *` but the argument type is Unknown.
+`%f` in format string requires `float *` but the argument type is Unknown.
 
 ## Further Reading
 

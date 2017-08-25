@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-`%i` in format string (no. 1) requires `int` but the argument type is Unknown.
+`%i` in format string requires `int` but the argument type is Unknown.
 
 ## Further Reading
 

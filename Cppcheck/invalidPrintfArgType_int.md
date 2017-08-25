@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-`%X` in format string (no. 1) requires `unsigned int` but the argument type is Unknown.
+`%X` in format string requires `unsigned int` but the argument type is Unknown.
 
 ## Further Reading
 

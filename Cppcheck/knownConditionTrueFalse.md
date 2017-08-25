@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Condition `x` is always true.
+Condition `x` is always true or false.
 
 ## Further Reading
 

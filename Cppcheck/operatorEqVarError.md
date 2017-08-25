@@ -1,10 +1,10 @@
-Pattern: `classname::` is not assigned a value
+Pattern: Member value is not assigned a value
 
 Issue: -
 
 ## Description
 
-Member variable `classname::` is not assigned a value in `classname::operator=`.
+Member value is not assigned a value.
 
 ## Further Reading
 

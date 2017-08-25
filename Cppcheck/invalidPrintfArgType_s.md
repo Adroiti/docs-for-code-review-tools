@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-`%s` in format string (no. 1) requires `char *` but the argument type is Unknown.
+`%s` in format string requires `char *` but the argument type is Unknown.
 
 ## Further Reading
 
