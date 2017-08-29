@@ -9,17 +9,17 @@ Empty loop bodies should use `{}` or `continue`, but not a single semicolon.
 Example of **incorrect** code:
 
 ```cpp
-while (condition) {
-  // Repeat test until it returns false.
-}
-for (int i = 0; i < kSomeNumber; ++i) {}  // Good - one newline is also OK.
-while (condition) continue;  // Good - continue indicates no logic.
+while (condition);  // Bad - looks like part of do/while loop.
 ```
 
 Example of **correct** code:
 
 ```python
-while (condition);  // Bad - looks like part of do/while loop.
+while (condition) {
+  // Repeat test until it returns false.
+}
+for (int i = 0; i < kSomeNumber; ++i) {}  // Good - one newline is also OK.
+while (condition) continue;  // Good - continue indicates no logic.
 ```
 
 ## Further Reading

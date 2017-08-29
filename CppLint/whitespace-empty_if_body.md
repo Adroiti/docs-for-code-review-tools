@@ -1,4 +1,4 @@
-Pattern: `if` with no body and no `else`
+Pattern: Empty `if` body
 
 Issue: -
 

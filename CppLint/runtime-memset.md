@@ -10,13 +10,14 @@ Example of **incorrect** code:
 
 ```cpp
 Struct data;
-memset(&data, 0, sizeof(data));
+memset(&data, 0, sizeof(Struct));
 ```
 	
 Example of **correct** code:
  
 ```cpp
-memset(&data, 0, sizeof(Struct));
+Struct data;
+memset(&data, 0, sizeof(data));
 ```
 
 ## Further Reading
