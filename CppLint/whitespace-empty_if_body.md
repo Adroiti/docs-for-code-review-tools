@@ -1,7 +1,7 @@
-Pattern: whitespace/empty_if_body
+Pattern: `if` with no body and no `else`
 
 Issue: -
 
 ## Description
 
-whitespace/empty_if_body
+`if` statement had no body and no `else` clause.

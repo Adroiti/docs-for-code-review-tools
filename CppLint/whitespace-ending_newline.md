@@ -1,7 +1,7 @@
-Pattern: whitespace/ending_newline
+Pattern: Missing newline at end of file
 
 Issue: -
 
 ## Description
 
-whitespace/ending_newline
+End of file should contain a newline character.

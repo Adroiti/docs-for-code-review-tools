@@ -1,7 +1,7 @@
-Pattern: whitespace/todo
+Pattern: Malformed whitespace around TODO
 
 Issue: -
 
 ## Description
 
-whitespace/todo
+Malformed whitespace around TODO.

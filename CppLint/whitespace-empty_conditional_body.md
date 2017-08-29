@@ -1,7 +1,7 @@
-Pattern: whitespace/empty_conditional_body
+Pattern: Malformed empty conditional body
 
 Issue: -
 
 ## Description
 
-whitespace/empty_conditional_body
+Empty conditional bodies should use `{}`.
