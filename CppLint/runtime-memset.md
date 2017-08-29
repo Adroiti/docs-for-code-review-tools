@@ -19,7 +19,6 @@ Example of **correct** code:
 memset(&data, 0, sizeof(Struct));
 ```
 
-
 ## Further Reading
 
 * [Google C++ Style Guide - sizeof](https://google.github.io/styleguide/cppguide.html#sizeof)

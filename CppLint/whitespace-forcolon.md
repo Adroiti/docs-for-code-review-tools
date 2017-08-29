@@ -6,7 +6,6 @@ Issue: -
 
 Missing space around colon in range-based `for` loop.
 
-
 ## Further Reading
 
 * [Google C++ Style Guide - Horizontal Whitespace](https://google.github.io/styleguide/cppguide.html#Horizontal_Whitespace)
