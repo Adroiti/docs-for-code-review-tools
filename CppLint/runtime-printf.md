@@ -1,7 +1,7 @@
-Pattern: runtime/printf
+Pattern: Misused `printf()`
 
 Issue: -
 
 ## Description
 
-runtime/printf
+Misused `printf()`.

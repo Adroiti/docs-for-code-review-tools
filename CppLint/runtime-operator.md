@@ -1,7 +1,7 @@
-Pattern: runtime/operator
+Pattern: Use of unary `&`
 
 Issue: -
 
 ## Description
 
-runtime/operator
+Unary operator `&` is dangerous.  Do not use it.

@@ -1,7 +1,7 @@
-Pattern: runtime/init
+Pattern: Initializing member variable with itself
 
 Issue: -
 
 ## Description
 
-runtime/init
+You seem to be initializing a member variable with itself.
