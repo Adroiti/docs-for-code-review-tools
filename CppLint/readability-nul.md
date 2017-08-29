@@ -1,7 +1,7 @@
-Pattern: readability/nul
+Pattern: Line contains `\0`
 
 Issue: -
 
 ## Description
 
-readability/nul
+Line should not contain NUL byte.

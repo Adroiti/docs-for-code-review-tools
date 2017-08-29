@@ -1,7 +1,9 @@
-Pattern: readability/multiline_comment
+Pattern: Complex multi-line `/*...*/`-style comment
 
 Issue: -
 
 ## Description
 
-readability/multiline_comment
+Complex multi-line `/*...*/`-style comment found. Lint may give bogus warnings.
+
+Consider replacing these with `//`-style comments, with `#if 0...#endif` or with more clearly structured multi-line comments.

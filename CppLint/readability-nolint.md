@@ -1,7 +1,7 @@
-Pattern: readability/nolint
+Pattern: Unknown NOLINT error category
 
 Issue: -
 
 ## Description
 
-readability/nolint
+Unknown NOLINT error category.
