@@ -1,7 +1,8 @@
-Pattern: legal/copyright
+Pattern: Missing Copyright
 
 Issue: -
 
 ## Description
 
-legal/copyright
+No copyright message found. You should have a line: `Copyright [year] <Copyright Owner>`.
+
