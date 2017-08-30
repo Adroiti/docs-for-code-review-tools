@@ -1,4 +1,4 @@
-Pattern: runtime/invalid_increment
+Pattern: Use of postfix increment/decrement
 
 Issue: -
 
