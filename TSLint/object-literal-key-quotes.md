@@ -1,0 +1,11 @@
+Pattern: Object literal key quotes
+
+Issue: -
+
+## Description
+
+Enforces consistent object literal property quote style.
+
+## Further Reading
+
+* [TSLint - object-literal-key-quotes](https://palantir.github.io/tslint/rules/object-literal-key-quotes)
