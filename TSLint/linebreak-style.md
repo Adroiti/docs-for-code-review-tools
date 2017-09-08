@@ -1,10 +1,10 @@
-Pattern: Linebreak style
+Pattern: Inconsistent linebreak style
 
 Issue: -
 
 ## Description
 
-Enforces a consistent linebreak style.
+Enforces a consistent linebreak style. Choose either LF (`\n`) or CRLF (`\r\n`).
 
 ## Further Reading
 

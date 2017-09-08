@@ -1,4 +1,4 @@
-Pattern: Binary expression operand order
+Pattern: Wrong operand order in binary expression 
 
 Issue: -
 

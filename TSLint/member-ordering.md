@@ -1,4 +1,4 @@
-Pattern: Member ordering
+Pattern: Wrong class member order
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: No inferrable types
+Pattern: Explicit number, string, or boolean declaration
 
 Issue: -
 

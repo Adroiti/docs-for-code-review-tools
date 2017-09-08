@@ -1,4 +1,4 @@
-Pattern: Prefer object spread
+Pattern: Use of `Object.assign()`
 
 Issue: -
 

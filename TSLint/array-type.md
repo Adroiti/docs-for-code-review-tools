@@ -1,10 +1,10 @@
-Pattern: Array type
+Pattern: Missing `T[]` or `Array<T>`
 
 Issue: -
 
 ## Description
 
-Requires using either `T[]` or `Array' for arrays.
+Requires using either `T[]` or `Array<T>` for arrays.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: No mergeable namespace
+Pattern: Mergeable namespace
 
 Issue: -
 

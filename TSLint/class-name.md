@@ -1,10 +1,10 @@
-Pattern: Class name
+Pattern: Missing pascal case for class name
 
 Issue: -
 
 ## Description
 
-Enforces PascalCased class and interface names.  
+Enforces _PascalCased_ class and interface names.  
   
 Rationale: Makes it easy to differentiate classes from regular variables at a glance.
 

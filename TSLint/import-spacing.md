@@ -1,10 +1,10 @@
-Pattern: Import spacing
+Pattern: Malformed `import` spacing
 
 Issue: -
 
 ## Description
 
-Ensures proper spacing between import statement keywords
+Ensures proper spacing between import statement keywords.
 
 ## Further Reading
 

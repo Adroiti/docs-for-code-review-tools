@@ -1,4 +1,4 @@
-Pattern: Encoding
+Pattern: Invalid encoding
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: File header
+Pattern: Missing file header
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: No this assignment
+Pattern: Unnecessary `this` assignment
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Disallows unnecessary references to `this`.  
   
-Rationale: Assigning a variable to `this` instead of properly using arrow lambdas may be a symptom of pre-ES6 practices or not manging scope well.
+Rationale: Assigning a variable to `this` instead of properly using arrow lambdas may be a symptom of pre-ES6 practices or not managing scope well.
 
 ## Further Reading
 

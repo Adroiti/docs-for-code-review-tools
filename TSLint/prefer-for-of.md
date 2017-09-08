@@ -1,4 +1,4 @@
-Pattern: Prefer for of
+Pattern: Use of 'for' loop with simple iteration
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Typedef whitespace
+Pattern: Malformed whitespace for type definition
 
 Issue: -
 

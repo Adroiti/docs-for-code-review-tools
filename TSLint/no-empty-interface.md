@@ -1,4 +1,4 @@
-Pattern: No empty interface
+Pattern: Empty interface
 
 Issue: -
 

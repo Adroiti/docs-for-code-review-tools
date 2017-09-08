@@ -1,4 +1,4 @@
-Pattern: Max file line count
+Pattern: Too many lines in file
 
 Issue: -
 

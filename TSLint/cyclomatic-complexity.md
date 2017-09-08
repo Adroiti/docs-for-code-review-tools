@@ -1,4 +1,4 @@
-Pattern: Cyclomatic complexity
+Pattern: High cyclomatic complexity
 
 Issue: -
 

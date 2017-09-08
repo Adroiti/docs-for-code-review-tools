@@ -1,4 +1,4 @@
-Pattern: No shadowed variable
+Pattern: Shadowed variable
 
 Issue: -
 

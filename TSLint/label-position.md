@@ -1,4 +1,4 @@
-Pattern: Label position
+Pattern: Unexpected label on statement
 
 Issue: -
 

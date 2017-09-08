@@ -1,4 +1,4 @@
-Pattern: No void expression
+Pattern: `void` not on its own line as a statement
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Type literal delimiter
+Pattern: Malformed delimiter for type literal
 
 Issue: -
 
 ## Description
 
-Checks that type literal members are separated by semicolons. Enforces a trailing semicolon for multiline type literals.
+Checks that type literal members are separated by `;`. Enforces a trailing `;` for multiline type literals.
 
 ## Further Reading
 

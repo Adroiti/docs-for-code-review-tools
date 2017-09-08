@@ -1,10 +1,10 @@
-Pattern: No unnecessary callback wrapper
+Pattern: Unnecessary callback wrapper
 
 Issue: -
 
 ## Description
 
-Replaces `x => f(x)` with just `f`. To catch more cases, enable `only-arrow-functions` and `arrow-return-shorthand` too.
+Replace `x => f(x)` with just `f`. To catch more cases, enable `only-arrow-functions` and `arrow-return-shorthand` too.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: No unsafe finally
+Pattern: Unsafe finally block
 
 Issue: -
 

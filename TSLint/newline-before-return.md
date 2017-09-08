@@ -1,10 +1,10 @@
-Pattern: Newline before return
+Pattern: Missing blank line before `return`
 
 Issue: -
 
 ## Description
 
-Enforces blank line before return when not the only line in the block.  
+Enforces blank line before `return` when not the only line in the block.  
   
 Rationale: Helps maintain a readable style in your codebase.
 

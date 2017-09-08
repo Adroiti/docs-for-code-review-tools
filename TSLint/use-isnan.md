@@ -1,4 +1,4 @@
-Pattern: Use isnan
+Pattern: Invalid `NaN` comparison 
 
 Issue: -
 

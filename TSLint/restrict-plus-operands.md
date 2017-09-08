@@ -1,4 +1,4 @@
-Pattern: Restrict plus operands
+Pattern: Invalid operands of '+' operation
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Number literal format
+Pattern: Malformed number literal
 
 Issue: -
 

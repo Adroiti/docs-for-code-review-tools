@@ -1,4 +1,4 @@
-Pattern: No sparse arrays
+Pattern: Use of sparse array
 
 Issue: -
 

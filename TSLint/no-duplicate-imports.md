@@ -1,4 +1,4 @@
-Pattern: No duplicate imports
+Pattern: Multiple imports from the same module
 
 Issue: -
 

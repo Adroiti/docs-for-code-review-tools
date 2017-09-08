@@ -1,4 +1,4 @@
-Pattern: No internal module
+Pattern: Use of internal `module`  
 
 Issue: -
 

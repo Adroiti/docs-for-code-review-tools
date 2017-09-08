@@ -1,10 +1,10 @@
-Pattern: Interface name
+Pattern: Invalid interface name
 
 Issue: -
 
 ## Description
 
-Requires interface names to begin with a capital `I`  
+By default, requires interface names to begin with a capital `I`. Can be also configured to disallow `I` as prefix.
   
 Rationale: Makes it easy to differentiate interfaces from regular classes at a glance.
 

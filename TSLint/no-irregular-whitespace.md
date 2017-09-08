@@ -1,4 +1,4 @@
-Pattern: No irregular whitespace
+Pattern: Irregular whitespace
 
 Issue: -
 

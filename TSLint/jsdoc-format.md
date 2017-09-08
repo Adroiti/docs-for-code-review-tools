@@ -1,4 +1,4 @@
-Pattern: Jsdoc format
+Pattern: Malformed JSDoc comment
 
 Issue: -
 

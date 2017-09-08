@@ -1,4 +1,4 @@
-Pattern: Adjacent overload signatures
+Pattern: Overload functions are not grouped together
 
 Issue: -
 

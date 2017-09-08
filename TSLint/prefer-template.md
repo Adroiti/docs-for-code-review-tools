@@ -1,4 +1,4 @@
-Pattern: Prefer template
+Pattern: Use of string literal concatenation
 
 Issue: -
 

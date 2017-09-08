@@ -1,4 +1,4 @@
-Pattern: One variable per declaration
+Pattern: Multiple variable declarations in same statement
 
 Issue: -
 

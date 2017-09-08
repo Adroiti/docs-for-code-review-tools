@@ -1,4 +1,4 @@
-Pattern: Return undefined
+Pattern: Malformed `return` in function
 
 Issue: -
 

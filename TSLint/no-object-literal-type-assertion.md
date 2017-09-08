@@ -1,4 +1,4 @@
-Pattern: No object literal type assertion
+Pattern: Type assertion on object literal
 
 Issue: -
 

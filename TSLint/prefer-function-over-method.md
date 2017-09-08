@@ -1,4 +1,4 @@
-Pattern: Prefer function over method
+Pattern: Class method does not use `this`
 
 Issue: -
 

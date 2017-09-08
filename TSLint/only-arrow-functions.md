@@ -1,4 +1,4 @@
-Pattern: Only arrow functions
+Pattern: Use of non-arrow function
 
 Issue: -
 

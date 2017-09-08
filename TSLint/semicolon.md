@@ -1,4 +1,4 @@
-Pattern: Semicolon
+Pattern: Misused `;`
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: No string throw
+Pattern: Throwing plain string
 
 Issue: -
 
 ## Description
 
-Flags throwing plain strings or concatenations of strings because only Errors produce proper stack traces.
+Flags throwing plain strings or concatenations of strings because only instances of `Error` produce proper stack traces.
 
 ## Further Reading
 

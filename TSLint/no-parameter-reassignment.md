@@ -1,4 +1,4 @@
-Pattern: No parameter reassignment
+Pattern: Parameter reassignment
 
 Issue: -
 

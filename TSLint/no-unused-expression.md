@@ -1,4 +1,4 @@
-Pattern: No unused expression
+Pattern: Unused expression
 
 Issue: -
 

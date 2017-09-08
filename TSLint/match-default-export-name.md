@@ -1,4 +1,4 @@
-Pattern: Match default export name
+Pattern: Mismatched default export name
 
 Issue: -
 

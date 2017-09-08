@@ -1,4 +1,4 @@
-Pattern: Object literal key quotes
+Pattern: Malformed quote style for literal property
 
 Issue: -
 

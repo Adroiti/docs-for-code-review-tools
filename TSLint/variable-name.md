@@ -1,4 +1,4 @@
-Pattern: Variable name
+Pattern: Invalid variable name
 
 Issue: -
 

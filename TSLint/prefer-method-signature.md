@@ -1,4 +1,4 @@
-Pattern: Prefer method signature
+Pattern: Property signature of function type
 
 Issue: -
 

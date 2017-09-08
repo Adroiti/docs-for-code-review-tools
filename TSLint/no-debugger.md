@@ -1,4 +1,4 @@
-Pattern: No debugger
+Pattern: Use of `debugger`
 
 Issue: -
 

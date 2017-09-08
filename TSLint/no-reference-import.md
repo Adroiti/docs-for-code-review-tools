@@ -1,4 +1,4 @@
-Pattern: No reference import
+Pattern: Redundant reference import
 
 Issue: -
 

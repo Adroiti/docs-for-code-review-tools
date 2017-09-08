@@ -1,4 +1,4 @@
-Pattern: Object literal sort keys
+Pattern: Wrong object literal key order
 
 Issue: -
 

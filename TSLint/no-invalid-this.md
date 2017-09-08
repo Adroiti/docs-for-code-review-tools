@@ -1,4 +1,4 @@
-Pattern: No invalid this
+Pattern: Invalid use of `this`
 
 Issue: -
 

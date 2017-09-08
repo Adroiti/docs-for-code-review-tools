@@ -1,4 +1,4 @@
-Pattern: Quotemark
+Pattern: Malformed quote for string literal
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Align
+Pattern: Malformed vertical alignment
 
 Issue: -
 

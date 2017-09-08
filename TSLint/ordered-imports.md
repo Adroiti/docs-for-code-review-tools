@@ -1,4 +1,4 @@
-Pattern: Ordered imports
+Pattern: Wrong import statement order
 
 Issue: -
 

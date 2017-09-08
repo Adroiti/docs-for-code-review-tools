@@ -1,4 +1,4 @@
-Pattern: No non null assertion
+Pattern: Non-null assertion
 
 Issue: -
 

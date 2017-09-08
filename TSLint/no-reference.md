@@ -1,4 +1,4 @@
-Pattern: No reference
+Pattern: Use of `<reference>` import
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: No var requires
+Pattern: Use of `require`
 
 Issue: -
 
 ## Description
 
-Disallows the use of require statements except in import statements.
+Disallows the use of `require` statements except in import statements.
 
 ## Further Reading
 

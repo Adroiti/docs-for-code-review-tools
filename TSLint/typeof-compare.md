@@ -1,4 +1,4 @@
-Pattern: Typeof compare
+Pattern: Invalid `typeof` comparison
 
 Issue: -
 

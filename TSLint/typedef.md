@@ -1,4 +1,4 @@
-Pattern: Typedef
+Pattern: Missing type definition
 
 Issue: -
 

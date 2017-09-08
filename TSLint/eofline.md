@@ -1,4 +1,4 @@
-Pattern: Eofline
+Pattern: File does not end with newline
 
 Issue: -
 

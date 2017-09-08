@@ -1,4 +1,4 @@
-Pattern: No duplicate variable
+Pattern: Duplicate variable
 
 Issue: -
 

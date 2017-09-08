@@ -1,10 +1,10 @@
-Pattern: No namespace
+Pattern: Use of 'namespace' or 'module'
 
 Issue: -
 
 ## Description
 
-Disallows use of internal `module`s and `namespace`s.  
+Disallows use of internal modules and namespaces.  
   
 Rationale: ES6-style external modules are the standard way to modularize code. Using `module {}` and `namespace {}` are outdated ways to organize TypeScript code.
 

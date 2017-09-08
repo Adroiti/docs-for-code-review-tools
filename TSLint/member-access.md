@@ -1,4 +1,4 @@
-Pattern: Member access
+Pattern: Missing explicit visibility declaration
 
 Issue: -
 

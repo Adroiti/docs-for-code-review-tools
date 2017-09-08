@@ -1,4 +1,4 @@
-Pattern: Switch default
+Pattern: Missing switch `default` clause
 
 Issue: -
 

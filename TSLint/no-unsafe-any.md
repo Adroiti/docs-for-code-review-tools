@@ -1,4 +1,4 @@
-Pattern: No unsafe any
+Pattern: Unsafe use of `any` expression
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: No floating promises
+Pattern: Floating promise
 
 Issue: -
 

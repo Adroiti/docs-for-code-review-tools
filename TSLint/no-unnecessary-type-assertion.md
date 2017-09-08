@@ -1,4 +1,4 @@
-Pattern: No unnecessary type assertion
+Pattern: Unnecessary type assertion
 
 Issue: -
 

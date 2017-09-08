@@ -1,4 +1,4 @@
-Pattern: No eval
+Pattern: Use of `eval()`
 
 Issue: -
 

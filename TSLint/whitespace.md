@@ -1,4 +1,4 @@
-Pattern: Whitespace
+Pattern: Malformed whitespace
 
 Issue: -
 

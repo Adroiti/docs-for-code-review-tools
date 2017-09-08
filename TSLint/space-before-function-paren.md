@@ -1,10 +1,10 @@
-Pattern: Space before function paren
+Pattern: Malformed whitespace before function parenthesis
 
 Issue: -
 
 ## Description
 
-Require or disallow a space before function parenthesis
+Require or disallow a space before function parenthesis.
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Arrow parens
+Pattern: Malformed `()` around arrow function
 
 Issue: -
 

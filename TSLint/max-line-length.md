@@ -1,12 +1,10 @@
-Pattern: Max line length
+Pattern: Line is too long
 
 Issue: -
 
 ## Description
 
-Requires lines to be under a certain max length.  
-  
-Rationale: Limiting the length of a line of code improves code readability. It also makes comparing code side-by-side easier and improves compatibility with various editors, IDEs, and diff viewers.
+Your source code should not contain very long lines. The default wrapping in most tools disrupts the visual structure of the code, making it more difficult to understand.
 
 ## Further Reading
 

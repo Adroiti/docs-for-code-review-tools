@@ -1,4 +1,4 @@
-Pattern: Prefer switch
+Pattern: Multiple `===` checks
 
 Issue: -
 

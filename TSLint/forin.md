@@ -1,4 +1,4 @@
-Pattern: Forin
+Pattern: Unfiltered `for ... in`
 
 Issue: -
 
@@ -14,7 +14,10 @@ Rationale:
             // code here
         }
     }
+	
+This prevents accidental iteration over properties inherited from an object’s prototype.	
 
 ## Further Reading
 
 * [TSLint - forin](https://palantir.github.io/tslint/rules/forin)
+* [MDN web docs - for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)

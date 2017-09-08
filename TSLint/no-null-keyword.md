@@ -1,4 +1,4 @@
-Pattern: No null keyword
+Pattern: Use of `null`
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Disallows use of the `null` keyword literal.  
   
-Rationale: Instead of having the dual concepts of `null` and`undefined` in a codebase, this rule ensures that only `undefined` is used.
+Rationale: Instead of having the dual concepts of `null` and `undefined` in a codebase, this rule ensures that only `undefined` is used.
 
 ## Further Reading
 

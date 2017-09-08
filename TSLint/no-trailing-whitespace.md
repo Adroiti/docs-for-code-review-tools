@@ -1,4 +1,4 @@
-Pattern: No trailing whitespace
+Pattern: Trailing whitespace
 
 Issue: -
 

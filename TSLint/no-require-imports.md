@@ -1,4 +1,4 @@
-Pattern: No require imports
+Pattern: Use of `require()` style import
 
 Issue: -
 

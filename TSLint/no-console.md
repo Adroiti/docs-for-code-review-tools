@@ -1,4 +1,4 @@
-Pattern: No console
+Pattern: Call to restricted `console` method
 
 Issue: -
 

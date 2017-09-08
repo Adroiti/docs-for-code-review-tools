@@ -1,4 +1,4 @@
-Pattern: New parens
+Pattern: Missing `()` when invoking constructor
 
 Issue: -
 

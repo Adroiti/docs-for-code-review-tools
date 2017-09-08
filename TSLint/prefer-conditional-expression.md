@@ -1,4 +1,4 @@
-Pattern: Prefer conditional expression
+Pattern: Same assignment in multiple places
 
 Issue: -
 

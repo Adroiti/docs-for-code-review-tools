@@ -1,10 +1,10 @@
-Pattern: No boolean literal compare
+Pattern: Unnecessary compare to boolean literal
 
 Issue: -
 
 ## Description
 
-Warns on comparison to a boolean literal, as in `x === true`.
+Warns on unnecessary comparison to a boolean literal, as in `x === true`.
 
 ## Further Reading
 

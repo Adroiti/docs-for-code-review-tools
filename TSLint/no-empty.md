@@ -1,4 +1,4 @@
-Pattern: No empty
+Pattern: Empty block
 
 Issue: -
 

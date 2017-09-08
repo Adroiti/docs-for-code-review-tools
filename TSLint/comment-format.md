@@ -1,4 +1,4 @@
-Pattern: Comment format
+Pattern: Malformed single-line comment
 
 Issue: -
 

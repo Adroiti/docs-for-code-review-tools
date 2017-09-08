@@ -1,4 +1,4 @@
-Pattern: Trailing comma
+Pattern: Malformed trailing comma
 
 Issue: -
 

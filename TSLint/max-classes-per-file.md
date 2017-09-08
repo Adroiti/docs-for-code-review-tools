@@ -1,4 +1,4 @@
-Pattern: Max classes per file
+Pattern: Too many classes in file
 
 Issue: -
 

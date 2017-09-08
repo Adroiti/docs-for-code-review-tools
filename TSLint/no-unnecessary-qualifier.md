@@ -1,4 +1,4 @@
-Pattern: No unnecessary qualifier
+Pattern: Unnecessary namespace qualifier
 
 Issue: -
 

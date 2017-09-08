@@ -1,4 +1,4 @@
-Pattern: Completed docs
+Pattern: Missing documentation
 
 Issue: -
 

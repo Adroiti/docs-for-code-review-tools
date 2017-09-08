@@ -1,4 +1,4 @@
-Pattern: No submodule imports
+Pattern: Restricted submodule import
 
 Issue: -
 

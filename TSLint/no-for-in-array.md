@@ -1,4 +1,4 @@
-Pattern: No for in array
+Pattern: For-in loop over array
 
 Issue: -
 

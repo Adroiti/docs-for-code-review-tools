@@ -1,4 +1,4 @@
-Pattern: Await promise
+Pattern: 'await' of non-Promise
 
 Issue: -
 

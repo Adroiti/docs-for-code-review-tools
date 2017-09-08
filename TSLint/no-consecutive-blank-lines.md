@@ -1,4 +1,4 @@
-Pattern: No consecutive blank lines
+Pattern: Consecutive blank lines
 
 Issue: -
 

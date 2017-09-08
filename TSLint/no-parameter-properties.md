@@ -1,4 +1,4 @@
-Pattern: No parameter properties
+Pattern: Parameter property in class constructor
 
 Issue: -
 

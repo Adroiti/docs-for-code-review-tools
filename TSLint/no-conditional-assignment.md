@@ -1,4 +1,4 @@
-Pattern: No conditional assignment
+Pattern: Assignment in conditional
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: No import side effect
+Pattern: `import` with side-effect
 
 Issue: -
 

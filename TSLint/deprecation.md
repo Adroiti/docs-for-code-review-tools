@@ -1,4 +1,4 @@
-Pattern: Deprecation
+Pattern: Use of deprecated API
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: No unnecessary initializer
+Pattern: Unnecessary initializer
 
 Issue: -
 

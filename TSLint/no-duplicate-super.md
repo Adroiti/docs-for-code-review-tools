@@ -1,4 +1,4 @@
-Pattern: No duplicate super
+Pattern: Multiple calls to `super()`
 
 Issue: -
 

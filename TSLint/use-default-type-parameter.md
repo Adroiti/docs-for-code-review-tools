@@ -1,4 +1,4 @@
-Pattern: Use default type parameter
+Pattern: Redundant type argument
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Space within parens
+Pattern: Malformed whitespace in parentheses
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Prefer const
+Pattern: Missing `const` for variable declaration
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: No arg
+Pattern: Access to `arguments.callee`
 
 Issue: -
 

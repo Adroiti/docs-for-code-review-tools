@@ -1,4 +1,4 @@
-Pattern: No angle bracket type assertion
+Pattern: Use of `<>` type assertion syntax
 
 Issue: -
 

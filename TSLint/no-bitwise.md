@@ -1,4 +1,4 @@
-Pattern: No bitwise
+Pattern: Use of bitwise operation
 
 Issue: -
 

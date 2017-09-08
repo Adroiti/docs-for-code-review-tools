@@ -1,10 +1,10 @@
-Pattern: No var keyword
+Pattern: Use of `var`
 
 Issue: -
 
 ## Description
 
-Disallows usage of the `var` keyword.
+Disallows usage of the `var` keyword. Use `let` or `const` instead.
 
 ## Further Reading
 

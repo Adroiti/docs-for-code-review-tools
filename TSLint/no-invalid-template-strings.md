@@ -1,10 +1,10 @@
-Pattern: No invalid template strings
+Pattern: Use of `${` in non-template string
 
 Issue: -
 
 ## Description
 
-Warns on use of `${` in non-template strings.
+Warns on use of `${` in non-template strings. Interpolation will only work for template strings.
 
 ## Further Reading
 

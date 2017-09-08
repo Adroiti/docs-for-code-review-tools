@@ -1,4 +1,4 @@
-Pattern: No misused new
+Pattern: Invalid construction for interface/class
 
 Issue: -
 

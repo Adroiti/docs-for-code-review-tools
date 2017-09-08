@@ -1,4 +1,4 @@
-Pattern: Interface over type literal
+Pattern: Use of type literal
 
 Issue: -
 

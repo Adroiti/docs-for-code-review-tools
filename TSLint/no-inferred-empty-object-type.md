@@ -1,10 +1,10 @@
-Pattern: No inferred empty object type
+Pattern: Inferred empty object type
 
 Issue: -
 
 ## Description
 
-Disallow type inference of {} (empty object type) at function and constructor call sites
+Disallow type inference of `{}` (empty object type) at function and constructor call sites
 
 ## Further Reading
 

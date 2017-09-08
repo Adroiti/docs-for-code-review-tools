@@ -1,4 +1,4 @@
-Pattern: Object literal shorthand
+Pattern: Missing shorthand in object literal
 
 Issue: -
 

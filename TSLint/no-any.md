@@ -1,4 +1,4 @@
-Pattern: No any
+Pattern: Use of `any` as type declaration
 
 Issue: -
 

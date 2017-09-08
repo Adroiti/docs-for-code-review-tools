@@ -1,4 +1,4 @@
-Pattern: Ban
+Pattern: Use of restricted function or global method
 
 Issue: -
 

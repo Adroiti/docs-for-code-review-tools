@@ -1,4 +1,4 @@
-Pattern: Triple equals
+Pattern: Missing identity (`===`, `!==`) comparison
 
 Issue: -
 

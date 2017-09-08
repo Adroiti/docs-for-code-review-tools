@@ -1,12 +1,10 @@
-Pattern: Callable types
+Pattern: Missing function type for interface or literal
 
 Issue: -
 
 ## Description
 
-An interface or literal type with just a call signature can be written as a function type.  
-  
-Rationale: style
+An interface or literal type with just a call signature can be written as a function type.
 
 ## Further Reading
 

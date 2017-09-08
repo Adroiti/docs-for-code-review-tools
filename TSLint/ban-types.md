@@ -1,4 +1,4 @@
-Pattern: Ban types
+Pattern: Use of restricted type
 
 Issue: -
 

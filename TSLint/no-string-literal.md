@@ -1,4 +1,4 @@
-Pattern: No string literal
+Pattern: Object access via string literal
 
 Issue: -
 

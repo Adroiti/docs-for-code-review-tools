@@ -1,4 +1,4 @@
-Pattern: Strict boolean expressions
+Pattern: Restricted type in boolean expression
 
 Issue: -
 
