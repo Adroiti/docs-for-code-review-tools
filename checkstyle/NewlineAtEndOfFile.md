@@ -1,4 +1,4 @@
-Pattern: File does not end with a newline
+Pattern: File does not end with newline
 
 Issue: -
 
