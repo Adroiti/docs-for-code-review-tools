@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Requires or disallows whitespace for type definitions.
+Requires or disallows whitespace for type definitions. Determines if a space is required or not before the colon in a type specifier.
 
 ## Further Reading
 

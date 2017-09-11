@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Disallows access to the constructors of `String`, `Number`, and `Boolean`.  
+Disallows access to the constructors of `String`, `Number`, and `Boolean`. Disallows constructor use such as `new Number(foo)` but does not disallow `Number(foo)`.
   
 Rationale: There is little reason to use `String`, `Number`, or `Boolean` as constructors. In almost all cases, the regular function-call version is more appropriate.
 
