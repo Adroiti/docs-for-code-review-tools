@@ -1,4 +1,4 @@
-Pattern: Use of 'namespace' or 'module'
+Pattern: Use of `namespace` or `module`
 
 Issue: -
 
