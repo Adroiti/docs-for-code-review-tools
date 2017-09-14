@@ -1,10 +1,10 @@
-Pattern: Multiline if modifier
+Pattern: Use of `if`/`unless` in multi-line body
 
 Issue: -
 
 ## Description
 
-Checks for uses of if/unless modifiers with multiple-lines bodies.
+Checks for uses of `if`/`unless` modifiers with multi-line bodies.
 
 ### Example
 

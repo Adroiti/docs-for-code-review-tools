@@ -1,4 +1,4 @@
-Pattern: Redundant return
+Pattern: Redundant `return`
 
 Issue: -
 
@@ -6,21 +6,17 @@ Issue: -
 
 This cop checks for redundant `return` expressions.
 
-It should be extended to handle methods whose body is if/else
-or a case expression with a default branch.
-
 ### Example
 
 ```ruby
-def test
-  return something
+# bad
+def some_method(some_arr)
+  return some_arr.size
 end
 
-def test
-  one
-  two
-  three
-  return something
+# good
+def some_method(some_arr)
+  some_arr.size
 end
 ```
 

@@ -1,4 +1,4 @@
-Pattern: Empty method
+Pattern: Inconsistent empty method definition
 
 Issue: -
 

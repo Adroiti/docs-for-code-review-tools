@@ -1,11 +1,10 @@
-Pattern: Method missing
+Pattern: Use of `method_missing`
 
 Issue: -
 
 ## Description
 
-This cop checks for the presence of `method_missing` without also
-defining `respond_to_missing?` and falling back on `super`.
+This cop checks for the presence of `method_missing` without also defining `respond_to_missing?` and falling back on `super`.
 
 ### Example
 

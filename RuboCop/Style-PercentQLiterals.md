@@ -1,10 +1,10 @@
-Pattern: Percent literals
+Pattern: Unneeded use of `%Q`
 
 Issue: -
 
 ## Description
 
-This cop checks for usage of the %Q() syntax when %q() would do.
+This cop checks for usage of the `%Q` syntax when when interpolation is not needed or `%q` would do.
 
 ## Default configuration
 

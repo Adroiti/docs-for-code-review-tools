@@ -1,10 +1,20 @@
-Pattern: If with semicolon
+Pattern: Use of `if x; ...` instead of ternary
 
 Issue: -
 
 ## Description
 
-Checks for uses of semicolon in if statements.
+Checks for uses of semicolon in `if` statements. Use the ternary operator instead. 
+
+### Example
+
+```ruby
+# bad
+result = if some_condition; something else something_else end
+
+# good
+result = some_condition ? something : something_else
+```
 
 ## Further Reading
 

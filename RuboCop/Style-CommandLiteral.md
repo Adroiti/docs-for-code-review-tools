@@ -1,10 +1,10 @@
-Pattern: Command literal
+Pattern: Unused `` or `%x` around command literal
 
 Issue: -
 
 ## Description
 
-This cop enforces using `` or %x around command literals.
+This cop enforces using `` or `%x` around command literals.
 
 ### Example
 

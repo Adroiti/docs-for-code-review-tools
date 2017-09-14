@@ -1,4 +1,4 @@
-Pattern: Next
+Pattern: Unused `next` to skip iteration
 
 Issue: -
 

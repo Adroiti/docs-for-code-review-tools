@@ -1,4 +1,4 @@
-Pattern: Inverse methods
+Pattern: Use of `!.method` inverse
 
 Issue: -
 

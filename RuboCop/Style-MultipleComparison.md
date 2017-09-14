@@ -1,11 +1,10 @@
-Pattern: Multiple comparison
+Pattern: Comparing variable with multiple items
 
 Issue: -
 
 ## Description
 
-This cop checks against comparing a variable with multiple items, where
-`Array#include?` could be used instead to avoid code repetition.
+This cop checks against comparing a variable with multiple items, where `Array#include?` could be used instead to avoid code repetition.
 
 ### Example
 

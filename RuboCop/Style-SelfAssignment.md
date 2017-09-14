@@ -1,4 +1,4 @@
-Pattern: Self assignment
+Pattern: Unused self-assignment shorthand
 
 Issue: -
 

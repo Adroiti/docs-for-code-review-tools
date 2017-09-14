@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for redundant returning of true/false in conditionals.
+This cop checks for redundant returning of `true`/`false` in conditionals.
 
 ### Example
 

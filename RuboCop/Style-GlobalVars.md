@@ -1,4 +1,4 @@
-Pattern: Global vars
+Pattern: Use of custom global variable
 
 Issue: -
 
@@ -9,7 +9,23 @@ It does not report offenses for built-in global variables.
 Built-in global variables are allowed by default. Additionally
 users can allow additional variables via the AllowedVariables option.
 
-Note that backreferences like $1, $2, etc are not global variables.
+Note that backreferences like `$1`, `$2`, etc are not global variables.
+
+### Example
+
+```ruby
+# bad
+$foo_bar = 1
+
+# good
+module Foo
+  class << self
+    attr_accessor :bar
+  end
+end
+
+Foo.bar = 1
+```
 
 ## Default configuration
 

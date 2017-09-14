@@ -1,11 +1,24 @@
-Pattern: Parentheses around condition
+Pattern: Unnecessary parentheses around condition
 
 Issue: -
 
 ## Description
 
-This cop checks for the presence of superfluous parentheses around the
-condition of if/unless/while/until.
+This cop checks for the presence of superfluous parentheses around the condition of `if`/`unless`/`while`/`until`.
+
+### Example
+
+```ruby
+# bad
+if (x > 10)
+  # body omitted
+end
+
+# good
+if x > 10
+  # body omitted
+end
+```
 
 ## Default configuration
 

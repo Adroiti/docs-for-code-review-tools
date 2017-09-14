@@ -1,11 +1,20 @@
-Pattern: One line conditional
+Pattern: Unused ternary operator (`?:`) on single line
 
 Issue: -
 
 ## Description
 
-TODO: Make configurable.
-Checks for uses of if/then/else/end on a single line.
+Ternary operator(`?:`) is more common and more concise than `if`/`then`/`else`/`end` constructs.
+
+### Example
+
+```ruby
+# bad
+result = if some_condition then something else something_else end
+
+# good
+result = some_condition ? something : something_else
+```
 
 ## Further Reading
 

@@ -1,11 +1,10 @@
-Pattern: Nested parenthesized calls
+Pattern: Nested method call without parentheses
 
 Issue: -
 
 ## Description
 
-This cop checks for unparenthesized method calls in the argument list
-of a parenthesized method call.
+This cop checks for unparenthesized method calls in the argument list of a parenthesized method call.
 
 ### Example
 

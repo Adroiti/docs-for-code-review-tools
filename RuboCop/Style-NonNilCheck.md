@@ -1,17 +1,10 @@
-Pattern: Non nil check
+Pattern: Redundant nil check
 
 Issue: -
 
 ## Description
 
-This cop checks for non-nil checks, which are usually redundant.
-
-Non-nil checks are allowed if they are the final nodes of predicate.
-
- # good
- def signed_in?
-   !current_user.nil?
- end
+This cop checks for non-nil checks, which are usually redundant. Non-nil checks are allowed if they are the final nodes of predicate.
 
 ### Example
 

@@ -1,10 +1,10 @@
-Pattern: Nil comparison
+Pattern: Use of `x == nil`
 
 Issue: -
 
 ## Description
 
-This cop checks for comparison of something with nil using ==.
+This cop checks for comparison of something with nil using `==`.
 
 ### Example
 

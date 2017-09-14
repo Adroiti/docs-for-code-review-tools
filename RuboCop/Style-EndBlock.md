@@ -1,10 +1,20 @@
-Pattern: End block
+Pattern: Use of `END` block
 
 Issue: -
 
 ## Description
 
-This cop checks for END blocks.
+This cop checks for `END` blocks. Use `Kernel#at_exit` instead.
+
+### Example
+
+```ruby
+# bad
+END { puts 'Goodbye!' }
+
+# good
+at_exit { puts 'Goodbye!' }
+```
 
 ## Further Reading
 

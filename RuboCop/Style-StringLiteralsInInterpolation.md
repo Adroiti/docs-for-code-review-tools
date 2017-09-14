@@ -1,11 +1,10 @@
-Pattern: String literals in interpolation
+Pattern: Malformed quotes in string interpolation 
 
 Issue: -
 
 ## Description
 
-This cop checks that quotes inside the string interpolation
-match the configured preference.
+This cop checks that quotes inside the string interpolation match the configured preference.
 
 ### Example
 

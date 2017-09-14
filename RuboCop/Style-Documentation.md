@@ -1,4 +1,4 @@
-Pattern: Documentation
+Pattern: Missing documentation for class or module
 
 Issue: -
 
@@ -10,7 +10,7 @@ check and so are namespace modules - modules that have nothing in
 their bodies except classes, other modules, or constant definitions.
 
 The documentation requirement is annulled if the class or module has
-a "#:nodoc:" comment next to it. Likewise, "#:nodoc: all" does the
+a `#:nodoc:` comment next to it. Likewise, `#:nodoc: all` does the
 same for all its children.
 
 ## Default configuration

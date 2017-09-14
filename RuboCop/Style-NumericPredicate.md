@@ -1,4 +1,4 @@
-Pattern: Numeric predicate
+Pattern: Inconsistent numeric predicate
 
 Issue: -
 

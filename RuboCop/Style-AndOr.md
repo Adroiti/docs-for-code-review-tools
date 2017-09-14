@@ -1,11 +1,10 @@
-Pattern: And or
+Pattern: Use of `and`/`or`
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of `and` and `or`, and suggests using `&&` and
-`|| instead`. It can be configured to check only in conditions, or in
+This cop checks for uses of `and` and `or`, and suggests using `&&` and `|| instead`. It can be configured to check only in conditions, or in
 all contexts.
 
 ### Example

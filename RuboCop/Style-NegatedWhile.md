@@ -1,10 +1,20 @@
-Pattern: Negated while
+Pattern: `while` with negated condition
 
 Issue: -
 
 ## Description
 
-Checks for uses of while with a negated condition.
+Checks for uses of `while` with a negated condition. Use `until` instead.
+
+### Example
+
+```ruby
+# bad
+do_something while !some_condition
+
+# good
+do_something until some_condition
+```
 
 ## Further Reading
 

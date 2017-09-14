@@ -1,11 +1,10 @@
-Pattern: Empty else
+Pattern: Empty `else` clause
 
 Issue: -
 
 ## Description
 
-Checks for empty else-clauses, possibly including comments and/or an
-explicit `nil` depending on the EnforcedStyle.
+Checks for empty `else` clauses, possibly including comments and/or an explicit `nil` depending on the enforced style.
 
 SupportedStyles:
 

@@ -1,11 +1,31 @@
-Pattern: Single line methods
+Pattern: Single-line method definition
 
 Issue: -
 
 ## Description
 
-This cop checks for single-line method definitions.
-It can optionally accept single-line methods with no body.
+This cop checks for single-line method definitions. It can optionally accept single-line methods with no body.
+
+### Example
+
+```ruby
+# bad
+def too_much; something; something_else; end
+
+# okish - notice that the first ; is required
+def no_braces_method; body end
+
+# okish - notice that the second ; is optional
+def no_braces_method; body; end
+
+# okish - valid syntax, but no ; makes it kind of hard to read
+def some_method() body end
+
+# good
+def some_method
+  body
+end
+```
 
 ## Default configuration
 

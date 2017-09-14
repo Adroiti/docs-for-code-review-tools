@@ -1,10 +1,10 @@
-Pattern: Multiline ternary operator
+Pattern: Multi-line ternary operator
 
 Issue: -
 
 ## Description
 
-This cop checks for multi-line ternary op expressions.
+This cop checks for multi-line ternary operator expressions. Use `if`/`unless` instead.
 
 ## Further Reading
 

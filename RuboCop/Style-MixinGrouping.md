@@ -1,4 +1,4 @@
-Pattern: Mixin grouping
+Pattern: Wrong mixin grouping
 
 Issue: -
 

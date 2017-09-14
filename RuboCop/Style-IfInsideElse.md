@@ -1,12 +1,10 @@
-Pattern: If inside else
+Pattern: Unused `elsif`
 
 Issue: -
 
 ## Description
 
-If the `else` branch of a conditional consists solely of an `if` node,
-it can be combined with the `else` to become an `elsif`.
-This helps to keep the nesting level from getting too deep.
+If the `else` branch of a conditional consists solely of an `if` node, it can be combined with the `else` to become an `elsif`. This helps to keep the nesting level from getting too deep.
 
 ### Example
 

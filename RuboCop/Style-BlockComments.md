@@ -1,10 +1,24 @@
-Pattern: Block comments
+Pattern: Use of block comment
 
 Issue: -
 
 ## Description
 
-This cop looks for uses of block comments (=begin...=end).
+This cop looks for uses of block comments (`=begin...=end`). They cannot be preceded by whitespace and are not as easy to spot as regular comments.
+
+### Example
+
+```ruby
+# bad
+=begin
+comment line
+another comment line
+=end
+
+# good
+# comment line
+# another comment line
+```
 
 ## Further Reading
 

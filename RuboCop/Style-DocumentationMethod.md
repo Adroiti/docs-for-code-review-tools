@@ -1,4 +1,4 @@
-Pattern: Documentation method
+Pattern: Missing documentation for method 
 
 Issue: -
 

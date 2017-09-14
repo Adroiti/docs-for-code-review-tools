@@ -4,9 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for RuntimeError as the argument of raise/fail.
-
-It checks for code like this:
+This cop checks for `RuntimeError` as the argument of `raise`/`fail`.
 
 ### Example
 
@@ -17,7 +15,7 @@ raise RuntimeError, 'message'
 # Bad
 raise RuntimeError.new('message')
 
-# Good
+# Good - signals a RuntimeError by default
 raise 'message'
 ```
 

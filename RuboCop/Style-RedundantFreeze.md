@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop check for uses of Object#freeze on immutable objects.
+This cop check for uses of `Object#freeze` on immutable objects.
 
 ### Example
 

@@ -1,11 +1,10 @@
-Pattern: Negated if
+Pattern: `if` with negated condition
 
 Issue: -
 
 ## Description
 
-Checks for uses of if with a negated condition. Only ifs
-without else are considered. There are three different styles:
+Checks for uses of `if` with a negated condition. Only `if`s without `else` are considered. There are three different styles:
 
   - both
   - prefix

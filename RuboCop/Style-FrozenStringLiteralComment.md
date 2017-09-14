@@ -1,4 +1,4 @@
-Pattern: Frozen string literal comment
+Pattern: Misused `frozen_string_literal` comment
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Method call with args parentheses
+Pattern: Missing parentheses for method calls with arguments
 
 Issue: -
 

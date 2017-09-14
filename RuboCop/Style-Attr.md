@@ -1,10 +1,10 @@
-Pattern: Attr
+Pattern: Use of `attr`
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of Module#attr.
+This cop checks for uses of `attr`. Use `attr_reader` and `attr_accessor` instead.
 
 ## Further Reading
 

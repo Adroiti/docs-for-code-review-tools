@@ -1,4 +1,4 @@
-Pattern: Or assignment
+Pattern: Unused double pipe equals (`||=`)
 
 Issue: -
 
@@ -11,18 +11,6 @@ This cop checks for potential usage of the `||=` operator.
 ```ruby
 # bad
 name = name ? name : 'Bozhidar'
-
-# bad
-name = if name
-         name
-       else
-         'Bozhidar'
-       end
-
-# bad
-unless name
-  name = 'Bozhidar'
-end
 
 # bad
 name = 'Bozhidar' unless name

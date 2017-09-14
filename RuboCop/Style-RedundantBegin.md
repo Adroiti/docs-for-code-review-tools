@@ -1,30 +1,28 @@
-Pattern: Redundant begin
+Pattern: Redundant `begin` block
 
 Issue: -
 
 ## Description
 
-This cop checks for redundant `begin` blocks.
-
-Currently it checks for code like this:
+This cop checks for redundant `begin` blocks. Use _implicit begin blocks_ where possible.
 
 ### Example
 
 ```ruby
-def redundant
+# bad
+def foo
   begin
-    ala
-    bala
-  rescue StandardError => e
-    something
+    # main logic goes here
+  rescue
+    # failure handling goes here
   end
 end
 
-def preferred
-  ala
-  bala
-rescue StandardError => e
-  something
+# good
+def foo
+  # main logic goes here
+rescue
+  # failure handling goes here
 end
 ```
 

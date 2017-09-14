@@ -1,10 +1,10 @@
-Pattern: Regexp literal
+Pattern: Misused `//` or `%r` around regular expression
 
 Issue: -
 
 ## Description
 
-This cop enforces using // or %r around regular expressions.
+This cop enforces using `//` or `%r` around regular expressions.
 
 ### Example
 

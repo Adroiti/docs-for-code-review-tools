@@ -1,10 +1,10 @@
-Pattern: Multiline memoization
+Pattern: Multi-line memoization
 
 Issue: -
 
 ## Description
 
-This cop checks expressions wrapping styles for multiline memoization.
+This cop checks expressions wrapping styles for multi-line memoization. Wrap blocks in `begin` and `end` instead.
 
 ### Example
 

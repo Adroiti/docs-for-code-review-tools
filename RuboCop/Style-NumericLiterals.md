@@ -1,11 +1,10 @@
-Pattern: Numeric literals
+Pattern: Missing `_` for numeric literal
 
 Issue: -
 
 ## Description
 
-This cop checks for big numeric literals without _ between groups
-of digits in them.
+This cop checks for large numeric literals without `_` between groups of digits in them.
 
 ### Example
 

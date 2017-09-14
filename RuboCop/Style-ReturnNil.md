@@ -1,12 +1,10 @@
-Pattern: Return nil
+Pattern: Inconsistent use of `return nil`/`return`
 
 Issue: -
 
 ## Description
 
-This cop enforces consistency between 'return nil' and 'return'.
-
-Supported styles are: return, return_nil.
+This cop enforces consistency between `return nil` and `return`.
 
 ### Example
 

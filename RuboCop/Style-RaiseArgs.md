@@ -1,4 +1,4 @@
-Pattern: Raise args
+Pattern: Improper arguments for `raise`/`fail`
 
 Issue: -
 

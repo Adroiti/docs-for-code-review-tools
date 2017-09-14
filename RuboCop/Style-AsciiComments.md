@@ -1,11 +1,10 @@
-Pattern: Ascii comments
+Pattern: Non-English comment
 
 Issue: -
 
 ## Description
 
-This cop checks for non-ascii (non-English) characters
-in comments.
+This cop checks for non-ascii (non-English) characters in comments.
 
 ## Further Reading
 

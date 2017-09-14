@@ -1,13 +1,13 @@
-Pattern: Lambda
+Pattern: Inconsistent lambda literal syntax
 
 Issue: -
 
 ## Description
 
 This cop (by default) checks for uses of the lambda literal syntax for
-single line lambdas, and the method call syntax for multiline lambdas.
+single line lambdas, and the method call syntax for multi-line lambdas.
 It is configurable to enforce one of the styles for both single line
-and multiline lambdas as well.
+and multi-line lambdas as well.
 
 ### Example
 

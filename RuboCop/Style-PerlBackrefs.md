@@ -1,11 +1,23 @@
-Pattern: Perl backrefs
+Pattern: Use of Perl-style backreference
 
 Issue: -
 
 ## Description
 
-This cop looks for uses of Perl-style regexp match
-backreferences like $1, $2, etc.
+Perl-legacy variables denoting last regexp group matches (`$1`, `$2`, etc) are cryptic. Use `Regexp.last_match(n)` instead. 
+
+### Example
+
+```ruby
+/(regexp)/ =~ string
+...
+
+# bad
+process $1
+
+# good
+process Regexp.last_match(1)
+```
 
 ## Further Reading
 

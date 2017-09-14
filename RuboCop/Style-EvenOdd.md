@@ -1,11 +1,10 @@
-Pattern: Even odd
+Pattern: Unused `Integer#even?`/`Integer#odd?`
 
 Issue: -
 
 ## Description
 
-This cop checks for places where Integer#even? or Integer#odd?
-should have been used.
+This cop checks for places where `Integer#even?` or `Integer#odd?` should have been used.
 
 ### Example
 

@@ -1,11 +1,20 @@
-Pattern: Colon method call
+Pattern: Use of `::` for method call
 
 Issue: -
 
 ## Description
 
-This cop checks for methods invoked via the :: operator instead
-of the . operator (like FileUtils::rmdir instead of FileUtils.rmdir).
+This cop checks for methods invoked via the `::` operator instead of the `.` operator.
+
+### Example
+
+```ruby
+# bad
+FileUtils::rmdir
+
+# good
+FileUtils.rmdir
+```
 
 ## Further Reading
 

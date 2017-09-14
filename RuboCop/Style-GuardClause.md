@@ -1,11 +1,10 @@
-Pattern: Guard clause
+Pattern: Unused guard clause
 
 Issue: -
 
 ## Description
 
-Use a guard clause instead of wrapping the code inside a conditional
-expression
+Use a guard clause instead of wrapping the code inside a conditional expression.
 
 ### Example
 

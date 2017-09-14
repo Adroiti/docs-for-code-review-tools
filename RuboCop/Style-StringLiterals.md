@@ -1,4 +1,4 @@
-Pattern: String literals
+Pattern: Inconsistent quote style
 
 Issue: -
 

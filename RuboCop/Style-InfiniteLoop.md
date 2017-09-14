@@ -1,10 +1,10 @@
-Pattern: Infinite loop
+Pattern: Use of `while`/`until` for infinite loop
 
 Issue: -
 
 ## Description
 
-Use `Kernel#loop` for infinite loops.
+This cop enforces to use `Kernel#loop` for infinite loops.
 
 ### Example
 

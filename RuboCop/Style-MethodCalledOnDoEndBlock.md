@@ -1,10 +1,10 @@
-Pattern: Method called on do end block
+Pattern: Method call on `do...end` block
 
 Issue: -
 
 ## Description
 
-This cop checks for methods called on a do...end block. The point of
+This cop checks for methods called on a `do...end` block. The point of
 this check is that it's easy to miss the call tacked on to the block
 when reading code.
 

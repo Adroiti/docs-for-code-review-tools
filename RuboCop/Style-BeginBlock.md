@@ -1,10 +1,10 @@
-Pattern: Begin block
+Pattern: Use of `BEGIN` block
 
 Issue: -
 
 ## Description
 
-This cop checks for BEGIN blocks.
+This cop checks for `BEGIN` blocks.
 
 ## Further Reading
 

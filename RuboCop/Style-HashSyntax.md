@@ -1,4 +1,4 @@
-Pattern: Hash syntax
+Pattern: Inconsistent hash syntax
 
 Issue: -
 

@@ -1,12 +1,12 @@
-Pattern: Parallel assignment
+Pattern: Use of parallel assignment
 
 Issue: -
 
 ## Description
 
-Checks for simple usages of parallel assignment.
-This will only complain when the number of variables
-being assigned matched the number of assigning variables.
+Checks for simple usages of parallel assignment. Parallel assignment is less readable than separate assignment.
+
+This will only complain when the number of variables being assigned matched the number of assigning variables.
 
 ### Example
 

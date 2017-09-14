@@ -1,10 +1,10 @@
-Pattern: Multiline if then
+Pattern: Use of `then` for multi-line `if`
 
 Issue: -
 
 ## Description
 
-Checks for uses of the `then` keyword in multi-line if statements.
+Checks for uses of the `then` keyword in multi-line `if` statements.
 
 ### Example
 

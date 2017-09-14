@@ -1,11 +1,10 @@
-Pattern: Class methods
+Pattern: Unused `self` for `class`/`module` method
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of the class/module name instead of
-self, when defining class/module methods.
+This cop checks for uses of `self` when defining `class`/`module` methods. This makes the code easier to refactor since the class name is not repeated.
 
 ### Example
 

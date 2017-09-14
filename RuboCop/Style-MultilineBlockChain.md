@@ -1,20 +1,23 @@
-Pattern: Multiline block chain
+Pattern: Multi-line block chain
 
 Issue: -
 
 ## Description
 
-This cop checks for chaining of a block after another block that spans
-multiple lines.
+This cop checks for chaining of a block after another block that spans multiple lines.
 
 ### Example
 
 ```ruby
-Thread.list.find_all do |t|
-  t.alive?
-end.map do |t|
-  t.object_id
+names = %w[Bozhidar Steve Sarah]
+
+# bad
+names.each do |name|
+  puts name
 end
+
+# good
+names.each { |name| puts name }
 ```
 
 ## Further Reading

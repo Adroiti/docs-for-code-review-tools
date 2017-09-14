@@ -1,11 +1,10 @@
-Pattern: Nested modifier
+Pattern: Use of nested modifier
 
 Issue: -
 
 ## Description
 
-This cop checks for nested use of if, unless, while and until in their
-modifier form.
+This cop checks for nested use of `if`, `unless`, `while` and `until` in their modifier form. Use `&&`/`||` if appropriate.
 
 ### Example
 

@@ -1,11 +1,10 @@
-Pattern: Optional arguments
+Pattern: Malformed optional arguments
 
 Issue: -
 
 ## Description
 
-This cop checks for optional arguments to methods
-that do not come at the end of the argument list
+This cop checks for optional arguments to methods that do not come at the end of the argument list. Ruby has some unexpected results when calling methods that have optional arguments at the front of the list.
 
 ### Example
 

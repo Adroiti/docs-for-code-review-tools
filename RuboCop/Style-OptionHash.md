@@ -1,11 +1,10 @@
-Pattern: Option hash
+Pattern: Use of options hash
 
 Issue: -
 
 ## Description
 
-This cop checks for options hashes and discourages them if the
-current Ruby version supports keyword arguments.
+This cop checks for options hashes and discourages them if the current Ruby version supports keyword arguments.
 
 ### Example
 

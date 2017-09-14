@@ -1,13 +1,13 @@
-Pattern: Encoding
+Pattern: Malformed source file encoding
 
 Issue: -
 
 ## Description
 
-This cop checks whether the source file has a utf-8 encoding
+This cop checks whether the source file has a `UTF-8` encoding
 comment or not.
-Setting this check to "always" and "when_needed" makes sense only
-for code that should support Ruby 1.9, since in 2.0+ utf-8 is the
+Setting this check to `always` and `when_needed` makes sense only
+for code that should support Ruby 1.9, since in 2.0+ `UTF-8` is the
 default source file encoding. There are three styles:
 
 when_needed - only enforce an encoding comment if there are non ASCII

@@ -1,14 +1,13 @@
-Pattern: Collection methods
+Pattern: Misused method from `Enumerable` module
 
 Issue: -
 
 ## Description
 
-This cop enforces the use of consistent method names
-from the Enumerable module.
+This cop enforces the use of consistent method names from the `Enumerable` module.
 
 Unfortunately we cannot actually know if a method is from
-Enumerable or not (static analysis limitation), so this cop
+`Enumerable` or not (static analysis limitation), so this cop
 can yield some false positives.
 
 ## Default configuration

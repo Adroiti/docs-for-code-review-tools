@@ -1,10 +1,20 @@
-Pattern: Signal exception
+Pattern: Improper use of `fail` or `raise`
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of `fail` and `raise`.
+This cop checks for uses of `fail` and `raise`. By default, it prefers `raise` over `fail` for exceptions.
+
+### Example
+
+```ruby
+# bad
+fail SomeException, 'message'
+
+# good
+raise SomeException, 'message'
+```
 
 ## Default configuration
 

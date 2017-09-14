@@ -1,10 +1,10 @@
-Pattern: Lambda call
+Pattern: Inconsistent lambda call syntax
 
 Issue: -
 
 ## Description
 
-This cop checks for use of the lambda.(args) syntax.
+This cop checks for use of the `lambda.(args)` syntax.
 
 ### Example
 

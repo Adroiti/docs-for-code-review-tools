@@ -1,4 +1,4 @@
-Pattern: Dir
+Pattern: Unused `__dir__` method
 
 Issue: -
 

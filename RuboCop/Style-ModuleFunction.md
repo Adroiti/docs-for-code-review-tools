@@ -1,16 +1,10 @@
-Pattern: Module function
+Pattern: Use of `extend self` or `module_function`
 
 Issue: -
 
 ## Description
 
-This cops checks for use of `extend self` or `module_function` in a
-module.
-
-Supported styles are: module_function, extend_self.
-
-These offenses are not auto-corrected since there are different
-implications to each approach.
+This cops checks for use of `extend self` or `module_function` in a module.
 
 ### Example
 

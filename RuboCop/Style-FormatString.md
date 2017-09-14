@@ -1,16 +1,21 @@
-Pattern: Format string
+Pattern: Inconsistent single string formatting
 
 Issue: -
 
 ## Description
 
-This cop enforces the use of a single string formatting utility.
-Valid options include Kernel#format, Kernel#sprintf and String#%.
+This cop enforces the use of a single string formatting utility. By default, it favor's the use of `format` over the fairly cryptic `String#%` method.
 
-The detection of String#% cannot be implemented in a reliable
-manner for all cases, so only two scenarios are considered -
-if the first argument is a string literal and if the second
-argument is an array literal.
+### Example
+
+```ruby
+# bad
+'%d %d' % [20, 10]
+# => '20 10'
+
+format('%d %d', 20, 10)
+# => '20 10'
+```
 
 ## Default configuration
 

@@ -1,12 +1,10 @@
-Pattern: Braces around hash parameters
+Pattern: Malformed braces around hash parameter
 
 Issue: -
 
 ## Description
 
-This cop checks for braces around the last parameter in a method call
-if the last parameter is a hash.
-It supports 3 styles:
+This cop checks for braces around the last parameter in a method call if the last parameter is a hash. It supports 3 styles:
 
 * The `braces` style enforces braces around all method
 parameters that are hashes.

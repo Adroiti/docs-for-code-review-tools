@@ -1,4 +1,4 @@
-Pattern: Class check
+Pattern: Inconsistent class check
 
 Issue: -
 

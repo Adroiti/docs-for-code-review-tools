@@ -1,4 +1,4 @@
-Pattern: Safe navigation
+Pattern: Unused safe navigation (`&.`)
 
 Issue: -
 
@@ -8,7 +8,7 @@ This cop transforms usages of a method call safeguarded by a non `nil`
 check for the variable whose method is being called to
 safe navigation (`&.`).
 
-Configuration option: ConvertCodeThatCanStartToReturnNil
+Configuration option: `ConvertCodeThatCanStartToReturnNil`
 The default for this is `false`. When configured to `true`, this will
 check for code in the format `!foo.nil? && foo.bar`. As it is written,
 the return of this code is limited to `false` and whatever the return

@@ -1,14 +1,24 @@
-Pattern: Array join
+Pattern: Use of `Array#*`
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of "*" as a substitute for *join*.
+This cop checks for uses of fairly cryptic `Array#*` to be replaced with `Array#join`.
 
-Not all cases can reliably checked, due to Ruby's dynamic
-types, so we consider only cases when the first argument is an
-array literal or the second is a string literal.
+Not all cases can reliably checked, due to Ruby's dynamic types, so we consider only cases when the first argument is an array literal or the second is a string literal.
+
+### Example
+
+```ruby
+# bad
+%w[one two three] * ', '
+# => 'one, two, three'
+
+# good
+%w[one two three].join(', ')
+# => 'one, two, three'
+```
 
 ## Further Reading
 

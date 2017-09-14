@@ -1,11 +1,10 @@
-Pattern: String methods
+Pattern: Inconsistent string method name
 
 Issue: -
 
 ## Description
 
-This cop enforces the use of consistent method names
-from the String class.
+This cop enforces the use of consistent method names from the `String` class.
 
 ## Default configuration
 

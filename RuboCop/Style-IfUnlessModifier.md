@@ -1,12 +1,22 @@
-Pattern: If unless modifier
+Pattern: Unused `if`/`unless` for single-line body
 
 Issue: -
 
 ## Description
 
-Checks for if and unless statements that would fit on one line
-if written as a modifier if/unless.
-The maximum line length is configurable.
+Checks for `if` and `unless` statements that would fit on one line if written as a modifier `if`/`unless`. The maximum line length is configurable.
+
+### Example
+
+```ruby
+# bad
+if some_condition
+  do_something
+end
+
+# good
+do_something if some_condition
+```
 
 ## Default configuration
 

@@ -1,11 +1,10 @@
-Pattern: If unless modifier of if unless
+Pattern: Use of `if`/`unless` in conditional
 
 Issue: -
 
 ## Description
 
-Checks for if and unless statements used as modifiers of other if or
-unless statements.
+Checks for `if` and `unless` statements used as modifiers of other `if` or `unless` statements.
 
 ### Example
 

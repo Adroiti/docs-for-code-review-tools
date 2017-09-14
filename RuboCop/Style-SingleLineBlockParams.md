@@ -1,14 +1,12 @@
-Pattern: Single line block params
+Pattern: Mismatched single line block params
 
 Issue: -
 
 ## Description
 
-This cop checks whether the block parameters of a single-line
-method accepting a block match the names specified via configuration.
+This cop checks whether the block parameters of a single-line method accepting a block match the names specified via configuration.
 
-For instance one can configure `reduce`(`inject`) to use |a, e| as
-parameters.
+For instance one can configure `reduce`(`inject`) to use |a, e| as parameters.
 
 ## Default configuration
 

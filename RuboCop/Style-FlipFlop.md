@@ -1,10 +1,10 @@
-Pattern: Flip flop
+Pattern: Use of flip-flop
 
 Issue: -
 
 ## Description
 
-This cop looks for uses of flip flop operator
+This cop looks for uses of flip flop operator.
 
 ## Further Reading
 

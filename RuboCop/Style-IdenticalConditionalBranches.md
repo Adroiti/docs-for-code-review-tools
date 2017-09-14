@@ -4,8 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for identical lines at the beginning or end of
-each branch of a conditional statement.
+This cop checks for identical lines at the beginning or end of each branch of a conditional statement.
 
 ### Example
 

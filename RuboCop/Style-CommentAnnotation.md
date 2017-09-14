@@ -1,11 +1,10 @@
-Pattern: Comment annotation
+Pattern: Malformed comment annotation
 
 Issue: -
 
 ## Description
 
-This cop checks that comment annotation keywords are written according
-to guidelines.
+This cop checks that comment annotation keywords are written according to guidelines i.e. keyword is followed by a colon and a space, then a note describing the problem. 
 
 ## Default configuration
 

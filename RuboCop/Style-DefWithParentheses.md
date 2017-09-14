@@ -1,12 +1,10 @@
-Pattern: Def with parentheses
+Pattern: Use of `def` with parentheses
 
 Issue: -
 
 ## Description
 
-This cop checks for parentheses in the definition of a method,
-that does not take any arguments. Both instance and
-class/singleton methods are checked.
+This cop checks for parentheses in the definition of a method, that does not take any arguments. Both instance and class/singleton methods are checked.
 
 ## Further Reading
 

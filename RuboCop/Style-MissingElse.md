@@ -1,14 +1,10 @@
-Pattern: Missing else
+Pattern: Missing `else`
 
 Issue: -
 
 ## Description
 
 Checks for `if` expressions that do not have an `else` branch.
-SupportedStyles
-
-if
-case
 
 ### Example
 

@@ -1,10 +1,11 @@
-Pattern: Bare percent literals
+Pattern: Malformed bare percent literal
 
 Issue: -
 
 ## Description
 
-This cop checks if usage of %() or %Q() matches configuration.
+This cop checks if usage of `%()` or `%Q` matches configuration.
+
 
 ## Default configuration
 

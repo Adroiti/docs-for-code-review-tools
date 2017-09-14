@@ -1,11 +1,10 @@
-Pattern: Mutable constant
+Pattern: Use of mutable constant
 
 Issue: -
 
 ## Description
 
-This cop checks whether some constant value isn't a
-mutable literal (e.g. array or hash).
+This cop checks whether some constant value isn't a mutable literal (e.g. array or hash).
 
 ### Example
 

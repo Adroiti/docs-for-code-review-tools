@@ -1,11 +1,10 @@
-Pattern: Block delimiters
+Pattern: Malformed block delimiter
 
 Issue: -
 
 ## Description
 
-Check for uses of braces or do/end around single line or
-multi-line blocks.
+Check for uses of braces or `do`/`end` around single line or multi-line blocks.
 
 ## Default configuration
 

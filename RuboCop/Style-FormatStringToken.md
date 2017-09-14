@@ -1,4 +1,4 @@
-Pattern: Format string token
+Pattern: Inconsistent style for format string token
 
 Issue: -
 

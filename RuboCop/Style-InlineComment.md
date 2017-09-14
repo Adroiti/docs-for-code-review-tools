@@ -1,4 +1,4 @@
-Pattern: Inline comment
+Pattern: Trailing inline comment
 
 Issue: -
 

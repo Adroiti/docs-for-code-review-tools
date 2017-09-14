@@ -1,4 +1,4 @@
-Pattern: Auto resource cleanup
+Pattern: Unused resource cleanup version for method
 
 Issue: -
 

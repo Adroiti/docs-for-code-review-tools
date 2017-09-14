@@ -1,12 +1,10 @@
-Pattern: Class vars
+Pattern: Use of class variable
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of class variables. Offenses
-are signaled only on assignment to class variables to
-reduced the number of offenses that would be reported.
+This cop checks for uses of class variables (`@@`). Class instance variables should usually be preferred over class variables.
 
 ## Further Reading
 

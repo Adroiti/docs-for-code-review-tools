@@ -1,11 +1,10 @@
-Pattern: Method def parentheses
+Pattern: Malformed parentheses in method definition
 
 Issue: -
 
 ## Description
 
-This cops checks for parentheses around the arguments in method
-definitions. Both instance and class/singleton methods are checked.
+This cop checks for parentheses around the arguments in method definitions. Both instance and class/singleton methods are checked.
 
 ## Default configuration
 

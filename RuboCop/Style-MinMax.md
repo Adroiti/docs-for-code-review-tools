@@ -1,4 +1,4 @@
-Pattern: Min max
+Pattern: Unused `Enumerable#minmax`
 
 Issue: -
 
