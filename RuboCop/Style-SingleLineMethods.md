@@ -1,4 +1,4 @@
-Pattern: Style/SingleLineMethods
+Pattern: Single line methods
 
 Issue: -
 

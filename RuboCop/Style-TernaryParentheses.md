@@ -1,4 +1,4 @@
-Pattern: Style/TernaryParentheses
+Pattern: Malformed parentheses around ternary
 
 Issue: -
 

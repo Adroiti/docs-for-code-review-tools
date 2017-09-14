@@ -1,4 +1,4 @@
-Pattern: Style/MultilineTernaryOperator
+Pattern: Multiline ternary operator
 
 Issue: -
 

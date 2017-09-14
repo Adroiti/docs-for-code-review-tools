@@ -1,4 +1,4 @@
-Pattern: Style/OneLineConditional
+Pattern: One line conditional
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/TrailingCommaInLiteral
+Pattern: Trailing comma in `Array`/`Hash` literal
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/SignalException
+Pattern: Signal exception
 
 Issue: -
 

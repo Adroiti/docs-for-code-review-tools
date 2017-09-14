@@ -1,4 +1,4 @@
-Pattern: Style/TrailingUnderscoreVariable
+Pattern: Extra underscore in variable assignment
 
 Issue: -
 

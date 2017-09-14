@@ -1,4 +1,4 @@
-Pattern: Style/HashSyntax
+Pattern: Hash syntax
 
 Issue: -
 

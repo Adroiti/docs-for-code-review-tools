@@ -1,4 +1,4 @@
-Pattern: Style/RedundantReturn
+Pattern: Redundant return
 
 Issue: -
 

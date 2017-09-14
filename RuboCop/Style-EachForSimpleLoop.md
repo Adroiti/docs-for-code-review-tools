@@ -1,4 +1,4 @@
-Pattern: Style/EachForSimpleLoop
+Pattern: Each for simple loop
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Style/WhenThen
+Pattern: Use of `when x;`
 
 Issue: -
 
 ## Description
 
-This cop checks for *when;* uses in *case* expressions.
+The alternative syntax `when x: ...` has been removed as of Ruby 1.9.
 
 ## Further Reading
 

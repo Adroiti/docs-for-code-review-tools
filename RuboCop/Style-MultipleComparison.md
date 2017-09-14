@@ -1,4 +1,4 @@
-Pattern: Style/MultipleComparison
+Pattern: Multiple comparison
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/PerlBackrefs
+Pattern: Perl backrefs
 
 Issue: -
 

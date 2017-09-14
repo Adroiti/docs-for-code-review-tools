@@ -1,4 +1,4 @@
-Pattern: Style/Alias
+Pattern: Wrong alias
 
 Issue: -
 

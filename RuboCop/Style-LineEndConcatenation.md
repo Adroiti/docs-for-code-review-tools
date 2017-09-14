@@ -1,4 +1,4 @@
-Pattern: Style/LineEndConcatenation
+Pattern: Line end concatenation
 
 Issue: -
 

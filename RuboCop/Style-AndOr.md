@@ -1,4 +1,4 @@
-Pattern: Style/AndOr
+Pattern: And or
 
 Issue: -
 

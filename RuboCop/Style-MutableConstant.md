@@ -1,4 +1,4 @@
-Pattern: Style/MutableConstant
+Pattern: Mutable constant
 
 Issue: -
 

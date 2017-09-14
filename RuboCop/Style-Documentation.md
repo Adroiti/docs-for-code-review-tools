@@ -1,4 +1,4 @@
-Pattern: Style/Documentation
+Pattern: Documentation
 
 Issue: -
 

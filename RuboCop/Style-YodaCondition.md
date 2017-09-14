@@ -1,4 +1,4 @@
-Pattern: Style/YodaCondition
+Pattern: Yoda condition
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/EndBlock
+Pattern: End block
 
 Issue: -
 

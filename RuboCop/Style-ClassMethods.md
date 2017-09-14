@@ -1,4 +1,4 @@
-Pattern: Style/ClassMethods
+Pattern: Class methods
 
 Issue: -
 

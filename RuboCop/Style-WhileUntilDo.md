@@ -1,10 +1,32 @@
-Pattern: Style/WhileUntilDo
+Pattern: Redundant `do` after `while` or `until`
 
 Issue: -
 
 ## Description
 
 Checks for uses of `do` in multi-line `while/until` statements.
+
+### Example
+
+```ruby
+# bad
+while x > 5 do
+  # body omitted
+end
+
+until x > 5 do
+  # body omitted
+end
+
+# good
+while x > 5
+  # body omitted
+end
+
+until x > 5
+  # body omitted
+end
+```
 
 ## Further Reading
 

@@ -1,4 +1,4 @@
-Pattern: Style/RedundantParentheses
+Pattern: Redundant parentheses
 
 Issue: -
 

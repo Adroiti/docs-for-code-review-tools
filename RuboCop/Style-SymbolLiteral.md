@@ -1,4 +1,4 @@
-Pattern: Style/SymbolLiteral
+Pattern: Use of string symbol instead of plain symbol
 
 Issue: -
 

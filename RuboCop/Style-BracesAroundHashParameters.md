@@ -1,4 +1,4 @@
-Pattern: Style/BracesAroundHashParameters
+Pattern: Braces around hash parameters
 
 Issue: -
 

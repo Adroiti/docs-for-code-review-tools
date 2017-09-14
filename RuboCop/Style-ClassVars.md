@@ -1,4 +1,4 @@
-Pattern: Style/ClassVars
+Pattern: Class vars
 
 Issue: -
 

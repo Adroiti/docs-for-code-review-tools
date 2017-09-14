@@ -1,4 +1,4 @@
-Pattern: Style/MinMax
+Pattern: Min max
 
 Issue: -
 

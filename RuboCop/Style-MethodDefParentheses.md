@@ -1,4 +1,4 @@
-Pattern: Style/MethodDefParentheses
+Pattern: Method def parentheses
 
 Issue: -
 

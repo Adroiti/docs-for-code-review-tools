@@ -1,4 +1,4 @@
-Pattern: Style/RegexpLiteral
+Pattern: Regexp literal
 
 Issue: -
 

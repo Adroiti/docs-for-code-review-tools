@@ -1,4 +1,4 @@
-Pattern: Style/UnneededInterpolation
+Pattern: Unneeded string interpolation
 
 Issue: -
 

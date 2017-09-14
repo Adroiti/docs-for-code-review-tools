@@ -1,4 +1,4 @@
-Pattern: Style/ImplicitRuntimeError
+Pattern: Implicit runtime error
 
 Issue: -
 

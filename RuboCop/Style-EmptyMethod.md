@@ -1,4 +1,4 @@
-Pattern: Style/EmptyMethod
+Pattern: Empty method
 
 Issue: -
 

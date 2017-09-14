@@ -1,4 +1,4 @@
-Pattern: Style/BlockDelimiters
+Pattern: Block delimiters
 
 Issue: -
 

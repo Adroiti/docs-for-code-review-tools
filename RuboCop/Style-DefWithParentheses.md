@@ -1,4 +1,4 @@
-Pattern: Style/DefWithParentheses
+Pattern: Def with parentheses
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/Semicolon
+Pattern: Semicolon
 
 Issue: -
 

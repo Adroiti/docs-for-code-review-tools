@@ -1,4 +1,4 @@
-Pattern: Style/RedundantException
+Pattern: Redundant exception
 
 Issue: -
 

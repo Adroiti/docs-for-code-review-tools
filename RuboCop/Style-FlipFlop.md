@@ -1,4 +1,4 @@
-Pattern: Style/FlipFlop
+Pattern: Flip flop
 
 Issue: -
 

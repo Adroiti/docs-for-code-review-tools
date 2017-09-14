@@ -1,4 +1,4 @@
-Pattern: Style/RescueModifier
+Pattern: Rescue modifier
 
 Issue: -
 

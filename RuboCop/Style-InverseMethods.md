@@ -1,4 +1,4 @@
-Pattern: Style/InverseMethods
+Pattern: Inverse methods
 
 Issue: -
 

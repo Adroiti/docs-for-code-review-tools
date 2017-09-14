@@ -1,4 +1,4 @@
-Pattern: Style/TrivialAccessors
+Pattern: Use of trivial reader/writer
 
 Issue: -
 
@@ -6,6 +6,36 @@ Issue: -
 
 This cop looks for trivial reader/writer methods, that could
 have been created with the attr_* family of functions automatically.
+
+### Example
+
+```ruby
+# bad
+class Person
+  def initialize(first_name, last_name)
+    @first_name = first_name
+    @last_name = last_name
+  end
+
+  def first_name
+    @first_name
+  end
+
+  def last_name
+    @last_name
+  end
+end
+
+# good
+class Person
+  attr_reader :first_name, :last_name
+
+  def initialize(first_name, last_name)
+    @first_name = first_name
+    @last_name = last_name
+  end
+end
+```
 
 ## Default configuration
 

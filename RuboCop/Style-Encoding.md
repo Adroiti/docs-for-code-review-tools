@@ -1,4 +1,4 @@
-Pattern: Style/Encoding
+Pattern: Encoding
 
 Issue: -
 

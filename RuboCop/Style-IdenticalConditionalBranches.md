@@ -1,4 +1,4 @@
-Pattern: Style/IdenticalConditionalBranches
+Pattern: Identical conditional branches
 
 Issue: -
 

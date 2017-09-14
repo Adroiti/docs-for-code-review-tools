@@ -1,4 +1,4 @@
-Pattern: Style/MultilineMemoization
+Pattern: Multiline memoization
 
 Issue: -
 

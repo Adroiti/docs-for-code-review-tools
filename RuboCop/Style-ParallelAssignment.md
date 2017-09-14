@@ -1,4 +1,4 @@
-Pattern: Style/ParallelAssignment
+Pattern: Parallel assignment
 
 Issue: -
 

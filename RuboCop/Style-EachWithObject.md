@@ -1,4 +1,4 @@
-Pattern: Style/EachWithObject
+Pattern: Each with object
 
 Issue: -
 

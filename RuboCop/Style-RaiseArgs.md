@@ -1,4 +1,4 @@
-Pattern: Style/RaiseArgs
+Pattern: Raise args
 
 Issue: -
 

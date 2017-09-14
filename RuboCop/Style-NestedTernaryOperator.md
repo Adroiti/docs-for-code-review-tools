@@ -1,4 +1,4 @@
-Pattern: Style/NestedTernaryOperator
+Pattern: Nested ternary operator
 
 Issue: -
 

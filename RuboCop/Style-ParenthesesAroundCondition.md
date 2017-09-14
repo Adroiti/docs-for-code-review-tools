@@ -1,4 +1,4 @@
-Pattern: Style/ParenthesesAroundCondition
+Pattern: Parentheses around condition
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/MethodMissing
+Pattern: Method missing
 
 Issue: -
 

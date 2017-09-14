@@ -1,4 +1,4 @@
-Pattern: Style/InfiniteLoop
+Pattern: Infinite loop
 
 Issue: -
 

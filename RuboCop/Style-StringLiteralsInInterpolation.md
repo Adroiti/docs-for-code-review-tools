@@ -1,4 +1,4 @@
-Pattern: Style/StringLiteralsInInterpolation
+Pattern: String literals in interpolation
 
 Issue: -
 

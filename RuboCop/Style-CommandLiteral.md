@@ -1,4 +1,4 @@
-Pattern: Style/CommandLiteral
+Pattern: Command literal
 
 Issue: -
 

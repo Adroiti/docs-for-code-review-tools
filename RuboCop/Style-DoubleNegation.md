@@ -1,4 +1,4 @@
-Pattern: Style/DoubleNegation
+Pattern: Double negation
 
 Issue: -
 

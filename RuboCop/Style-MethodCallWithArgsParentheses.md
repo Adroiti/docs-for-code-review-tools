@@ -1,4 +1,4 @@
-Pattern: Style/MethodCallWithArgsParentheses
+Pattern: Method call with args parentheses
 
 Issue: -
 

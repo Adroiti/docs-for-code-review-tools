@@ -1,4 +1,4 @@
-Pattern: Style/NestedModifier
+Pattern: Nested modifier
 
 Issue: -
 

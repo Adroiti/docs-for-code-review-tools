@@ -1,4 +1,4 @@
-Pattern: Style/EmptyCaseCondition
+Pattern: Empty case condition
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/ModuleFunction
+Pattern: Module function
 
 Issue: -
 

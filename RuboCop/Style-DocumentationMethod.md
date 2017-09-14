@@ -1,4 +1,4 @@
-Pattern: Style/DocumentationMethod
+Pattern: Documentation method
 
 Issue: -
 

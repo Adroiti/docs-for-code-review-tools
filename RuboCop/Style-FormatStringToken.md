@@ -1,4 +1,4 @@
-Pattern: Style/FormatStringToken
+Pattern: Format string token
 
 Issue: -
 

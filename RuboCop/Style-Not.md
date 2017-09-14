@@ -1,4 +1,4 @@
-Pattern: Style/Not
+Pattern: Not
 
 Issue: -
 

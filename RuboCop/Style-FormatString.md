@@ -1,4 +1,4 @@
-Pattern: Style/FormatString
+Pattern: Format string
 
 Issue: -
 

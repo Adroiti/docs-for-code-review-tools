@@ -1,4 +1,4 @@
-Pattern: Style/GuardClause
+Pattern: Guard clause
 
 Issue: -
 

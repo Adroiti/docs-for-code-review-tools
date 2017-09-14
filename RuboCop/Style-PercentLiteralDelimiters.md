@@ -1,4 +1,4 @@
-Pattern: Style/PercentLiteralDelimiters
+Pattern: Percent literal delimiters
 
 Issue: -
 

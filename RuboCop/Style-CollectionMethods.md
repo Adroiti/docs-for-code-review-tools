@@ -1,4 +1,4 @@
-Pattern: Style/CollectionMethods
+Pattern: Collection methods
 
 Issue: -
 

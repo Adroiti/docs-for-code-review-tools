@@ -1,4 +1,4 @@
-Pattern: Style/ZeroLengthPredicate
+Pattern: Use of numeric comparison instead of `.empty?`
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/AsciiComments
+Pattern: Ascii comments
 
 Issue: -
 

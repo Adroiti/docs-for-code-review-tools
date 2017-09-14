@@ -1,4 +1,4 @@
-Pattern: Style/IfUnlessModifierOfIfUnless
+Pattern: If unless modifier of if unless
 
 Issue: -
 

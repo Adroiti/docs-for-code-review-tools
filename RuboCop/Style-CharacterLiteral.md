@@ -1,4 +1,4 @@
-Pattern: Style/CharacterLiteral
+Pattern: Character literal
 
 Issue: -
 

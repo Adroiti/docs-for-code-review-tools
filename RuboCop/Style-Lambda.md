@@ -1,4 +1,4 @@
-Pattern: Style/Lambda
+Pattern: Lambda
 
 Issue: -
 

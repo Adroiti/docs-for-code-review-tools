@@ -1,4 +1,4 @@
-Pattern: Style/StabbyLambdaParentheses
+Pattern: Stabby lambda parentheses
 
 Issue: -
 

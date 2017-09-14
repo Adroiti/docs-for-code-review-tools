@@ -1,4 +1,4 @@
-Pattern: Style/ClassCheck
+Pattern: Class check
 
 Issue: -
 

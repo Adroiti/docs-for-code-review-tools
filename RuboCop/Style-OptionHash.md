@@ -1,4 +1,4 @@
-Pattern: Style/OptionHash
+Pattern: Option hash
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/PreferredHashMethods
+Pattern: Preferred hash methods
 
 Issue: -
 

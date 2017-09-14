@@ -1,4 +1,4 @@
-Pattern: Style/StringLiterals
+Pattern: String literals
 
 Issue: -
 

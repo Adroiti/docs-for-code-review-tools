@@ -1,4 +1,4 @@
-Pattern: Style/Next
+Pattern: Next
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/ConditionalAssignment
+Pattern: Conditional assignment
 
 Issue: -
 

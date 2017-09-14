@@ -1,4 +1,4 @@
-Pattern: Style/MixinGrouping
+Pattern: Mixin grouping
 
 Issue: -
 

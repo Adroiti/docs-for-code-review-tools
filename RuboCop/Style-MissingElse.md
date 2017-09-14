@@ -1,4 +1,4 @@
-Pattern: Style/MissingElse
+Pattern: Missing else
 
 Issue: -
 

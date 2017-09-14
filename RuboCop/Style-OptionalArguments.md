@@ -1,4 +1,4 @@
-Pattern: Style/OptionalArguments
+Pattern: Optional arguments
 
 Issue: -
 

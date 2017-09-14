@@ -1,4 +1,4 @@
-Pattern: Style/PercentQLiterals
+Pattern: Percent literals
 
 Issue: -
 

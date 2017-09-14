@@ -1,4 +1,4 @@
-Pattern: Style/NumericLiteralPrefix
+Pattern: Numeric literal prefix
 
 Issue: -
 

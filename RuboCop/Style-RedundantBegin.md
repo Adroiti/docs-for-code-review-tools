@@ -1,4 +1,4 @@
-Pattern: Style/RedundantBegin
+Pattern: Redundant begin
 
 Issue: -
 

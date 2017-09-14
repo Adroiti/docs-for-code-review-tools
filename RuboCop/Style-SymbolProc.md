@@ -1,4 +1,4 @@
-Pattern: Style/SymbolProc
+Pattern: Use of symbol as block instead of proc
 
 Issue: -
 

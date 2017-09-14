@@ -1,4 +1,4 @@
-Pattern: Style/FrozenStringLiteralComment
+Pattern: Frozen string literal comment
 
 Issue: -
 

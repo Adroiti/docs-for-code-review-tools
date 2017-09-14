@@ -1,4 +1,4 @@
-Pattern: Style/CommentAnnotation
+Pattern: Comment annotation
 
 Issue: -
 

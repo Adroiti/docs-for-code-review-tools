@@ -1,4 +1,4 @@
-Pattern: Style/AutoResourceCleanup
+Pattern: Auto resource cleanup
 
 Issue: -
 

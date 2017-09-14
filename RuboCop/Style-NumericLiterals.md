@@ -1,4 +1,4 @@
-Pattern: Style/NumericLiterals
+Pattern: Numeric literals
 
 Issue: -
 

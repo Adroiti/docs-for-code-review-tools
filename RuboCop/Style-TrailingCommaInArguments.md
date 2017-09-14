@@ -1,4 +1,4 @@
-Pattern: Style/TrailingCommaInArguments
+Pattern: Trailing comma in argument list
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/MethodCalledOnDoEndBlock
+Pattern: Method called on do end block
 
 Issue: -
 

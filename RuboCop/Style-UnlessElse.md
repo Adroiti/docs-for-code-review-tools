@@ -1,10 +1,28 @@
-Pattern: Style/UnlessElse
+Pattern: Use of `unless` with `else`
 
 Issue: -
 
 ## Description
 
 This cop looks for *unless* expressions with *else* clauses.
+
+### Example
+
+```ruby
+# bad
+unless success?
+  puts 'failure'
+else
+  puts 'success'
+end
+
+# good
+if success?
+  puts 'success'
+else
+  puts 'failure'
+end
+```
 
 ## Further Reading
 

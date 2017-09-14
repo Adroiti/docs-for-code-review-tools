@@ -1,10 +1,10 @@
-Pattern: Style/UnneededCapitalW
+Pattern: Unneeded use of `%W`
 
 Issue: -
 
 ## Description
 
-This cop checks for usage of the %W() syntax when %w() would do.
+This cop checks for usage of the `%W` syntax when interpolation is not needed or `%w` would do.
 
 ## Further Reading
 

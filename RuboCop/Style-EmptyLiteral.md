@@ -1,4 +1,4 @@
-Pattern: Style/EmptyLiteral
+Pattern: Empty literal
 
 Issue: -
 

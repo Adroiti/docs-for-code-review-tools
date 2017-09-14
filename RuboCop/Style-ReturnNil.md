@@ -1,4 +1,4 @@
-Pattern: Style/ReturnNil
+Pattern: Return nil
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/NumericPredicate
+Pattern: Numeric predicate
 
 Issue: -
 

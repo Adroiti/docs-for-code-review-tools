@@ -1,4 +1,4 @@
-Pattern: Style/OrAssignment
+Pattern: Or assignment
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/RedundantConditional
+Pattern: Redundant conditional
 
 Issue: -
 

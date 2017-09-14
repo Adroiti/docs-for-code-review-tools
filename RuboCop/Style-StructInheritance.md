@@ -1,4 +1,4 @@
-Pattern: Style/StructInheritance
+Pattern: Struct inheritance
 
 Issue: -
 

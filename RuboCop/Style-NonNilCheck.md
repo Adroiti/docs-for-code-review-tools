@@ -1,4 +1,4 @@
-Pattern: Style/NonNilCheck
+Pattern: Non nil check
 
 Issue: -
 

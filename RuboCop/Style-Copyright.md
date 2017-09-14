@@ -1,4 +1,4 @@
-Pattern: Style/Copyright
+Pattern: Copyright
 
 Issue: -
 

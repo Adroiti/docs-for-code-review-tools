@@ -1,4 +1,4 @@
-Pattern: Style/Proc
+Pattern: Proc
 
 Issue: -
 

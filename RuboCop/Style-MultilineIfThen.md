@@ -1,4 +1,4 @@
-Pattern: Style/MultilineIfThen
+Pattern: Multiline if then
 
 Issue: -
 

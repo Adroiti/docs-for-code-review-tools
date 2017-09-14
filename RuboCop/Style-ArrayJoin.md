@@ -1,4 +1,4 @@
-Pattern: Style/ArrayJoin
+Pattern: Array join
 
 Issue: -
 

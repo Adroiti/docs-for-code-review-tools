@@ -1,4 +1,4 @@
-Pattern: Style/IfInsideElse
+Pattern: If inside else
 
 Issue: -
 

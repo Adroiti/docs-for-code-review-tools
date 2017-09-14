@@ -1,4 +1,4 @@
-Pattern: Style/For
+Pattern: For
 
 Issue: -
 

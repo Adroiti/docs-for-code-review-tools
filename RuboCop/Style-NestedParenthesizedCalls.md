@@ -1,4 +1,4 @@
-Pattern: Style/NestedParenthesizedCalls
+Pattern: Nested parenthesized calls
 
 Issue: -
 

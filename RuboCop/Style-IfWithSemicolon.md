@@ -1,4 +1,4 @@
-Pattern: Style/IfWithSemicolon
+Pattern: If with semicolon
 
 Issue: -
 

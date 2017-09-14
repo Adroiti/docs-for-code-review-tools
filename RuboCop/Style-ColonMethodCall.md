@@ -1,4 +1,4 @@
-Pattern: Style/ColonMethodCall
+Pattern: Colon method call
 
 Issue: -
 

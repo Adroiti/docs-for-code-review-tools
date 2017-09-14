@@ -1,4 +1,4 @@
-Pattern: Style/LambdaCall
+Pattern: Lambda call
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/StringMethods
+Pattern: String methods
 
 Issue: -
 

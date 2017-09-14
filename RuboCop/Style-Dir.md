@@ -1,4 +1,4 @@
-Pattern: Style/Dir
+Pattern: Dir
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/EvenOdd
+Pattern: Even odd
 
 Issue: -
 

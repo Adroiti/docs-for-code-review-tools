@@ -1,4 +1,4 @@
-Pattern: Style/BarePercentLiterals
+Pattern: Bare percent literals
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/ClassAndModuleChildren
+Pattern: Class and module children
 
 Issue: -
 

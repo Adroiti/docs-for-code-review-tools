@@ -1,4 +1,4 @@
-Pattern: Style/SpecialGlobalVars
+Pattern: Special global vars
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/SelfAssignment
+Pattern: Self assignment
 
 Issue: -
 

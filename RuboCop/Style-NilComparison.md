@@ -1,4 +1,4 @@
-Pattern: Style/NilComparison
+Pattern: Nil comparison
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/MultilineBlockChain
+Pattern: Multiline block chain
 
 Issue: -
 

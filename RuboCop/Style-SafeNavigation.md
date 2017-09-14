@@ -1,4 +1,4 @@
-Pattern: Style/SafeNavigation
+Pattern: Safe navigation
 
 Issue: -
 

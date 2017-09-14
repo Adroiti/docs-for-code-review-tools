@@ -1,4 +1,4 @@
-Pattern: Style/RedundantSelf
+Pattern: Redundant self
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Style/NegatedIf
+Pattern: Negated if
 
 Issue: -
 

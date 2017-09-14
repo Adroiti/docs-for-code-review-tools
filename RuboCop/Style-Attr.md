@@ -1,4 +1,4 @@
-Pattern: Style/Attr
+Pattern: Attr
 
 Issue: -
 

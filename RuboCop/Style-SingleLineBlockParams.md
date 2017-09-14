@@ -1,4 +1,4 @@
-Pattern: Style/SingleLineBlockParams
+Pattern: Single line block params
 
 Issue: -
 

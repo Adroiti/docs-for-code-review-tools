@@ -1,4 +1,4 @@
-Pattern: Style/CaseEquality
+Pattern: Case equality
 
 Issue: -
 

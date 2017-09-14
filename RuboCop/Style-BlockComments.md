@@ -1,4 +1,4 @@
-Pattern: Style/BlockComments
+Pattern: Block comments
 
 Issue: -
 

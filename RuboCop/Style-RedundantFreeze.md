@@ -1,4 +1,4 @@
-Pattern: Style/RedundantFreeze
+Pattern: Redundant freeze
 
 Issue: -
 
