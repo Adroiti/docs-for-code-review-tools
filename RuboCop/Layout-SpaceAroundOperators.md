@@ -1,11 +1,10 @@
-Pattern: Layout/SpaceAroundOperators
+Pattern: Malformed space around operator
 
 Issue: -
 
 ## Description
 
-Checks that operators have space around them, except for **
-which should not have surrounding space.
+Checks that operators have space around them, except for `**` which should not have surrounding space.
 
 ## Default configuration
 

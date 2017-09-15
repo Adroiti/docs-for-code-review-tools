@@ -1,12 +1,10 @@
-Pattern: Layout/FirstParameterIndentation
+Pattern: Malformed indentation of first parameter
 
 Issue: -
 
 ## Description
 
 This cop checks the indentation of the first parameter in a method call.
-Parameters after the first one are checked by Style/AlignParameters, not
-by this cop.
 
 ### Example
 

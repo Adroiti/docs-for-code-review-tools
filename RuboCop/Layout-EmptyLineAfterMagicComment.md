@@ -1,10 +1,10 @@
-Pattern: Layout/EmptyLineAfterMagicComment
+Pattern: Missing empty line after magic comment
 
 Issue: -
 
 ## Description
 
-Checks for a newline after the final magic comment.
+Checks for a newline after the last magic comment.
 
 ### Example
 
@@ -12,10 +12,12 @@ Checks for a newline after the final magic comment.
 # good
 # frozen_string_literal: true
 
+
 # Some documentation for Person
 class Person
   # Some code
 end
+
 
 # bad
 # frozen_string_literal: true

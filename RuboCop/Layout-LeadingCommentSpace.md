@@ -1,4 +1,4 @@
-Pattern: Layout/LeadingCommentSpace
+Pattern: Missing space after `#`
 
 Issue: -
 

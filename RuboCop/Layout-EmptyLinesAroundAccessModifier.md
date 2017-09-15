@@ -1,4 +1,4 @@
-Pattern: Layout/EmptyLinesAroundAccessModifier
+Pattern: Missing blank lines around access modifier
 
 Issue: -
 

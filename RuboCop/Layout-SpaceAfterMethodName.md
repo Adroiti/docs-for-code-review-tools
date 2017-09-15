@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceAfterMethodName
+Pattern: Space after method name
 
 Issue: -
 

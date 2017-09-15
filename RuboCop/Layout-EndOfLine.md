@@ -1,4 +1,4 @@
-Pattern: Layout/EndOfLine
+Pattern: Malformed end of line
 
 Issue: -
 

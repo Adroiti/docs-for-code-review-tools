@@ -1,12 +1,11 @@
-Pattern: Layout/IndentHash
+Pattern: Malformed hash indentation
 
 Issue: -
 
 ## Description
 
 This cops checks the indentation of the first key in a hash literal
-where the opening brace and the first key are on separate lines. The
-other keys' indentations are handled by the AlignHash cop.
+where the opening brace and the first key are on separate lines.
 
 By default, Hash literals that are arguments in a method call with
 parentheses, and where the opening curly brace of the hash is on the

@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceInsideStringInterpolation
+Pattern: Malformed space inside string interpolation
 
 Issue: -
 

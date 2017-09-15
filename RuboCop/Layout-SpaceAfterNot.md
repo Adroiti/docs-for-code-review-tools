@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceAfterNot
+Pattern: Space after `!`
 
 Issue: -
 

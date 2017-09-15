@@ -1,11 +1,10 @@
-Pattern: Layout/MultilineMethodCallIndentation
+Pattern: Malformed indentation of multi-line method call
 
 Issue: -
 
 ## Description
 
-This cop checks the indentation of the method name part in method calls
-that span more than one line.
+This cop checks the indentation of the method name part in method calls that span more than one line.
 
 ### Example
 

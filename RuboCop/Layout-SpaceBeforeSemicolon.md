@@ -1,10 +1,10 @@
-Pattern: Layout/SpaceBeforeSemicolon
+Pattern: Space before `;`
 
 Issue: -
 
 ## Description
 
-Checks for semicolon (;) preceded by space.
+Checks for semicolon (`;`) preceded by space.
 
 ### Example
 

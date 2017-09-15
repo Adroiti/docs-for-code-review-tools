@@ -1,4 +1,4 @@
-Pattern: Layout/IndentHeredoc
+Pattern: Malformed heredoc indentation 
 
 Issue: -
 

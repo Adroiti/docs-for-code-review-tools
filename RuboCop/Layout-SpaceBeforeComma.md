@@ -1,10 +1,10 @@
-Pattern: Layout/SpaceBeforeComma
+Pattern: Space before `,`
 
 Issue: -
 
 ## Description
 
-Checks for comma (,) preceded by space.
+Checks for comma (`,`) preceded by space.
 
 ## Further Reading
 

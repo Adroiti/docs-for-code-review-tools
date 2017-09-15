@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceAroundBlockParameters
+Pattern: Malformed space around block parameter pipe
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceInsideParens
+Pattern: Space inside parentheses
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceInsideBrackets
+Pattern: Space inside square brackets
 
 Issue: -
 

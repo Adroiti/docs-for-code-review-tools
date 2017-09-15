@@ -1,4 +1,4 @@
-Pattern: Layout/EmptyLinesAroundExceptionHandlingKeywords
+Pattern: Malformed spacing around exception handling keyword
 
 Issue: -
 

@@ -1,14 +1,10 @@
-Pattern: Layout/IndentAssignment
+Pattern: Missing indentation for multi-line assignment
 
 Issue: -
 
 ## Description
 
-This cop checks the indentation of the first line of the
-right-hand-side of a multi-line assignment.
-
-The indentation of the remaining lines can be corrected with
-other cops such as `IndentationConsistency` and `EndAlignment`.
+This cop checks the indentation of the first line of the right-hand-side of a multi-line assignment.
 
 ### Example
 

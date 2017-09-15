@@ -1,4 +1,4 @@
-Pattern: Layout/CommentIndentation
+Pattern: Malformed comment indentation
 
 Issue: -
 

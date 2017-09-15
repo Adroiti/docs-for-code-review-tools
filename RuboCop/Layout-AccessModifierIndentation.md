@@ -1,11 +1,11 @@
-Pattern: Layout/AccessModifierIndentation
+Pattern: Malformed indentation for access modifier
 
 Issue: -
 
 ## Description
 
 Modifiers should be indented as deep as method definitions, or as deep
-as the class/module keyword, depending on configuration.
+as the `class`/`module` keyword, depending on configuration.
 
 ### Example
 

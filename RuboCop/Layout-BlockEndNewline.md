@@ -1,11 +1,10 @@
-Pattern: Layout/BlockEndNewline
+Pattern: Missing newline for `do..end`
 
 Issue: -
 
 ## Description
 
-This cop checks whether the end statement of a do..end block
-is on its own line.
+This cop checks whether the `end` statement of a `do..end` block is on its own line.
 
 ### Example
 

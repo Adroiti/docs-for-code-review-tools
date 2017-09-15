@@ -1,11 +1,10 @@
-Pattern: Layout/MultilineOperationIndentation
+Pattern: Malformed indentation of multi-line operation
 
 Issue: -
 
 ## Description
 
-This cop checks the indentation of the right hand side operand in
-binary operations that span more than one line.
+This cop checks the indentation of the right hand side operand in binary operations that span more than one line.
 
 ### Example
 

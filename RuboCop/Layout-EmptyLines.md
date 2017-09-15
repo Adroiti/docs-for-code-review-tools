@@ -1,10 +1,29 @@
-Pattern: Layout/EmptyLines
+Pattern: Extra blank line
 
 Issue: -
 
 ## Description
 
 This cops checks for two or more consecutive blank lines.
+
+### Example
+
+```ruby
+# bad
+some_method
+
+
+
+
+some_method
+
+
+# good
+some_method
+
+
+some_method
+```
 
 ## Further Reading
 

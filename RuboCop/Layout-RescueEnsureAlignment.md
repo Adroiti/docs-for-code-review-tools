@@ -1,11 +1,10 @@
-Pattern: Layout/RescueEnsureAlignment
+Pattern: Misaligned `rescue`/`ensure`
 
 Issue: -
 
 ## Description
 
-This cop checks whether the rescue and ensure keywords are aligned
-properly.
+This cop checks whether the `rescue` and `ensure` keywords are aligned properly.
 
 ### Example
 

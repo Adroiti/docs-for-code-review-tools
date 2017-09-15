@@ -1,4 +1,4 @@
-Pattern: Layout/MultilineMethodDefinitionBraceLayout
+Pattern: Misaligned multi-line method definition brace
 
 Issue: -
 

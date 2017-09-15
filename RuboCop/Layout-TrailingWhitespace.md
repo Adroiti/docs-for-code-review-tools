@@ -1,4 +1,4 @@
-Pattern: Layout/TrailingWhitespace
+Pattern: Trailing whitespace
 
 Issue: -
 

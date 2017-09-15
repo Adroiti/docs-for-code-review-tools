@@ -1,11 +1,10 @@
-Pattern: Layout/FirstMethodArgumentLineBreak
+Pattern: Missing line break before first method argument
 
 Issue: -
 
 ## Description
 
-This cop checks for a line break before the first argument in a
-multi-line method call.
+This cop checks for a line break before the first argument in a multi-line method call.
 
 ### Example
 

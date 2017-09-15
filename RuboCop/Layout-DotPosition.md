@@ -1,10 +1,10 @@
-Pattern: Layout/DotPosition
+Pattern: Misplaced `.` in method call
 
 Issue: -
 
 ## Description
 
-This cop checks the . position in multi-line method calls.
+This cop checks the `.` position in multi-line method calls.
 
 ### Example
 

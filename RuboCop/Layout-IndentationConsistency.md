@@ -1,4 +1,4 @@
-Pattern: Layout/IndentationConsistency
+Pattern: Inconsistent indentation
 
 Issue: -
 

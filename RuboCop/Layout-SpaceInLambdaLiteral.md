@@ -1,11 +1,10 @@
-Pattern: Layout/SpaceInLambdaLiteral
+Pattern: Malformed space in lambda literal
 
 Issue: -
 
 ## Description
 
-This cop checks for spaces between -> and opening parameter
-brace in lambda literals.
+This cop checks for spaces between `->` and opening parameter brace in lambda literals.
 
 ### Example
 

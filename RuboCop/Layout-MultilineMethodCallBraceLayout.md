@@ -1,4 +1,4 @@
-Pattern: Layout/MultilineMethodCallBraceLayout
+Pattern: Misaligned multi-line method call brace
 
 Issue: -
 

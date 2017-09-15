@@ -1,11 +1,10 @@
-Pattern: Layout/AlignArray
+Pattern: Misaligned element of multi-line array
 
 Issue: -
 
 ## Description
 
-Here we check if the elements of a multi-line array literal are
-aligned.
+This cop checks if the elements of a multi-line array literal are aligned.
 
 ### Example
 

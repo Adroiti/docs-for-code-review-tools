@@ -1,14 +1,10 @@
-Pattern: Layout/IndentationWidth
+Pattern: Malformed indentation width
 
 Issue: -
 
 ## Description
 
-This cops checks for indentation that doesn't use the specified number
-of spaces.
-
-See also the IndentationConsistency cop which is the companion to this
-one.
+This cops checks for indentation that doesn't use the specified number of spaces.
 
 ### Example
 

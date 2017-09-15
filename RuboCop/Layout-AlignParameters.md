@@ -1,11 +1,10 @@
-Pattern: Layout/AlignParameters
+Pattern: Misaligned parameter of multi-line method
 
 Issue: -
 
 ## Description
 
-Here we check if the parameters on a multi-line method call or
-definition are aligned.
+This cop checks if the parameters on a multi-line method call or definition are aligned.
 
 ### Example
 

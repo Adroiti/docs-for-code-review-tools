@@ -1,4 +1,4 @@
-Pattern: Layout/ExtraSpacing
+Pattern: Unnecessary spacing
 
 Issue: -
 

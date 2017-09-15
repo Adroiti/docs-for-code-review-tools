@@ -1,10 +1,10 @@
-Pattern: Layout/SpaceAfterSemicolon
+Pattern: Space after `;`
 
 Issue: -
 
 ## Description
 
-Checks for semicolon (;) not followed by some kind of space.
+Checks for semicolon (`;`) not followed by some kind of space.
 
 ## Further Reading
 

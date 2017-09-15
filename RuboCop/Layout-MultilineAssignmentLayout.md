@@ -1,11 +1,10 @@
-Pattern: Layout/MultilineAssignmentLayout
+Pattern: Misaligned multi-line assignment
 
 Issue: -
 
 ## Description
 
-This cop checks whether the multiline assignments have a newline
-after the assignment operator.
+This cop checks whether the multi-line assignments have a newline after the assignment operator.
 
 ### Example
 

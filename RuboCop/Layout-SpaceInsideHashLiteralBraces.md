@@ -1,11 +1,10 @@
-Pattern: Layout/SpaceInsideHashLiteralBraces
+Pattern: Malformed space inside hash literal braces
 
 Issue: -
 
 ## Description
 
-Checks that braces used for hash literals have or don't have
-surrounding space depending on configuration.
+Checks that braces used for hash literals have or don't have surrounding space depending on configuration.
 
 ## Default configuration
 

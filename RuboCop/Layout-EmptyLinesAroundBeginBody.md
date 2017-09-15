@@ -1,11 +1,10 @@
-Pattern: Layout/EmptyLinesAroundBeginBody
+Pattern: Malformed spacing around begin body
 
 Issue: -
 
 ## Description
 
-This cops checks if empty lines exist around the bodies of begin-end
-blocks.
+This cops checks if empty lines exist around the bodies of begin-end blocks.
 
 ### Example
 

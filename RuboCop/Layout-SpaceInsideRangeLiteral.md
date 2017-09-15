@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceInsideRangeLiteral
+Pattern: Space inside range literal
 
 Issue: -
 

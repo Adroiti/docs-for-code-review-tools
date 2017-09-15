@@ -1,11 +1,10 @@
-Pattern: Layout/InitialIndentation
+Pattern: Indentation of first line in file
 
 Issue: -
 
 ## Description
 
-This cops checks for indentation of the first non-blank non-comment
-line in a file.
+This cops checks for indentation of the first non-blank non-comment line in a file.
 
 ## Further Reading
 

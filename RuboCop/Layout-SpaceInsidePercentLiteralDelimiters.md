@@ -1,11 +1,10 @@
-Pattern: Layout/SpaceInsidePercentLiteralDelimiters
+Pattern: Space inside percent literal delimiters
 
 Issue: -
 
 ## Description
 
-Checks for unnecessary additional spaces inside the delimiters of
-%i/%w/%x literals.
+Checks for unnecessary additional spaces inside the delimiters of `%i`/`%w`/`%x` literals.
 
 ### Example
 

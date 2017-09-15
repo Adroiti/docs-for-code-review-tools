@@ -1,4 +1,4 @@
-Pattern: Layout/MultilineArrayBraceLayout
+Pattern: Misaligned multi-line array brace
 
 Issue: -
 

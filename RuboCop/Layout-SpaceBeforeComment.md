@@ -1,11 +1,10 @@
-Pattern: Layout/SpaceBeforeComment
+Pattern: Missing space before comment
 
 Issue: -
 
 ## Description
 
-This cop checks for missing space between a token and a comment on the
-same line.
+This cop checks for missing space between a token and a comment on the same line.
 
 ### Example
 

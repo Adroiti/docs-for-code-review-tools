@@ -1,11 +1,10 @@
-Pattern: Layout/FirstArrayElementLineBreak
+Pattern: Missing line break before first array element
 
 Issue: -
 
 ## Description
 
-This cop checks for a line break before the first element in a
-multi-line array.
+This cop checks for a line break before the first element in a multi-line array.
 
 ### Example
 

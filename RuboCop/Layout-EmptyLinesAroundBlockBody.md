@@ -1,11 +1,10 @@
-Pattern: Layout/EmptyLinesAroundBlockBody
+Pattern: Malformed spacing around block body
 
 Issue: -
 
 ## Description
 
-This cops checks if empty lines around the bodies of blocks match
-the configuration.
+This cops checks if empty lines around the bodies of blocks match the configuration.
 
 ### Example
 

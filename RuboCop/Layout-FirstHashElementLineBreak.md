@@ -1,11 +1,10 @@
-Pattern: Layout/FirstHashElementLineBreak
+Pattern: Missing line break before first hash element
 
 Issue: -
 
 ## Description
 
-This cop checks for a line break before the first element in a
-multi-line hash.
+This cop checks for a line break before the first element in a multi-line hash.
 
 ### Example
 

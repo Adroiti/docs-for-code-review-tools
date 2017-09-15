@@ -1,11 +1,10 @@
-Pattern: Layout/SpaceAroundEqualsInParameterDefault
+Pattern: Malformed space around equals in parameter default
 
 Issue: -
 
 ## Description
 
-Checks that the equals signs in parameter default assignments
-have or don't have surrounding space depending on configuration.
+Checks that the equals signs in parameter default assignments have or don't have surrounding space depending on configuration.
 
 ## Default configuration
 

@@ -1,11 +1,10 @@
-Pattern: Layout/EmptyLinesAroundClassBody
+Pattern: Malformed spacing around class body
 
 Issue: -
 
 ## Description
 
-This cops checks if empty lines around the bodies of classes match
-the configuration.
+This cops checks if empty lines around the bodies of classes match the configuration.
 
 ### Example
 

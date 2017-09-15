@@ -1,4 +1,4 @@
-Pattern: Layout/MultilineHashBraceLayout
+Pattern: Misaligned multi-line hash brace
 
 Issue: -
 

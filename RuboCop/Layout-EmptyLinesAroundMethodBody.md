@@ -1,4 +1,4 @@
-Pattern: Layout/EmptyLinesAroundMethodBody
+Pattern: Malformed spacing around method body
 
 Issue: -
 

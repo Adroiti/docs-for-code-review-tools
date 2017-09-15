@@ -1,4 +1,4 @@
-Pattern: Layout/SpaceAroundKeyword
+Pattern: Malformed space around keyword
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Layout/AlignHash
+Pattern: Misaligned element of hash
 
 Issue: -
 

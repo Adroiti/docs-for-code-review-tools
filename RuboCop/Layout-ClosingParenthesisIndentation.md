@@ -1,4 +1,4 @@
-Pattern: Layout/ClosingParenthesisIndentation
+Pattern: Malformed `)` indentation
 
 Issue: -
 

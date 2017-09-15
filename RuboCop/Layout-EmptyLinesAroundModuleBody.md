@@ -1,11 +1,10 @@
-Pattern: Layout/EmptyLinesAroundModuleBody
+Pattern: Malformed spacing around module body
 
 Issue: -
 
 ## Description
 
-This cops checks if empty lines around the bodies of modules match
-the configuration.
+This cops checks if empty lines around the bodies of modules match the configuration.
 
 ### Example
 

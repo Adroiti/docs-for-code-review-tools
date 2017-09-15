@@ -1,11 +1,10 @@
-Pattern: Layout/TrailingBlankLines
+Pattern: Missing trailing blank line
 
 Issue: -
 
 ## Description
 
-This cop looks for trailing blank lines and a final newline in the
-source code.
+This cop looks for trailing blank lines and a final newline in the source code.
 
 ## Default configuration
 

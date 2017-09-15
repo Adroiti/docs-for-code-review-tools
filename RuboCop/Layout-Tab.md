@@ -1,4 +1,4 @@
-Pattern: Layout/Tab
+Pattern: Use of tab character
 
 Issue: -
 
