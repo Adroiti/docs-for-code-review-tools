@@ -1,4 +1,4 @@
-Pattern: Lint/EmptyWhen
+Pattern: Empty `when`
 
 Issue: -
 

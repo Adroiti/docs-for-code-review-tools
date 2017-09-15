@@ -1,4 +1,4 @@
-Pattern: Lint/NonLocalExitFromIterator
+Pattern: Non-local exit from iterator
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Lint/EmptyInterpolation
+Pattern: Empty interpolation
 
 Issue: -
 

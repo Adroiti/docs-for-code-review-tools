@@ -1,11 +1,10 @@
-Pattern: Lint/UriRegexp
+Pattern: Use of `URI.regexp`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `URI.regexp` is obsolete and should
-not be used. Instead, use `URI::DEFAULT_PARSER.make_regexp`.
+This cop identifies places where `URI.regexp` is obsolete and should not be used. Instead, use `URI::DEFAULT_PARSER.make_regexp`.
 
 ### Example
 

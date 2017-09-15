@@ -1,10 +1,10 @@
-Pattern: Lint/UnneededSplatExpansion
+Pattern: Unnecessary splat expansion
 
 Issue: -
 
 ## Description
 
-This cop checks for unneeded usages of splat expansion
+This cop checks for unnecessary usages of splat expansion.
 
 ### Example
 

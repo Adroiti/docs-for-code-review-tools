@@ -1,4 +1,4 @@
-Pattern: Lint/UselessAccessModifier
+Pattern: Useless access modifier
 
 Issue: -
 

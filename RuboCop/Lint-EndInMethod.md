@@ -1,10 +1,10 @@
-Pattern: Lint/EndInMethod
+Pattern: Use of `END` in method definition
 
 Issue: -
 
 ## Description
 
-This cop checks for END blocks in method definitions.
+This cop checks for `END` blocks in method definitions.
 
 ### Example
 

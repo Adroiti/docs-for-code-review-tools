@@ -1,4 +1,4 @@
-Pattern: Lint/UnusedMethodArgument
+Pattern: Unused method argument
 
 Issue: -
 

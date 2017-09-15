@@ -1,11 +1,10 @@
-Pattern: Lint/BlockAlignment
+Pattern: Misaligned `end` in block
 
 Issue: -
 
 ## Description
 
-This cop checks whether the end keywords are aligned properly for do
-end blocks.
+This cop checks whether the `end` keywords are aligned properly for `do..end` blocks.
 
 Three modes are supported through the `EnforcedStyleAlignWith`
 configuration parameter:
@@ -16,8 +15,7 @@ start of the line where the `do` appeared.
 `start_of_line` : the `end` shall be aligned with the
 start of the line where the expression started.
 
-`either` (which is the default) : the `end` is allowed to be in either
-location. The autofixer will default to `start_of_line`.
+`either` (which is the default) : the `end` is allowed to be in either location.
 
 ### Example
 

@@ -1,11 +1,10 @@
-Pattern: Lint/BooleanSymbol
+Pattern: Use of `:true`/`:false`
 
 Issue: -
 
 ## Description
 
-This cop checks for `:true` and `:false` symbols.
-In most cases it would be a typo.
+This cop checks for `:true` and `:false` symbols. In most cases it would be a typo.
 
 ### Example
 

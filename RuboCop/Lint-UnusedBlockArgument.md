@@ -1,4 +1,4 @@
-Pattern: Lint/UnusedBlockArgument
+Pattern: Unused block argument
 
 Issue: -
 

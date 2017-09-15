@@ -1,12 +1,10 @@
-Pattern: Lint/LiteralInCondition
+Pattern: Literal in condition
 
 Issue: -
 
 ## Description
 
-This cop checks for literals used as the conditions or as
-operands in and/or expressions serving as the conditions of
-if/while/until.
+This cop checks for literals used as the conditions or as operands in and/or expressions serving as the conditions of `if`/`while`/`until`.
 
 ### Example
 

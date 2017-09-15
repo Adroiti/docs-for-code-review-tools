@@ -1,4 +1,4 @@
-Pattern: Lint/IneffectiveAccessModifier
+Pattern: Ineffective access modifier
 
 Issue: -
 

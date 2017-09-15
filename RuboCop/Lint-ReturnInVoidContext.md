@@ -1,11 +1,11 @@
-Pattern: Lint/ReturnInVoidContext
+Pattern: `return` in void context
 
 Issue: -
 
 ## Description
 
-This cop checks for the use of a return with a value in a context
-where the value will be ignored. (initialize and setter methods)
+This cop checks for the use of a `return `with a value in a context
+where the value will be ignored (initialize and setter methods).
 
 ### Example
 

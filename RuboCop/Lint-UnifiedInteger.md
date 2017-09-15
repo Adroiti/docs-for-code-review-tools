@@ -1,10 +1,10 @@
-Pattern: Lint/UnifiedInteger
+Pattern: Use of `Fixnum`/`Bignum`
 
 Issue: -
 
 ## Description
 
-This cop checks for using Fixnum or Bignum constant.
+This cop checks for using `Fixnum` or `Bignum` constant.
 
 ### Example
 

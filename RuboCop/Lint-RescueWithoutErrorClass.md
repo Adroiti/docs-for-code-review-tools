@@ -1,4 +1,4 @@
-Pattern: Lint/RescueWithoutErrorClass
+Pattern: `rescue` without error class
 
 Issue: -
 

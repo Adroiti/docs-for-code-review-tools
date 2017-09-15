@@ -1,12 +1,10 @@
-Pattern: Lint/DuplicatedKey
+Pattern: Duplicate hash key
 
 Issue: -
 
 ## Description
 
-This cop checks for duplicated keys in hash literals.
-
-This cop mirrors a warning in Ruby 2.2.
+This cop checks for duplicated keys in hash literals. This cop mirrors a warning in Ruby 2.2.
 
 ### Example
 

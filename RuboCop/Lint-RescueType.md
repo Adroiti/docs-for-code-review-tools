@@ -1,11 +1,10 @@
-Pattern: Lint/RescueType
+Pattern: Wrong `rescue` argument
 
 Issue: -
 
 ## Description
 
-Check for arguments to `rescue` that will result in a `TypeError`
-if an exception is raised.
+Check for arguments to `rescue` that will result in a `TypeError` if an exception is raised.
 
 ### Example
 

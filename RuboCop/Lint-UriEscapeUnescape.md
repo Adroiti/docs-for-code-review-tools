@@ -1,4 +1,4 @@
-Pattern: Lint/UriEscapeUnescape
+Pattern: Use of `URI.escape`/`URI.unescape`
 
 Issue: -
 

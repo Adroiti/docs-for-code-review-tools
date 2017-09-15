@@ -1,11 +1,10 @@
-Pattern: Lint/AmbiguousBlockAssociation
+Pattern: Ambiguous block association
 
 Issue: -
 
 ## Description
 
-This cop checks for ambiguous block association with method
-when param passed without parentheses.
+This cop checks for ambiguous block association with method when param is passed without parentheses.
 
 ### Example
 

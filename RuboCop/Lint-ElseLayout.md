@@ -1,12 +1,10 @@
-Pattern: Lint/ElseLayout
+Pattern: Odd `else` layout
 
 Issue: -
 
 ## Description
 
-This cop checks for odd else block layout - like
-having an expression on the same line as the else keyword,
-which is usually a mistake.
+This cop checks for odd else block layout - like having an expression on the same line as the `else` keyword, which is usually a mistake.
 
 ### Example
 

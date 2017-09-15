@@ -1,10 +1,10 @@
-Pattern: Lint/EnsureReturn
+Pattern: Use of `return` in `ensure` block
 
 Issue: -
 
 ## Description
 
-This cop checks for *return* from an *ensure* block.
+If you explicitly return from a method inside an `ensure` block, the return will take precedence over any exception being raised, and the method will return as if no exception had been raised at all. In effect, the exception will be silently thrown away.
 
 ### Example
 

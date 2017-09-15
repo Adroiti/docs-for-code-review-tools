@@ -1,4 +1,4 @@
-Pattern: Lint/NestedMethodDefinition
+Pattern: Nested method definition
 
 Issue: -
 

@@ -1,11 +1,11 @@
-Pattern: Lint/MultipleCompare
+Pattern: Invalid multiple compare
 
 Issue: -
 
 ## Description
 
-In math and Python, we can use `x < y < z` style comparison to compare
-multiple value. However, we can't use the comparison in Ruby. However,
+In math and Python, you can use `x < y < z` style comparison to compare
+multiple value. However, you can't use the comparison in Ruby. However,
 the comparison is not syntax error. This cop checks the bad usage of
 comparison operators.
 

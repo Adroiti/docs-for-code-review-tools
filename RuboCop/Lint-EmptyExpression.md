@@ -1,4 +1,4 @@
-Pattern: Lint/EmptyExpression
+Pattern: Empty expression
 
 Issue: -
 

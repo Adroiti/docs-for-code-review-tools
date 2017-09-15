@@ -1,4 +1,4 @@
-Pattern: Lint/DeprecatedClassMethods
+Pattern: Deprecated class method call
 
 Issue: -
 

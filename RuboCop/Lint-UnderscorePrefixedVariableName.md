@@ -1,11 +1,10 @@
-Pattern: Lint/UnderscorePrefixedVariableName
+Pattern: `_` for used variable
 
 Issue: -
 
 ## Description
 
-This cop checks for underscore-prefixed variables that are actually
-used.
+This cop checks for underscore-prefixed variables that are actually used.
 
 ### Example
 

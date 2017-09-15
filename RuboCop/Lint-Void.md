@@ -1,4 +1,4 @@
-Pattern: Lint/Void
+Pattern: Use in void context
 
 Issue: -
 

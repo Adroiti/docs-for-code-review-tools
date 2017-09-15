@@ -1,4 +1,4 @@
-Pattern: Lint/UselessElseWithoutRescue
+Pattern: Useless `else` in `begin..end`
 
 Issue: -
 

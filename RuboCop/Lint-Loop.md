@@ -1,10 +1,10 @@
-Pattern: Lint/Loop
+Pattern: Unused `Kernel#loop` with `break`
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of *begin...end while/until something*.
+This cop checks for uses of `begin...end while/until something`.
 
 ### Example
 

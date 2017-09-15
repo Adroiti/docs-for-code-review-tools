@@ -1,4 +1,4 @@
-Pattern: Lint/InterpolationCheck
+Pattern: Interpolation in single quoted string
 
 Issue: -
 

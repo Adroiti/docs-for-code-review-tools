@@ -1,11 +1,10 @@
-Pattern: Lint/UselessSetterCall
+Pattern: Useless setter call
 
 Issue: -
 
 ## Description
 
-This cop checks for setter call to local variable as the final
-expression of a function definition.
+This cop checks for setter call to local variable as the final expression of a function definition.
 
 ### Example
 

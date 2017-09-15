@@ -1,11 +1,10 @@
-Pattern: Lint/DefEndAlignment
+Pattern: Misaligned `end` in method
 
 Issue: -
 
 ## Description
 
-This cop checks whether the end keywords of method definitions are
-aligned properly.
+This cop checks whether the `end` keywords of method definitions are aligned properly.
 
 Two modes are supported through the EnforcedStyleAlignWith configuration
 parameter. If it's set to `start_of_line` (which is the default), the

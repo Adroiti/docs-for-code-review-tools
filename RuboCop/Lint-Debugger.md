@@ -1,10 +1,10 @@
-Pattern: Lint/Debugger
+Pattern: Call to `debugger`/`pry`
 
 Issue: -
 
 ## Description
 
-This cop checks for calls to debugger or pry.
+This cop checks for calls to `debugger` or `pry`.
 
 ### Example
 

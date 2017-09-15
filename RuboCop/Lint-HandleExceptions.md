@@ -1,10 +1,10 @@
-Pattern: Lint/HandleExceptions
+Pattern: Empty `rescue`
 
 Issue: -
 
 ## Description
 
-This cop checks for *rescue* blocks with no body.
+This cop checks for `rescue` blocks with no body.
 
 ### Example
 

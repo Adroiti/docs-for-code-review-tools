@@ -1,11 +1,10 @@
-Pattern: Lint/AssignmentInCondition
+Pattern: Assignment in condition
 
 Issue: -
 
 ## Description
 
-This cop checks for assignments in the conditions of
-if/while/until.
+This cop checks for assignments in the conditions of `if`/`while`/`until`.
 
 ### Example
 

@@ -1,10 +1,10 @@
-Pattern: Lint/RescueException
+Pattern: Rescuing `Exception` class
 
 Issue: -
 
 ## Description
 
-This cop checks for *rescue* blocks targeting the Exception class.
+This cop checks for `rescue` blocks targeting the Exception class.
 
 ### Example
 

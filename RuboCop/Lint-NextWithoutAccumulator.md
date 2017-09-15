@@ -1,4 +1,4 @@
-Pattern: Lint/NextWithoutAccumulator
+Pattern: `next` without accumulator
 
 Issue: -
 

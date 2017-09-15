@@ -1,10 +1,10 @@
-Pattern: Lint/EndAlignment
+Pattern: Misaligned `end`
 
 Issue: -
 
 ## Description
 
-This cop checks whether the end keywords are aligned properly.
+This cop checks whether the `end` keywords are aligned properly.
 
 Three modes are supported through the `EnforcedStyleAlignWith`
 configuration parameter:

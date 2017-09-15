@@ -1,12 +1,10 @@
-Pattern: Lint/InvalidCharacterLiteral
+Pattern: Invalid character literal
 
 Issue: -
 
 ## Description
 
-This cop checks for invalid character literals with a non-escaped
-whitespace character (e.g. `? `).
-However, currently it's unclear whether there's a way to emit this
+This cop checks for invalid character literals with a non-escaped whitespace character (e.g. `? `). However, currently it's unclear whether there's a way to emit this
 warning without syntax errors.
 
     $ ruby -w

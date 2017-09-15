@@ -1,4 +1,4 @@
-Pattern: Lint/ShadowedException
+Pattern: Shadowed rescued exception
 
 Issue: -
 

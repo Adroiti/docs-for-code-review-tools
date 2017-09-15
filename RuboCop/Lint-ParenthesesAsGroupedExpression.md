@@ -1,11 +1,10 @@
-Pattern: Lint/ParenthesesAsGroupedExpression
+Pattern: `(...)` interpreted as grouped expression
 
 Issue: -
 
 ## Description
 
-Checks for space between a the name of a called method and a left
-parenthesis.
+Checks for space between a the name of a called method and a left parenthesis.
 
 ### Example
 

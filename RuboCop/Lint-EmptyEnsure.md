@@ -1,4 +1,4 @@
-Pattern: Lint/EmptyEnsure
+Pattern: Empty `ensure`
 
 Issue: -
 

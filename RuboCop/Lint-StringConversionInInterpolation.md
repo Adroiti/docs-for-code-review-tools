@@ -1,11 +1,10 @@
-Pattern: Lint/StringConversionInInterpolation
+Pattern: String conversion in interpolation
 
 Issue: -
 
 ## Description
 
-This cop checks for string conversion in string interpolation,
-which is redundant.
+This cop checks for string conversion in string interpolation, which is redundant.
 
 ### Example
 

@@ -1,18 +1,17 @@
-Pattern: Lint/AmbiguousRegexpLiteral
+Pattern: Ambiguous RegExp literal
 
 Issue: -
 
 ## Description
 
-This cop checks for ambiguous regexp literals in the first argument of
-a method invocation without parentheses.
+This cop checks for ambiguous RegExp literals in the first argument of a method invocation without parentheses.
 
 ### Example
 
 ```ruby
 # bad
 
-# This is interpreted as a method invocation with a regexp literal,
+# This is interpreted as a method invocation with a RegExp literal,
 # but it could possibly be `/` method invocations.
 # (i.e. `do_something./(pattern)./(i)`)
 do_something /pattern/i

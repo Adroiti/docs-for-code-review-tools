@@ -1,4 +1,4 @@
-Pattern: Lint/InheritException
+Pattern: Inheritance from `Exception`
 
 Issue: -
 

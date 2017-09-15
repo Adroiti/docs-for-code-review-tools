@@ -1,4 +1,4 @@
-Pattern: Lint/UselessComparison
+Pattern: Useless comparison with itself
 
 Issue: -
 

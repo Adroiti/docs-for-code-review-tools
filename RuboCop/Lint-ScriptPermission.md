@@ -1,11 +1,10 @@
-Pattern: Lint/ScriptPermission
+Pattern: Missing execute permission for script
 
 Issue: -
 
 ## Description
 
-This cop checks if a file which has a shebang line as
-its first line is granted execute permission.
+This cop checks if a file which has a shebang line as its first line is granted execute permission.
 
 ## Further Reading
 

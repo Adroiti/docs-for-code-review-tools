@@ -1,11 +1,10 @@
-Pattern: Lint/ImplicitStringConcatenation
+Pattern: Implicit string concatenation
 
 Issue: -
 
 ## Description
 
-This cop checks for implicit string concatenation of string literals
-which are on the same line.
+This cop checks for implicit string concatenation of string literals which are on the same line.
 
 ### Example
 

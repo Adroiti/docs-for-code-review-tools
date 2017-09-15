@@ -1,11 +1,10 @@
-Pattern: Lint/ConditionPosition
+Pattern: Wrong condition position
 
 Issue: -
 
 ## Description
 
-This cop checks for conditions that are not on the same line as
-if/while/until.
+This cop checks for conditions that are not on the same line as `if`/`while`/`until`.
 
 ### Example
 
