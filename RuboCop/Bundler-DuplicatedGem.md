@@ -1,10 +1,10 @@
-Pattern: Bundler/DuplicatedGem
+Pattern: Duplicate gem
 
 Issue: -
 
 ## Description
 
-A Gem's requirements should be listed only once in a Gemfile.
+A Gem's requirements should be listed only once in a `Gemfile`.
 
 ### Example
 

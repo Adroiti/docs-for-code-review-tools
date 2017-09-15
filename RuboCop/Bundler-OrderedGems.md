@@ -1,4 +1,4 @@
-Pattern: Bundler/OrderedGems
+Pattern: Unordered gems
 
 Issue: -
 
