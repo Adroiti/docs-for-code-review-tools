@@ -1,4 +1,4 @@
-Pattern: Metrics/ParameterLists
+Pattern: Too many method parameters
 
 Issue: -
 

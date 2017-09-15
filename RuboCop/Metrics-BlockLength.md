@@ -1,4 +1,4 @@
-Pattern: Metrics/BlockLength
+Pattern: Block has too many lines
 
 Issue: -
 

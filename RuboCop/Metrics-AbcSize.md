@@ -1,12 +1,12 @@
-Pattern: Metrics/AbcSize
+Pattern: ABC size is too high
 
 Issue: -
 
 ## Description
 
-This cop checks that the ABC size of methods is not higher than the
+This cop checks that the  Assignment Branch Condition (ABC) size of methods is not higher than the
 configured maximum. The ABC size is based on assignments, branches
-(method calls), and conditions. See http://c2.com/cgi/wiki?AbcMetric
+(method calls), and conditions.
 
 ## Default configuration
 

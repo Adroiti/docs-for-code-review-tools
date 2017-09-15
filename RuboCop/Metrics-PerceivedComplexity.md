@@ -1,4 +1,4 @@
-Pattern: Metrics/PerceivedComplexity
+Pattern: Perceived complexity is too high
 
 Issue: -
 
@@ -10,8 +10,7 @@ reason it considers `when` nodes as something that doesn't add as much
 complexity as an `if` or a `&&`. Except if it's one of those special
 `case`/`when` constructs where there's no expression after `case`. Then
 the cop treats it as an `if`/`elsif`/`elsif`... and lets all the `when`
-nodes count. In contrast to the CyclomaticComplexity cop, this cop
-considers `else` nodes as adding complexity.
+nodes count. This cop considers `else` nodes as adding complexity.
 
 ### Example
 

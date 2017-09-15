@@ -1,4 +1,4 @@
-Pattern: Metrics/BlockNesting
+Pattern: Excessive block nesting
 
 Issue: -
 

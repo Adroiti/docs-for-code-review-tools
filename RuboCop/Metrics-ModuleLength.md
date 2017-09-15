@@ -1,4 +1,4 @@
-Pattern: Metrics/ModuleLength
+Pattern: Module has too many lines
 
 Issue: -
 

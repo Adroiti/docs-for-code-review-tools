@@ -1,4 +1,4 @@
-Pattern: Metrics/ClassLength
+Pattern: Class has too many lines
 
 Issue: -
 

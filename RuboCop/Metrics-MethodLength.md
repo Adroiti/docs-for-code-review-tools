@@ -1,4 +1,4 @@
-Pattern: Metrics/MethodLength
+Pattern: Method has too many lines
 
 Issue: -
 
