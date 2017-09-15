@@ -1,4 +1,4 @@
-Pattern: Security/MarshalLoad
+Pattern: Use of `Marshal.`
 
 Issue: -
 
@@ -24,5 +24,5 @@ Marshal.load(Marshal.dump({}))
 
 ## Further Reading
 
+* [Documentation for Ruby - Marshal.load](https://docs.ruby-lang.org/en/2.0.0/security_rdoc.html#label-Marshal.load)
 * [RuboCop - Security/MarshalLoad](https://rubocop.readthedocs.io/en/latest/cops_security/#securitymarshalload)
-* [http://ruby-doc.org/core-2.3.3/Marshal.html#module-Marshal-label-Security+considerations](http://ruby-doc.org/core-2.3.3/Marshal.html#module-Marshal-label-Security+considerations)

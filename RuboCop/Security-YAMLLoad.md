@@ -1,4 +1,4 @@
-Pattern: Security/YAMLLoad
+Pattern: Use of `YAML.load`
 
 Issue: -
 
@@ -21,5 +21,5 @@ YAML.dump("foo")
 
 ## Further Reading
 
+* [Documentation for Ruby - YAML](https://docs.ruby-lang.org/en/2.0.0/security_rdoc.html#label-YAML)
 * [RuboCop - Security/YAMLLoad](https://rubocop.readthedocs.io/en/latest/cops_security/#securityyamlload)
-* [https://ruby-doc.org/stdlib-2.3.3/libdoc/yaml/rdoc/YAML.html#module-YAML-label-Security](https://ruby-doc.org/stdlib-2.3.3/libdoc/yaml/rdoc/YAML.html#module-YAML-label-Security)

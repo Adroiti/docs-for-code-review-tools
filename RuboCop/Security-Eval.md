@@ -1,10 +1,12 @@
-Pattern: Security/Eval
+Pattern: Use of `eval`
 
 Issue: -
 
 ## Description
 
-This cop checks for the use of `Kernel#eval` and `Binding#eval`.
+Never pass untrusted or user controlled input to `eval`.
+
+Unless you are implementing a REPL like `irb` or `pry`, `eval` is almost certainly not what you want. Do not attempt to filter user input before passing it to `eval` - this approach is fraught with danger and will most likely open your application up to a serious remote code execution vulnerability.
 
 ### Example
 
@@ -17,4 +19,5 @@ binding.eval(something)
 
 ## Further Reading
 
+* [Documentation for Ruby - eval](https://docs.ruby-lang.org/en/2.0.0/security_rdoc.html#label-eval)
 * [RuboCop - Security/Eval](https://rubocop.readthedocs.io/en/latest/cops_security/#securityeval)
