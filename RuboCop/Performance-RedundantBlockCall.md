@@ -1,11 +1,10 @@
-Pattern: Performance/RedundantBlockCall
+Pattern: Redundant block call
 
 Issue: -
 
 ## Description
 
-This cop identifies the use of a `&block` parameter and `block.call`
-where `yield` would do just as well.
+This cop identifies the use of a `&block` parameter and `block.call` where `yield` would do just as well.
 
 ### Example
 

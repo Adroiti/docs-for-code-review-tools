@@ -1,11 +1,10 @@
-Pattern: Performance/CaseWhenSplat
+Pattern: Possibly slow `when` condition with splat
 
 Issue: -
 
 ## Description
 
-Place `when` conditions that use splat at the end
-of the list of `when` branches.
+Place `when` conditions that use splat at the end of the list of `when` branches.
 
 Ruby has to allocate memory for the splat expansion every time
 that the `case` `when` statement is run. Since Ruby does not support

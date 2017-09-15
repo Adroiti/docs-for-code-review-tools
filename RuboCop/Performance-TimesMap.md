@@ -1,12 +1,10 @@
-Pattern: Performance/TimesMap
+Pattern: Use of `.times.map`
 
 Issue: -
 
 ## Description
 
-This cop checks for .times.map calls.
-In most cases such calls can be replaced
-with an explicit array creation.
+This cop checks for `.times.map` calls. In most cases such calls can be replaced with an explicit array creation.
 
 ### Example
 

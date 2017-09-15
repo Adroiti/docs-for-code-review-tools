@@ -1,4 +1,4 @@
-Pattern: Performance/Count
+Pattern: Unused `count`
 
 Issue: -
 

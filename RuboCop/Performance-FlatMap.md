@@ -1,10 +1,10 @@
-Pattern: Performance/FlatMap
+Pattern: Slow array flattening
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of
+This cop is used to identify usages of slow array flattening.
 
 ### Example
 

@@ -1,11 +1,10 @@
-Pattern: Performance/ReverseEach
+Pattern: Use of `reverse.each`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of `reverse.each` and
-change them to use `reverse_each` instead.
+This cop is used to identify usages of `reverse.each` and change them to use `reverse_each` instead.
 
 ### Example
 

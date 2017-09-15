@@ -1,11 +1,10 @@
-Pattern: Performance/StartWith
+Pattern: Unused `String#start_with?`
 
 Issue: -
 
 ## Description
 
-This cop identifies unnecessary use of a regex where
-`String#start_with?` would suffice.
+This cop identifies unnecessary use of a Regex where `String#start_with?` would suffice.
 
 ### Example
 

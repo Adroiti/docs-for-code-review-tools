@@ -1,11 +1,10 @@
-Pattern: Performance/UriDefaultParser
+Pattern: Use of `URI::Parser.new` instead of `URI::DEFAULT_PARSER`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `URI::Parser.new`
-can be replaced by `URI::DEFAULT_PARSER`.
+This cop identifies places where `URI::Parser.new` can be replaced by `URI::DEFAULT_PARSER`.
 
 ### Example
 

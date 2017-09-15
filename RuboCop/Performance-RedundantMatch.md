@@ -1,11 +1,10 @@
-Pattern: Performance/RedundantMatch
+Pattern: Redundant `#match`
 
 Issue: -
 
 ## Description
 
-This cop identifies use of `Regexp#match` or `String#match` in a context
-where the integral return value of `=~` would do just as well.
+This cop identifies use of `Regexp#match` or `String#match` in a context where the integral return value of `=~` would do just as well.
 
 ### Example
 
@@ -24,3 +23,4 @@ return regex.match('str')
 ## Further Reading
 
 * [RuboCop - Performance/RedundantMatch](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceredundantmatch)
+* [https://github.com/JuanitoFatas/fast-ruby#regexp-vs-stringmatch-vs-string-code-](https://github.com/JuanitoFatas/fast-ruby#regexp-vs-stringmatch-vs-string-code-)

@@ -1,4 +1,4 @@
-Pattern: Performance/FixedSize
+Pattern: Computing size of statically sized object
 
 Issue: -
 

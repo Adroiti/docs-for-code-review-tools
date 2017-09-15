@@ -1,11 +1,10 @@
-Pattern: Performance/StringReplacement
+Pattern: Use of `gsub` instead of `tr`/`delete`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `gsub` can be replaced by
-`tr` or `delete`.
+This cop identifies places where `gsub` can be replaced by `tr` or `delete`.
 
 ### Example
 

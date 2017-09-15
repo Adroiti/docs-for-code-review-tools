@@ -1,4 +1,4 @@
-Pattern: Performance/UnfreezeString
+Pattern: Unused unary plus to unfreeze string
 
 Issue: -
 

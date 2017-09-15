@@ -1,4 +1,4 @@
-Pattern: Performance/RangeInclude
+Pattern: Use of `Range#include?` instead of `Range#cover?`
 
 Issue: -
 

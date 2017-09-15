@@ -1,4 +1,4 @@
-Pattern: Performance/Sample
+Pattern: Unused `sample`
 
 Issue: -
 

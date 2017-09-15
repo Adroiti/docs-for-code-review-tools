@@ -1,10 +1,10 @@
-Pattern: Performance/HashEachMethods
+Pattern: Use of `Hash#keys.each`/`Hash#values.each`
 
 Issue: -
 
 ## Description
 
-This cop checks for uses of `each_key` & `each_value` Hash methods.
+`Hash#keys.each` allocates an array of keys; `Hash#each_key` iterates through the keys without allocating a new array.  This is the reason why `Hash#each_key` exists. The same applies to `Hash#values.each`.
 
 ### Example
 
@@ -30,3 +30,4 @@ AutoCorrect | false
 
 * [RuboCop - Performance/HashEachMethods](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancehasheachmethods)
 * [https://github.com/bbatsov/ruby-style-guide#hash-each](https://github.com/bbatsov/ruby-style-guide#hash-each)
+* [https://github.com/JuanitoFatas/fast-ruby#stringgsub-vs-stringtr-code](https://github.com/JuanitoFatas/fast-ruby#stringgsub-vs-stringtr-code)

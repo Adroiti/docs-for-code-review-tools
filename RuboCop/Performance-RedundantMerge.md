@@ -1,11 +1,10 @@
-Pattern: Performance/RedundantMerge
+Pattern: Redundant `Hash#merge!`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `Hash#merge!` can be replaced by
-`Hash#[]=`.
+This cop identifies places where `Hash#merge!` can be replaced by `Hash#[]=`.
 
 ### Example
 

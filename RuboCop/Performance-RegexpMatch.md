@@ -1,4 +1,4 @@
-Pattern: Performance/RegexpMatch
+Pattern: Unused `match?` when `MatchData` is not used
 
 Issue: -
 

@@ -1,11 +1,10 @@
-Pattern: Performance/LstripRstrip
+Pattern: Use of `lstrip.rstrip` instead of `strip`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `lstrip.rstrip` can be replaced by
-`strip`.
+This cop identifies places where `lstrip.rstrip` can be replaced by `strip`.
 
 ### Example
 

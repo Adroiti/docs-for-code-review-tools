@@ -1,12 +1,10 @@
-Pattern: Performance/CompareWithBlock
+Pattern: Slow compare with block
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `sort { |a, b| a.foo <=> b.foo }`
-can be replaced by `sort_by(&:foo)`.
-This cop also checks `max` and `min` methods.
+This cop identifies places where `sort { |a, b| a.foo <=> b.foo }` can be replaced by `sort_by(&:foo)`. This cop also checks `max` and `min` methods.
 
 ### Example
 

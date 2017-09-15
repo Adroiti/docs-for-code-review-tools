@@ -1,11 +1,10 @@
-Pattern: Performance/Caller
+Pattern: Use of `caller[n]` instead of `caller(n..n).first`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where `caller[n]`
-can be replaced by `caller(n..n).first`.
+This cop identifies places where `caller[n]` can be replaced by `caller(n..n).first`.
 
 ### Example
 

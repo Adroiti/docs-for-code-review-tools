@@ -1,4 +1,4 @@
-Pattern: Performance/Detect
+Pattern: Unused `Enumerable#detect`
 
 Issue: -
 

@@ -1,11 +1,10 @@
-Pattern: Performance/EndWith
+Pattern: Unused `String#end_with?`
 
 Issue: -
 
 ## Description
 
-This cop identifies unnecessary use of a regex where `String#end_with?`
-would suffice.
+This cop identifies unnecessary use of a regex where `String#end_with?` would suffice.
 
 ### Example
 

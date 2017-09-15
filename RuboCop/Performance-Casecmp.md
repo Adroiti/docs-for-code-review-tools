@@ -1,11 +1,10 @@
-Pattern: Performance/Casecmp
+Pattern: Unused `casecmp`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where a case-insensitive string comparison
-can better be implemented using `casecmp`.
+This cop identifies places where a case-insensitive string comparison can better be implemented using `casecmp`.
 
 ### Example
 
