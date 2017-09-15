@@ -1,12 +1,10 @@
-Pattern: Naming/MethodName
+Pattern: Invalid method name
 
 Issue: -
 
 ## Description
 
-This cop makes sure that all methods use the configured style,
-snake_case or camelCase, for their names. Some special arrangements
-have to be made for operator methods.
+This cop makes sure that all methods use the configured style for their names.
 
 ## Default configuration
 

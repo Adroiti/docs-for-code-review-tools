@@ -1,4 +1,4 @@
-Pattern: Naming/AccessorMethodName
+Pattern: Invalid accessor method name
 
 Issue: -
 

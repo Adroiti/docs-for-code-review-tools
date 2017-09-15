@@ -1,4 +1,4 @@
-Pattern: Naming/BinaryOperatorParameterName
+Pattern: Unused `other` name for binary operator
 
 Issue: -
 

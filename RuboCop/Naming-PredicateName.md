@@ -1,4 +1,4 @@
-Pattern: Naming/PredicateName
+Pattern: Invalid predicate name
 
 Issue: -
 

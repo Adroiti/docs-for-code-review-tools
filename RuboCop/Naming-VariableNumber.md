@@ -1,12 +1,10 @@
-Pattern: Naming/VariableNumber
+Pattern: Invalid style for variable number
 
 Issue: -
 
 ## Description
 
-This cop makes sure that all numbered variables use the
-configured style, snake_case, normalcase or non_integer,
-for their numbering.
+This cop makes sure that all numbered variables use the configured style for their numbering.
 
 ### Example
 

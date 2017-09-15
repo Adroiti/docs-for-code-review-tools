@@ -1,4 +1,4 @@
-Pattern: Naming/HeredocDelimiterCase
+Pattern: Invalid heredoc delimiter case
 
 Issue: -
 

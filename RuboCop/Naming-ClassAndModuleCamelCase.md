@@ -1,11 +1,10 @@
-Pattern: Naming/ClassAndModuleCamelCase
+Pattern: Invalid class or module name
 
 Issue: -
 
 ## Description
 
-This cops checks for class and module names with
-an underscore in them.
+This cops checks for class and module names with an underscore in them.
 
 ## Further Reading
 

@@ -1,11 +1,10 @@
-Pattern: Naming/VariableName
+Pattern: Invalid variable name
 
 Issue: -
 
 ## Description
 
-This cop makes sure that all variables use the configured style,
-snake_case or camelCase, for their names.
+This cop makes sure that all variables use the configured style for their names.
 
 ## Default configuration
 

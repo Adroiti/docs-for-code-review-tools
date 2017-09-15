@@ -1,4 +1,4 @@
-Pattern: Naming/AsciiIdentifiers
+Pattern: Non-English identifier name
 
 Issue: -
 
