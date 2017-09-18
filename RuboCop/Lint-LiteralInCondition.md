@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule checks for literals used as the conditions or as operands in and/or expressions serving as the conditions of `if`/`while`/`until`.
+This rule checks for literals used as the conditions or as operands in `and`/`or` expressions serving as the conditions of `if`/`while`/`until`.
 
 ## Examples
 
