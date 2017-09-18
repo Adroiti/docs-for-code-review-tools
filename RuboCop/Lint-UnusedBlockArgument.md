@@ -44,7 +44,7 @@ end
 Attribute | Value
 --- | ---
 IgnoreEmptyBlocks | true
-AllowUnusedKeywordArguments | false
+AllowUnusedKeywordArguments | true
 
 ## Further Reading
 
