@@ -1,10 +1,10 @@
-Pattern: Rails/Output
+Pattern: Writing to stdout
 
 Issue: -
 
 ## Description
 
-This cop checks for the use of output calls like puts and print
+This cop checks for the use of output calls like `puts` and `print`.
 
 ## Default configuration
 

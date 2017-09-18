@@ -1,11 +1,10 @@
-Pattern: Rails/PluralizationGrammar
+Pattern: Incorrect pluralization grammar
 
 Issue: -
 
 ## Description
 
-This cop checks for correct grammar when using ActiveSupport's
-core extensions to the numeric classes.
+This cop checks for correct grammar when using ActiveSupport's core extensions to the numeric classes.
 
 ### Example
 

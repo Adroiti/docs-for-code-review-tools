@@ -1,4 +1,4 @@
-Pattern: Rails/Validation
+Pattern: Use of old-style attribute validation
 
 Issue: -
 

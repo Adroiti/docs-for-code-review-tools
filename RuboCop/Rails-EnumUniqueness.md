@@ -1,4 +1,4 @@
-Pattern: Rails/EnumUniqueness
+Pattern: Duplicate value in enum declaration
 
 Issue: -
 

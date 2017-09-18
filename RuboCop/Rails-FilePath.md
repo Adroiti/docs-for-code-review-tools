@@ -1,11 +1,10 @@
-Pattern: Rails/FilePath
+Pattern: Missing use of `Rails.root.join`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of file path joining process
-to use `Rails.root.join` clause.
+This cop is used to identify usages of file path joining process to use `Rails.root.join` clause.
 
 ### Example
 

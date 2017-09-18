@@ -1,11 +1,10 @@
-Pattern: Rails/HasManyOrHasOneDependent
+Pattern: Missing `:dependent` option for `has_many`/`has_one`
 
 Issue: -
 
 ## Description
 
-This cop looks for `has_many` or `has_one` associations that don't
-specify a `:dependent` option.
+This cop looks for `has_many` or `has_one` associations that don't specify a `:dependent` option.
 
 ### Example
 

@@ -1,11 +1,11 @@
-Pattern: Rails/ScopeArgs
+Pattern: Use of plain method call instead of `lambda`/`proc`
 
 Issue: -
 
 ## Description
 
 This cop checks for scope calls where it was passed
-a method (usually a scope) instead of a lambda/proc.
+a method (usually a scope) instead of a `lambda`/`proc`.
 
 ### Example
 

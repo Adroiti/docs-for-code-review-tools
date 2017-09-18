@@ -1,12 +1,10 @@
-Pattern: Rails/SkipsModelValidations
+Pattern: Use of method that skips model validation
 
 Issue: -
 
 ## Description
 
-This cop checks for the use of methods which skip
-validations which are listed in
-http://guides.rubyonrails.org/active_record_validations.html#skipping-validations
+This cop checks for the use of methods which skip model validation.
 
 ### Example
 

@@ -1,11 +1,10 @@
-Pattern: Rails/ReversibleMigration
+Pattern: Migration is not reversible
 
 Issue: -
 
 ## Description
 
-This cop checks whether the change method of the migration file is
-reversible.
+This cop checks whether the change method of the migration file is reversible.
 
 ### Example
 

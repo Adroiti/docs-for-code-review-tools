@@ -1,12 +1,10 @@
-Pattern: Rails/DynamicFindBy
+Pattern: Use of dynamic `find_by_*`
 
 Issue: -
 
 ## Description
 
-This cop checks dynamic `find_by_*` methods.
-Use `find_by` instead of dynamic method.
-See. https://github.com/bbatsov/rails-style-guide#find_by
+This cop checks dynamic `find_by_*` methods. Use `find_by` instead of dynamic method.
 
 ### Example
 

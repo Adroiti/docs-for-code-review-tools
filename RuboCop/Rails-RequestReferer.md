@@ -1,11 +1,10 @@
-Pattern: Rails/RequestReferer
+Pattern: Inconsistent use of `request.referer`/`request.referrer`
 
 Issue: -
 
 ## Description
 
-This cop checks for consistent uses of `request.referer` or
-`request.referrer`, depending on the cop's configuration.
+This cop checks for consistent uses of `request.referer` or `request.referrer`, depending on the cop's configuration.
 
 ### Example
 

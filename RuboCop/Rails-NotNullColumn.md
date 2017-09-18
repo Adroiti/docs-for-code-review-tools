@@ -1,11 +1,10 @@
-Pattern: Rails/NotNullColumn
+Pattern: `NOT NULL` column without default value
 
 Issue: -
 
 ## Description
 
-This cop checks for add_column call with NOT NULL constraint
-in migration file.
+This cop checks for `add_column` call with `NOT NULL` constraint in migration file.
 
 ### Example
 

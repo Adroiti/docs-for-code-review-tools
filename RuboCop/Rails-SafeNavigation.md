@@ -1,4 +1,4 @@
-Pattern: Rails/SafeNavigation
+Pattern: Missing safe navigation operator (`&.`)
 
 Issue: -
 

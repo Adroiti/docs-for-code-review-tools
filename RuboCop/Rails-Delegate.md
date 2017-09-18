@@ -1,4 +1,4 @@
-Pattern: Rails/Delegate
+Pattern: Missing use of `delegate`
 
 Issue: -
 

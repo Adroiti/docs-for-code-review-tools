@@ -1,10 +1,10 @@
-Pattern: Rails/ApplicationJob
+Pattern: Job not deriving from `ApplicationJob`
 
 Issue: -
 
 ## Description
 
-This cop checks that jobs subclass ApplicationJob with Rails 5.0.
+This cop checks that jobs subclass `ApplicationJob` with Rails 5.0.
 
 ### Example
 

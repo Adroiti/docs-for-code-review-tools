@@ -1,4 +1,4 @@
-Pattern: Rails/Blank
+Pattern: Missing use of `blank?`
 
 Issue: -
 
@@ -6,9 +6,9 @@ Issue: -
 
 This cops checks for code that can be changed to `blank?`.
 Settings:
-  NilOrEmpty: Convert checks for `nil` or `empty?` to `blank?`
-  NotPresent: Convert usages of not `present?` to `blank?`
-  UnlessPresent: Convert usages of `unless` `present?` to `blank?`
+  _NilOrEmpty_: Convert checks for `nil` or `empty?` to `blank?`
+  _NotPresent_: Convert usages of not `present?` to `blank?`
+  _UnlessPresent_: Convert usages of `unless` `present?` to `blank?`
 
 ### Example
 

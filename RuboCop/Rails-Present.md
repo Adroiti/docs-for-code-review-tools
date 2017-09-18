@@ -1,15 +1,16 @@
-Pattern: Rails/Present
+Pattern: Missing `present?`
 
 Issue: -
 
 ## Description
 
-This cops checks for code that can be changed to `blank?`.
+This cops checks for code that can be changed to `present?`.
+
 Settings:
-  NotNilAndNotEmpty: Convert checks for not `nil` and `not empty?`
+  _NotNilAndNotEmpty_: Convert checks for not `nil` and `not empty?`
                      to `present?`
-  NotBlank: Convert usages of not `blank?` to `present?`
-  UnlessBlank: Convert usages of `unless` `blank?` to `if` `present?`
+  _NotBlank_: Convert usages of not `blank?` to `present?`
+  _UnlessBlank_: Convert usages of `unless` `blank?` to `if` `present?`
 
 ### Example
 

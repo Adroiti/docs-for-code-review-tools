@@ -1,11 +1,10 @@
-Pattern: Rails/ActiveSupportAliases
+Pattern: Use of ActiveSupport alias
 
 Issue: -
 
 ## Description
 
-This cop checks that ActiveSupport aliases to core ruby methods
-are not used.
+This cop checks that ActiveSupport aliases to core ruby methods are not used.
 
 ### Example
 

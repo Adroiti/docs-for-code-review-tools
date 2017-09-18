@@ -1,11 +1,10 @@
-Pattern: Rails/ReadWriteAttribute
+Pattern: Use of `read_attribute`/`write_attribute`
 
 Issue: -
 
 ## Description
 
-This cop checks for the use of the read_attribute or
-write_attribute methods.
+This cop checks for the use of the `read_attribute` or `write_attribute` methods.
 
 ### Example
 

@@ -1,11 +1,10 @@
-Pattern: Rails/FindEach
+Pattern: Use of `each` instead of `find_each`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of `all.each` and
-change them to use `all.find_each` instead.
+This cop is used to identify usages of `each` and change them to use `find_each` instead. Looping through a collection of records from the database (using the `all` method, for example) is very inefficient since it will try to instantiate all the objects at once. In that case, batch processing methods allow you to work with the records in batches, thereby greatly reducing memory consumption.
 
 ### Example
 

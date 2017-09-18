@@ -1,11 +1,10 @@
-Pattern: Rails/FindBy
+Pattern: Use of `where.first` instead of `find_by`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of `where.first` and
-change them to use `find_by` instead.
+This cop is used to identify usages of `where.first` and change them to use `find_by` instead.
 
 ### Example
 

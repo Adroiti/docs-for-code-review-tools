@@ -1,11 +1,10 @@
-Pattern: Rails/RelativeDateConstant
+Pattern: Relative date assigned to constant
 
 Issue: -
 
 ## Description
 
-This cop checks whether constant value isn't relative date.
-Because the relative date will be evaluated only once.
+This cop checks whether constant value isn't relative date. Relative date will be evaluated only once.
 
 ### Example
 
