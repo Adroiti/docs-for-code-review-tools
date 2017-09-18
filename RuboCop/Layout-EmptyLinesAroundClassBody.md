@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks if empty lines around the bodies of classes match the configuration.
+This rule checks if empty lines around the bodies of classes match the configuration.
 
-### Example
+## Examples
 
 ```ruby
 EnforcedStyle: empty_lines

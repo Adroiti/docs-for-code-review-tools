@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for the use of the `read_attribute` or `write_attribute` methods.
+This rule checks for the use of the `read_attribute` or `write_attribute` methods.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for variable interpolation (like `#@ivar`).
+This rule checks for variable interpolation (like `#@ivar`).
 
-### Example
+## Examples
 
 ```ruby
 class Person

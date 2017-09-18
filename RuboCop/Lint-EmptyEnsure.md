@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for empty `ensure` blocks
+This rule checks for empty `ensure` blocks
 
-### Example
+## Examples
 
 ```ruby
 # bad
@@ -42,12 +42,6 @@ ensure
   do_something_else
 end
 ```
-
-## Default configuration
-
-Attribute | Value
---- | ---
-AutoCorrect | false
 
 ## Further Reading
 

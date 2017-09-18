@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop enforces using `//` or `%r` around regular expressions.
+This rule enforces using `//` or `%r` around regular expressions.
 
-### Example
+## Examples
 
 ```ruby
 # Good if EnforcedStyle is slashes or mixed, bad if percent_r.

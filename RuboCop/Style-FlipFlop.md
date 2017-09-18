@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop looks for uses of flip flop operator.
+This rule looks for uses of flip flop operator.
 
 ## Further Reading
 

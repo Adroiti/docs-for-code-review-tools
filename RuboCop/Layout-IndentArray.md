@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks the indentation of the first element in an array literal
+This rule checks the indentation of the first element in an array literal
 where the opening bracket and the first element are on separate lines.
 
 By default, array literals that are arguments in a method call with
@@ -16,8 +16,8 @@ position inside the opening parenthesis.
 Other array literals shall have their first element indented one step
 more than the start of the line where the opening square bracket is.
 
-This default style is called 'special_inside_parentheses'. Alternative
-styles are 'consistent' and 'align_brackets'. Here are examples:
+This default style is called `special_inside_parentheses`. Alternative
+styles are `consistent` and `align_brackets`. Here are examples:
 
     # special_inside_parentheses
     array = [

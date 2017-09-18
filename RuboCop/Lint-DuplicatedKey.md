@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for duplicated keys in hash literals. This cop mirrors a warning in Ruby 2.2.
+This rule checks for duplicated keys in hash literals. This rule mirrors a warning in Ruby 2.2.
 
-### Example
+## Examples
 
 ```ruby
 # bad

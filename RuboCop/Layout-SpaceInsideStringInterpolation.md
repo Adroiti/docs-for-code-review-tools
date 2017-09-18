@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for whitespace within string interpolations.
+This rule checks for whitespace within string interpolations.
 
-### Example
+## Examples
 
 ```ruby
 # Good if EnforcedStyle is no_space, bad if space.

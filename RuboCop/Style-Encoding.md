@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks whether the source file has a `UTF-8` encoding
+This rule checks whether the source file has a `UTF-8` encoding
 comment or not.
 Setting this check to `always` and `when_needed` makes sense only
 for code that should support Ruby 1.9, since in 2.0+ `UTF-8` is the
@@ -21,7 +21,6 @@ Attribute | Value
 --- | ---
 EnforcedStyle | never
 SupportedStyles | when_needed, always, never
-AutoCorrectEncodingComment | # encoding: utf-8
 
 ## Further Reading
 

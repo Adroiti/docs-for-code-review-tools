@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `sort { |a, b| a.foo <=> b.foo }` can be replaced by `sort_by(&:foo)`. This cop also checks `max` and `min` methods.
+This rule identifies places where `sort { |a, b| a.foo <=> b.foo }` can be replaced by `sort_by(&:foo)`. This rule also checks `max` and `min` methods.
 
-### Example
+## Examples
 
 ```ruby
 # bad

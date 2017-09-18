@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop looks for delegations that pass `:allow_blank` as an option
+This rule looks for delegations that pass `:allow_blank` as an option
 instead of `:allow_nil`. `:allow_blank` is not a valid option to pass
 to `ActiveSupport#delegate`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

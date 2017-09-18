@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop enforces consistent use of `Object#is_a?` or `Object#kind_of?`.
+This rule enforces consistent use of `Object#is_a?` or `Object#kind_of?`.
 
 ## Default configuration
 

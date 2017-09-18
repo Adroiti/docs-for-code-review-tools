@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `gsub` can be replaced by `tr` or `delete`.
+This rule identifies places where `gsub` can be replaced by `tr` or `delete`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

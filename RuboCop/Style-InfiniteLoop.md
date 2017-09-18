@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop enforces to use `Kernel#loop` for infinite loops.
+This rule enforces to use `Kernel#loop` for infinite loops.
 
-### Example
+## Examples
 
 ```ruby
 # bad

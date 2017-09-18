@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies Float literals which are out of range.
+This rule identifies Float literals which are out of range.
 
-### Example
+## Examples
 
 ```ruby
 # bad

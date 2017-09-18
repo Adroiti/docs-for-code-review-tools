@@ -1,12 +1,12 @@
-Pattern: Unused `String#start_with?`
+Pattern: Missing use of `String#start_with?`
 
 Issue: -
 
 ## Description
 
-This cop identifies unnecessary use of a Regex where `String#start_with?` would suffice.
+This rule identifies unnecessary use of a Regex where `String#start_with?` would suffice.
 
-### Example
+## Examples
 
 ```ruby
 # bad
@@ -16,12 +16,6 @@ This cop identifies unnecessary use of a Regex where `String#start_with?` would 
 # good
 'abc'.start_with?('ab')
 ```
-
-## Default configuration
-
-Attribute | Value
---- | ---
-AutoCorrect | false
 
 ## Further Reading
 

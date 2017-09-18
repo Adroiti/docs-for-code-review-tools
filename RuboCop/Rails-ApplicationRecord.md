@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks that models subclass `ApplicationRecord` with Rails 5.0.
+This rule checks that models subclass `ApplicationRecord` with Rails 5.0.
 
-### Example
+## Examples
 
 ```ruby
 # good

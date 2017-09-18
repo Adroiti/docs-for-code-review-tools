@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks symbol literal syntax.
+This rule checks symbol literal syntax.
 
-### Example
+## Examples
 
 ```ruby
 # bad

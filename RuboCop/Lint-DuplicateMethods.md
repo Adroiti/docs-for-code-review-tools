@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for duplicated instance (or singleton) method definitions.
+This rule checks for duplicated instance (or singleton) method definitions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

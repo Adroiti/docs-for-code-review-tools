@@ -1,13 +1,12 @@
-Pattern: Unused `other` name for binary operator
+Pattern: Missing `other` name for binary operator
 
 Issue: -
 
 ## Description
 
-This cop makes sure that certain binary operator methods have their
-sole  parameter named `other`.
+This rule makes sure that certain binary operator methods have their sole parameter named `other`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

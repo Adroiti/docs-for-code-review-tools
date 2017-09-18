@@ -6,7 +6,7 @@ Issue: -
 
 Checks for spaces inside range literals.
 
-### Example
+## Examples
 
 ```ruby
 # bad

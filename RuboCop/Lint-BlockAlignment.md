@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks whether the `end` keywords are aligned properly for `do..end` blocks.
+This rule checks whether the `end` keywords are aligned properly for `do..end` blocks.
 
 Three modes are supported through the `EnforcedStyleAlignWith`
 configuration parameter:
@@ -17,7 +17,7 @@ start of the line where the expression started.
 
 `either` (which is the default) : the `end` is allowed to be in either location.
 
-### Example
+## Examples
 
 ```ruby
 # bad

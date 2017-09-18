@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for unnecessary usages of splat expansion.
+This rule checks for unnecessary usages of splat expansion.
 
-### Example
+## Examples
 
 ```ruby
 # bad

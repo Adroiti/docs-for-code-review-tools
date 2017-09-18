@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop looks for duplicate values in enum declarations.
+This rule looks for duplicate values in enum declarations.
 
-### Example
+## Examples
 
 ```ruby
 # bad

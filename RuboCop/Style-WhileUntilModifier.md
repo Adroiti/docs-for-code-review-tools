@@ -1,4 +1,4 @@
-Pattern: Unused `while/until` for single-line body
+Pattern: Missing use of `while/until`
 
 Issue: -
 

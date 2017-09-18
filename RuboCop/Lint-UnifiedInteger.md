@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for using `Fixnum` or `Bignum` constant.
+This rule checks for using `Fixnum` or `Bignum` constant.
 
-### Example
+## Examples
 
 ```ruby
 # bad

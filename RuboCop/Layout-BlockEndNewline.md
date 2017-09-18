@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks whether the `end` statement of a `do..end` block is on its own line.
+This rule checks whether the `end` statement of a `do..end` block is on its own line.
 
-### Example
+## Examples
 
 ```ruby
 # bad

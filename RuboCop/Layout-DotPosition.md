@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks the `.` position in multi-line method calls.
+This rule checks the `.` position in multi-line method calls.
 
-### Example
+## Examples
 
 ```ruby
 # bad

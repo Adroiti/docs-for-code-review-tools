@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop looks for `has_many` or `has_one` associations that don't specify a `:dependent` option.
+This rule looks for `has_many` or `has_one` associations that don't specify a `:dependent` option.
 
-### Example
+## Examples
 
 ```ruby
 # bad

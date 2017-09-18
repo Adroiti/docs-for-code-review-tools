@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for a line break before the first element in a multi-line hash.
+This rule checks for a line break before the first element in a multi-line hash.
 
-### Example
+## Examples
 
 ```ruby
 # bad

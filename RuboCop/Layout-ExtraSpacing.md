@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for extra/unnecessary whitespace.
+This rule checks for extra/unnecessary whitespace.
 
-### Example
+## Examples
 
 ```ruby
 # good if AllowForAlignment is true

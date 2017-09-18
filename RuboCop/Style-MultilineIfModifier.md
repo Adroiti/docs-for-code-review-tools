@@ -6,7 +6,7 @@ Issue: -
 
 Checks for uses of `if`/`unless` modifiers with multi-line bodies.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -6,7 +6,7 @@ Issue: -
 
 Checks for semicolon (`;`) preceded by space.
 
-### Example
+## Examples
 
 ```ruby
 # bad

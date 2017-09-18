@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of the keyword `not` instead of `!`.
+This rule checks for uses of the keyword `not` instead of `!`.
 
-### Example
+## Examples
 
 ```ruby
 # bad - parentheses are required because of op precedence

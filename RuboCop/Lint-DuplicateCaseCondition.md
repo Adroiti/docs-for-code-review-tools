@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks that there are no repeated conditions used in `case when` expressions.
+This rule checks that there are no repeated conditions used in `case when` expressions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

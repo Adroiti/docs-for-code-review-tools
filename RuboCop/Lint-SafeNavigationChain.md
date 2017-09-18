@@ -8,7 +8,7 @@ The safe navigation operator returns nil if the receiver is
 nil.  If you chain an ordinary method call after a safe
 navigation operator, it raises `NoMethodError`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

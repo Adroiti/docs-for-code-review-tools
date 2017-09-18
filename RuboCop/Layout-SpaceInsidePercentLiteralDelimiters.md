@@ -6,7 +6,7 @@ Issue: -
 
 Checks for unnecessary additional spaces inside the delimiters of `%i`/`%w`/`%x` literals.
 
-### Example
+## Examples
 
 ```ruby
 # good

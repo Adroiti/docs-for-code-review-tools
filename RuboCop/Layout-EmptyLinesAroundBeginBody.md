@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks if empty lines exist around the bodies of begin-end blocks.
+This rule checks if empty lines exist around the bodies of begin-end blocks.
 
-### Example
+## Examples
 
 ```ruby
 # good

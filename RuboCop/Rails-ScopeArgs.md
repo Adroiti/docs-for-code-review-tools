@@ -4,10 +4,10 @@ Issue: -
 
 ## Description
 
-This cop checks for scope calls where it was passed
+This rule checks for scope calls where it was passed
 a method (usually a scope) instead of a `lambda`/`proc`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

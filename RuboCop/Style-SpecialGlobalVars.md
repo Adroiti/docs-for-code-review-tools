@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop enforces naming for global variables. By default, it recommends to avoid using Perl-style special variables (like `$:`, `$;`, etc. ). They are quite cryptic and their use in anything but one-liner scripts is discouraged. Use the human-friendly aliases provided by the `English` library.
+This rule enforces naming for global variables. By default, it recommends to avoid using Perl-style special variables (like `$:`, `$;`, etc. ). They are quite cryptic and their use in anything but one-liner scripts is discouraged. Use the human-friendly aliases provided by the `English` library.
 
 ## Default configuration
 

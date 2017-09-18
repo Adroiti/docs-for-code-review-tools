@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for options hashes and discourages them if the current Ruby version supports keyword arguments.
+This rule checks for options hashes and discourages them if the current Ruby version supports keyword arguments.
 
-### Example
+## Examples
 
 ```ruby
 Instead of:

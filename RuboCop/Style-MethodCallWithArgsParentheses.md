@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop checks presence of parentheses in method calls containing
+This rule checks presence of parentheses in method calls containing
 parameters. By default, macro methods are ignored. Additional methods
 can be added to the `IgnoredMethods` list.
 
-### Example
+## Examples
 
 ```ruby
 # bad

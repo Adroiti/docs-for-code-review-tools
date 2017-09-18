@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop looks for trailing whitespace in the source code.
+This rule looks for trailing whitespace in the source code.
 
 ## Further Reading
 

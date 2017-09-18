@@ -4,12 +4,12 @@ Issue: -
 
 ## Description
 
-This cop checks how the `when`s of a `case` expression
+This rule checks how the `when`s of a `case` expression
 are indented in relation to its `case` or `end` keyword.
 
 It will register a separate offense for each misaligned `when`.
 
-### Example
+## Examples
 
 ```ruby
 # If Layout/EndAlignment is set to keyword style (default)

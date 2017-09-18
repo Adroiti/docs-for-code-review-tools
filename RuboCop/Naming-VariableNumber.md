@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop makes sure that all numbered variables use the configured style for their numbering.
+This rule makes sure that all numbered variables use the configured style for their numbering.
 
-### Example
+## Examples
 
 ```ruby
 "EnforcedStyle => 'snake_case'"

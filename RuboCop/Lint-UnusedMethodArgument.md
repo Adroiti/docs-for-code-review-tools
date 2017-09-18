@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for unused method arguments.
+This rule checks for unused method arguments.
 
-### Example
+## Examples
 
 ```ruby
 # bad

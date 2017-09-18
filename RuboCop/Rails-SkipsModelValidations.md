@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for the use of methods which skip model validation.
+This rule checks for the use of methods which skip model validation.
 
-### Example
+## Examples
 
 ```ruby
 # bad

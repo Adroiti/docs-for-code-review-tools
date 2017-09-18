@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cops checks the indentation of hanging closing parentheses in
+This rule checks the indentation of hanging closing parentheses in
 method calls, method definitions, and grouped expressions. A hanging
 closing parenthesis means `)` preceded by a line break.
 
-### Example
+## Examples
 
 ```ruby
 # good: when x is on its own line, indent this way

@@ -1,10 +1,10 @@
-Pattern: Unused `save!`
+Pattern: Missing use of exception raising method
 
 Issue: -
 
 ## Description
 
-This cop identifies possible cases where Active Record `save!` or related
+This rule identifies possible cases where Active Record `save!` or related
 should be used instead of `save` because the model might have failed to
 save and an exception is better than unhandled failure.
 
@@ -15,7 +15,7 @@ variable that has a call to `persisted?`. Finally, it will ignore any
 call with more than 2 arguments as that is likely not an Active Record
 call or a `Model.update(id, attributes)` call.
 
-### Example
+## Examples
 
 ```ruby
 # bad

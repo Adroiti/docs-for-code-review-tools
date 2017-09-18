@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for Windows-style line endings in the source code.
+This rule checks for Windows-style line endings in the source code.
 
 ## Default configuration
 

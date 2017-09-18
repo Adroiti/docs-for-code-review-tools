@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks for indentation that doesn't use the specified number of spaces.
+This rule checks for indentation that doesn't use the specified number of spaces.
 
-### Example
+## Examples
 
 ```ruby
 # bad, Width: 2

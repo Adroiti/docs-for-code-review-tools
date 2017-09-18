@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for trailing inline comments.
+This rule checks for trailing inline comments.
 
-### Example
+## Examples
 
 ```ruby
 # good

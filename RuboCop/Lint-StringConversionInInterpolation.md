@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for string conversion in string interpolation, which is redundant.
+This rule checks for string conversion in string interpolation, which is redundant.
 
-### Example
+## Examples
 
 ```ruby
 # bad

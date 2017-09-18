@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `Hash#merge!` can be replaced by `Hash#[]=`.
+This rule identifies places where `Hash#merge!` can be replaced by `Hash#[]=`.
 
-### Example
+## Examples
 
 ```ruby
 hash.merge!(a: 1)

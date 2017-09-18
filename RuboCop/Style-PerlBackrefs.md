@@ -6,7 +6,7 @@ Issue: -
 
 Perl-legacy variables denoting last regexp group matches (`$1`, `$2`, etc) are cryptic. Use `Regexp.last_match(n)` instead. 
 
-### Example
+## Examples
 
 ```ruby
 /(regexp)/ =~ string

@@ -4,12 +4,12 @@ Issue: -
 
 ## Description
 
-This cop looks for error classes inheriting from `Exception`
+This rule looks for error classes inheriting from `Exception`
 and its standard library subclasses, excluding subclasses of
 `StandardError`. It is configurable to suggest using either
 `RuntimeError` (default) or `StandardError` instead.
 
-### Example
+## Examples
 
 ```ruby
 # bad

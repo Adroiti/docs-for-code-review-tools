@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop is used to identify usages of file path joining process to use `Rails.root.join` clause.
+This rule is used to identify usages of file path joining process to use `Rails.root.join` clause.
 
-### Example
+## Examples
 
 ```ruby
 # bad

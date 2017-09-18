@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks if the elements of a multi-line array literal are aligned.
+This rule checks if the elements of a multi-line array literal are aligned.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,12 +4,12 @@ Issue: -
 
 ## Description
 
-This cop checks for the presence of parentheses around ternary
+This rule checks for the presence of parentheses around ternary
 conditions. It is configurable to enforce inclusion or omission of
 parentheses using `EnforcedStyle`. Omission is only enforced when
 removing the parentheses won't cause a different behavior.
 
-### Example
+## Examples
 
 ```ruby
 EnforcedStyle: require_no_parentheses (default)

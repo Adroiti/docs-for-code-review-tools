@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for underscore-prefixed variables that are actually used.
+This rule checks for underscore-prefixed variables that are actually used.
 
-### Example
+## Examples
 
 ```ruby
 # bad

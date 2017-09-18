@@ -1,4 +1,4 @@
-Pattern: Unused ternary operator (`?:`) on single line
+Pattern: Missing use of `?:` on single line
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Ternary operator(`?:`) is more common and more concise than `if`/`then`/`else`/`end` constructs.
 
-### Example
+## Examples
 
 ```ruby
 # bad

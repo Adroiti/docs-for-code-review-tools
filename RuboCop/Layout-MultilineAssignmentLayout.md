@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks whether the multi-line assignments have a newline after the assignment operator.
+This rule checks whether the multi-line assignments have a newline after the assignment operator.
 
-### Example
+## Examples
 
 ```ruby
 # bad (with EnforcedStyle set to new_line)

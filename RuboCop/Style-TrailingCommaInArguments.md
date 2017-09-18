@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for trailing comma in argument lists.
+This rule checks for trailing comma in argument lists.
 
-### Example
+## Examples
 
 ```ruby
 # always bad

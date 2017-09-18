@@ -6,7 +6,7 @@ Issue: -
 
 Checks for a newline after the last magic comment.
 
-### Example
+## Examples
 
 ```ruby
 # good

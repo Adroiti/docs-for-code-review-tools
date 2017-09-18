@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for inheritance from `Struct.new`. Extending it introduces a superfluous class level and may also introduce weird errors if the file is required multiple times.
+This rule checks for inheritance from `Struct.new`. Extending it introduces a superfluous class level and may also introduce weird errors if the file is required multiple times.
 
-### Example
+## Examples
 
 ```ruby
 # bad

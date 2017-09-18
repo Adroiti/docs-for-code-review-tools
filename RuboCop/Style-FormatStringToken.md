@@ -6,7 +6,7 @@ Issue: -
 
 Use a consistent style for named format string tokens.
 
-### Example
+## Examples
 
 ```ruby
 EnforcedStyle: annotated

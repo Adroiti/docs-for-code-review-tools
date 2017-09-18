@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cops checks the indentation of the first key in a hash literal
+This rule checks the indentation of the first key in a hash literal
 where the opening brace and the first key are on separate lines.
 
 By default, Hash literals that are arguments in a method call with
@@ -16,8 +16,8 @@ inside the opening parenthesis.
 Other hash literals shall have their first key indented one step more
 than the start of the line where the opening curly brace is.
 
-This default style is called 'special_inside_parentheses'. Alternative
-styles are 'consistent' and 'align_braces'. Here are examples:
+This default style is called `special_inside_parentheses`. Alternative
+styles are `consistent` and `align_braces`. Here are examples:
 
     # special_inside_parentheses
     hash = {

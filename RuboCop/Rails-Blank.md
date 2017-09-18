@@ -4,13 +4,13 @@ Issue: -
 
 ## Description
 
-This cops checks for code that can be changed to `blank?`.
+This rule checks for code that can be changed to `blank?`.
 Settings:
   _NilOrEmpty_: Convert checks for `nil` or `empty?` to `blank?`
   _NotPresent_: Convert usages of not `present?` to `blank?`
   _UnlessPresent_: Convert usages of `unless` `present?` to `blank?`
 
-### Example
+## Examples
 
 ```ruby
 # NilOrEmpty: true

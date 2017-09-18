@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for comparison of something with itself.
+This rule checks for comparison of something with itself.
 
-### Example
+## Examples
 
 ```ruby
 # bad

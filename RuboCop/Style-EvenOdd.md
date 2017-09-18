@@ -1,12 +1,12 @@
-Pattern: Unused `Integer#even?`/`Integer#odd?`
+Pattern: Missing use of `Integer#even?`/`Integer#odd?`
 
 Issue: -
 
 ## Description
 
-This cop checks for places where `Integer#even?` or `Integer#odd?` should have been used.
+This rule checks for places where `Integer#even?` or `Integer#odd?` should have been used.
 
-### Example
+## Examples
 
 ```ruby
 # bad

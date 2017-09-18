@@ -6,7 +6,7 @@ Issue: -
 
 Checks for `if` and `unless` statements used as modifiers of other `if` or `unless` statements.
 
-### Example
+## Examples
 
 ```ruby
 # bad

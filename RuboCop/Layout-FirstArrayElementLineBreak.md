@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for a line break before the first element in a multi-line array.
+This rule checks for a line break before the first element in a multi-line array.
 
-### Example
+## Examples
 
 ```ruby
 # bad

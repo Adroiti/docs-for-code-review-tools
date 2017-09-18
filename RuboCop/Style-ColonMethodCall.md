@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for methods invoked via the `::` operator instead of the `.` operator.
+This rule checks for methods invoked via the `::` operator instead of the `.` operator.
 
-### Example
+## Examples
 
 ```ruby
 # bad

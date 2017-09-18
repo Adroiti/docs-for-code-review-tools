@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for non-ascii (non-English) characters in comments.
+This rule checks for non-ascii (non-English) characters in comments.
 
 ## Further Reading
 

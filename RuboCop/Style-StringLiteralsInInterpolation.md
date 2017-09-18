@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks that quotes inside the string interpolation match the configured preference.
+This rule checks that quotes inside the string interpolation match the configured preference.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: single_quotes

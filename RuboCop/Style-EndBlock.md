@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `END` blocks. Use `Kernel#at_exit` instead.
+This rule checks for `END` blocks. Use `Kernel#at_exit` instead.
 
-### Example
+## Examples
 
 ```ruby
 # bad

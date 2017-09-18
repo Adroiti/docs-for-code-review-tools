@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for missing space between a token and a comment on the same line.
+This rule checks for missing space between a token and a comment on the same line.
 
-### Example
+## Examples
 
 ```ruby
 # bad

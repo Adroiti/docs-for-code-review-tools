@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks whether constant value isn't relative date. Relative date will be evaluated only once.
+This rule checks whether constant value isn't relative date. Relative date will be evaluated only once.
 
-### Example
+## Examples
 
 ```ruby
 # bad

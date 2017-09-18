@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for interpolated literals.
+This rule checks for interpolated literals.
 
-### Example
+## Examples
 
 ```ruby
 # bad

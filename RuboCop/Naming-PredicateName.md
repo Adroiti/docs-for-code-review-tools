@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop makes sure that predicates are named properly.
+This rule makes sure that predicates are named properly.
 
-### Example
+## Examples
 
 ```ruby
 # bad

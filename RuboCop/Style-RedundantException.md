@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `RuntimeError` as the argument of `raise`/`fail`.
+This rule checks for `RuntimeError` as the argument of `raise`/`fail`.
 
-### Example
+## Examples
 
 ```ruby
 # Bad

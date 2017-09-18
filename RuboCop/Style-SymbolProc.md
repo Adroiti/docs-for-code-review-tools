@@ -6,7 +6,7 @@ Issue: -
 
 Use symbols as procs when possible.
 
-### Example
+## Examples
 
 ```ruby
 # bad

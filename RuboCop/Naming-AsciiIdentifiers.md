@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for non-ascii characters in identifier names.
+This rule checks for non-ascii characters in identifier names.
 
 ## Further Reading
 

@@ -6,7 +6,7 @@ Issue: -
 
 Checks for uses of the `then` keyword in multi-line `if` statements.
 
-### Example
+## Examples
 
 ```ruby
 if cond then

@@ -1,12 +1,12 @@
-Pattern: Unused `String#end_with?`
+Pattern: Missing use of `String#end_with?`
 
 Issue: -
 
 ## Description
 
-This cop identifies unnecessary use of a regex where `String#end_with?` would suffice.
+This rule identifies unnecessary use of a regex where `String#end_with?` would suffice.
 
-### Example
+## Examples
 
 ```ruby
 # bad
@@ -16,12 +16,6 @@ This cop identifies unnecessary use of a regex where `String#end_with?` would su
 # good
 'abc'.end_with?('bc')
 ```
-
-## Default configuration
-
-Attribute | Value
---- | ---
-AutoCorrect | false
 
 ## Further Reading
 

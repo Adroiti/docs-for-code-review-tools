@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop makes sure that all variables use the configured style for their names.
+This rule makes sure that all variables use the configured style for their names.
 
 ## Default configuration
 

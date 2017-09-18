@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of `rescue` with no error class specified.
+This rule checks for uses of `rescue` with no error class specified.
 
-### Example
+## Examples
 
 ```ruby
 # good

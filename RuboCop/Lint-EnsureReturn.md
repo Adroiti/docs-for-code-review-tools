@@ -6,7 +6,7 @@ Issue: -
 
 If you explicitly return from a method inside an `ensure` block, the return will take precedence over any exception being raised, and the method will return as if no exception had been raised at all. In effect, the exception will be silently thrown away.
 
-### Example
+## Examples
 
 ```ruby
 # bad

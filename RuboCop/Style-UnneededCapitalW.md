@@ -1,10 +1,10 @@
-Pattern: Unneeded use of `%W`
+Pattern: Unnecessary `%W`
 
 Issue: -
 
 ## Description
 
-This cop checks for usage of the `%W` syntax when interpolation is not needed or `%w` would do.
+This rule checks for usage of the `%W` syntax when interpolation is not needed or `%w` would do.
 
 ## Further Reading
 

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for redundant `with_index`.
+This rule checks for redundant `with_index`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

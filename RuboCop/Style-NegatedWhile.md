@@ -6,7 +6,7 @@ Issue: -
 
 Checks for uses of `while` with a negated condition. Use `until` instead.
 
-### Example
+## Examples
 
 ```ruby
 # bad

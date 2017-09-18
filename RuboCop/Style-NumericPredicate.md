@@ -4,20 +4,20 @@ Issue: -
 
 ## Description
 
-This cop checks for usage of comparison operators (`==`,
+This rule checks for usage of comparison operators (`==`,
 `>`, `<`) to test numbers as zero, positive, or negative.
 These can be replaced by their respective predicate methods.
-The cop can also be configured to do the reverse.
+The rule can also be configured to do the reverse.
 
-The cop disregards `#nonzero?` as it its value is truthy or falsey,
+The rule disregards `#nonzero?` as it its value is truthy or falsey,
 but not `true` and `false`, and thus not always interchangeable with
 `!= 0`.
 
-The cop ignores comparisons to global variables, since they are often
+The rule ignores comparisons to global variables, since they are often
 populated with objects which can be compared with integers, but are
 not themselves `Interger` polymorphic.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: predicate (default)
@@ -54,7 +54,6 @@ bar.baz > 0
 
 Attribute | Value
 --- | ---
-AutoCorrect | false
 EnforcedStyle | predicate
 SupportedStyles | predicate, comparison
 Exclude | spec/\*\*/\*

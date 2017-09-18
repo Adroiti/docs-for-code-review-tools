@@ -6,7 +6,7 @@ Issue: -
 
 Check for parentheses around stabby lambda arguments. There are two different styles. Defaults to `require_parentheses`.
 
-### Example
+## Examples
 
 ```ruby
 # require_parentheses - bad

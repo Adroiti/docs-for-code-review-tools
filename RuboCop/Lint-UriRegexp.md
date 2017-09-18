@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `URI.regexp` is obsolete and should not be used. Instead, use `URI::DEFAULT_PARSER.make_regexp`.
+This rule identifies places where `URI.regexp` is obsolete and should not be used. Instead, use `URI::DEFAULT_PARSER.make_regexp`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

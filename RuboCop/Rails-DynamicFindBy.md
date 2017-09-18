@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks dynamic `find_by_*` methods. Use `find_by` instead of dynamic method.
+This rule checks dynamic `find_by_*` methods. Use `find_by` instead of dynamic method.
 
-### Example
+## Examples
 
 ```ruby
 # bad

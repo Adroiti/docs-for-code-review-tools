@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check that the keys, separators, and values of a multi-line hash
+This rule checks that the keys, separators, and values of a multi-line hash
 literal are aligned according to configuration. The configuration
 options are:
 
@@ -20,7 +20,7 @@ can also be configured. The options are:
   - ignore_implicit (without curly braces)
   - ignore_explicit (with curly braces)
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedHashRocketStyle: key (default)

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for redundant `return` expressions.
+This rule checks for redundant `return` expressions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

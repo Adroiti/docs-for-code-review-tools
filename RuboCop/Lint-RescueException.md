@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `rescue` blocks targeting the Exception class.
+This rule checks for `rescue` blocks targeting the Exception class.
 
-### Example
+## Examples
 
 ```ruby
 # bad

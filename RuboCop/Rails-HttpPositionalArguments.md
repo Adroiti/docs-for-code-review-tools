@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop is used to identify usages of http methods like `get`, `post`,
+This rule is used to identify usages of http methods like `get`, `post`,
 `put`, `patch` without the usage of keyword arguments in your tests and
 change them to use keyword args.
 
-### Example
+## Examples
 
 ```ruby
 # bad

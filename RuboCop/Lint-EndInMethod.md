@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `END` blocks in method definitions.
+This rule checks for `END` blocks in method definitions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

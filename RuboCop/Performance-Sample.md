@@ -1,13 +1,13 @@
-Pattern: Unused `sample`
+Pattern: Missing use of `sample`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of `shuffle.first`, `shuffle.last`
+This rule is used to identify usages of `shuffle.first`, `shuffle.last`
 and `shuffle[]` and change them to use `sample` instead.
 
-### Example
+## Examples
 
 ```ruby
 # bad

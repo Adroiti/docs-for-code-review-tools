@@ -1,10 +1,10 @@
-Pattern: Unused `count`
+Pattern: Missing use of `count`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of `count` on an `Enumerable` that
+This rule is used to identify usages of `count` on an `Enumerable` that
 follow calls to `select` or `reject`. Querying logic can instead be
 passed to the `count` call.
 
@@ -21,7 +21,7 @@ Example:
 
   Model.where(id: [1, 2, 3]).to_a.count { |m| m.method == true }
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks expressions wrapping styles for multi-line memoization. Wrap blocks in `begin` and `end` instead.
+This rule checks expressions wrapping styles for multi-line memoization. Wrap blocks in `begin` and `end` instead.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: keyword (default)

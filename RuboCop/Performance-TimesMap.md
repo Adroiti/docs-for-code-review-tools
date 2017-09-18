@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `.times.map` calls. In most cases such calls can be replaced with an explicit array creation.
+This rule checks for `.times.map` calls. In most cases such calls can be replaced with an explicit array creation.
 
-### Example
+## Examples
 
 ```ruby
 # bad
@@ -19,12 +19,6 @@ Array.new(9) do |i|
   i.to_s
 end
 ```
-
-## Default configuration
-
-Attribute | Value
---- | ---
-AutoCorrect | false
 
 ## Further Reading
 

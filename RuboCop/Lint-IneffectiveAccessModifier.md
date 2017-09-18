@@ -4,12 +4,12 @@ Issue: -
 
 ## Description
 
-This cop checks for `private` or `protected` access modifiers which are
+This rule checks for `private` or `protected` access modifiers which are
 applied to a singleton method. These access modifiers do not make
 singleton methods private/protected. `private_class_method` can be
 used for that.
 
-### Example
+## Examples
 
 ```ruby
 # bad

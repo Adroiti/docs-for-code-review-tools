@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks if empty lines exist around the bodies of methods.
+This rule checks if empty lines exist around the bodies of methods.
 
-### Example
+## Examples
 
 ```ruby
 # good

@@ -1,4 +1,4 @@
-Pattern: Unused `next` to skip iteration
+Pattern: Missing use of `next` to skip iteration
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Use `next` to skip iteration instead of a condition at the end.
 
-### Example
+## Examples
 
 ```ruby
 # bad

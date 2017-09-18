@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks the indentation of the right hand side operand in binary operations that span more than one line.
+This rule checks the indentation of the right hand side operand in binary operations that span more than one line.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for ambiguous block association with method when param is passed without parentheses.
+This rule checks for ambiguous block association with method when param is passed without parentheses.
 
-### Example
+## Examples
 
 ```ruby
 # bad

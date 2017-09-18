@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `:true` and `:false` symbols. In most cases it would be a typo.
+This rule checks for `:true` and `:false` symbols. In most cases it would be a typo.
 
-### Example
+## Examples
 
 ```ruby
 # bad

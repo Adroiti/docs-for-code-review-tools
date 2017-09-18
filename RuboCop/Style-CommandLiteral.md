@@ -1,12 +1,12 @@
-Pattern: Unused `` or `%x` around command literal
+Pattern: Missing `` or `%x` around command literal
 
 Issue: -
 
 ## Description
 
-This cop enforces using `` or `%x` around command literals.
+This rule enforces using `` or `%x` around command literals.
 
-### Example
+## Examples
 
 ```ruby
 # Good if EnforcedStyle is backticks or mixed, bad if percent_x.

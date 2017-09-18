@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for case statements with an empty condition.
+This rule checks for case statements with an empty condition.
 
-### Example
+## Examples
 
 ```ruby
 # bad:

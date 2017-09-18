@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of rescue in its modifier form.
+This rule checks for uses of rescue in its modifier form.
 
-### Example
+## Examples
 
 ```ruby
 # bad - this catches exceptions of StandardError class and its descendant classes

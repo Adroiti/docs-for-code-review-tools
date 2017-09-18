@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks for inconsistent indentation.
+This rule checks for inconsistent indentation.
 
-### Example
+## Examples
 
 ```ruby
 class A

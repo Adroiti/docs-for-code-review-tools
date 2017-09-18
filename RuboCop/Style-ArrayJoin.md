@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of fairly cryptic `Array#*` to be replaced with `Array#join`.
+This rule checks for uses of fairly cryptic `Array#*` to be replaced with `Array#join`.
 
-Not all cases can reliably checked, due to Ruby's dynamic types, so we consider only cases when the first argument is an array literal or the second is a string literal.
+Not all cases can reliably checked, due to Ruby's dynamic types, so it considers only cases when the first argument is an array literal or the second is a string literal.
 
-### Example
+## Examples
 
 ```ruby
 # bad

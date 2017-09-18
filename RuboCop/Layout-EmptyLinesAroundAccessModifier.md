@@ -6,7 +6,7 @@ Issue: -
 
 Access modifiers should be surrounded by blank lines.
 
-### Example
+## Examples
 
 ```ruby
 # bad

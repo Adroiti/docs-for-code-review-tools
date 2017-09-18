@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop can check for array literals made up of symbols that are not
+This rule can check for array literals made up of symbols that are not
 using the `%i` syntax.
 
 Alternatively, it checks for symbol arrays using the `%i` syntax on
@@ -16,7 +16,7 @@ If set, arrays with fewer elements than this value will not trigger the
 cop. For example, a `MinSize of 3` will not enforce a style on an array
 of 2 or fewer elements.
 
-### Example
+## Examples
 
 ```ruby
 # bad

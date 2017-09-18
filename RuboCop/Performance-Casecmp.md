@@ -1,12 +1,12 @@
-Pattern: Unused `casecmp`
+Pattern: Missing use of `casecmp`
 
 Issue: -
 
 ## Description
 
-This cop identifies places where a case-insensitive string comparison can better be implemented using `casecmp`.
+This rule identifies places where a case-insensitive string comparison can better be implemented using `casecmp`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

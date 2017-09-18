@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `add_column` call with `NOT NULL` constraint in migration file.
+This rule checks for `add_column` call with `NOT NULL` constraint in migration file.
 
-### Example
+## Examples
 
 ```ruby
 # bad

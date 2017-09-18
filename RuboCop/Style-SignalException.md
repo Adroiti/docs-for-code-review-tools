@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of `fail` and `raise`. By default, it prefers `raise` over `fail` for exceptions.
+This rule checks for uses of `fail` and `raise`. By default, it prefers `raise` over `fail` for exceptions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for nested method definitions.
+This rule checks for nested method definitions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

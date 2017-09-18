@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks if the parameters on a multi-line method call or definition are aligned.
+This rule checks if the parameters on a multi-line method call or definition are aligned.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: with_first_parameter

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop looks for delegations that could have been created
+This rule looks for delegations that could have been created
 automatically with the `delegate` method.
 
 Safe navigation `&.` is ignored because Rails' `allow_nil`
@@ -16,7 +16,7 @@ using the target object as a prefix of the method name
 without using the `delegate` method will be a violation.
 When set to `false`, this case is legal.
 
-### Example
+## Examples
 
 ```ruby
 # bad

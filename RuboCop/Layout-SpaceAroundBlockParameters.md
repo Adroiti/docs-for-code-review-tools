@@ -6,7 +6,7 @@ Issue: -
 
 Checks the spacing inside and after block parameters pipes.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyleInsidePipes: no_space (default)

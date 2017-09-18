@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop is used to identify usages of slow array flattening.
+This rule is used to identify usages of slow array flattening.
 
-### Example
+## Examples
 
 ```ruby
 # bad

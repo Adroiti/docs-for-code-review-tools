@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `caller[n]` can be replaced by `caller(n..n).first`.
+This rule identifies places where `caller[n]` can be replaced by `caller(n..n).first`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

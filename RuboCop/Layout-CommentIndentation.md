@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cops checks the indentation of comments.
+This rule checks the indentation of comments.
 
 ## Further Reading
 

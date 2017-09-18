@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop is used to identify usages of `reverse.each` and change them to use `reverse_each` instead.
+This rule is used to identify usages of `reverse.each` and change them to use `reverse_each` instead.
 
-### Example
+## Examples
 
 ```ruby
 # bad

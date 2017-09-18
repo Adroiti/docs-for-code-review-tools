@@ -4,10 +4,10 @@ Issue: -
 
 ## Description
 
-This cop checks that your heredocs are using the configured case.
+This rule checks that your heredocs are using the configured case.
 By default it is configured to enforce uppercase heredocs.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: uppercase (default)

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for implicit string concatenation of string literals which are on the same line.
+This rule checks for implicit string concatenation of string literals which are on the same line.
 
-### Example
+## Examples
 
 ```ruby
 # bad

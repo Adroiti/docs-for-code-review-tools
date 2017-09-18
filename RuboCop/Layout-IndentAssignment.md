@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks the indentation of the first line of the right-hand-side of a multi-line assignment.
+This rule checks the indentation of the first line of the right-hand-side of a multi-line assignment.
 
-### Example
+## Examples
 
 ```ruby
 # bad

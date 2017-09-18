@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for empty interpolation.
+This rule checks for empty interpolation.
 
-### Example
+## Examples
 
 ```ruby
 # bad

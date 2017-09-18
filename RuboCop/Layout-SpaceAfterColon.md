@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-Checks for colon (`:`) not followed by some kind of space. This cop does not handle spaces after a ternary operator.
+Checks for colon (`:`) not followed by some kind of space. This rule does not handle spaces after a ternary operator.
 
-### Example
+## Examples
 
 ```ruby
 # bad

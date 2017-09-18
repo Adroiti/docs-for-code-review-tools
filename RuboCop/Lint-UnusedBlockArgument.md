@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for unused block arguments.
+This rule checks for unused block arguments.
 
-### Example
+## Examples
 
 ```ruby
 # bad

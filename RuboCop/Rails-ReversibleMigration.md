@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks whether the change method of the migration file is reversible.
+This rule checks whether the change method of the migration file is reversible.
 
-### Example
+## Examples
 
 ```ruby
 # bad

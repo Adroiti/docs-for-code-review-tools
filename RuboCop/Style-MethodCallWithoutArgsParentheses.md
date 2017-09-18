@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for unwanted parentheses in parameterless method calls.
+This rule checks for unwanted parentheses in parameterless method calls.
 
-### Example
+## Examples
 
 ```ruby
 # bad

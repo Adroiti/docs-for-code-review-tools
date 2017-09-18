@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks the indentation of the method name part in method calls that span more than one line.
+This rule checks the indentation of the method name part in method calls that span more than one line.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for setter call to local variable as the final expression of a function definition.
+This rule checks for setter call to local variable as the final expression of a function definition.
 
-### Example
+## Examples
 
 ```ruby
 # bad

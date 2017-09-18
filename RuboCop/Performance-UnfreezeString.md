@@ -1,4 +1,4 @@
-Pattern: Unused unary plus to unfreeze string
+Pattern: Use of `String#dup`/`String.new` to unfreeze string
 
 Issue: -
 
@@ -11,9 +11,9 @@ Unary plus operator is faster than `String#dup`.
 Note: `String.new` (without operator) is not exactly the same as `+''`.
 These differ in encoding. `String.new.encoding` is always `ASCII-8BIT`.
 However, `(+'').encoding` is the same as script encoding(e.g. `UTF-8`).
-So, if you expect `ASCII-8BIT` encoding, disable this cop.
+So, if you expect `ASCII-8BIT` encoding, disable this rule.
 
-### Example
+## Examples
 
 ```ruby
 # bad

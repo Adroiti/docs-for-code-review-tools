@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for the presence of `method_missing` without also defining `respond_to_missing?` and falling back on `super`.
+This rule checks for the presence of `method_missing` without also defining `respond_to_missing?` and falling back on `super`.
 
-### Example
+## Examples
 
 ```ruby
 #bad

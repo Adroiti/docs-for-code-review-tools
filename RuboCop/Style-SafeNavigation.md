@@ -1,10 +1,10 @@
-Pattern: Unused safe navigation (`&.`)
+Pattern: Missing use of `&.`
 
 Issue: -
 
 ## Description
 
-This cop transforms usages of a method call safeguarded by a non `nil`
+This rule transforms usages of a method call safeguarded by a non `nil`
 check for the variable whose method is being called to
 safe navigation (`&.`).
 
@@ -16,7 +16,7 @@ of the method is. If this is converted to safe navigation,
 `foo&.bar` can start returning `nil` as well as what the method
 returns.
 
-### Example
+## Examples
 
 ```ruby
 # bad

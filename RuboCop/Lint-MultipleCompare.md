@@ -6,10 +6,10 @@ Issue: -
 
 In math and Python, you can use `x < y < z` style comparison to compare
 multiple value. However, you can't use the comparison in Ruby. However,
-the comparison is not syntax error. This cop checks the bad usage of
+the comparison is not syntax error. This rule checks the bad usage of
 comparison operators.
 
-### Example
+## Examples
 
 ```ruby
 # bad

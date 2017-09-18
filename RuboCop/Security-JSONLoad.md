@@ -4,10 +4,10 @@ Issue: -
 
 ## Description
 
-This cop checks for the use of JSON class methods which have potential
+This rule checks for the use of JSON class methods which have potential
 security issues.
 
-### Example
+## Examples
 
 ```ruby
 # always offense
@@ -17,12 +17,6 @@ JSON.restore("{}")
 # no offense
 JSON.parse("{}")
 ```
-
-## Default configuration
-
-Attribute | Value
---- | ---
-AutoCorrect | false
 
 ## Further Reading
 

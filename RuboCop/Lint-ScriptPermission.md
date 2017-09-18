@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks if a file which has a shebang line as its first line is granted execute permission.
+This rule checks if a file which has a shebang line as its first line is granted execute permission.
 
 ## Further Reading
 

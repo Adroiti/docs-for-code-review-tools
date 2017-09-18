@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop enforces the consistent usage of `%`-literal delimiters.
+This rule enforces the consistent usage of `%`-literal delimiters.
 
 Specify the `default` key to set all preferred delimiters at once. You can continue to specify individual preferred delimiters to override the default.
 
-### Example
+## Examples
 
 ```ruby
 # Style/PercentLiteralDelimiters:

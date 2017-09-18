@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for redundant `begin` blocks. Use _implicit begin blocks_ where possible.
+This rule checks for redundant `begin` blocks. Use _implicit begin blocks_ where possible.
 
-### Example
+## Examples
 
 ```ruby
 # bad

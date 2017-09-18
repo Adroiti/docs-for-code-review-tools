@@ -1,4 +1,4 @@
-Pattern: Unused `match?` when `MatchData` is not used
+Pattern: Missing `match?` when `MatchData` is not used
 
 Issue: -
 
@@ -10,7 +10,7 @@ Because the methods avoid creating a `MatchData` object or saving
 backref.
 So, when `MatchData` is not used, use `match?` instead of `match`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

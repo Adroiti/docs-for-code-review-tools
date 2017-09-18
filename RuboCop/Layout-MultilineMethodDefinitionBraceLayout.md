@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks that the closing brace in a method definition is either
+This rule checks that the closing brace in a method definition is either
 on the same line as the last method parameter, or a new line.
 
 When using the `symmetrical` (default) style:
@@ -27,7 +27,7 @@ When using the `same_line` style:
 The closing brace of a multi-line method definition must be on the same
 line as the last parameter of the definition.
 
-### Example
+## Examples
 
 ```ruby
 # symmetrical: bad

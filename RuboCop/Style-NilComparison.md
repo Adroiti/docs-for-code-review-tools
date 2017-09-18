@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for comparison of something with nil using `==`.
+This rule checks for comparison of something with nil using `==`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

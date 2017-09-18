@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for redundant returning of `true`/`false` in conditionals.
+This rule checks for redundant returning of `true`/`false` in conditionals.
 
-### Example
+## Examples
 
 ```ruby
 # bad

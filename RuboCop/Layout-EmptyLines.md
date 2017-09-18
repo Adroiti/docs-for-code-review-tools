@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks for two or more consecutive blank lines.
+This rule checks for two or more consecutive blank lines.
 
-### Example
+## Examples
 
 ```ruby
 # bad

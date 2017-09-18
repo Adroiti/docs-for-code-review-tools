@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cops checks for use of `extend self` or `module_function` in a module.
+This rule checks for use of `extend self` or `module_function` in a module.
 
-### Example
+## Examples
 
 ```ruby
 # Good if EnforcedStyle is module_function

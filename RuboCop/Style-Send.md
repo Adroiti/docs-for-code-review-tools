@@ -6,10 +6,10 @@ Issue: -
 
 Prefer `public_send` over `send` so as not to circumvent `private`/`protected` visibility. 
 
-### Example
+## Examples
 
 ```ruby
-# We have  an ActiveModel Organization that includes concern Activatable
+# An ActiveModel Organization that includes concern Activatable
 module Activatable
   extend ActiveSupport::Concern
 

@@ -1,14 +1,14 @@
-Pattern: Unused resource cleanup version for method
+Pattern: Missing use of resource-cleanup version for method
 
 Issue: -
 
 ## Description
 
-This cop checks for cases when you could use a block
+This rule checks for cases when you could use a block
 accepting version of a method that does automatic
 resource cleanup.
 
-### Example
+## Examples
 
 ```ruby
 # bad

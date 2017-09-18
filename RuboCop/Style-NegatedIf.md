@@ -10,7 +10,7 @@ Checks for uses of `if` with a negated condition. Only `if`s without `else` are 
   - prefix
   - postfix
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: both

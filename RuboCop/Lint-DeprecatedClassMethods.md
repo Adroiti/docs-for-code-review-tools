@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of the deprecated class method usages.
+This rule checks for uses of the deprecated class method usages.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for consistent uses of `request.referer` or `request.referrer`, depending on the cop's configuration.
+This rule checks for consistent uses of `request.referer` or `request.referrer`, depending on the configuration.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: referer

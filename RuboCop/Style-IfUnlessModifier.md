@@ -1,4 +1,4 @@
-Pattern: Unused `if`/`unless` for single-line body
+Pattern: Missing use of `if`/`unless`
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Checks for `if` and `unless` statements that would fit on one line if written as a modifier `if`/`unless`. The maximum line length is configurable.
 
-### Example
+## Examples
 
 ```ruby
 # bad

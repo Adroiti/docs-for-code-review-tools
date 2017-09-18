@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for string literal concatenation at the end of a line. Use `\\` instead of `+` or `<<` to concatenate strings.
+This rule checks for string literal concatenation at the end of a line. Use `\\` instead of `+` or `<<` to concatenate strings.
 
-### Example
+## Examples
 
 ```ruby
 # bad

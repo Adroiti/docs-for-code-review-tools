@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for nested use of `if`, `unless`, `while` and `until` in their modifier form. Use `&&`/`||` if appropriate.
+This rule checks for nested use of `if`, `unless`, `while` and `until` in their modifier form. Use `&&`/`||` if appropriate.
 
-### Example
+## Examples
 
 ```ruby
 # bad

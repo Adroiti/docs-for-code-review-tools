@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks the length of lines in the source code. The maximum length is configurable.
+This rule checks the length of lines in the source code. The maximum length is configurable.
 
 ## Default configuration
 

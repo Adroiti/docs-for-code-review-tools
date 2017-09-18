@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for multi-line ternary operator expressions. Use `if`/`unless` instead.
+This rule checks for multi-line ternary operator expressions. Use `if`/`unless` instead.
 
 ## Further Reading
 

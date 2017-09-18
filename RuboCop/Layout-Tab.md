@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for tabs inside the source code.
+This rule checks for tabs inside the source code.
 
 ## Further Reading
 

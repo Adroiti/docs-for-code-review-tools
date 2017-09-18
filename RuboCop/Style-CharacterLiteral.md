@@ -6,7 +6,7 @@ Issue: -
 
 Checks for uses of the character literal `?x`. Since Ruby 1.9 it's basically redundant — `?x` would interpreted as `'x'` (a string with a single character in it).
 
-### Example
+## Examples
 
 ```ruby
 # bad

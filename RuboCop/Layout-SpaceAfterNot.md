@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for space after `!`.
+This rule checks for space after `!`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -6,7 +6,7 @@ Issue: -
 
 Check for arguments to `rescue` that will result in a `TypeError` if an exception is raised.
 
-### Example
+## Examples
 
 ```ruby
 # bad

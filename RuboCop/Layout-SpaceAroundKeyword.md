@@ -6,7 +6,7 @@ Issue: -
 
 Checks the spacing around the keywords.
 
-### Example
+## Examples
 
 ```ruby
 # bad

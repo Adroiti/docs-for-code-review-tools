@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for spaces between `->` and opening parameter brace in lambda literals.
+This rule checks for spaces between `->` and opening parameter brace in lambda literals.
 
-### Example
+## Examples
 
 ```ruby
 EnforcedStyle: require_no_space (default)

@@ -1,4 +1,4 @@
-Pattern: Unused guard clause
+Pattern: Missing use of guard clause
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Use a guard clause instead of wrapping the code inside a conditional expression.
 
-### Example
+## Examples
 
 ```ruby
 # bad

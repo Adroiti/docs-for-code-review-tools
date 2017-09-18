@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for unparenthesized method calls in the argument list of a parenthesized method call.
+This rule checks for unparenthesized method calls in the argument list of a parenthesized method call.
 
-### Example
+## Examples
 
 ```ruby
 # good

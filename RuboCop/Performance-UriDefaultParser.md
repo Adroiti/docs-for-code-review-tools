@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `URI::Parser.new` can be replaced by `URI::DEFAULT_PARSER`.
+This rule identifies places where `URI::Parser.new` can be replaced by `URI::DEFAULT_PARSER`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

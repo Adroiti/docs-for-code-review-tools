@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop enforces the use of a single string formatting utility. By default, it favor's the use of `format` over the fairly cryptic `String#%` method.
+This rule enforces the use of a single string formatting utility. By default, it favor's the use of `format` over the fairly cryptic `String#%` method.
 
-### Example
+## Examples
 
 ```ruby
 # bad

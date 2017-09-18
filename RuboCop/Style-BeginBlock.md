@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for `BEGIN` blocks.
+This rule checks for `BEGIN` blocks.
 
 ## Further Reading
 

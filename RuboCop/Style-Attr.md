@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of `attr`. Use `attr_reader` and `attr_accessor` instead.
+This rule checks for uses of `attr`. Use `attr_reader` and `attr_accessor` instead.
 
 ## Further Reading
 

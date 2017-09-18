@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop enforces that `exit` calls are not used within a rails app.
+This rule enforces that `exit` calls are not used within a rails app.
 Valid options are instead to raise an error, break, return or some
 other form of stopping execution of current request.
 

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for single-line method definitions. It can optionally accept single-line methods with no body.
+This rule checks for single-line method definitions. It can optionally accept single-line methods with no body.
 
-### Example
+## Examples
 
 ```ruby
 # bad

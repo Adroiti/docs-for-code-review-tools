@@ -18,7 +18,6 @@ an offense is reported.
 Attribute | Value
 --- | ---
 Notice | ^Copyright (\(c\) )?2[0-9]{3} .+
-AutocorrectNotice |
 
 ## Further Reading
 

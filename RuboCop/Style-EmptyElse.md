@@ -8,7 +8,7 @@ Checks for empty `else` clauses, possibly including comments and/or an explicit 
 
 SupportedStyles:
 
-### Example
+## Examples
 
 ```ruby
 # good for all styles

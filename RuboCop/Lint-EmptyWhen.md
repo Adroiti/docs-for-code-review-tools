@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for the presence of `when` branches without a body.
+This rule checks for the presence of `when` branches without a body.
 
-### Example
+## Examples
 
 ```ruby
 # bad

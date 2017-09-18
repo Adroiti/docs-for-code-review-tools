@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for the presence of superfluous parentheses around the condition of `if`/`unless`/`while`/`until`.
+This rule checks for the presence of superfluous parentheses around the condition of `if`/`unless`/`while`/`until`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

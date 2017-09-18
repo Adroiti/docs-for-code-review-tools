@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks whether the `end` keywords of method definitions are aligned properly.
+This rule checks whether the `end` keywords of method definitions are aligned properly.
 
 Two modes are supported through the EnforcedStyleAlignWith configuration
 parameter. If it's set to `start_of_line` (which is the default), the
@@ -12,7 +12,7 @@ parameter. If it's set to `start_of_line` (which is the default), the
 keyword is. If it's set to `def`, the `end` shall be aligned with the
 `def` keyword.
 
-### Example
+## Examples
 
 ```ruby
 # bad
@@ -43,7 +43,6 @@ Attribute | Value
 --- | ---
 EnforcedStyleAlignWith | start_of_line
 SupportedStylesAlignWith | start_of_line, def
-AutoCorrect | false
 
 ## Further Reading
 

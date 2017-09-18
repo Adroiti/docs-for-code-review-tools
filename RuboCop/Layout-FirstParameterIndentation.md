@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks the indentation of the first parameter in a method call.
+This rule checks the indentation of the first parameter in a method call.
 
-### Example
+## Examples
 
 ```ruby
 # bad

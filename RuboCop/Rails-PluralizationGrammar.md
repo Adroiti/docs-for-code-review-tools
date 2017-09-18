@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for correct grammar when using ActiveSupport's core extensions to the numeric classes.
+This rule checks for correct grammar when using ActiveSupport's core extensions to the numeric classes.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop enforces the use of consistent method names from the `String` class.
+This rule enforces the use of consistent method names from the `String` class.
 
 ## Default configuration
 

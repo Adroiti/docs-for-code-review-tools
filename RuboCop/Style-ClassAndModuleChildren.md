@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks the style of children definitions at classes and modules. There are two different styles:
+This rule checks the style of children definitions at classes and modules. There are two different styles:
 
 nested - have each child on its own line
   class Foo

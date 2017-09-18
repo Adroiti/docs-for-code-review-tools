@@ -4,12 +4,12 @@ Issue: -
 
 ## Description
 
-This cop (by default) checks for uses of the lambda literal syntax for
+This rule (by default) checks for uses of the lambda literal syntax for
 single line lambdas, and the method call syntax for multi-line lambdas.
 It is configurable to enforce one of the styles for both single line
 and multi-line lambdas as well.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: line_count_dependent (default)

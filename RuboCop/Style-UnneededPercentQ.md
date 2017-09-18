@@ -1,12 +1,12 @@
-Pattern: Unneeded use of `%q` or `%Q`
+Pattern: Unnecessary `%q` or `%Q`
 
 Issue: -
 
 ## Description
 
-This cop checks for usage of the `%q`/`%Q` syntax when `''` or `""` would do. Regular string literals are more readable and should be preferred unless a lot of characters would have to be escaped in them.
+This rule checks for usage of the `%q`/`%Q` syntax when `''` or `""` would do. Regular string literals are more readable and should be preferred unless a lot of characters would have to be escaped in them.
 
-### Example
+## Examples
 
 ```ruby
 # bad

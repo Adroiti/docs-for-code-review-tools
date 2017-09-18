@@ -10,7 +10,7 @@ Ruby has to allocate memory for the splat expansion every time
 that the `case` `when` statement is run. Since Ruby does not support
 fall through inside of `case` `when`, like some other languages do,
 the order of the `when` branches does not matter. By placing any
-splat expansions at the end of the list of `when` branches we will
+splat expansions at the end of the list of `when` branches you will
 reduce the number of times that memory has to be allocated for
 the expansion.
 
@@ -20,7 +20,7 @@ hitting a condition in the splat expansion, it is possible that
 moving the splat condition to the end will use more memory,
 and run slightly slower.
 
-### Example
+## Examples
 
 ```ruby
 # bad

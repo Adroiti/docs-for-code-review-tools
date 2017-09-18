@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop checks for a rescued exception that get shadowed by a
+This rule checks for a rescued exception that get shadowed by a
 less specific exception being rescued before a more specific
 exception is rescued.
 
-### Example
+## Examples
 
 ```ruby
 # bad

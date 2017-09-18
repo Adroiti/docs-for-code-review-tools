@@ -8,7 +8,7 @@ Never pass untrusted or user controlled input to `eval`.
 
 Unless you are implementing a REPL like `irb` or `pry`, `eval` is almost certainly not what you want. Do not attempt to filter user input before passing it to `eval` - this approach is fraught with danger and will most likely open your application up to a serious remote code execution vulnerability.
 
-### Example
+## Examples
 
 ```ruby
 # bad

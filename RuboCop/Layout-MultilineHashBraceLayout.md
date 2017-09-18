@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks that the closing brace in a hash literal is either
+This rule checks that the closing brace in a hash literal is either
 on the same line as the last hash element, or a new line.
 
 When using the `symmetrical` (default) style:
@@ -27,7 +27,7 @@ When using the `same_line` style:
 The closing brace of a multi-line hash literal must be on the same
 line as the last element of the hash.
 
-### Example
+## Examples
 
 ```ruby
 # symmetrical: bad

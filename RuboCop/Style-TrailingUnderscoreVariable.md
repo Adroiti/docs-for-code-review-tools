@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for extra underscores in variable assignment.
+This rule checks for extra underscores in variable assignment.
 
-### Example
+## Examples
 
 ```ruby
 # bad

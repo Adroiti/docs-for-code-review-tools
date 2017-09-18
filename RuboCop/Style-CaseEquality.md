@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of the case equality operator (`===`). As its name implies it is meant to be used implicitly by `case` expressions and outside of them it yields confusing code.
+This rule checks for uses of the case equality operator (`===`). As its name implies it is meant to be used implicitly by `case` expressions and outside of them it yields confusing code.
 
-### Example
+## Examples
 
 ```ruby
 # bad

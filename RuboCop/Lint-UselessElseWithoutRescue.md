@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for useless `else` in `begin..end` without `rescue`.
+This rule checks for useless `else` in `begin..end` without `rescue`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for redundant parentheses.
+This rule checks for redundant parentheses.
 
-### Example
+## Examples
 
 ```ruby
 # bad

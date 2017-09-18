@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for a line break before the first parameter in a multi-line method parameter definition.
+This rule checks for a line break before the first parameter in a multi-line method parameter definition.
 
-### Example
+## Examples
 
 ```ruby
 # bad

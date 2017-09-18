@@ -4,15 +4,15 @@ Issue: -
 
 ## Description
 
-This cop checks for the use of `Time` methods without zone.
+This rule checks for the use of `Time` methods without zone.
 
-Two styles are supported for this cop. When _EnforcedStyle_ is `strict`
+Two styles are supported for this rule. When _EnforcedStyle_ is `strict`
 then only use of `Time.zone` is allowed.
 
 When _EnforcedStyle_ is `flexible` then it's also allowed
 to use `Time.in_time_zone`.
 
-### Example
+## Examples
 
 ```ruby
 # always offense

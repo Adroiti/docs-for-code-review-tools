@@ -8,7 +8,7 @@ The symbol argument `:gemcutter`, `:rubygems` and `:rubyforge`
 are deprecated. Please change your source to URL string that uses 
 'https://rubygems.org' if possible, or 'http://rubygems.org' if not.
 
-### Example
+## Examples
 
 ```ruby
 # bad

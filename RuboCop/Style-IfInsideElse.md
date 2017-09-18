@@ -1,4 +1,4 @@
-Pattern: Unused `elsif`
+Pattern: Missing use of `elsif`
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 If the `else` branch of a conditional consists solely of an `if` node, it can be combined with the `else` to become an `elsif`. This helps to keep the nesting level from getting too deep.
 
-### Example
+## Examples
 
 ```ruby
 # good

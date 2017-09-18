@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop checks whether the multi-line `do..end` blocks have a newline
+This rule checks whether the multi-line `do..end` blocks have a newline
 after the start of the block. Additionally, it checks whether the block
 arguments, if any, are on the same line as the start of the block.
 
-### Example
+## Examples
 
 ```ruby
 # bad

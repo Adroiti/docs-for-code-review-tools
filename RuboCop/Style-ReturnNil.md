@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop enforces consistency between `return nil` and `return`.
+This rule enforces consistency between `return nil` and `return`.
 
-### Example
+## Examples
 
 ```ruby
 # EnforcedStyle: return (default)

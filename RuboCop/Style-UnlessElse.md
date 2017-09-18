@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop looks for *unless* expressions with *else* clauses.
+This rule looks for *unless* expressions with *else* clauses.
 
-### Example
+## Examples
 
 ```ruby
 # bad

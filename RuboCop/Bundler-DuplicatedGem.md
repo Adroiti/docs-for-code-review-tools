@@ -6,7 +6,7 @@ Issue: -
 
 A Gem's requirements should be listed only once in a `Gemfile`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

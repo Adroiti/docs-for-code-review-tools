@@ -1,12 +1,12 @@
-Pattern: Unneeded string interpolation
+Pattern: Unnecessary string interpolation
 
 Issue: -
 
 ## Description
 
-This cop checks for strings that are just an interpolated expression.
+This rule checks for strings that are just an interpolated expression.
 
-### Example
+## Examples
 
 ```ruby
 # bad

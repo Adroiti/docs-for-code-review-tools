@@ -11,7 +11,7 @@ Alternatively, extra spaces can be added to align the argument with
 something on a preceding or following line, if the `AllowForAlignment`
 config parameter is true.
 
-### Example
+## Examples
 
 ```ruby
 # bad

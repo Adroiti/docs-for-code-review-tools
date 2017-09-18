@@ -6,7 +6,7 @@ Issue: -
 
 Gems should be alphabetically sorted within groups.
 
-### Example
+## Examples
 
 ```ruby
 # bad

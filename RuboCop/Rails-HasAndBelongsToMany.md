@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for the use of the `has_and_belongs_to_many` macro. Using `has_many :through` allows additional attributes and validations on the join model.
+This rule checks for the use of the `has_and_belongs_to_many` macro. Using `has_many :through` allows additional attributes and validations on the join model.
 
 ## Default configuration
 

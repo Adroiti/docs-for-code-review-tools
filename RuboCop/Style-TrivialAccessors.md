@@ -4,10 +4,10 @@ Issue: -
 
 ## Description
 
-This cop looks for trivial reader/writer methods, that could
+This rule looks for trivial reader/writer methods, that could
 have been created with the attr_* family of functions automatically.
 
-### Example
+## Examples
 
 ```ruby
 # bad

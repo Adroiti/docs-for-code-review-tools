@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of class variables (`@@`). Class instance variables should usually be preferred over class variables.
+This rule checks for uses of class variables (`@@`). Class instance variables should usually be preferred over class variables.
 
 ## Further Reading
 

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `rand(1)` calls. Such calls always return `0`.
+This rule checks for `rand(1)` calls. Such calls always return `0`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

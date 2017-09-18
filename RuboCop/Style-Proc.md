@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of `Proc.new` where `proc` would be more appropriate.
+This rule checks for uses of `Proc.new` where `proc` would be more appropriate.
 
-### Example
+## Examples
 
 ```ruby
 # bad

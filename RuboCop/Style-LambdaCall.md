@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for use of the `lambda.(args)` syntax.
+This rule checks for use of the `lambda.(args)` syntax.
 
-### Example
+## Examples
 
 ```ruby
 # bad

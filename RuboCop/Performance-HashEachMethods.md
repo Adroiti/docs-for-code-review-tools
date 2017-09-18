@@ -6,7 +6,7 @@ Issue: -
 
 `Hash#keys.each` allocates an array of keys; `Hash#each_key` iterates through the keys without allocating a new array.  This is the reason why `Hash#each_key` exists. The same applies to `Hash#values.each`.
 
-### Example
+## Examples
 
 ```ruby
 # bad
@@ -19,12 +19,6 @@ hash.each { |_k, v| p v }
 hash.each_key { |k| p k }
 hash.each_value { |v| p v }
 ```
-
-## Default configuration
-
-Attribute | Value
---- | ---
-AutoCorrect | false
 
 ## Further Reading
 

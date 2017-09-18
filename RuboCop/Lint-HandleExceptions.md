@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for `rescue` blocks with no body.
+This rule checks for `rescue` blocks with no body.
 
-### Example
+## Examples
 
 ```ruby
 # bad

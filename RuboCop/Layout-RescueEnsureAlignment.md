@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks whether the `rescue` and `ensure` keywords are aligned properly.
+This rule checks whether the `rescue` and `ensure` keywords are aligned properly.
 
-### Example
+## Examples
 
 ```ruby
 # bad

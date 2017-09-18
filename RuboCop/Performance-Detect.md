@@ -1,19 +1,17 @@
-Pattern: Unused `Enumerable#detect`
+Pattern: Missing use of `Enumerable#detect`
 
 Issue: -
 
 ## Description
 
-This cop is used to identify usages of
-`select.first`, `select.last`, `find_all.first`, and `find_all.last`
-and change them to use `detect` instead.
+This rule is used to identify usages of `select.first`, `select.last`, `find_all.first`, and `find_all.last` and change them to use `detect` instead.
 
 `ActiveRecord` compatibility:
 `ActiveRecord` does not implement a `detect` method and `find` has its
-own meaning. Correcting ActiveRecord methods with this cop should be
+own meaning. Correcting ActiveRecord methods with this rule should be
 considered unsafe.
 
-### Example
+## Examples
 
 ```ruby
 # bad

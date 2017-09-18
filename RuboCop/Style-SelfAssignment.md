@@ -1,12 +1,12 @@
-Pattern: Unused self-assignment shorthand
+Pattern: Missing use of `%s=`
 
 Issue: -
 
 ## Description
 
-This cop enforces the use the shorthand for self-assignment.
+This rule enforces the use the shorthand for self-assignment.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop is used to identify usages of `count` on an `Array` and `Hash` and change them to `size`.
+This rule is used to identify usages of `count` on an `Array` and `Hash` and change them to `size`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

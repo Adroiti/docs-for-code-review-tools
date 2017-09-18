@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for a line break before the first argument in a multi-line method call.
+This rule checks for a line break before the first argument in a multi-line method call.
 
-### Example
+## Examples
 
 ```ruby
 # bad

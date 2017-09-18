@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for non-local exits from iterators without a return
+This rule checks for non-local exits from iterators without a return
 value. It registers an offense under these conditions:
 
  - No value is returned,
@@ -15,7 +15,7 @@ value. It registers an offense under these conditions:
  - the return is not contained in an inner scope, e.g. a lambda or a
    method definition.
 
-### Example
+## Examples
 
 ```ruby
 class ItemApi

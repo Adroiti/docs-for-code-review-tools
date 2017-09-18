@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop makes sure that accessor methods are named properly.
+This rule makes sure that accessor methods are named properly.
 
-### Example
+## Examples
 
 ```ruby
 # bad

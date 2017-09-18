@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cops checks for code that can be changed to `present?`.
+This rule checks for code that can be changed to `present?`.
 
 Settings:
   _NotNilAndNotEmpty_: Convert checks for not `nil` and `not empty?`
@@ -12,7 +12,7 @@ Settings:
   _NotBlank_: Convert usages of not `blank?` to `present?`
   _UnlessBlank_: Convert usages of `unless` `blank?` to `if` `present?`
 
-### Example
+## Examples
 
 ```ruby
 # NotNilAndNotEmpty: true

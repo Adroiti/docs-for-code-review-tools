@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks for the use of old-style attribute validation macros.
+This rule checks for the use of old-style attribute validation macros.
 
 ## Default configuration
 

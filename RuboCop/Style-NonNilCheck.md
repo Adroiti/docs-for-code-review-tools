@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for non-nil checks, which are usually redundant. Non-nil checks are allowed if they are the final nodes of predicate.
+This rule checks for non-nil checks, which are usually redundant. Non-nil checks are allowed if they are the final nodes of predicate.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for calls to `debugger` or `pry`.
+This rule checks for calls to `debugger` or `pry`.
 
-### Example
+## Examples
 
 ```ruby
 # bad (ok during development)

@@ -6,7 +6,7 @@ Issue: -
 
 Checks for space between a method name and a left parenthesis in defs.
 
-### Example
+## Examples
 
 ```ruby
 # bad

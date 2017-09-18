@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for the presence of empty expressions.
+This rule checks for the presence of empty expressions.
 
-### Example
+## Examples
 
 ```ruby
 # bad

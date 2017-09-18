@@ -8,7 +8,7 @@ Checks for simple usages of parallel assignment. Parallel assignment is less rea
 
 This will only complain when the number of variables being assigned matched the number of assigning variables.
 
-### Example
+## Examples
 
 ```ruby
 # bad

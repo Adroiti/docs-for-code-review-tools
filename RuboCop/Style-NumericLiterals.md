@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for large numeric literals without `_` between groups of digits in them.
+This rule checks for large numeric literals without `_` between groups of digits in them.
 
-### Example
+## Examples
 
 ```ruby
 # bad

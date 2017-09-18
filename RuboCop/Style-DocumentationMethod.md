@@ -4,11 +4,11 @@ Issue: -
 
 ## Description
 
-This cop checks for missing documentation comment for public methods.
+This rule checks for missing documentation comment for public methods.
 It can optionally be configured to also require documentation for
 non-public methods.
 
-### Example
+## Examples
 
 ```ruby
 # bad

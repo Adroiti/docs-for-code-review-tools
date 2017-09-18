@@ -6,7 +6,7 @@ Issue: -
 
 Checks for `if` expressions that do not have an `else` branch.
 
-### Example
+## Examples
 
 ```ruby
 # bad

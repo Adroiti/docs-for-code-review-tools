@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for trailing comma in array and hash literals.
+This rule checks for trailing comma in array and hash literals.
 
-### Example
+## Examples
 
 ```ruby
 # always bad

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks if usage of `%()` or `%Q` matches configuration.
+This rule checks if usage of `%()` or `%Q` matches configuration.
 
 
 ## Default configuration

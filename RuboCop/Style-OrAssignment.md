@@ -1,12 +1,12 @@
-Pattern: Unused double pipe equals (`||=`)
+Pattern: Missing use of `||=`
 
 Issue: -
 
 ## Description
 
-This cop checks for potential usage of the `||=` operator.
+This rule checks for potential usage of the `||=` operator.
 
-### Example
+## Examples
 
 ```ruby
 # bad

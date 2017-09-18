@@ -6,7 +6,7 @@ Issue: -
 
 Don't omit the accumulator when calling `next` in a `reduce` block.
 
-### Example
+## Examples
 
 ```ruby
 # bad

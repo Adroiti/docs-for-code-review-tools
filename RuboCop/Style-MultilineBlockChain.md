@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for chaining of a block after another block that spans multiple lines.
+This rule checks for chaining of a block after another block that spans multiple lines.
 
-### Example
+## Examples
 
 ```ruby
 names = %w[Bozhidar Steve Sarah]

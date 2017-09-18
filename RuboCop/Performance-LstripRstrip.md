@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop identifies places where `lstrip.rstrip` can be replaced by `strip`.
+This rule identifies places where `lstrip.rstrip` can be replaced by `strip`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

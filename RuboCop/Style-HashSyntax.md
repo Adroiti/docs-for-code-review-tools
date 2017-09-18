@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This cop checks hash literal syntax.
+This rule checks hash literal syntax.
 
 It can enforce either the use of the class hash rocket syntax or
 the use of the newer Ruby 1.9 syntax (when applicable).
@@ -20,7 +20,7 @@ The supported styles are:
 * ruby19_no_mixed_keys - forces use of ruby 1.9 syntax and forbids mixed
   syntax hashes
 
-### Example
+## Examples
 
 ```ruby
 "EnforcedStyle => 'ruby19'"

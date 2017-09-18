@@ -1,14 +1,14 @@
-Pattern: Unused `__dir__` method
+Pattern: Missing use of `__dir__`
 
 Issue: -
 
 ## Description
 
-This cop checks for places where the `#__dir__` method can replace more
+This rule checks for places where the `#__dir__` method can replace more
 complex constructs to retrieve a canonicalized absolute path to the
 current file.
 
-### Example
+## Examples
 
 ```ruby
 # bad

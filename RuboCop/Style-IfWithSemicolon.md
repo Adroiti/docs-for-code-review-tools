@@ -6,7 +6,7 @@ Issue: -
 
 Checks for uses of semicolon in `if` statements. Use the ternary operator instead. 
 
-### Example
+## Examples
 
 ```ruby
 # bad

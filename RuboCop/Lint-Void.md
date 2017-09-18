@@ -4,10 +4,10 @@ Issue: -
 
 ## Description
 
-This cop checks for operators, variables and literals used
+This rule checks for operators, variables and literals used
 in void context.
 
-### Example
+## Examples
 
 ```ruby
 # bad

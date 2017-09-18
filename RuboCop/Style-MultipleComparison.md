@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks against comparing a variable with multiple items, where `Array#include?` could be used instead to avoid code repetition.
+This rule checks against comparing a variable with multiple items, where `Array#include?` could be used instead to avoid code repetition.
 
-### Example
+## Examples
 
 ```ruby
 # bad

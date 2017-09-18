@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks that ActiveSupport aliases to core ruby methods are not used.
+This rule checks that ActiveSupport aliases to core ruby methods are not used.
 
-### Example
+## Examples
 
 ```ruby
 # good

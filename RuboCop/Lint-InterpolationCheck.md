@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for interpolation in a single quoted string.
+This rule checks for interpolation in a single quoted string.
 
-### Example
+## Examples
 
 ```ruby
 # bad

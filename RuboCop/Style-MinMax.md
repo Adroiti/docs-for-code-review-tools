@@ -1,12 +1,12 @@
-Pattern: Unused `Enumerable#minmax`
+Pattern: Missing use of `Enumerable#minmax`
 
 Issue: -
 
 ## Description
 
-This cop checks for potential uses of `Enumerable#minmax`.
+This rule checks for potential uses of `Enumerable#minmax`.
 
-### Example
+## Examples
 
 ```ruby
 # bad
