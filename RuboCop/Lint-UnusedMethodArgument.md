@@ -27,7 +27,7 @@ end
 
 Attribute | Value
 --- | ---
-AllowUnusedKeywordArguments | false
+AllowUnusedKeywordArguments | true
 IgnoreEmptyMethods | true
 
 ## Further Reading
