@@ -1,4 +1,4 @@
-Pattern: Use of numeric comparison instead of `.empty?`
+Pattern: Missing use of `.empty?`
 
 Issue: -
 
