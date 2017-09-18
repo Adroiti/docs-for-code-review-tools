@@ -7,8 +7,9 @@ Issue: -
 This rule checks for every useless assignment to local variable in every scope.
 The basic idea for this rule was from the warning of `ruby -cw`:
 
-  assigned but unused variable - foo
-
+```
+assigned but unused variable - foo
+```
 
 ## Examples
 
