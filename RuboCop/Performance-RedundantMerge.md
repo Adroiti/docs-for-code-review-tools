@@ -1,4 +1,4 @@
-Pattern: Redundant `Hash#merge!`
+Pattern: Missing use of `Hash#[]=`
 
 Issue: -
 
