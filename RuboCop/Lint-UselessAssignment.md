@@ -6,10 +6,6 @@ Issue: -
 
 Use `_` to prefix unused block parameters and local variables. It's also acceptable to use just `_` (although it's a bit less descriptive). This convention is recognized by the Ruby interpreter and tools like RuboCop and will suppress their unused variable warnings.
 
-```
-assigned but unused variable - foo
-```
-
 ## Examples
 
 ```ruby
