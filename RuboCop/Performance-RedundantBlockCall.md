@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule identifies the use of a `&block` parameter and `block.call` where `yield` would do just as well.
+This rule identifies the use of a `&block` parameter and `block.call` where `yield` would do just as well. In MRI Ruby, block arguments are converted to Procs, which incurs a heap allocation.
 
 ## Examples
 
@@ -29,4 +29,4 @@ end
 ## Further Reading
 
 * [RuboCop - Performance/RedundantBlockCall](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceredundantblockcall)
-* [https://github.com/JuanitoFatas/fast-ruby#proccall-vs-yield-code](https://github.com/JuanitoFatas/fast-ruby#proccall-vs-yield-code)
+* [https://github.com/JuanitoFatas/fast-ruby#proccall-and-block-arguments-vs-yieldcode](https://github.com/JuanitoFatas/fast-ruby#proccall-and-block-arguments-vs-yieldcode)
