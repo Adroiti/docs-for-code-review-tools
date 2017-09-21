@@ -1,4 +1,4 @@
-Pattern: Use of wildcard import
+Pattern: Use of underscore import
 
 Issue: -
 
