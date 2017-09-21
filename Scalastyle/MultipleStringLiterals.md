@@ -1,14 +1,14 @@
-Pattern: String literal appears multiple times
+Pattern: Duplicate string literals
 
 Issue: -
 
 ## Description
 
-Code duplication makes maintenance more difficult, so it can be better to replace the multiple occurrences with a constant.
+Code duplication makes maintenance more difficult, so it's better to replace multiple occurrences with a constant.
 
 ## Parameters
 <table><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>allowed</td>
-        <td>Maximum occurences allowed</td>
+        <td>Maximum occurrences allowed</td>
         <td>integer</td>
         <td>1</td>
       </tr><tr><td>ignoreRegex</td>

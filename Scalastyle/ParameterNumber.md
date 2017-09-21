@@ -1,0 +1,26 @@
+Pattern: Too many method parameters
+
+Issue: -
+
+## Description
+
+A method which has more than a certain number of parameters can be hard to understand.
+
+## Parameters
+<table><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>maxParameters</td>
+        <td>Maximum Number</td>
+        <td>integer</td>
+        <td>8</td>
+      </tr></table>
+
+## Example configuration
+<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ParameterNumberChecker&quot; level=&quot;warning&quot;&gt;
+ &lt;parameters&gt;
+  &lt;parameter name=&quot;maxParameters&quot;&gt;8&lt;/parameter&gt;
+ &lt;/parameters&gt;
+&lt;/check&gt;</pre>
+<a name="org_scalastyle_scalariform_PatternMatchAlignChecker" />
+
+## Further Reading
+
+* [Scalastyle - ParameterNumber](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ParameterNumberChecker)
