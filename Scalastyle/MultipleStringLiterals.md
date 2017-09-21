@@ -7,7 +7,7 @@ Issue: -
 Code duplication makes maintenance more difficult, so it can be better to replace the multiple occurrences with a constant.
 
 ## Parameters
-<table class="table table-responsive table-condensed table-striped" width="80%"><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>allowed</td>
+<table><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>allowed</td>
         <td>Maximum occurences allowed</td>
         <td>integer</td>
         <td>1</td>
