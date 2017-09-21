@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Some checks can be carried out with a regular expression.
+This rule reports issues captured with a regular expression.
 
 ## Parameters
 <table><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>regex</td>

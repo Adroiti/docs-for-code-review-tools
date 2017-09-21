@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Scala allows unicode characters as operators and some editors misbehave when they see non-ascii character. This check can be helpful in such situations.
+Scala allows unicode characters as operators and some editors misbehave when they see non-ascii character. This rule can be helpful in such situations.
 
 ```scala
 "value".match {

@@ -1,4 +1,4 @@
-Pattern: Mutable field by class/object
+Pattern: Mutable field by `class`/`object`
 
 Issue: -
 

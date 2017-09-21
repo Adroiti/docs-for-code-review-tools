@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Some checks can be carried by just the presence of a particular token.
+This rule reports issues captured with a regular expression token.
 
 ## Parameters
 <table><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>regex</td>
