@@ -6,8 +6,8 @@ Issue: -
 
 Code duplication makes maintenance more difficult, so it can be better to replace the multiple occurrences with a constant.
 
-#### Parameters
-<table width="80%"><tr><th>Parameter</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>allowed</td>
+## Parameters
+<table class="table table-responsive table-condensed table-striped" width="80%"><tr><th>Name</th><th>Description</th><th>Type</th><th>Default Value</th></tr><tr><td>allowed</td>
         <td>Maximum occurences allowed</td>
         <td>integer</td>
         <td>1</td>
@@ -17,7 +17,7 @@ Code duplication makes maintenance more difficult, so it can be better to replac
         <td>^&quot;&quot;$</td>
       </tr></table>
 
-### Example configuration
+## Example configuration
 <pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.MultipleStringLiteralsChecker&quot; level=&quot;warning&quot;&gt;
  &lt;parameters&gt;
   &lt;parameter name=&quot;allowed&quot;&gt;1&lt;/parameter&gt;
@@ -28,4 +28,4 @@ Code duplication makes maintenance more difficult, so it can be better to replac
 
 ## Further Reading
 
-* [Scalastyle - MultipleStringLiterals](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_MultipleStringLiterals)
+* [Scalastyle - MultipleStringLiterals](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_MultipleStringLiteralsChecker)
