@@ -10,7 +10,7 @@ A procedure style declaration can cause confusion - the developer may have simpl
     def foo() = { println("hello"); 5 }
 
 	
-This checker raises a warning with the first line. To fix it, use an explicit return type, or add a `=` before the body.
+This rule raises a warning with the first line. To fix it, use an explicit return type, or add a `=` before the body.
 
 ## Example configuration
 <pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ProcedureDeclarationChecker&quot; level=&quot;warning&quot;/&gt;</pre>

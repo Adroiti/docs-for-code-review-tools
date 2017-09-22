@@ -12,7 +12,7 @@ A lower case pattern match clause with no other tokens is the same as `_`. This 
     "bar" match { case foo => "we got foo" }   // result = "we got foo"
     "bar" match { case `foo` => "we got foo" } // result = MatchError
 
-This checker raises a warning with the second match. To fix it, use an identifier which starts with an upper case letter (best), use `case _` or, if you wish to refer to the value, add a type `: Any`
+This rule raises a warning with the second match. To fix it, use an identifier which starts with an upper case letter (best), use `case _` or, if you wish to refer to the value, add a type `: Any`
 
     val lc = "lc"
     "something" match { case lc: Any => "lc" } // result = "lc"
