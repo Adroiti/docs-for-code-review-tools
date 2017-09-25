@@ -14,12 +14,15 @@ This rule reports issues captured with a regular expression token.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.TokenChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[ai]sInstanceOf$&lt;/parameter&gt;
- &lt;/parameters&gt;
- &lt;customMessage&gt;Avoid casting.&lt;/customMessage&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.TokenChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[ai]sInstanceOf$</parameter>
+ </parameters>
+ <customMessage>Avoid casting.</customMessage>
+</check>
+```
 <a name="org_scalastyle_scalariform_UnderscoreImportChecker" />
 
 ## Further Reading

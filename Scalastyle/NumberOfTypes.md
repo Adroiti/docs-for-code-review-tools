@@ -14,11 +14,14 @@ If there are too many classes/objects defined in a single file, this can cause t
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NumberOfTypesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maxTypes&quot;&gt;20&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NumberOfTypesChecker" level="warning">
+ <parameters>
+  <parameter name="maxTypes">20</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_ObjectNamesChecker" />
 
 ## Further Reading

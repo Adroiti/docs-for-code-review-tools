@@ -6,11 +6,15 @@ Issue: -
 
 Replacing a magic number with a named constant can make code easier to read and understand, and can avoid some subtle bugs. A simple assignment to a `val` is not considered to be a magic number, for example:
 
-    val foo = 4
+```scala
+val foo = 4
+```
 
 is not a magic number, but
 
-    var foo = 4
+```scala
+var foo = 4
+```
 
 is considered to be a magic number.
 
@@ -22,11 +26,14 @@ is considered to be a magic number.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.MagicNumberChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;ignore&quot;&gt;-1,0,1,2,3&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.MagicNumberChecker" level="warning">
+ <parameters>
+  <parameter name="ignore">-1,0,1,2,3</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_MethodArgumentNamesChecker" />
 
 ## Further Reading

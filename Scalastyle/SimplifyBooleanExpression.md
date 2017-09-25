@@ -7,7 +7,10 @@ Issue: -
 A boolean expression which can be simplified can make code easier to read.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.SimplifyBooleanExpressionChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.SimplifyBooleanExpressionChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_SpaceAfterCommentStartChecker" />
 
 ## Further Reading

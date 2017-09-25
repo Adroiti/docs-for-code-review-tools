@@ -7,7 +7,10 @@ Issue: -
 Correct formatting can help readability.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.PatternMatchAlignChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.PatternMatchAlignChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_ProcedureDeclarationChecker" />
 
 ## Further Reading

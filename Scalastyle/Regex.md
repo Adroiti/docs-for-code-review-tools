@@ -18,13 +18,16 @@ This rule reports issues captured with a regular expression.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.RegexChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;(?m)^\s*$(\r|)\n^\s*$(\r|)\n&lt;/parameter&gt;
-  &lt;parameter name=&quot;line&quot;&gt;false&lt;/parameter&gt;
- &lt;/parameters&gt;
- &lt;customMessage&gt;No double blank lines&lt;/customMessage&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.RegexChecker" level="warning">
+ <parameters>
+  <parameter name="regex">(?m)^\s*$(\r|)\n^\s*$(\r|)\n</parameter>
+  <parameter name="line">false</parameter>
+ </parameters>
+ <customMessage>No double blank lines</customMessage>
+</check>
+```
 <a name="org_scalastyle_file_WhitespaceEndOfLineChecker" />
 
 ## Further Reading

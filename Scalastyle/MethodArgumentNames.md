@@ -18,12 +18,15 @@ The Scala style guide recommends that method argument names conform to certain s
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.MethodArgumentNamesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[a-z][A-Za-z0-9]*$&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreRegex&quot;&gt;^$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.MethodArgumentNamesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[a-z][A-Za-z0-9]*$</parameter>
+  <parameter name="ignoreRegex">^$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_MethodLengthChecker" />
 
 ## Further Reading

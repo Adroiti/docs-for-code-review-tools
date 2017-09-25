@@ -7,7 +7,10 @@ Issue: -
 Mistakenly defining a covariant `equals()` method without overriding `equals(java.lang.Object)` can produce unexpected runtime behaviour.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.CovariantEqualsChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.CovariantEqualsChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_CyclomaticComplexityChecker" />
 
 ## Further Reading

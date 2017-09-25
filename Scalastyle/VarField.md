@@ -7,7 +7,10 @@ Issue: -
 vars (mutable fields) are deprecated if you're using a strict functional style.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.VarFieldChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.VarFieldChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_VarLocalChecker" />
 
 ## Further Reading

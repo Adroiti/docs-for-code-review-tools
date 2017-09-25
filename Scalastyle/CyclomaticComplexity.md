@@ -18,12 +18,15 @@ If the code is too complex, then this can make code hard to read.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.CyclomaticComplexityChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maximum&quot;&gt;10&lt;/parameter&gt;
-  &lt;parameter name=&quot;countCases&quot;&gt;true&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.CyclomaticComplexityChecker" level="warning">
+ <parameters>
+  <parameter name="maximum">10</parameter>
+  <parameter name="countCases">true</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_DeprecatedJavaChecker" />
 
 ## Further Reading

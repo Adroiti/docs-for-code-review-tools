@@ -14,11 +14,14 @@ The Scala style guide recommends that package object names conform to certain st
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.PackageObjectNamesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[a-z][A-Za-z]*$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.PackageObjectNamesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[a-z][A-Za-z]*$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_ParameterNumberChecker" />
 
 ## Further Reading

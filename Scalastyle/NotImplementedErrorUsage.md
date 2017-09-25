@@ -7,7 +7,10 @@ Issue: -
 The ??? operator denotes that an implementation is missing. This rule helps to avoid potential runtime errors because of not implemented code.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NotImplementedErrorUsage&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NotImplementedErrorUsage" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_NullChecker" />
 
 ## Further Reading

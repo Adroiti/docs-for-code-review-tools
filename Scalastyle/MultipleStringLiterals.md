@@ -14,16 +14,19 @@ Code duplication makes maintenance more difficult, so it's better to replace mul
       </tr><tr><td>ignoreRegex</td>
         <td>Ignore regular expression</td>
         <td>string</td>
-        <td>^&quot;&quot;$</td>
+        <td>^""$</td>
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.MultipleStringLiteralsChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;allowed&quot;&gt;1&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreRegex&quot;&gt;^\&amp;quot;\&amp;quot;$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.MultipleStringLiteralsChecker" level="warning">
+ <parameters>
+  <parameter name="allowed">1</parameter>
+  <parameter name="ignoreRegex">^\&amp;quot;\&amp;quot;$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_NamedArgumentChecker" />
 
 ## Further Reading

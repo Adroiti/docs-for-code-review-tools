@@ -7,7 +7,10 @@ Issue: -
 Some projects prefer not to have XML literals. They could use a templating engine instead.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.XmlLiteralChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.XmlLiteralChecker" level="warning"/>
+```
 
 ## Further Reading
 

@@ -14,11 +14,14 @@ A method which has more than a certain number of parameters can be hard to under
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ParameterNumberChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maxParameters&quot;&gt;8&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ParameterNumberChecker" level="warning">
+ <parameters>
+  <parameter name="maxParameters">8</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_PatternMatchAlignChecker" />
 
 ## Further Reading

@@ -14,11 +14,14 @@ If a type declares too many methods, this can be an indication of bad design.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NumberOfMethodsInTypeChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maxMethods&quot;&gt;30&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NumberOfMethodsInTypeChecker" level="warning">
+ <parameters>
+  <parameter name="maxMethods">30</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_NumberOfTypesChecker" />
 
 ## Further Reading

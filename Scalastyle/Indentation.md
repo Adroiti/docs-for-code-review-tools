@@ -22,13 +22,16 @@ Code that is not indented consistently can be hard to read.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.IndentationChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;tabSize&quot;&gt;2&lt;/parameter&gt;
-  &lt;parameter name=&quot;methodParamIndentSize&quot;&gt;2&lt;/parameter&gt;
-  &lt;parameter name=&quot;classParamIndentSize&quot;&gt;4&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.IndentationChecker" level="warning">
+ <parameters>
+  <parameter name="tabSize">2</parameter>
+  <parameter name="methodParamIndentSize">2</parameter>
+  <parameter name="classParamIndentSize">4</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_file_NewLineAtEofChecker" />
 
 ## Further Reading

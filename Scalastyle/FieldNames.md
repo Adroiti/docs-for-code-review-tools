@@ -18,12 +18,15 @@ A consistent naming convention for field names can make code easier to read and 
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.FieldNamesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[a-z][A-Za-z0-9]*$&lt;/parameter&gt;
-  &lt;parameter name=&quot;objectFieldRegex&quot;&gt;^[A-Z][A-Za-z0-9]*$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.FieldNamesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[a-z][A-Za-z0-9]*$</parameter>
+  <parameter name="objectFieldRegex">^[A-Z][A-Za-z0-9]*$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_ForBraceChecker" />
 
 ## Further Reading

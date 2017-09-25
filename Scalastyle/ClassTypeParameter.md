@@ -14,11 +14,14 @@ Scala generic type names are generally single upper case letters (from the Engli
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ClassTypeParameterChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[A-Z_]$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ClassTypeParameterChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[A-Z_]$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_CovariantEqualsChecker" />
 
 ## Further Reading

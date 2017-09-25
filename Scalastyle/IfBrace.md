@@ -32,12 +32,15 @@ Note: If you intend to enable only if expressions in the format below, disable t
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.IfBraceChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;singleLineAllowed&quot;&gt;true&lt;/parameter&gt;
-  &lt;parameter name=&quot;doubleLineAllowed&quot;&gt;false&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.IfBraceChecker" level="warning">
+ <parameters>
+  <parameter name="singleLineAllowed">true</parameter>
+  <parameter name="doubleLineAllowed">false</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_IllegalImportsChecker" />
 
 ## Further Reading

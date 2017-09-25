@@ -7,7 +7,10 @@ Issue: -
 Enforces convention that requires files to not end with newline.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.NoNewLineAtEofChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.NoNewLineAtEofChecker" level="warning"/>
+```
 <a name="org_scalastyle_file_RegexChecker" />
 
 ## Further Reading

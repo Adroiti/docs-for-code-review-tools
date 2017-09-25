@@ -18,12 +18,15 @@ Long methods can be hard to read and understand.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.MethodLengthChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maxLength&quot;&gt;50&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreComments&quot;&gt;false&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.MethodLengthChecker" level="warning">
+ <parameters>
+  <parameter name="maxLength">50</parameter>
+  <parameter name="ignoreComments">false</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_MethodNamesChecker" />
 
 ## Further Reading

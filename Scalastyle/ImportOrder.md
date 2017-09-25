@@ -7,14 +7,17 @@ Issue: -
 Consistent import ordering improves code readability and reduces unrelated changes in patches.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ImportOrderChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;groups&quot;&gt;java,scala,others&lt;/parameter&gt;
-  &lt;parameter name=&quot;group.java&quot;&gt;javax?\..+&lt;/parameter&gt;
-  &lt;parameter name=&quot;group.scala&quot;&gt;scala\..+&lt;/parameter&gt;
-  &lt;parameter name=&quot;group.others&quot;&gt;.+&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ImportOrderChecker" level="warning">
+ <parameters>
+  <parameter name="groups">java,scala,others</parameter>
+  <parameter name="group.java">javax?\..+</parameter>
+  <parameter name="group.scala">scala\..+</parameter>
+  <parameter name="group.others">.+</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_LowercasePatternMatchChecker" />
 
 ## Further Reading

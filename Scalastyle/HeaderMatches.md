@@ -14,19 +14,25 @@ A lot of projects require a header with a copyright notice, or they require a li
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.HeaderMatchesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;false&lt;/parameter&gt;
-  &lt;parameter name=&quot;header&quot;&gt;// Copyright \(C\) 2011-2012 the original author or authors.&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.HeaderMatchesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">false</parameter>
+  <parameter name="header">// Copyright \(C\) 2011-2012 the original author or authors.</parameter>
+ </parameters>
+</check>
+```
 or
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.HeaderMatchesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;true&lt;/parameter&gt;
-  &lt;parameter name=&quot;header&quot;&gt;// Copyright \(C\) (?:\d{4}-)?\d{4} the original author or authors.&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.HeaderMatchesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">true</parameter>
+  <parameter name="header">// Copyright \(C\) (?:\d{4}-)?\d{4} the original author or authors.</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_file_IndentationChecker" />
 
 ## Further Reading

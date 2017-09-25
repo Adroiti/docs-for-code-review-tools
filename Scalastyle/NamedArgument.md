@@ -18,12 +18,15 @@ Nameless literals make code harder to understand (consider `updateEntity(1, true
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NamedArgumentChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;checkString&quot;&gt;false&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreMethod&quot;&gt;^set.+$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NamedArgumentChecker" level="warning">
+ <parameters>
+  <parameter name="checkString">false</parameter>
+  <parameter name="ignoreMethod">^set.+$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_NoCloneChecker" />
 
 ## Further Reading

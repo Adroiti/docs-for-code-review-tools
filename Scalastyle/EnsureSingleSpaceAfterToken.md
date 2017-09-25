@@ -7,11 +7,14 @@ Issue: -
 Correct formatting can help readability.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.EnsureSingleSpaceAfterTokenChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;tokens&quot;&gt;COLON, IF&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.EnsureSingleSpaceAfterTokenChecker" level="warning">
+ <parameters>
+  <parameter name="tokens">COLON, IF</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_EnsureSingleSpaceBeforeTokenChecker" />
 
 ## Further Reading

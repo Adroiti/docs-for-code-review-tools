@@ -7,7 +7,10 @@ Issue: -
 If there is whitespace before a left bracket, this can be confusing to the reader
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NoWhitespaceBeforeLeftBracketChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NoWhitespaceBeforeLeftBracketChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_NoWhitespaceBeforeRightBracketChecker" />
 
 ## Further Reading

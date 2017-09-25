@@ -6,14 +6,19 @@ Issue: -
 
 A procedure style declaration can cause confusion - the developer may have simply forgotten to add a `=`, and now their method returns Unit rather than the inferred type:
 
-    def foo() { println("hello"); 5 }
-    def foo() = { println("hello"); 5 }
+```scala
+def foo() { println("hello"); 5 }
+def foo() = { println("hello"); 5 }
+```
 
-	
+
 This rule raises a warning with the first line. To fix it, use an explicit return type, or add a `=` before the body.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ProcedureDeclarationChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ProcedureDeclarationChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_PublicMethodsHaveTypeChecker" />
 
 ## Further Reading

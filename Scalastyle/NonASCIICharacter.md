@@ -23,7 +23,10 @@ case "value" ⇒ println("matched")
 To fix it, replace the (unicode operator)`⇒` with `=>`.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NonASCIICharacterChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NonASCIICharacterChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_NotImplementedErrorUsage" />
 
 ## Further Reading

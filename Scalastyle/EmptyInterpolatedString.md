@@ -7,7 +7,10 @@ Issue: -
 Empty interpolated strings are harder to read and not necessary.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; level=&quot;warning&quot; class=&quot;org.scalastyle.scalariform.EmptyInterpolatedStringChecker&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" level="warning" class="org.scalastyle.scalariform.EmptyInterpolatedStringChecker"/>
+```
 <a name="org_scalastyle_scalariform_EnsureSingleSpaceAfterTokenChecker" />
 
 ## Further Reading

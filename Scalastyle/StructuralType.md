@@ -9,7 +9,10 @@ Structural types are implemented with reflection at runtime, and are inherently 
 Warning: This rule can also wrongly pick up type lamdbas and other such constructs. This rule should be used with care. You always have the alternative of the `scalac` checking for structural types.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.StructuralTypeChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.StructuralTypeChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_TodoCommentChecker" />
 
 ## Further Reading

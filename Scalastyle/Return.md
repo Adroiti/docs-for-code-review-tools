@@ -7,7 +7,10 @@ Issue: -
 Use of `return` is not usually necessary in Scala. In fact, use of `return` can discourage a functional style of programming.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ReturnChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ReturnChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_ScalaDocChecker" />
 
 ## Further Reading

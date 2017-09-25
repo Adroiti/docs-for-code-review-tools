@@ -8,7 +8,10 @@ Issue: -
  It is therefore unwise to rely on code in `finalize()` method.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NoFinalizeChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NoFinalizeChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_NoWhitespaceAfterLeftBracketChecker" />
 
 ## Further Reading

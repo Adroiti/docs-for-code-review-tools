@@ -7,7 +7,10 @@ Issue: -
 Any source files and text files in general should end with a line separator to let others easily add new content at the end of file.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.NewLineAtEofChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.NewLineAtEofChecker" level="warning"/>
+```
 <a name="org_scalastyle_file_NoNewLineAtEofChecker" />
 
 ## Further Reading

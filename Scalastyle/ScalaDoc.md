@@ -31,14 +31,17 @@ In general, you want to worry more about substance and writing style than in for
 Ignore tokens is a comma separated string that may include the following : `PatDefOrDcl` (variables), `TmplDef` (classes, traits), `TypeDefOrDcl` (type definitions), `FunDefOrDcl` (functions). Supported indentation styles are `scaladoc` (for Scaladoc-style comments, with two spaces before the asterisk), `javadoc` (for JavaDoc-style comments, with a single space before the asterisk) or `anydoc` to support any style (any number of spaces before the asterisk). For backwards compatibility, if left empty, `anydoc` will be assumed.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ScalaDocChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;ignoreRegex&quot;&gt;(.*Spec$)|(.*SpecIT$)&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreTokenTypes&quot;&gt;PatDefOrDcl,TypeDefOrDcl,FunDefOrDcl,TmplDef&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreOverride&quot;&gt;false&lt;/parameter&gt;
-  &lt;parameter name=&quot;indentStyle&quot;&gt;anydoc&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ScalaDocChecker" level="warning">
+ <parameters>
+  <parameter name="ignoreRegex">(.*Spec$)|(.*SpecIT$)</parameter>
+  <parameter name="ignoreTokenTypes">PatDefOrDcl,TypeDefOrDcl,FunDefOrDcl,TmplDef</parameter>
+  <parameter name="ignoreOverride">false</parameter>
+  <parameter name="indentStyle">anydoc</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_SimplifyBooleanExpressionChecker" />
 
 ## Further Reading

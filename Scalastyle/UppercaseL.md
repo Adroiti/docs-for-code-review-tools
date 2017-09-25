@@ -7,7 +7,10 @@ Issue: -
 A lowercase `L` (`l`) can look similar to a number `1` with some fonts.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.UppercaseLChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.UppercaseLChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_VarFieldChecker" />
 
 ## Further Reading

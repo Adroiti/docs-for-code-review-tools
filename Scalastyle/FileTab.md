@@ -12,7 +12,10 @@ Rationale:
   - In a distributed development environment where diffs are sent to the mailing lists by both developers and the version control system (which sends commit log messages), the use tabs makes it impossible to preserve legibility.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.FileTabChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.FileTabChecker" level="warning"/>
+```
 <a name="org_scalastyle_file_HeaderMatchesChecker" />
 
 ## Further Reading

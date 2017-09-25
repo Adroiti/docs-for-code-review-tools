@@ -7,7 +7,10 @@ Issue: -
 Defining either `equals()` or `hashCode()` in a class without defining the other is a known source of bugs. Usually, when you define one, you should also define the other.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.EqualsHashCodeChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.EqualsHashCodeChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_FieldNamesChecker" />
 
 ## Further Reading

@@ -7,7 +7,10 @@ Issue: -
 You should be using the Scala `@deprecated` instead.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.DeprecatedJavaChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.DeprecatedJavaChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_DisallowSpaceAfterTokenChecker" />
 
 ## Further Reading

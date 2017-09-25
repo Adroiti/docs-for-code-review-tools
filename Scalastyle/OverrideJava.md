@@ -7,7 +7,10 @@ Issue: -
 You should be using the Scala `override` keyword instead.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.OverrideJavaChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.OverrideJavaChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_PackageNamesChecker" />
 
 ## Further Reading

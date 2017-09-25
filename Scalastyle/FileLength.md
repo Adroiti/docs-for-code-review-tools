@@ -14,11 +14,14 @@ Limiting the number of lines allowed in a file allows files to remain small, sin
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.FileLengthChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maxFileLength&quot;&gt;800&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.FileLengthChecker" level="warning">
+ <parameters>
+  <parameter name="maxFileLength">800</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_file_FileLineLengthChecker" />
 
 ## Further Reading

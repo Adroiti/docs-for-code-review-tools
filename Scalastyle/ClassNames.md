@@ -14,11 +14,14 @@ The Scala style guide recommends that class names conform to certain standards.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.ClassNamesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[A-Z][A-Za-z]*$&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.ClassNamesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[A-Z][A-Za-z]*$</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_ClassTypeParameterChecker" />
 
 ## Further Reading

@@ -22,13 +22,16 @@ The Scala style guide recommends that method names conform to certain standards.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.MethodNamesChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;regex&quot;&gt;^[A-Za-z]*$&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreRegex&quot;&gt;^.*$&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreOverride&quot;&gt;false&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.MethodNamesChecker" level="warning">
+ <parameters>
+  <parameter name="regex">^[A-Za-z]*$</parameter>
+  <parameter name="ignoreRegex">^.*$</parameter>
+  <parameter name="ignoreOverride">false</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_MultipleStringLiteralsChecker" />
 
 ## Further Reading

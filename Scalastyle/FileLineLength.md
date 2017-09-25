@@ -22,13 +22,16 @@ Your source code should not contain very long lines. The default wrapping in mos
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.FileLineLengthChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter name=&quot;maxLineLength&quot;&gt;100&lt;/parameter&gt;
-  &lt;parameter name=&quot;tabSize&quot;&gt;2&lt;/parameter&gt;
-  &lt;parameter name=&quot;ignoreImports&quot;&gt;true&lt;/parameter&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.FileLineLengthChecker" level="warning">
+ <parameters>
+  <parameter name="maxLineLength">100</parameter>
+  <parameter name="tabSize">2</parameter>
+  <parameter name="ignoreImports">true</parameter>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_file_FileTabChecker" />
 
 ## Further Reading

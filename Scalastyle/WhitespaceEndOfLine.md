@@ -14,11 +14,14 @@ Whitespace at the end of a line can cause problems when diffing between files or
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.file.WhitespaceEndOfLineChecker&quot; level=&quot;warning&quot;&gt;
- &lt;parameters&gt;
-  &lt;parameter default=&quot;false&quot; type=&quot;boolean&quot; name=&quot;ignoreWhitespaceLines&quot;/&gt;
- &lt;/parameters&gt;
-&lt;/check&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.file.WhitespaceEndOfLineChecker" level="warning">
+ <parameters>
+  <parameter default="false" type="boolean" name="ignoreWhitespaceLines"/>
+ </parameters>
+</check>
+```
 <a name="org_scalastyle_scalariform_BlockImportChecker" />
 
 ## Further Reading

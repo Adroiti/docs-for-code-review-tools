@@ -7,7 +7,10 @@ Issue: -
 If a `class` or `trait` has no members, then braces are unnecessary, and can be removed.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.EmptyClassChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.EmptyClassChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_EmptyInterpolatedStringChecker" />
 
 ## Further Reading

@@ -7,7 +7,10 @@ Issue: -
 The clone method is difficult to get right. You can use the copy constructor of case classes rather than implementing clone.
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.NoCloneChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.NoCloneChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_NoFinalizeChecker" />
 
 ## Further Reading

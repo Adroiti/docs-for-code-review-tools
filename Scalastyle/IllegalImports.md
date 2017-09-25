@@ -16,7 +16,10 @@ Prefer a public, documented and specified class instead.
       </tr></table>
 
 ## Example configuration
-<pre>&lt;check enabled=&quot;true&quot; class=&quot;org.scalastyle.scalariform.IllegalImportsChecker&quot; level=&quot;warning&quot;/&gt;</pre>
+
+```xml
+<check enabled="true" class="org.scalastyle.scalariform.IllegalImportsChecker" level="warning"/>
+```
 <a name="org_scalastyle_scalariform_ImportGroupingChecker" />
 
 ## Further Reading
