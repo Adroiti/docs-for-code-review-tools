@@ -46,4 +46,4 @@ class Object7 {
 
 ## Further Reading
 
-* [CodeNarc - Equals overloaded](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EqualsOverloaded)
+* [CodeNarc - EqualsOverloaded](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EqualsOverloaded)

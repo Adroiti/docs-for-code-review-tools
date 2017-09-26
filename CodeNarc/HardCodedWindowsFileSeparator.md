@@ -16,4 +16,4 @@ new File('../foo\\')
 
 ## Further Reading
 
-* [CodeNarc - Hard coded windows file separator](http://codenarc.sourceforge.net/codenarc-rules-basic.html#HardCodedWindowsFileSeparator)
+* [CodeNarc - HardCodedWindowsFileSeparator](http://codenarc.sourceforge.net/codenarc-rules-basic.html#HardCodedWindowsFileSeparator)

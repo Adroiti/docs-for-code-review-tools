@@ -22,4 +22,4 @@ int myMethod() {
 
 ## Further Reading
 
-* [CodeNarc - Throw exception from `finally` block](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ThrowExceptionFromFinallyBlock)
+* [CodeNarc - ThrowExceptionFromFinallyBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ThrowExceptionFromFinallyBlock)

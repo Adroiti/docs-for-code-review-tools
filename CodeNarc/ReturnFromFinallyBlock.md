@@ -23,4 +23,4 @@ int myMethod() {
 
 ## Further Reading
 
-* [CodeNarc - Return from `finally` block](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ReturnFromFinallyBlock)
+* [CodeNarc - ReturnFromFinallyBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ReturnFromFinallyBlock)

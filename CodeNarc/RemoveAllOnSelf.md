@@ -8,4 +8,4 @@ Don't use `removeAll` to clear a collection. If you want to remove all elements 
 
 ## Further Reading
 
-* [CodeNarc - Remove all on self](http://codenarc.sourceforge.net/codenarc-rules-basic.html#RemoveAllOnSelf)
+* [CodeNarc - RemoveAllOnSelf](http://codenarc.sourceforge.net/codenarc-rules-basic.html#RemoveAllOnSelf)

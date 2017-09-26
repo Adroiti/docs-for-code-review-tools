@@ -16,4 +16,4 @@ new File('E:\\dir')
 
 ## Further Reading
 
-* [CodeNarc - Hard coded windows root directory](http://codenarc.sourceforge.net/codenarc-rules-basic.html#HardCodedWindowsRootDirectory)
+* [CodeNarc - HardCodedWindowsRootDirectory](http://codenarc.sourceforge.net/codenarc-rules-basic.html#HardCodedWindowsRootDirectory)

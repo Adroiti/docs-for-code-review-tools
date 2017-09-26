@@ -8,4 +8,4 @@ Calls to `System.gc()`, `Runtime.getRuntime().gc()`, and `System.runFinalization
 
 ## Further Reading
 
-* [CodeNarc - Explicit garbage collection](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ExplicitGarbageCollection)
+* [CodeNarc - ExplicitGarbageCollection](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ExplicitGarbageCollection)

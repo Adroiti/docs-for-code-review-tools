@@ -21,4 +21,4 @@ Integer m() { Math.random() }
 
 ## Further Reading
 
-* [CodeNarc - Random double coerced to zero](http://codenarc.sourceforge.net/codenarc-rules-basic.html#RandomDoubleCoercedToZero)
+* [CodeNarc - RandomDoubleCoercedToZero](http://codenarc.sourceforge.net/codenarc-rules-basic.html#RandomDoubleCoercedToZero)

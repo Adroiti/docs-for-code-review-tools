@@ -28,4 +28,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - Equals and hash code](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EqualsAndHashCode)
+* [CodeNarc - EqualsAndHashCode](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EqualsAndHashCode)
