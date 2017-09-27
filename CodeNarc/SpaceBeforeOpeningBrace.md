@@ -17,14 +17,14 @@ Known limitations:
 Examples of violations:
 
 ``` groovy
-class MyClass{ }                            // violation
-class MyOtherClass extends AbstractClass{ } // violation
+class SomeClass{ }                            // violation
+class SomeOtherClass extends AbstractClass{ } // violation
 
-interface MyInterface{ }                    // violation
+interface SomeInterface{ }                    // violation
 
-enum MyEnum{ OK, BAD }                      // violation
+enum SomeEnum{ OK, BAD }                      // violation
 
-def myMethod(){ }                           // violation
+def someMethod(){ }                           // violation
 
 if (ready){ }                               // violation
 

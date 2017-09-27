@@ -9,7 +9,7 @@ Checks for *assert* statements within a *finally* block. An *assert* can throw a
 Here is an example of code that produces a violation:
 
 ``` groovy
-int myMethod(int count) {
+int someMethod(int count) {
     try {
         doSomething()
     } finally {

@@ -19,7 +19,7 @@ Example of violations:
 def name = "Joe".toString()                             // violation - string literal
 def groupId = ((String)row.get('GroupID')).toString()   // violation - string expression
 
-class MyClass {
+class SomeClass {
     String name = nameNode.toString()           // violation - field
     String code = account.getCode().toString()  // violation - field
 

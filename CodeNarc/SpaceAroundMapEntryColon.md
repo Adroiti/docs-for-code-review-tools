@@ -14,7 +14,7 @@ Check for proper formatting of whitespace around colons for literal `Map` entrie
 Example of violations:
 
 ``` groovy
-Map m1 = [myKey : 12345]            // violation (both before and after the colon)
+Map m1 = [someKey : 12345]            // violation (both before and after the colon)
 println [a :[1:11, 2:22],           // violation on a (before colon)
             b:[(Integer): 33]]      // violation on Integer (after colon)
 ```

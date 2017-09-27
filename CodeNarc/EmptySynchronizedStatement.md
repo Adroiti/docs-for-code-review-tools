@@ -9,8 +9,8 @@ Checks for empty *synchronized* statements. Empty *synchronized* statements are 
 Here is an example of code that produces a violation:
 
 ``` groovy
-class MyClass {
-    def myMethod() {
+class SomeClass {
+    def someMethod() {
         synchronized(lock) {
         }
     }

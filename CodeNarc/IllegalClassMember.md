@@ -37,7 +37,7 @@ Example of violations for methods:
 ``` groovy
 // IllegalClassMember.allowedMethodModifiers = 'public final, private, protected static'
 
-class MyClass {
+class SomeClass {
     public method1() { }            // violation
     protected method2() { }         // violation
     protected static method3() { }
@@ -49,7 +49,7 @@ Example of violations for properties:
 ``` groovy
 // IllegalClassMember.illegalPropertyModifiers = 'final'
 
-class MyClass {
+class SomeClass {
     def property1
     final property2         // violation
     static property3

@@ -10,13 +10,13 @@ Example of violations:
 
 ``` groovy
 // two violations
-class MyClass {
+class SomeClass {
   static Matcher matcher1
   static java.util.regex.Matcher matcher2
 }
 
 // these usages are OK
-class MyCorrectClass {
+class SomeCorrectClass {
   private Matcher matcher1
   static ThreadLocal<Matcher> matcher2
 }

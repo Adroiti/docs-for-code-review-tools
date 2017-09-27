@@ -9,24 +9,24 @@ The permissions classes such as `java.security.Permission` and `java.security.Ba
 Example of violations:
 
 ``` groovy
-class MyPermission extends java.security.Permission {
-    MyPermission(String name) { super(name) }
+class SomePermission extends java.security.Permission {
+    SomePermission(String name) { super(name) }
     boolean implies(Permission permission) { true }
     boolean equals(Object obj) { true }
     int hashCode() { 0 }
     String getActions() { "action" }
 }
 
-class MyBasicPermission extends BasicPermission {
-    MyBasicPermission(String name) { super(name) }
+class SomeBasicPermission extends BasicPermission {
+    SomeBasicPermission(String name) { super(name) }
 }
 
-class MyPrivilegedAction implements PrivilegedAction {
+class SomePrivilegedAction implements PrivilegedAction {
     Object run() { 0 }
 }
 
-class MyPrivilegedActionException extends PrivilegedActionException {
-    MyPrivilegedActionException(Exception exception) { super(exception) }
+class SomePrivilegedActionException extends PrivilegedActionException {
+    SomePrivilegedActionException(Exception exception) { super(exception) }
 }
 ```
 

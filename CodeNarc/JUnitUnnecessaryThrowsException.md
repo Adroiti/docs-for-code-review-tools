@@ -20,7 +20,7 @@ void shouldDoStuff() throws Exception { }           // violation
 @AfterClass void cleanUp() throws Exception { }     // violation
 @Ignore void ignored() throws Exception { }         // violation
 
-class MyTest extends GroovyTestCase {
+class SomeTest extends GroovyTestCase {
     void test1() throws Exception { }               // violation
     public void test2() throws IOException { }      // violation
 }

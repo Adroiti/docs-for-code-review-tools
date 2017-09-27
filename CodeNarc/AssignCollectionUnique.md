@@ -9,9 +9,9 @@ The `Collections.unique()` method mutates the list and returns the list as a val
 Example of violations:
 
 ``` groovy
-  def a = myList.unique()
-  def b = myList.unique() { it }
-  def c = myList.unique().findAll { x < 1 }
+  def a = someList.unique()
+  def b = someList.unique() { it }
+  def c = someList.unique().findAll { x < 1 }
 ```
 
 ## Further Reading

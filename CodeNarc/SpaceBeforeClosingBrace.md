@@ -18,13 +18,13 @@ Known limitations:
 Examples of violations:
 
 ``` groovy
-class MyClass { int count}                  // violation
+class SomeClass { int count}                  // violation
 
-interface MyInterface { void doStuff()}     // violation
+interface SomeInterface { void doStuff()}     // violation
 
-enum MyEnum { OK, BAD}                      // violation
+enum SomeEnum { OK, BAD}                      // violation
 
-def myMethod() { return 9}                  // violation
+def someMethod() { return 9}                  // violation
 
 if (ready) { doStuff()}                     // violation
 

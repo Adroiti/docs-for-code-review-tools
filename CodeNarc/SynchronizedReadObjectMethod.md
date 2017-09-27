@@ -9,14 +9,14 @@ Catches `Serializable` classes that define a synchronized `readObject()` method.
 Examples:
 
 ``` groovy
-class MyClass implements Serializable {
+class SomeClass implements Serializable {
 
     private synchronized void readObject(ObjectInputStream input) throws IOException, ClassNotFoundException {
         // violation, no need to synchronized
     }
 }
 
-class MyClass implements Serializable {
+class SomeClass implements Serializable {
 
     private void readObject(ObjectInputStream input) throws IOException, ClassNotFoundException {
         synchronized(lock) {
@@ -26,20 +26,20 @@ class MyClass implements Serializable {
 }
 
 // OK, class not Serializable
-class MyClass {
+class SomeClass {
 
     private synchronized void readObject(ObjectInputStream input) throws IOException, ClassNotFoundException { }
 }
 
 // OK, class not Serializable
-class MyClass {
+class SomeClass {
 
     private void readObject(ObjectInputStream input) throws IOException, ClassNotFoundException {
         synchronized(lock) { }
     }
 }
 
-class MyClass implements Serializable {
+class SomeClass implements Serializable {
 
     private void readObject(ObjectInputStream input) throws IOException, ClassNotFoundException {
         // OK, this block is more than just a simple sync statement

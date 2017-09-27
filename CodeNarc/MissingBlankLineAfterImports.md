@@ -10,7 +10,7 @@ Example of violation:
 
 ``` groovy
 import org.apache.commons.lang.StringUtils
-class MyClass { }                       // violation
+class SomeClass { }                       // violation
 ```
 
 ## Further Reading

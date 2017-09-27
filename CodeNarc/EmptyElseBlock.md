@@ -9,7 +9,7 @@ Checks for empty *else* blocks. Empty *else* blocks are confusing and serve no p
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     if (x==23) {
         println 'ok'
     } else {

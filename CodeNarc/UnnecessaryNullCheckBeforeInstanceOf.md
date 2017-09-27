@@ -9,18 +9,18 @@ There is no need to check for `null` before an `instanceof`; the `instanceof` ke
 Example:
 
 ``` groovy
-if (x != null && x instanceof MyClass) {
+if (x != null && x instanceof SomeClass) {
     // should drop the "x != null" check
 }
 
-if (x instanceof MyClass && x != null) {
+if (x instanceof SomeClass && x != null) {
     // should drop the "x != null" check
 }
 
 // should drop the "x != null" check
-(x != null && x instanceof MyClass) ? foo : bar
+(x != null && x instanceof SomeClass) ? foo : bar
 
-if (x != null && x instanceof MyClass && x.isValid()) {
+if (x != null && x instanceof SomeClass && x.isValid()) {
     // this is OK and causes no violation because the x.isValid() requires a non null reference
 }
 ```

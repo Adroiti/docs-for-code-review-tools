@@ -11,7 +11,7 @@ Note that a *closure* or an *anonymous inner class* carries its own context (sco
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     synchronized(this) {
         // do something ...
         synchronized(this) {

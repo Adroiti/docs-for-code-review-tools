@@ -13,7 +13,7 @@ The rule contains a String property called `excludePattern`. Any source code lin
 Example of violations:
 
 ``` groovy
-package my.company.server;  // violation
+package some.company.server;  // violation
 
 import java.lang.String;    // violation
 

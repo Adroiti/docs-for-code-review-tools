@@ -9,7 +9,7 @@ Checks for very confusing method names. The referenced methods have names that d
 Also, violations are triggered when methods and fields have very similar names.
 
 ``` groovy
-class MyClass {
+class SomeClass {
     int total
     int total() {
         1

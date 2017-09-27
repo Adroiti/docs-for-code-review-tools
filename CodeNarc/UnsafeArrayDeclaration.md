@@ -11,9 +11,9 @@ In most cases an array declared `public`, `final`, and `static` is a bug. Becaus
 Example of violations:
 
 ``` groovy
-class MyClass {
-    public static final String[] myArray = init()
-    public static final def myArray = [] as String[]
+class SomeClass {
+    public static final String[] someArray = init()
+    public static final def someArray = [] as String[]
 }
 ```
 

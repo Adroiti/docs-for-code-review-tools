@@ -11,7 +11,7 @@ This rule has one property: `methodNameRegex`. The default value is `(make.*|cre
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
 
         void make() { /* ... */ }
         void makeSomething() { /* ... */ }

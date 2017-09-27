@@ -9,7 +9,7 @@ The abstract class does not contain any abstract methods. An abstract class sugg
 Example:
 
 ``` groovy
-public abstract class MyBaseClass {
+public abstract class SomeBaseClass {
     void method1() {  }
     void method2() {  }
     // consider using abstract methods or removing
@@ -20,10 +20,10 @@ public abstract class MyBaseClass {
 The following examples all pass:
 
 ``` groovy
-abstract class MyClass extends AbstractParent {
+abstract class SomeClass extends AbstractParent {
     // OK because parent is named Abstract.*
 }
-abstract class MyClass extends BaseParent{
+abstract class SomeClass extends BaseParent{
     // OK because parent is named Base.*
 }
 ```

@@ -16,13 +16,13 @@ The *specificationClassNames* and *specificationSuperclassNames* properties dete
 Example of violations:
 
 ``` groovy
-public class MySpec extends spock.lang.Specification {
+public class SomeSpec extends spock.lang.Specification {
     @spock.lang.IgnoreRest
-    def "my first feature"() {
+    def "first feature"() {
         expect: false
     }
 
-    def "my second feature"() {
+    def "second feature"() {
         given: def a = 2
 
         when: a *= 2

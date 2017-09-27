@@ -9,7 +9,7 @@ Volatile array fields are unsafe because the contents of the array are not treat
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     private volatile Object[] field1 = value()
     volatile field2 = value as Object[]
     volatile field3 = (Object[])foo

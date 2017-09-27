@@ -24,8 +24,8 @@ def static method4() { return 4 }
 // def and type is redundant
 def Object method5() { return 4 }
 
-class MyClass {
-    def MyClass() {}    // def is redundant
+class SomeClass {
+    def SomeClass() {}    // def is redundant
 }
 ```
 

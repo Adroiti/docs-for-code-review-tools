@@ -9,7 +9,7 @@ Checks for any interface that has an identical name to its super-interface, othe
 Example of violations:
 
 ``` groovy
-interface MyInterface extends other.MyInterface { }     // violation
+interface SomeInterface extends other.SomeInterface { }     // violation
 ```
 
 ## Further Reading

@@ -14,7 +14,7 @@ This rule finds instances of method parameters not being used. It does not analy
 Example of violations:
 
 ``` groovy
-    class MyClass {
+    class SomeClass {
         def method(def param) {
             // param is unused
         }
@@ -24,17 +24,17 @@ Example of violations:
 Example of code that does not cause violations:
 
 ``` groovy
-    class MyClass {
+    class SomeClass {
         @Override
         def otherMethod(def param) {
             // this is OK because it overrides a super class
         }
     }
 
-    class MyCategory {
+    class SomeCategory {
         // Category classes are ignored by default
-        void myMethod1(String string, int value) { }
-        void myMethod1(String string, int value, name) { }
+        void someMethod1(String string, int value) { }
+        void someMethod1(String string, int value, name) { }
     }
 
     class MainClass1 {

@@ -11,12 +11,12 @@ Some Java frameworks change the semantics of the `transient` keyword. For instan
 Examples:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     // class not serializable, violation occurs
     transient String property
 }
 
-class MySerializableClass implements Serializable {
+class SomeSerializableClass implements Serializable {
     // OK, class is serializable
     transient String property
 }

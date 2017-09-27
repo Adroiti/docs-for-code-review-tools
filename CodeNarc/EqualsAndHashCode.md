@@ -9,7 +9,7 @@ Checks that if either the `boolean equals(Object)` or the `int hashCode()` metho
 Here is an example of code that produces a violation:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     boolean equals(Object object) {
         // do something
     }
@@ -19,7 +19,7 @@ class MyClass {
 And so does this:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     int hashCode() {
         return 0
     }

@@ -11,8 +11,8 @@ Note that the `String.substring(beginIndex,endIndex)` method specifies a range o
 Example of violations:
 
 ``` groovy
-myVar.substring(5)          // can use myVar[5..-1] instead
-myVar.substring(1, 5)       // can use myVar[1..4] instead
+someVar.substring(5)          // can use someVar[5..-1] instead
+someVar.substring(1, 5)       // can use someVar[1..4] instead
 ```
 
 ## Further Reading

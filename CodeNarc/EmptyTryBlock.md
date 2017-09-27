@@ -9,10 +9,10 @@ Checks for empty *try* blocks. Empty *try* blocks are confusing and serve no pur
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     try {
         // empty
-    } catch(MyException e) {
+    } catch(SomeException e) {
         e.printStackTrace()
     }
 }

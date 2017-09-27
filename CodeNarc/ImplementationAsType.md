@@ -32,13 +32,13 @@ Here are examples of code that produces violations:
 
 ``` groovy
 // Method parameter
-void myMethod(ArrayList list) {                   // violation
+void someMethod(ArrayList list) {                   // violation
     ...
 }
 
 // Constructor parameter
-class MyClass {
-    MyClass(java.util.HashSet set) {              // violation
+class SomeClass {
+    SomeClass(java.util.HashSet set) {              // violation
         ...
     }
 }
@@ -52,7 +52,7 @@ GregorianCalendar calculateDate(int num) {        // violation
 }
 
 // Field type
-class MyClass {
+class SomeClass {
     Hashtable map                                 // violation
 }
 ```

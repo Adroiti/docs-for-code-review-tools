@@ -9,8 +9,8 @@ Checks for empty *switch* statements. Empty *switch* statements are confusing an
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
-    switch(myVariable) {
+def someMethod() {
+    switch(someVariable) {
         // empty
     }
 }

@@ -12,7 +12,7 @@ Examples:
 
 ``` groovy
 // Violations
-class MyClass {
+class SomeClass {
     static Calendar calendar1
     static java.util.Calendar calendar2
 
@@ -23,7 +23,7 @@ class MyClass {
 }
 
 // These usages are OK
-class MyCorrectClass {
+class SomeCorrectClass {
     private final Calendar calendar1
     static ThreadLocal<Calendar> calendar2
 }

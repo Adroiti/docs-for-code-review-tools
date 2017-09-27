@@ -11,18 +11,18 @@ The rule has a property named `ignoreRegex` that defaults to the value `ignore|i
 Examples:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     try {
         doSomething
-    } catch(MyException e) {                //violation
+    } catch(SomeException e) {                //violation
         // should do something here
     }
 }
 
-def myMethod() {
+def someMethod() {
     try {
         doSomething
-    } catch(MyException ignored) {
+    } catch(SomeException ignored) {
         //no violations because the parameter name is ignored
     }
 }

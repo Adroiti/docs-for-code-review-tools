@@ -9,7 +9,7 @@ Checks for a return from within a *finally* block. Returning from a *finally* bl
 Here is an example of code that produces a violation:
 
 ``` groovy
-int myMethod() {
+int someMethod() {
     try {
         doSomething()
         return 0

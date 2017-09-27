@@ -12,7 +12,7 @@ Check that there is at least one space (blank) or whitespace following a semicol
 Examples of violations:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     println 1;println 2                         // violation
     def closure = { x -> doStuff();x = 23; }    // violation
 

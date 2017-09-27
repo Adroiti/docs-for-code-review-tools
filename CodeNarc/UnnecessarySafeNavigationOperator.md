@@ -9,7 +9,7 @@ Check for the *safe navigation* operator (`?.`) applied to constants and literal
 Example of violations:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     "abc"?.bytes            // violation
     [1,2]?.getSize()        // violation
     [abc:123]?.name         // violation

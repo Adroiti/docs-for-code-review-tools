@@ -9,7 +9,7 @@ Checks for any class that has an identical name to its superclass, other than th
 Example of violations:
 
 ``` groovy
-class MyClass extends other.MyClass         // violation
+class SomeClass extends other.SomeClass         // violation
 ```
 
 ## Further Reading

@@ -9,16 +9,16 @@ This rule finds test cases that are coupled to other test cases, either by invok
 Example of violations:
 
 ``` groovy
-class MyTest extends GroovyTestCase {
+class SomeTest extends GroovyTestCase {
     public void testMethod() {
         // violation, static method call to other test
-        MyOtherTest.helperMethod()
+        SomeOtherTest.helperMethod()
 
         // violation, instantiation of another test class
-        new MyOtherTest()
+        new SomeOtherTest()
 
         // no violation; same class
-        def input = MyTest.getResourceAsStream('sample.txt')
+        def input = SomeTest.getResourceAsStream('sample.txt')
     }
 }
 ```

@@ -9,7 +9,7 @@ This rule reports uses of the `synchronized` keyword on methods. Synchronized me
 Here is an example of code that produces a violation:
 
 ``` groovy
-synchronized def myMethod() {
+synchronized def someMethod() {
     // do stuff ...
 }
 ```

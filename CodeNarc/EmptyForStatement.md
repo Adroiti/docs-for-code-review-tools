@@ -9,7 +9,7 @@ Checks for empty *for* blocks. Empty *for* statements are confusing and serve no
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     for (int i=0; i < 23; i++) {
         // empty
     }

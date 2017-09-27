@@ -13,13 +13,13 @@ This rule detects when a constructor is not necessary; i.e., when there's only o
 Example of violations:
 
 ``` groovy
-class MyClass {
-    public MyClass() {          // violation; constructor is not necessary
+class SomeClass {
+    public SomeClass() {          // violation; constructor is not necessary
     }
 }
 
-class MyClass2 extends OtherClass {
-    MyClass2() {                // violation; constructor is not necessary
+class SomeClass2 extends OtherClass {
+    SomeClass2() {                // violation; constructor is not necessary
         super()
     }
 }

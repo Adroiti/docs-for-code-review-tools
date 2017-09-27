@@ -11,7 +11,7 @@ As a more modern and flexible alternative, consider using the Java *concurrency 
 Example of violation:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     private data
 
     void processData()
@@ -28,7 +28,7 @@ class MyClass {
 Example of correct usage:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     private data
 
     void processData()

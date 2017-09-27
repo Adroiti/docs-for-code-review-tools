@@ -14,7 +14,7 @@ Example of violations:
 
 ``` groovy
 import org.junit.Test
-class MyTestCase {
+class SomeTestCase {
     public int count                        // violation
     public static final MAX_VALUE = 1000    // violation
 

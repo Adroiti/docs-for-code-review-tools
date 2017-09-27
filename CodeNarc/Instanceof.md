@@ -13,7 +13,7 @@ By default, the rule does not analyze test files. This rule sets the default val
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     boolean isRunnable = this instanceof Runnable       // violation
 }
 ```

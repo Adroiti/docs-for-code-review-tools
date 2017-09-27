@@ -12,12 +12,12 @@ Example of violations:
 
 ``` groovy
 // violation on class
-public class MyClass {
+public class SomeClass {
     // violation on constructor
-    public MyClass() {}
+    public SomeClass() {}
 
     // violation on method
-    public void myMethod() {}
+    public void someMethod() {}
 }
 ```
 

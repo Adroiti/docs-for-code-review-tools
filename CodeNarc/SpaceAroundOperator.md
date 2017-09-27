@@ -16,7 +16,7 @@ Known limitations:
 Examples of violations:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     3+ 5-x*23/ 100              // violation
     list \<\<123                // violation
     other\>\> writer            // violation

@@ -14,7 +14,7 @@ Example of violations:
 import sun.misc.foo
 import sun.misc.foo as Foo
 
-public class MyClass{}
+public class SomeClass{}
 ```
 
 ## Further Reading

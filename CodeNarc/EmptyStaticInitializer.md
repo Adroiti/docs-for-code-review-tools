@@ -7,7 +7,7 @@ Issue: -
 Empty static initializer serves no purpose. It is safe to remove it. Example:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     static { }
 }
 ```

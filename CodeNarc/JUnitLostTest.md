@@ -15,7 +15,7 @@ Example of violations:
 ``` groovy
 import org.junit.Test
 
-class MyTestCase {
+class SomeTestCase {
     void testMe() { }           // missing @Test annotation
 }
 ```

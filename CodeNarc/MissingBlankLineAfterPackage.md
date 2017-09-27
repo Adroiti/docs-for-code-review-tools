@@ -12,7 +12,7 @@ Example of violation:
   package org.codenarc
   import java.util.Date                     // violation
 
-  class MyClass {
+  class SomeClass {
   void go() { /* ... */ }
   }
 ```

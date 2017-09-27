@@ -9,24 +9,24 @@ Checks for `toString()` methods that return `null`. This is unconventional and c
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     String toString() {
         if (foo()) {
-            return 'MyClass'
+            return 'SomeClass'
         } else {
             return null         // violation
         }
     }
 }
 
-class MyClass {
+class SomeClass {
     String toString() {
         calculateStuff()
         null                    // violation
     }
 }
 
-class MyClass {
+class SomeClass {
     String toString() {         // violation - implicit return of null
     }
 }

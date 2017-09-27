@@ -11,13 +11,13 @@ The Java Object Serialization Specification allows developers to manually define
 Example of violations:
 
 ``` groovy
-class MyClass implements Serializable {
-    public ObjectStreamField[] serialPersistentFields = [ new ObjectStreamField("myField", List.class) ] as ObjectStreamField[]
+class SomeClass implements Serializable {
+    public ObjectStreamField[] serialPersistentFields = [ new ObjectStreamField("someField", List.class) ] as ObjectStreamField[]
 }
 
 // the JVM sees the field type as Object, which won't work
-class MyOtherClass implements Serializable {
-    private static final serialPersistentFields = [ new ObjectStreamField("myField", List.class) ] as ObjectStreamField[]
+class SomeOtherClass implements Serializable {
+    private static final serialPersistentFields = [ new ObjectStreamField("someField", List.class) ] as ObjectStreamField[]
 }
 ```
 

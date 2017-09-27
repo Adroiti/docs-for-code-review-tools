@@ -9,7 +9,7 @@ The code synchronizes on a boxed primitive constant, such as an Integer. Since I
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     Byte byte1 = 100
     Short short1 = 1
     Double double1 = 1
@@ -114,7 +114,7 @@ class MyClass {
 And here is an in-depth example of how it works within inner classes and such:
 
 ``` groovy
-class MyClass {
+class SomeClass {
 
     final String lock = false
 
@@ -124,11 +124,11 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
 
     final String lock = false
 
-    class MyInnerClass {
+    class SomeInnerClass {
         def method() {
             // violation
             synchronized(lock) { }
@@ -136,7 +136,7 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = true
 
@@ -146,7 +146,7 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new Object[0] // correct idiom
 
@@ -161,11 +161,11 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new Object[0] // correct idiom
 
-    class MyInnerClass {
+    class SomeInnerClass {
 
         final def lock = true // shadows parent from inner class
         def method() {

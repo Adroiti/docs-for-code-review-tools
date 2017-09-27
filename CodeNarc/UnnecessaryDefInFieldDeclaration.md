@@ -9,7 +9,7 @@ If a field has a visibility modifier or a type declaration, then the `def` keywo
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     // def is redundant
     static def constraints = {  }
 

@@ -9,7 +9,7 @@ Checks for assignment to a static field from an instance method.
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     private static field1
     protected static String field2 = 'abc'
     public static int field3 = 123

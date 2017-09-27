@@ -11,7 +11,7 @@ This rule sets the default value of the *applyToClassNames* property to only mat
 Here is an example of a violation:
 
 ``` groovy
-class MyTest extends TestCase {
+class SomeTest extends TestCase {
     void setUp() {              // violation
         super.setUp()
     }

@@ -9,7 +9,7 @@ Checks for empty *finally* blocks. Empty *finally* blocks are confusing and serv
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     try {
         doSomething()
     } finally {

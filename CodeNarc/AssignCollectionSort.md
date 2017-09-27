@@ -9,9 +9,9 @@ The `Collections.sort()` method mutates the list and returns the list as a value
 Example of violations:
 
 ``` groovy
-  def a = myList.sort()
-  def b = myList.sort() { it }
-  def c = myList.sort().findAll { x < 1 }
+  def a = someList.sort()
+  def b = someList.sort() { it }
+  def c = someList.sort().findAll { x < 1 }
 ```
 
 ## Further Reading

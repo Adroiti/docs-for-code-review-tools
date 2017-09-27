@@ -30,7 +30,7 @@ if (result == null) {
 }
 
 // and a better solution for a singleton:
-class myClass  {
+class someClass  {
     private static class ObjectHolder {
        public static Object object = createObject()
     }

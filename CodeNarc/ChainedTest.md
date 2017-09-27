@@ -9,7 +9,7 @@ A test method that invokes another test method is a chained test; the methods ar
 Example of violations:
 
 ``` groovy
-class MyTest extends GroovyTestCase {
+class SomeTest extends GroovyTestCase {
     public void testFoo() {
 
         // violations, calls test method on self

@@ -11,7 +11,7 @@ Note: As of the Java 2 platform v1.2, this class was retrofitted to implement th
 Example of violations:
 
 ``` groovy
-def myMap = new Hashtable()           // violation
+def someMap = new Hashtable()           // violation
 ```
 
 ## Further Reading

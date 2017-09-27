@@ -19,7 +19,7 @@ Limitations:
 Here are examples of **Log4J** or **Java Logging API** code that cause violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     private static final LOG = Logger.getLogger(SomeOtherClass)  // violation
     def log1 = Logger.getLogger(SomeOtherClass.class)            // violation
     def log2 = Logger.getLogger(SomeOtherClass.class.name)       // violation
@@ -29,7 +29,7 @@ class MyClass {
 Here are examples of **Commons Logging** code that cause violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     private static final LOG = LogFactory.getLog(SomeOtherClass)    // violation
     Log log1 = LogFactory.getLog(SomeOtherClass.class)              // violation
     def log2 = LogFactory.getLog(SomeOtherClass.class.getName())    // violation
@@ -41,24 +41,24 @@ Here are examples of code that does NOT cause violations:
 ``` groovy
 // Log4J or Java Logging API
 
-class MyClass {
-    private static final LOG = Logger.getLogger(MyClass)                    // ok
-    def log2 = Logger.getLogger(MyClass.class)                              // ok
-    private static log3 = Logger.getLogger(MyClass.getClass().getName())    // ok
-    private static log4 = Logger.getLogger(MyClass.getClass().name)         // ok
-    private static log5 = Logger.getLogger(MyClass.class.getName())         // ok
-    private static log6 = Logger.getLogger(MyClass.class.name)              // ok
+class SomeClass {
+    private static final LOG = Logger.getLogger(SomeClass)                    // ok
+    def log2 = Logger.getLogger(SomeClass.class)                              // ok
+    private static log3 = Logger.getLogger(SomeClass.getClass().getName())    // ok
+    private static log4 = Logger.getLogger(SomeClass.getClass().name)         // ok
+    private static log5 = Logger.getLogger(SomeClass.class.getName())         // ok
+    private static log6 = Logger.getLogger(SomeClass.class.name)              // ok
 }
 
 // Commons Logging
 
-class MyClass {
-    private static final LOG = LogFactory.getLog(MyClass)                   // ok
-    def log2 = LogFactory.getLog(MyClass.class)                             // ok
-    private static log3 = LogFactory.getLog(MyClass.getClass().getName())   // ok
-    private static log4 = LogFactory.getLog(MyClass.getClass().name)        // ok
-    private static log5 = LogFactory.getLog(MyClass.class.getName())        // ok
-    private static log6 = LogFactory.getLog(MyClass.class.name)             // ok
+class SomeClass {
+    private static final LOG = LogFactory.getLog(SomeClass)                   // ok
+    def log2 = LogFactory.getLog(SomeClass.class)                             // ok
+    private static log3 = LogFactory.getLog(SomeClass.getClass().getName())   // ok
+    private static log4 = LogFactory.getLog(SomeClass.getClass().name)        // ok
+    private static log5 = LogFactory.getLog(SomeClass.class.getName())        // ok
+    private static log6 = LogFactory.getLog(SomeClass.class.name)             // ok
 }
 ```
 

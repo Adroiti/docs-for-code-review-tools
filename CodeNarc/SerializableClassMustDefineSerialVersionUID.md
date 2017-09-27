@@ -9,7 +9,7 @@ Classes that implement `Serializable` should define a `serialVersionUID`. Deseri
 An example of a missing serialVersionUID:
 
 ``` groovy
-class MyClass imlements Serializable {
+class SomeClass imlements Serializable {
     // missing serialVersionUID
 }
 ```

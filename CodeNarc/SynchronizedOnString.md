@@ -9,7 +9,7 @@ Synchronization on a `String` field can lead to deadlock. Constant strings are i
 Examples:
 
 ``` groovy
-class MyClass {
+class SomeClass {
 
     final String stringLock = "stringLock"
 
@@ -19,18 +19,18 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
 
     final String stringLock = "stringLock"
 
-    class MyInnerClass {
+    class SomeInnerClass {
         def method() {
             synchronized(stringLock) { }
         }
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def stringLock = "stringLock"
 
@@ -40,7 +40,7 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new Object[0] // correct idiom
 
@@ -55,11 +55,11 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new Object[0] // correct idiom
 
-    class MyInnerClass {
+    class SomeInnerClass {
 
         final def lock = "" // shadows parent from inner class
         def method() {

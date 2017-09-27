@@ -9,12 +9,12 @@ Checks for a method or closure parameter being reassigned to a new value within 
 Example of violations:
 
 ``` groovy
-void myMethod(int a, String b) {
+void someMethod(int a, String b) {
     println a
     b = 'new value'     // violation
 }
 
-def myClosure1 = { int a, b ->
+def someClosure1 = { int a, b ->
     a = 123             // violation
 }
 ```

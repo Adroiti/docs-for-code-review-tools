@@ -9,7 +9,7 @@ Checks for classes that extend `Throwable`. Custom exception classes should subc
 Example of violations:
 
 ``` groovy
-class MyException extends Throwable { }   // violation
+class SomeException extends Throwable { }   // violation
 ```
 
 ## Further Reading

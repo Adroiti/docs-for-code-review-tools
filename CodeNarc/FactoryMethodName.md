@@ -15,7 +15,7 @@ Builder methods are slightly different than factory methods.
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
 
     // violation. Factory methods should be named make()
     def create() {

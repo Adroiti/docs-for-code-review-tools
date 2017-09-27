@@ -9,7 +9,7 @@ Checks for blocks or closures nested more deeply than a configured maximum numbe
 Methods calls, constructor calls, and property access through Builder objects are ignore. For instance, this code does not cause a violation:
 
 ``` groovy
-myBuilder.root {
+someBuilder.root {
     foo {
         bar {
             baz {
@@ -28,7 +28,7 @@ myBuilder.root {
 | **Property**        | **Description**                                                                                                                                                                                      | **Default Value** |
 | --- | --- | --- |
 | maxNestedBlockDepth | The maximum number of nesting levels. A block or closure nested deeper than that number of levels is considered a violation.                                                                         | 5                 |
-| ignoreRegex         | Determines what is a builder call. For instance, closures nested on a method named createBuilder, a property named myBuilder, or a constructor call to object MyBuilder() do not produce violations. | .\*(b             |
+| ignoreRegex         | Determines what is a builder call. | .\*(b             |
 
 ## Further Reading
 

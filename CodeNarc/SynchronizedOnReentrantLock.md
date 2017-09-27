@@ -26,7 +26,7 @@ def method()  {
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
 
     final ReentrantLock lock = new ReentrantLock()
 
@@ -36,18 +36,18 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
 
     final ReentrantLock lock = new ReentrantLock()
 
-    class MyInnerClass {
+    class SomeInnerClass {
         def method() {
             synchronized(lock) { }
         }
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new ReentrantLock()
 
@@ -57,7 +57,7 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new Object[0] // correct idiom
 
@@ -72,11 +72,11 @@ class MyClass {
     }
 }
 
-class MyClass {
+class SomeClass {
     // implicit typing
     final def lock = new Object[0] // correct idiom
 
-    class MyInnerClass {
+    class SomeInnerClass {
 
         final def lock = new ReentrantLock() // shadows parent from inner class
         def method() {

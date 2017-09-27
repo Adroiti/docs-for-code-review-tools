@@ -9,10 +9,10 @@ Checks for static import statements which should never be after non-static impor
 Examples of violations:
 
 ``` groovy
-import my.something.another
+import some.another
 import static foo.bar
 
-public class MyClass{}
+public class SomeClass{}
 ```
 
 ## Further Reading

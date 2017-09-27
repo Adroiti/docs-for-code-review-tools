@@ -13,7 +13,7 @@ From the javadoc for `ObjectOutputStream`:
 Example of violations:
 
 ``` groovy
-enum MyEnum {
+enum SomeEnum {
     ONE, TWO, THREE
     private static final long serialVersionUID = 1234567L               // violation
     private static final ObjectStreamField[] serialPersistentFields =   // violation

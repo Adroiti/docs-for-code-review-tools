@@ -9,12 +9,12 @@ Checks for object allocations that are not assigned or used, unless it is the la
 By default, this rule does not analyze test files. This rule sets the default value of the *doNotApplyToFilesMatching* property to ignore file names ending in 'Test.groovy', 'Tests.groovy' or 'TestCase.groovy'. Invoking constructors without using the result is a common pattern in tests.
 
 ``` groovy
-int myMethod() {
+int someMethod() {
     new BigDecimal("23.45")     // unused
     return -1
 }
 
-BigDecimal myMethod() {
+BigDecimal someMethod() {
     new BigDecimal("23.45")     // OK (last statement in block)
 }
 

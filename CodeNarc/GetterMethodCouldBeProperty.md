@@ -36,7 +36,7 @@ class Child extends Parent {
     }
 
     static String getName() {
-        'MyName'
+        'SomeName'
     }
 }
 
@@ -45,7 +45,7 @@ class Child2 extends Parent {
     final String something = 'something'    // this is cleaner
     final String somethingElse = VALUE      // this is cleaner
     final int otherValue = 123              // this is cleaner
-    static final String name = 'MyName'     // this is cleaner
+    static final String name = 'SomeName'     // this is cleaner
 }
 ```
 

@@ -9,10 +9,10 @@ Wildcard imports, static or otherwise, should not be used.
 Example of violations:
 
 ``` groovy
-import my.something.*
+import some.something.*
 import static foo.bar.*
 
-public class MyClass{}
+public class SomeClass{}
 ```
 
 ## Further Reading

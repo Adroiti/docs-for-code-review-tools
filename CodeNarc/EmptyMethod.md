@@ -9,7 +9,7 @@ A method was found without an implementation. If the method is overriding or imp
 Example of violations:
 
 ``` groovy
-class MyClass {
+class SomeClass {
 
     // violation, empty method
     public void method1() {}
@@ -22,7 +22,7 @@ class MyClass {
     public void method3() {}
 }
 
-abstract class MyBaseClass {
+abstract class SomeBaseClass {
     // OK, handled by EmptyMethodInAbstractClass Rule
     public void method() {}
 }

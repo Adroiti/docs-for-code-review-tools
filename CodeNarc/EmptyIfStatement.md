@@ -9,7 +9,7 @@ Checks for empty *if* statements. Empty *if* statements are confusing and serve 
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     if (x==23) {
         // empty
     }

@@ -16,7 +16,7 @@ Example of violations:
 
 ``` groovy
 import org.junit.Test
-class MyTestCase {
+class SomeTestCase {
     static String id    // violation
     def helper          // violation
     String name         // violation

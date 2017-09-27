@@ -9,7 +9,7 @@ Checks for empty *while* statements. Empty *while* statements are confusing and 
 Here is an example of code that produces a violation:
 
 ``` groovy
-def myMethod() {
+def someMethod() {
     while (!stopped) {
         // empty
     }

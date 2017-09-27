@@ -10,7 +10,7 @@ Here is an example of code that produces a violation:
 
 ``` groovy
 new ThreadGroup("...")
-new ThreadGroup(tg, "my thread group")
+new ThreadGroup(tg, "thread group")
 Thread.currentThread().getThreadGroup()
 System.getSecurityManager().getThreadGroup()
 ```

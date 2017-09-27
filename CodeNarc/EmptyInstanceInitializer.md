@@ -7,7 +7,7 @@ Issue: -
 An empty class instance initializer was found. It is safe to remove it. Example:
 
 ``` groovy
-class MyClass {
+class SomeClass {
     { }     // empty instance initializer, not a closure
 }
 ```

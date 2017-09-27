@@ -7,12 +7,12 @@ Issue: -
 Checks for array allocations that are not assigned or used, unless it is the last statement within a block (because it may be the intentional return value). Examples include:
 
 ``` groovy
-int myMethod() {
+int someMethod() {
     new String[3]               // unused
     return -1
 }
 
-String[] myMethod() {
+String[] someMethod() {
     new String[3]               // OK (last statement in block)
 }
 

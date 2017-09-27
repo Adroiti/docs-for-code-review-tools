@@ -9,8 +9,8 @@ Checks for `abstract` classes that define a `public` constructor, which is usele
 The following code produces a violation:
 
 ``` groovy
-abstract class MyClass {
-    MyClass() { }
+abstract class SomeClass {
+    SomeClass() { }
 }
 ```
 

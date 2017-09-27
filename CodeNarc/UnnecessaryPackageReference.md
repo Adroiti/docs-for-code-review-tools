@@ -12,7 +12,7 @@ Examples of violations include:
 
 ``` groovy
 // Field types
-class MyClass {
+class SomeClass {
     java.math.BigDecimal amount = 42.10                     // violation
 }
 
@@ -42,14 +42,14 @@ void init(String name, groovy.lang.Binding binding) { }     // violation
 def writeCount = { java.io.Writer writer, int count -> }    // violation
 
 // Extends and implements
-class MyHashMap extends java.util.HashMap { }               // violation
-class MyList implements java.util.List { }                  // violation
+class SomeHashMap extends java.util.HashMap { }               // violation
+class SomeList implements java.util.List { }                  // violation
 
 // Explicitly imported classes
 import javax.servlet.http.Cookie
 import javax.sql.DataSource
 
-class MyClass {
+class SomeClass {
     void doStuff(javax.servlet.http.Cookie cookie) {        // violation
         def dataSource = [:] as javax.sql.DataSource        // violation
     }
@@ -58,8 +58,8 @@ class MyClass {
 
 Known limitations:
 
--   Does not catch class declarations that explicitly extend `java.lang.Object`. For instance, `class MyClass extends java.lang.Object  `. Just don't do that, okay?
--   Does not catch class declarations that explicitly extend `groovy.lang.Script`. For instance, `class MyScript extends groovy.lang.Script `. Don't do that, either!
+-   Does not catch class declarations that explicitly extend `java.lang.Object`. For instance, `class SomeClass extends java.lang.Object  `. Just don't do that, okay?
+-   Does not catch class declarations that explicitly extend `groovy.lang.Script`. For instance, `class SomeScript extends groovy.lang.Script `. Don't do that, either!
 -   Does not catch unnecessary package references if they are the types of anonymous inner class definitions, for older versions of Groovy ( *1.7.10?). For instance, &lt;&lt;&lt;def runnable = new java.lang.Runnable() <span id="a...">...</span>*&gt;&gt;.
 
 ## Further Reading

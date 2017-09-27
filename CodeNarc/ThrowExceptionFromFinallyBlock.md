@@ -9,7 +9,7 @@ Checks for throwing an exception from within a *finally* block. Throwing an exce
 Here is an example of code that produces a violation:
 
 ``` groovy
-int myMethod() {
+int someMethod() {
     try {
         doSomething()
         throw new Exception()

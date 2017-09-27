@@ -39,7 +39,7 @@ import groovy.transform.Immutable as Imtl
 class Person { }
 
 @javax.annotation.concurrent.Immutable      // OK
-class MyClass { }
+class SomeClass { }
 ```
 
 ## Further Reading

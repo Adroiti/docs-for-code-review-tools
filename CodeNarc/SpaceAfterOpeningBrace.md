@@ -14,13 +14,13 @@ Check that there is at least one space (blank) or whitespace after each opening 
 Examples of violations:
 
 ``` groovy
-class MyClass{int count }                   // violation
+class SomeClass{int count }                   // violation
 
-interface MyInterface {static final OK = 1 }// violation
+interface SomeInterface {static final OK = 1 }// violation
 
-enum MyEnum {OK, BAD }                      // violation
+enum SomeEnum {OK, BAD }                      // violation
 
-def myMethod() {int count }                 // violation
+def someMethod() {int count }                 // violation
 
 if (ready) {println 9 }                     // violation
 
