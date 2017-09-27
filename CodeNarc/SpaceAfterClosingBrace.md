@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-Check that there is at least one space (blank) or whitespace after each closing brace ("{") for method/class/interface declarations, closure expressions and block statements.
+Checks that there is at least one space (blank) or whitespace after each closing brace (`{`) for method/class/interface declarations, closure expressions and block statements.
 
-A closure expression followed by a dot operator (.), a comma, a closing parenthesis, the spread-dot operator (\*.), a semicolon or the null-safe operator (?.) does not cause a violation.
+A closure expression followed by a dot operator (`.`), a comma, a closing parenthesis, the spread-dot operator (`*.`), a semicolon or the null-safe operator (`?.`) does not cause a violation.
 
 | **Property**              | **Description**                                                                                                                                | **Default Value** |
 | --- | --- | --- |

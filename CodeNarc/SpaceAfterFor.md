@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check that there is exactly one space (blank) after the `for` keyword and before the opening parenthesis.
+Checks that there is exactly one space (blank) after the `for` keyword and before the opening parenthesis.
 
 Examples of violations:
 

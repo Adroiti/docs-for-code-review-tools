@@ -8,7 +8,7 @@ If a class defines a `public` method that follows the Java getter notation and t
 
 | **Property**                        | **Description**                                                | **Default Value** |
 | --- | --- | --- |
-| ignoreMethodsWithOverrideAnnotation | If `true`, then do not check methods annotated with @Override. | `false`           |
+| ignoreMethodsWithOverrideAnnotation | If `true`, then do not check methods annotated with `@Override`. | `false`           |
 
 Example of violations:
 

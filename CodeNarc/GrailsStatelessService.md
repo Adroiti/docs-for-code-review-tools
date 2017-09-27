@@ -25,7 +25,7 @@ The `ignoreFieldNames` property of this rule is pre-configured to ignore the sta
 
 This rule sets the default value of `applyToFilesMatching` to only match files under the 'grails-app/services' folder. You can override this with a different regular expression value if appropriate.
 
-This rule also sets the default value of `applyToClassNames` to only match class names ending in 'Service'. You can override this with a different class name pattern (String with wildcards) if appropriate.
+This rule also sets the default value of `applyToClassNames` to only match class names ending in `Service`. You can override this with a different class name pattern (String with wildcards) if appropriate.
 
 ## Notes
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check for proper formatting of whitespace around colons for literal `Map` entries. By default, no whitespace is allowed either before or after the Map entry colon, but you can change that through the configuration properties below.
+Checks for proper formatting of whitespace around colons for literal `Map` entries. By default, no whitespace is allowed either before or after the Map entry colon, but you can change that through the configuration properties below.
 
 | **Property**              | **Description**                                                                                                                                                                                                                                   | **Default Value**                                |
 | --- | --- | --- |

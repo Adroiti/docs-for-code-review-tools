@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check that there is at least one space (blank) or whitespace after each opening brace ("{") for method/class/interface declarations, closure expressions and block statements.
+Checks that there is at least one space (blank) or whitespace after each opening brace (`{`) for method/class/interface declarations, closure expressions and block statements.
 
 | **Property**              | **Description**                                                                                                                                | **Default Value** |
 | --- | --- | --- |

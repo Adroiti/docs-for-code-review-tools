@@ -21,7 +21,7 @@ This rule treats "closure fields" as methods. If a class field is initialized to
 | maxClassAbcScore              | The maximum *ABC* score allowed for a class, calculated as the total ABC score of its methods or "closure fields". If zero or *null*, then do not check class-level scores.                                                        | 0                 |
 | ignoreMethodNames             | Specifies one or more (comma-separated) method names that that should not cause a rule violation. The names may optionally contain wildcards (\*,?). Note that the ignored methods still contribute to the class complexity value. | `null`            |
 
-#### ABC Size Metric Calculation Rules<span id="ABC_Size_Metric_Calculation_Rules"></span>
+## ABC Size Metric Calculation Rules
 
 The *ABC* score is calculated as follows: The *ABC* metric measures size by counting the number of Assignments (A), Branches (B) and Conditions (C) and assigns a single numerical score calculated as:
 

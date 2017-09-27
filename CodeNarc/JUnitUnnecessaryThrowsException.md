@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check for `throws` clauses on JUnit test methods. That is not necessary in Groovy.
+Checks for `throws` clauses on JUnit test methods. That is not necessary in Groovy.
 
 This rule sets the default value of the *applyToClassNames* property to only match class names ending in 'Test', 'Tests' or 'TestCase'.
 

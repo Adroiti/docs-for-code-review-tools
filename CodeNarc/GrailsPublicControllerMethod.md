@@ -16,7 +16,7 @@ Grails controller actions and interceptors are defined as properties on the cont
 
 This rule sets the default value of `applyToFilesMatching` to only match files under the 'grails-app/controllers' folder. You can override this with a different regular expression value if appropriate.
 
-This rule also sets the default value of `applyToClassNames` to only match class names ending in 'Controller'. You can override this with a different class name pattern (String with wildcards) if appropriate.
+This rule also sets the default value of `applyToClassNames` to only match class names ending in `Controller`. You can override this with a different class name pattern (String with wildcards) if appropriate.
 
 ## Further Reading
 

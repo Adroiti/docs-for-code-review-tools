@@ -19,7 +19,7 @@ This rule treats "closure fields" as methods. If a class field is initialized to
 | maxClassComplexity              | The maximum total *cyclomatic complexity* value allowed for a class, calculated as the total complexity of its methods or "closure fields". If zero or *null*, then do not check total class-level complexity.                     | 0                 |
 | ignoreMethodNames               | Specifies one or more (comma-separated) method names that that should not cause a rule violation. The names may optionally contain wildcards (\*,?). Note that the ignored methods still contribute to the class complexity value. | `null`            |
 
-#### Cyclomatic Complexity Metric Calculation Rules<span id="Cyclomatic_Complexity_Metric_Calculation_Rules"></span>
+## Cyclomatic Complexity Metric Calculation Rules
 
 The *cyclomatic complexity* value is calculated as follows:
 

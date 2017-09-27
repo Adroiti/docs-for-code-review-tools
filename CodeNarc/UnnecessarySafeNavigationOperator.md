@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check for the *safe navigation* operator (`?.`) applied to constants and literals, or `this` or `super`, or constructor calls, all of which can never be null.
+Checks for the *safe navigation* operator (`?.`) applied to constants and literals, or `this` or `super`, or constructor calls, all of which can never be null.
 
 Example of violations:
 
