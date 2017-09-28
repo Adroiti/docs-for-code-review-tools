@@ -1,10 +1,10 @@
-Pattern: Class name not same as filename
+Pattern: File name and outer type name do not match
 
 Issue: -
 
 ## Description
 
-Reports files containing only one top level `class`/`enum`/`interface` which is named differently than the file.
+Outer type name and the file name should match to avoid any confusion or misunderstanding. For example, the class `Test` must be in a file named `Test.groovy`.
 
 ## Further Reading
 
