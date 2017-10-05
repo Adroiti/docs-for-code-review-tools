@@ -1,4 +1,4 @@
-Pattern: Use of double negation (`!!`)
+Pattern: Use of `!!`
 
 Issue: -
 
