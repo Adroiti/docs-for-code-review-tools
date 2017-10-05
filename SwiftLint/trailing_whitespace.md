@@ -11,24 +11,26 @@ Examples of **correct** code:
 ```swift
 let name: String
 
+
 //
+
 
 // 
 
+
 let name: String //
 
-let name: String // 
 
+let name: String // 
 ```
 
 Examples of **incorrect** code:
 
 ```swift
-
 let name: String 
 
-/* */ let name: String 
 
+/* */ let name: String 
 ```
 
 ## Further Reading
