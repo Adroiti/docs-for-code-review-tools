@@ -12,6 +12,7 @@ This rule prohibits empty parameter lists in function definitions.
 # The empty parameter list in here is unnecessary:
 someFunction = () ->
 
+
 # We might favor this instead:
 someFunction = ->
 ```

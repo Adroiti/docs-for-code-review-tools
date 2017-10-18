@@ -12,8 +12,10 @@ This rule prohibits double quotes unless string interpolation is used or the str
 # Double quotes are discouraged:
 foo = "bar"
 
+
 # Unless string interpolation is used:
 foo = "#{bar}baz"
+
 
 # Or they prevent cumbersome escaping:
 foo = "I'm just following the 'rules'"

@@ -14,6 +14,7 @@ This rule checks to see that there is spacing before and after the arrow operato
 x(-> 3)
 x( -> 3)
 
+
 # However, this will trigger an error
 x((a,b)-> 3)
 ```

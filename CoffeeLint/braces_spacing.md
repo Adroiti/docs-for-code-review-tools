@@ -17,6 +17,7 @@ The spacing amount is specified by `spaces` parameter. The spacing amount for em
 { a: b}    # Bad
 { a: b }   # Bad
 
+
 # Spaces is 1
 {a: b}     # Bad
 {a: b }    # Bad
@@ -26,9 +27,11 @@ The spacing amount is specified by `spaces` parameter. The spacing amount for em
 {  a: b }  # Bad
 {  a: b  } # Bad
 
+
 # Empty Object Spaces is 0
 {}         # Good
 { }        # Bad
+
 
 # Empty Object Spaces is 1
 {}         # Bad

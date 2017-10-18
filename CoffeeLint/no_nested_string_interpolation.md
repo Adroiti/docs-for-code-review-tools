@@ -12,6 +12,7 @@ This rule warns about nested string interpolation, as it tends to make code hard
 # Good!
 str = "Book by #{firstName.toUpperCase()} #{lastName.toUpperCase()}"
 
+
 # Bad!
 str = "Book by #{"#{firstName} #{lastName}".toUpperCase()}"
 ```

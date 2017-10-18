@@ -12,6 +12,7 @@ This rule mandates that all class names are _UpperCamelCased_. Camel casing clas
 # Good!
 class BoaConstrictor
 
+
 # Bad!
 class boaConstrictor
 ```

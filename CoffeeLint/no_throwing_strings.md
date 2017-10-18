@@ -14,6 +14,7 @@ Because of JavaScript's dynamic nature, CoffeeLint cannot ensure you are always 
 # CoffeeLint will catch this:
 throw "error text"
 
+
 # ... but not this:
 throw getSomeString()
 ```

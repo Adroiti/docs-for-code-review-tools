@@ -13,6 +13,7 @@ This rule prohibits implicit braces when declaring object literals. Implicit bra
 # function call with three arguments or four?
 someFunction a, b, 1:2, 3:4
 
+
 # While the same code written in a more
 # explicit manner has no ambiguity.
 someFunction(a, b, {1:2, 3:4})

@@ -13,11 +13,13 @@ This rule checks to see that there is spacing before and after the colon in a co
 # If spacing.left and spacing.right is 1
 #
 
+
 # Doesn't throw an error
 object = {spacing : true}
 class Dog
   canBark : true
 
+  
 # Throws an error
 object = {spacing: true}
 class Cat

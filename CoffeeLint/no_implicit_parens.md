@@ -12,6 +12,7 @@ This rule prohibits implicit parens on function calls.
 # Some folks don't like this style of coding.
 someFunction a, b, c
 
+
 # And would rather it always be written like this:
 someFunction(a, b, c)
 ```
