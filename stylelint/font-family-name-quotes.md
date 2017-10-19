@@ -93,7 +93,7 @@ a { font-family: Times New Roman, Times, serif; }
 ```
 
 ```css
-a { font-family: MyFontVersion6, sake_case_font; }
+a { font-family: SomeFontVersion6, sake_case_font; }
 ```
 
 ```css
@@ -111,7 +111,7 @@ a { font-family: 'Times New Roman', Times, serif; }
 ```
 
 ```css
-a { font-family: "MyFontVersion6", "sake_case_font"; }
+a { font-family: "SomeFontVersion6", "sake_case_font"; }
 ```
 
 ```css

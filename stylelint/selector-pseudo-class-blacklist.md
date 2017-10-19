@@ -1,0 +1,47 @@
+Pattern: Use of blacklisted pseudo-class selector
+
+Issue: -
+
+## Description
+
+Specify a blacklist of disallowed pseudo-class selectors. This rule ignores selectors that use variable interpolation e.g. `:#{$variable} {}`.
+
+## Examples
+
+`array|string|regex`: `["array", "of", "unprefixed", "pseudo-classes" or "regex"]|"pseudo-class"|/regex/`
+
+If a string is surrounded with `"/"` (e.g. `"/^nth-/"`), it is interpreted as a regular expression. This allows, for example, easy targeting of shorthands: `/^nth-/` will match `nth-child`, `nth-last-child`, `nth-of-type`, etc.
+
+Given:
+
+```js
+["hover", "/^nth-/"]
+```
+
+The following patterns are considered violations:
+
+```css
+a:hover {}
+```
+
+```css
+a:nth-of-type(5) {}
+```
+
+```css
+a:nth-child(2) {}
+```
+
+The following patterns are *not* considered violations:
+
+```css
+a:focus {}
+```
+
+```css
+a:first-of-type {}
+```
+
+## Further Reading
+
+* [stylelint - selector-pseudo-class-blacklist](https://stylelint.io/user-guide/rules/selector-pseudo-class-blacklist)
