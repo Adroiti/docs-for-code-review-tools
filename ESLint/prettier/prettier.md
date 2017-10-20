@@ -60,7 +60,3 @@ Runs Prettier as an ESLint rule and reports differences.
     ```
 
     _This option is useful if you're migrating a large codebase and already use pragmas like `@flow`._
-    
-## Further Reading
-
-* [GitHub - prettier](https://github.com/prettier/prettier)
