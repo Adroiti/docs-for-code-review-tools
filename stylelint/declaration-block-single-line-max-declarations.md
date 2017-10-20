@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Limit the number of declaration within single line declaration blocks.
+Limit the number of declarations within single line declaration blocks.
 
 ## Examples
 
