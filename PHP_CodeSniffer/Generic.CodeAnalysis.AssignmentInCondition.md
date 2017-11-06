@@ -8,7 +8,7 @@ Detects variable assignments being made within conditions.
 
 This is a typical code smell and more often than not a comparison was intended.
 
-Note: this sniff does not detect variable assignments in the conditional part of ternaries!
+Note: this rule does not detect variable assignments in the conditional part of ternaries!
 
 ## Further Reading
 

@@ -8,8 +8,8 @@ This rule checks how many level deep that code is nested within a function.
 
 ## Configuration
 
-* `nestingLevel` : the nesting level above which this sniff will generate warnings
-* `absoluteNestingLevel` : the nesting level above which this sniff will generate errors
+* `nestingLevel`: the nesting level above which this rule will generate warnings
+* `absoluteNestingLevel`: the nesting level above which this rule will generate errors
 
 ```xml
 <rule ref="Generic.Metrics.NestingLevel">

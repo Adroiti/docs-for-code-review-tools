@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-A simple sniff for detecting BOMs that may corrupt application work.
+A simple rule for detecting BOMs that may corrupt application work.
 
 ## Further Reading
 

@@ -6,6 +6,8 @@ Issue: -
 
 Throws an error or warning when any code prefixed with an asperand is encountered.
 
+## Example
+
 ``` php
 if (@in_array($array, $needle))
 {

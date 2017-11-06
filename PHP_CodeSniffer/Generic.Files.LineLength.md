@@ -8,7 +8,7 @@ Your source code should not contain very long lines. The default wrapping in mos
 
 ## Configuration
 
-This sniff checks all lines in a file and generates warnings if they are over `lineLimit` characters in length and errors if they are over `absoluteLineLimit` in length. These properties can be used to set the threshold at which errors are reported.
+This rule checks all lines in a file and generates warnings if they are over `lineLimit` characters in length and errors if they are over `absoluteLineLimit` in length. These properties can be used to set the threshold at which errors are reported.
 
 > Note: The value of the `lineLimit` property should be less than or equal to the value of the `absoluteLineLimit` property.
 

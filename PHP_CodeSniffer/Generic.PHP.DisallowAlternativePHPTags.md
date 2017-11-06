@@ -6,7 +6,7 @@ Issue: -
 
 Verifies that no alternative PHP tags are used.
 
-If alternative PHP open tags are found, this sniff can fix both the open and close tags.
+If alternative PHP open tags are found, this rule can fix both the open and close tags.
 
 ## Further Reading
 

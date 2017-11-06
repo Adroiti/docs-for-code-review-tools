@@ -6,6 +6,8 @@ Issue: -
 
 Detects `for` loops that use a function call in the test expression.
 
+## Example
+
 ``` php
 class Foo
 {

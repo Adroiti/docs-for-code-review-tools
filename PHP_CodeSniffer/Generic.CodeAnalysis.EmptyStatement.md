@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This sniff implements the common algorithm for empty statement body detection. A body is considered as empty if it is completely empty or it only contains whitespace characters and/or comments.
+This rule implements the common algorithm for empty statement body detection. A body is considered as empty if it is completely empty or it only contains whitespace characters and/or comments.
 
 ## Example
 

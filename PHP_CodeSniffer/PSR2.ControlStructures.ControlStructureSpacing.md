@@ -1,0 +1,11 @@
+Pattern: Malformed control structure spacing
+
+Issue: -
+
+## Description
+
+Checks that control structures have the correct spacing around brackets.
+
+## Further Reading
+
+* [PHP_CodeSniffer - PSR2.ControlStructures.ControlStructureSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PSR2/Sniffs/ControlStructures/ControlStructureSpacingSniff.php)

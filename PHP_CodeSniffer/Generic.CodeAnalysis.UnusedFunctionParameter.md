@@ -6,7 +6,7 @@ Issue: -
 
 Checks the for unused function parameters.
 
-This sniff checks that all function parameters are used in the function body.
+This rule checks that all function parameters are used in the function body.
 One exception is made for empty function bodies or function bodies that only
 contain comments. This could be useful for the classes that implement an
 interface that defines multiple methods but the implementation only needs some
