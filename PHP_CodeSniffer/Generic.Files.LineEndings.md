@@ -4,7 +4,17 @@ Issue: -
 
 ## Description
 
-Checks that end of line characters are correct.
+This rule ensures that files use a specific line ending, which can be customised by setting the `eolChar` property.
+
+## Configuration
+
+```xml
+<rule ref="Generic.Files.LineEndings">
+    <properties>
+        <property name="eolChar" value="\r\n" />
+    </properties>
+</rule>
+```
 
 ## Further Reading
 

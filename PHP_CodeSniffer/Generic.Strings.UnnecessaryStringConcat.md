@@ -4,7 +4,29 @@ Issue: -
 
 ## Description
 
-Checks that two strings are not concatenated together; suggests using one string instead.
+This rule checks that two strings using the same quoting style are not concatenated. 
+
+# Configuration
+
+Sometimes long strings are broken over multiple lines to work within a maximum line length, but this rule will generate an error for these cases by default. Setting the `allowMultiline` property to `true` will get the rule to allow string concatenation if the string covers multiple lines.
+
+```xml
+<rule ref="Generic.Strings.UnnecessaryStringConcat">
+    <properties>
+        <property name="allowMultiline" value="true" />
+    </properties>
+</rule>
+```
+
+If the `error` property is set to `false`, a warning will be thrown for violations instead of an error.
+
+```xml
+<rule ref="Generic.Strings.UnnecessaryStringConcat">
+    <properties>
+        <property name="error" value="false" />
+    </properties>
+</rule>
+```
 
 ## Further Reading
 

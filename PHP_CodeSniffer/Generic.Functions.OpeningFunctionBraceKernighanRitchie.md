@@ -4,7 +4,21 @@ Issue: -
 
 ## Description
 
-Checks that the opening brace of a function is on the same line as the function declaration.
+This rule checks the position of the opening brace of a function and/or closure (anonymous function).
+
+## Configuration
+
+`checkFunctions` and `checkClosures` properties can be used to have the rule check one or both of these code blocks.
+
+```xml
+<!-- Don't check function braces, but check closure braces. -->
+<rule ref="Generic.Functions.OpeningFunctionBraceKernighanRitchie">
+    <properties>
+        <property name="checkFunctions" value="false" />
+        <property name="checkClosures" value="true" />
+    </properties>
+</rule>
+```
 
 ## Further Reading
 

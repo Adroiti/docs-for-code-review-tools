@@ -4,11 +4,19 @@ Issue: -
 
 ## Description
 
-Checks for unneeded whitespace.
+This rule enforces that there should not be whitespace at the end of a line, and that functions should not contain multiple blank lines in a row. 
 
-Checks that no whitespace preceeds the first content of the file, exists
-after the last content of the file, resides after content on any line, or
-are two empty lines in functions.
+# Configuration
+
+If the `ignoreBlankLines` property is set to `true`, blank lines (lines that contain only whitespace) may have spaces and tabs as their content, and multiple blank lines will be allows inside functions.
+
+```xml
+<rule ref="Squiz.WhiteSpace.SuperfluousWhitespace">
+    <properties>
+        <property name="ignoreBlankLines" value="true" />
+    </properties>
+</rule>
+```
 
 ## Further Reading
 
