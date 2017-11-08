@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Catches concatenation of two string literals on the same line. These can safely by joined. Java compiler will join two String literals together and place them in the Constant Pool. However, Groovy will not because the `plus()` method may override the `+` operator.
+Catches concatenation of two string literals on the same line. These can be safely joined. Java compiler will join two String literals together and place them in the Constant Pool. However, Groovy will not because the `plus()` method may override the `+` operator.
 
 Examples:
 
