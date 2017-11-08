@@ -6,7 +6,7 @@ Issue: -
 
 Warns about commented out code.
 
-# Configuration
+## Configuration
 
 By default, a warning is generated if a comment appears to be more than 35% valid code. If you find that the rule is generating a lot of false positives, you may want to raise the valid code threshold by increasing the `maxPercentage` property. Similarly, if you find that the rule is generating a lot of false negatives, you may want to make it more sensitive by dropping the threshold by decreasing the `maxPercentage` property.
 

@@ -6,7 +6,7 @@ Issue: -
 
 Checks that arguments in function declarations are spaced correctly.
 
-# Configuration
+## Configuration
 
 By default, the rule ensures there are zero spaces before and after the equals sign, as shown in the following code snippet:
 

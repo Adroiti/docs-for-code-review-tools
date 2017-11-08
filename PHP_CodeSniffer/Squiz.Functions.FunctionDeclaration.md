@@ -6,7 +6,7 @@ Issue: -
 
 Checks that function declarations match a specific pattern of whitespace and bracket placement.
 
-# Configuration
+## Configuration
 
 By default, comments placed within the function declaration will generate an error, but the rule can be told to ignore comments by setting the `ignoreComments` property to `true`.
 

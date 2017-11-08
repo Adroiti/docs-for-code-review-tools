@@ -6,7 +6,7 @@ Issue: -
 
 Verifies that class members are spaced correctly.
 
-# Configuration
+## Configuration
 
 This rule checks that there is one blank line before between member vars and before the fist member var, but you can change the required padding using the `spacing` and `spacingBeforeFirst` properties.
 

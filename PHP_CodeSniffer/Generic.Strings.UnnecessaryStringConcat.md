@@ -20,7 +20,7 @@ Example of **correct** code:
 echo '/../path/to/file.php';
 ```
 
-# Configuration
+## Configuration
 
 Sometimes long strings are broken over multiple lines to work within a maximum line length, but this rule will generate an error for these cases by default. Setting the `allowMultiline` property to `true` will get the rule to allow string concatenation if the string covers multiple lines.
 

@@ -6,7 +6,7 @@ Issue: -
 
 This rule enforces that there should not be whitespace at the end of a line, and that functions should not contain multiple blank lines in a row. 
 
-# Configuration
+## Configuration
 
 If the `ignoreBlankLines` property is set to `true`, blank lines (lines that contain only whitespace) may have spaces and tabs as their content, and multiple blank lines will be allows inside functions.
 

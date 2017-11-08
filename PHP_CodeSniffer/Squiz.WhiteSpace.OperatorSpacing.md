@@ -6,7 +6,7 @@ Issue: -
 
 Verifies that operators have valid spacing surrounding them.
 
-# Configuration
+## Configuration
 
 Sometimes long statements are broken over multiple lines to work within a maximum line length, but this rule will generate an error for these cases by default. Setting the `ignoreNewlines` property to `true` will allow newline characters before or after an operator, and any required padding for alignment.
 

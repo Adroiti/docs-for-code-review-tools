@@ -6,7 +6,7 @@ Issue: -
 
 Checks the indentation of CSS class definitions. 
 
-# Configuration
+## Configuration
 
 By default, this rule ensures that style statements are indented using 4 spaces, but you can change the size of the indent by setting the `indent` property.
 

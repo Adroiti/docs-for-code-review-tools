@@ -6,7 +6,7 @@ Issue: -
 
 This rule ensures there are no spaces surrounding an object operator. 
 
-# Configuration
+## Configuration
 
 Sometimes long object chains are broken over multiple lines to work within a maximum line length, but this rule will generate an error for these cases by default. Setting the `ignoreNewlines` property to `true` will allow newline characters before or after an object operator, and any required padding for alignment.
 

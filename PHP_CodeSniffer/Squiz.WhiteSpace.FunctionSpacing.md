@@ -6,7 +6,7 @@ Issue: -
 
 This rule enforces separation between methods in a class or interface.
 
-# Configuration
+## Configuration
 
 By default, this rule checks that there are two blank lines before and after functions declarations, but you can change the required padding using the `spacing` property.
 

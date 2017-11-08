@@ -6,7 +6,7 @@ Issue: -
 
 This rule enforces padding around concatenation operators.
 
-# Configuration
+## Configuration
 
 By default, the rule ensures there are zero spaces before and after the concatenation operator, as shown in the following code snippet:
 
