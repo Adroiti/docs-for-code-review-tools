@@ -4,11 +4,25 @@ Issue: -
 
 ## Description
 
-Detects variable assignments being made within conditions.
+Assignments in conditionals are often typos: for example `if (var1 = var2)` instead of `if (var1 == var2)`. They also can be an indicator of overly clever code which decreases maintainability.
 
-This is a typical code smell and more often than not a comparison was intended.
+## Example
 
-Note: this rule does not detect variable assignments in the conditional part of ternaries!
+Example of **incorrect** code:
+
+``` php
+if ($test = 'abc') {
+    do_something();
+}
+```
+
+Example of **correct** code:
+
+```php
+if ($test === 'abc') {
+    do_something();
+}
+```
 
 ## Further Reading
 

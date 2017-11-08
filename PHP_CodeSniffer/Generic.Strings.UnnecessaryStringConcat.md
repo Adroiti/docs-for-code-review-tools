@@ -4,7 +4,21 @@ Issue: -
 
 ## Description
 
-This rule checks that two strings using the same quoting style are not concatenated. 
+Catches concatenation of two string literals on the same line. These can be safely joined.
+
+## Example
+
+Example of **incorrect** code:
+
+``` php
+echo '/..' . '/path/to/file.php';
+```
+
+Example of **correct** code:
+
+```php
+echo '/../path/to/file.php';
+```
 
 # Configuration
 

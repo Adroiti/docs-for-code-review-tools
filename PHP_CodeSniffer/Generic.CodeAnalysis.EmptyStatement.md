@@ -8,12 +8,19 @@ This rule implements the common algorithm for empty statement body detection. A 
 
 ## Example
 
+Example of **incorrect** code:
+
 ``` php
-stmt {
-  // foo
+if ($test) {
+    // do nothing
 }
-stmt (conditions) {
-  // foo
+```
+
+Example of **correct** code:
+
+```php
+if ($test) {
+    $var = 1;
 }
 ```
 

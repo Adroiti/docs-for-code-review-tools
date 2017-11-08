@@ -1,23 +1,26 @@
-Pattern: Unconditional `if` statement
+Pattern: Constant `if` statement
 
 Issue: -
 
 ## Description
 
-Detects statement conditions that are only set to one of the constant values: **true** or **false**.
+If statements that are always evaluated should be simplified or avoided altogether.
 
 ## Example
 
-``` php
-class Foo
-{
-    public function close()
-    {
-        if (true)
-        {
-            // ...
-        }
-    }
+Example of **incorrect** code:
+
+```php
+if (true) {
+    $var = 1;
+}
+```
+
+Example of **correct** code:
+
+```php
+if ($test) {
+    $var = 1;
 }
 ```
 

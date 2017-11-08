@@ -8,13 +8,20 @@ Detects `for` loops that can be simplified as a `while` loop.
 
 ## Example
 
+Example of **incorrect** code:
+
 ``` php
-class Foo
-{
-    public function bar($x)
-    {
-        for (;true;) true; // No Init or Update part, may as well be: while (true)
-    }
+// no Init or Update part
+for (;$test;) {
+    $test = doSomething();
+}
+```
+
+Example of **correct** code:
+
+```php
+for ($i = 0; $i < 10; $i++) {
+    echo "{$i}\n";
 }
 ```
 

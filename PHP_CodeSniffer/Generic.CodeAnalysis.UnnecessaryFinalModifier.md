@@ -8,10 +8,23 @@ Detects unnecessary final modifiers inside of final classes.
 
 ## Example
 
-``` php
-final class Foo
+Example of **incorrect** code:
+
+```php
+final class SomeClass
 {
-    public final function bar()
+    public final function some_method()
+    {
+    }
+}
+```
+
+Example of **correct** code:
+
+```php
+final class SomeClass
+{
+    public function some_method()
     {
     }
 }

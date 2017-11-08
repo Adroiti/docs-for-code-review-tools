@@ -1,25 +1,28 @@
-Pattern: Jumbled loop incrementor
+Pattern: Jumbled loop incrementer
 
 Issue: -
 
 ## Description
 
-Detects the usage of one and the same incrementor in an outer and an inner loop. This is confusing and should be avoided.
+To avoid confusion, incrementers in nested loops should use different variable names.
 
 ## Example
 
+Example of **incorrect** code:
+
 ``` php
-class Foo
-{
-    public function bar($x)
-    {
-        for ($i = 0; $i < 10; $i++)
-        {
-            for ($k = 0; $k < 20; $i++)
-            {
-                echo 'Hello';
-            }
-        }
+// $i is used in both loops
+for ($i = 0; $i < 10; $i++) {
+    for ($j = 0; $j < 10; $i++) {
+    }
+}
+```
+
+Example of **correct** code:
+
+```php
+for ($i = 0; $i < 10; $i++) {
+    for ($j = 0; $j < 10; $j++) {
     }
 }
 ```
