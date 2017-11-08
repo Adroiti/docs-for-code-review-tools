@@ -15,10 +15,10 @@ switch ($number) {
 	case 1:
 		return $number . $this->ordinals['first'];
 		do_something(); // unreachable
-		break; 			// unreachable
+		break; 		// unreachable
 	case 2:
 		return $number . $this->ordinals['second'];
-		break; 			// unreachable
+		break; 		// unreachable
 }
 ```
 
