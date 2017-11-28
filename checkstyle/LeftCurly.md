@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Checks for the placement of left curly braces (`'{'`) for code blocks. The policy to verify is specified using the property `option`. Policies `eol` and `nlow` take into account the property `maxLineLength`. 
+Checks for the placement of left curly braces (`'{'`) for code blocks. The policy to verify is specified using the property `option`.
 
 ## Examples
 

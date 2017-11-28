@@ -6,7 +6,6 @@ Issue: -
 
 Specify single or double quotes around strings. Quotes within comments are ignored.
 
-
 ```css
 /* "This is fine" */
 /* 'And this is also fine' */
@@ -18,7 +17,6 @@ Single quotes in a charset @-rule are ignored as using single quotes in this con
 @charset "utf-8"
 /* fine regardless of configuration */
 ```
-
 
 ## Examples
 
