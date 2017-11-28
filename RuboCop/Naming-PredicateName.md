@@ -26,10 +26,11 @@ def value? ...
 
 Attribute | Value
 --- | ---
-NamePrefix | is_, has_, have_
-NamePrefixBlacklist | is_, has_, have_
-NameWhitelist | is_a?
-Exclude | spec/\*\*/\*
+NamePrefix | `is_`, `has_`, `have_`
+NamePrefixBlacklist | `is_`, `has_`, `have_`
+NameWhitelist | `is_a?`
+MethodDefinitionMacros | `define_method`, `define_singleton_method`
+Exclude | `spec/**/*`
 
 ## Further Reading
 
