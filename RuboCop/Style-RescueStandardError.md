@@ -4,9 +4,7 @@ Issue: -
 
 ## Description
 
-This rule checks for rescuing `StandardError`. There are two supported
-styles `implicit` and `explicit`. This cop will not register an offense
-if any error other than `StandardError` is specified.
+This rule checks for rescuing `StandardError`. There are two supported styles `implicit` and `explicit`. This rule will not register an offense if any error other than `StandardError` is specified.
 
 ## Examples
 
