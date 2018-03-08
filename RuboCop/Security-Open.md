@@ -8,7 +8,7 @@ Issue: -
 a serious security risk by using variable input to the argument of `Kernel#open`. It would be better to use `File.open` or `IO.popen`
 explicitly.
 
-### Examples
+## Examples
 
 ```ruby
 # bad
