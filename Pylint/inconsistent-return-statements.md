@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Be consistent in return statements. Either all return statements in a function should return an expression, or none of them should. If any return statement returns an expression, any return statements where no value is returned should explicitly state this as return `None`, and an explicit return statement should be present at the end of the function (if reachable).
+Be consistent in return statements. Either all return statements in a function should return an expression, or none of them should. If any return statement returns an expression, any return statements where no value is returned should explicitly state this as `return None`, and an explicit return statement should be present at the end of the function (if reachable).
 
 Example of **incorrect** code:
 ```python
