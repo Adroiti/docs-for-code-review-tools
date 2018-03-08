@@ -6,7 +6,6 @@ Issue: -
 
 If a method is designed as abstract in a parent class and the child class does not implement the method, then Python will raise a `TypeError` error at runtime if you attempt to instantiate any object that contains abstract methods. Update parent class or implement abstract method to resolve this issue.
 
-
 Example of **incorrect** code:
 
 ```python

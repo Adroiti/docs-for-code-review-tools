@@ -1,4 +1,4 @@
-Pattern: Disallow trailing comma tuple
+Pattern: Use of trailing comma tuple
 
 Issue: -
 

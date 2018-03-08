@@ -6,7 +6,6 @@ Issue: -
 
 A `raise` statement must raise a valid exception type, otherwise Python raises a `TypeError` at runtime.
 
-
 Example of **incorrect** code:
 
 ```python
