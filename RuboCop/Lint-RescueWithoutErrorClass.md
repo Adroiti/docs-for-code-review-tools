@@ -1,4 +1,4 @@
-Pattern: `rescue` without error class
+Pattern: Use of `rescue` without error class
 
 Issue: -
 
