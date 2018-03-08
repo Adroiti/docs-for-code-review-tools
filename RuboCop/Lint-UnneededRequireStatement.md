@@ -6,7 +6,7 @@ Issue: -
 
 Checks for unnecessary `require` statement.
 
-### Example
+## Examples
 
 ```ruby
 # bad

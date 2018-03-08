@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This cop checks for uses of `DateTime` that should be replaced by `Date` or `Time`.
+This rule checks for uses of `DateTime` that should be replaced by `Date` or `Time`.
 
-### Example
+## Examples
 
 ```ruby
 # bad - uses `DateTime` for current time

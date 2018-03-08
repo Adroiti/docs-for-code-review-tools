@@ -8,7 +8,7 @@ This rule checks for comments put on the same line as some keywords. These keywo
 
 Note that some comments such as `:nodoc:` and `rubocop:disable` are allowed.
 
-### Example
+## Examples
 
 ```ruby
 # bad

@@ -6,7 +6,7 @@ Issue: -
 
 This rule checks if `include`, `extend` and `prepend` exists at the top level. Using these at the top level affects the behavior of `Object`.
 
-### Example
+## Examples
 
 ```ruby
 # bad

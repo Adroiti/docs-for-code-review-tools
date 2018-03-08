@@ -1,4 +1,4 @@
-Pattern: Missing `present?`
+Pattern: Missing use of `present?`
 
 Issue: -
 

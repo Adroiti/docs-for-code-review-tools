@@ -6,7 +6,7 @@ Issue: -
 
 This rule checks for redundant `with_object`.
 
-### Example
+## Examples
 
 ```ruby
 # bad
