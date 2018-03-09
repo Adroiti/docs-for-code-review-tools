@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Disallow irregular whitespace outside of strings and comments
+Disallow irregular whitespace within a file, including strings and comments.
 
 ## Further Reading
 
