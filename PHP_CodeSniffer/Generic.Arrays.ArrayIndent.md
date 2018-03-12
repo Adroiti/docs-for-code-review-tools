@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Ensures that array are indented one tab stop.
+Ensures that array are indented one tab stop. Indent size can be set using an `indent` property of the sniff.
 
 ## Further Reading
 

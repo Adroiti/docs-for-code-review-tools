@@ -1,10 +1,10 @@
-Pattern: Malformed `}` for control keyword
+Pattern: Malformed closing brace for control keyword
 
 Issue: -
 
 ## Description
 
-Verifies that the closing brace is on the same line as control keywords such as `else`/`elseif`.
+Ensures control structure keywords are on the same line as the closing brace from the earlier body. Applies to `catch`, `finally` `else`, `elseif`, and `do/while` structures.
 
 ## Further Reading
 
