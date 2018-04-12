@@ -20,7 +20,7 @@ $some-cool-color: #efefef;
 
 Example of **correct** code:
 
-```python
+```css
 $some-cool-color: #efefef;
 
 .panel {
