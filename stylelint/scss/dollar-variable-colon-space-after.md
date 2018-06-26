@@ -142,4 +142,4 @@ $var:    10px;
 
 ## Further Reading
 
-* [stylelint-scss - dollar-variable-colon-space-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-colon-space-after/README.md)
+* [stylelint-scss - dollar-variable-colon-space-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-colon-space-after)

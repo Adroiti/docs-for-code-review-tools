@@ -42,7 +42,7 @@ The following patterns are *not* considered warnings:
 @if ($i) {} @else {}
 ```
 
-# Configuration
+## Configuration
 
 ### `ignoreAtRules: ["/regex/", "string"]`
 
@@ -72,4 +72,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - at-rule-no-unknown](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-rule-no-unknown/README.md)
+* [stylelint-scss - at-rule-no-unknown](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-rule-no-unknown)

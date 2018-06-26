@@ -67,4 +67,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - at-else-empty-line-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-else-empty-line-before/README.md)
+* [stylelint-scss - at-else-empty-line-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-else-empty-line-before)

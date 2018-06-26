@@ -69,7 +69,7 @@ a {
 }
 ```
 
-# Configuration
+## Configuration
 
 ### `disableFix: true`
 
@@ -77,4 +77,4 @@ Disables autofixing for this rule.
 
 ## Further Reading
 
-* [stylelint-scss - at-else-closing-brace-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-else-closing-brace-newline-after/README.md)
+* [stylelint-scss - at-else-closing-brace-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-else-closing-brace-newline-after)

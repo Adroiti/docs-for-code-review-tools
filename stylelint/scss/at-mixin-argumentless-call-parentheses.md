@@ -50,4 +50,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - at-mixin-argumentless-call-parentheses](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-mixin-argumentless-call-parentheses/README.md)
+* [stylelint-scss - at-mixin-argumentless-call-parentheses](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-mixin-argumentless-call-parentheses)

@@ -82,7 +82,7 @@ The following patterns are *not* considered warnings:
 } 
 ```
 
-# Configuration
+## Configuration
 
 ### `"ignore": ["single-argument"]`
 
@@ -107,4 +107,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - at-function-named-arguments](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-function-named-arguments/README.md)
+* [stylelint-scss - at-function-named-arguments](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-function-named-arguments)

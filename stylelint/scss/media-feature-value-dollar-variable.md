@@ -91,4 +91,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - media-feature-value-dollar-variable](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/media-feature-value-dollar-variable/README.md)
+* [stylelint-scss - media-feature-value-dollar-variable](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/media-feature-value-dollar-variable)

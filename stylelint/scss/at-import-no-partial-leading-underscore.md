@@ -63,4 +63,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - at-import-no-partial-leading-underscore](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-import-no-partial-leading-underscore/README.md)
+* [stylelint-scss - at-import-no-partial-leading-underscore](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-import-no-partial-leading-underscore)

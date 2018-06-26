@@ -134,4 +134,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - at-else-closing-brace-space-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-else-closing-brace-space-after/README.md)
+* [stylelint-scss - at-else-closing-brace-space-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-else-closing-brace-space-after)

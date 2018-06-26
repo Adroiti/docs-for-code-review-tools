@@ -62,4 +62,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - percent-placeholder-pattern](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/percent-placeholder-pattern/README.md)
+* [stylelint-scss - percent-placeholder-pattern](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/percent-placeholder-pattern)

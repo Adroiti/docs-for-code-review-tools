@@ -66,4 +66,4 @@ p {
 
 ## Further Reading
 
-* [stylelint-scss - selector-no-redundant-nesting-selector](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/selector-no-redundant-nesting-selector/README.md)
+* [stylelint-scss - selector-no-redundant-nesting-selector](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/selector-no-redundant-nesting-selector)

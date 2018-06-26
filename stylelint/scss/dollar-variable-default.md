@@ -12,7 +12,7 @@ $variable: 10px !default;
  * This is variable with default value */
 ```
 
-## Optional Options
+## Configuration
 
 ### `ignore: "local"`
 
@@ -30,4 +30,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - dollar-variable-default](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-default/README.md)
+* [stylelint-scss - dollar-variable-default](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-default)

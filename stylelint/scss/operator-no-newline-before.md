@@ -60,4 +60,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - operator-no-newline-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-newline-before/README.md)
+* [stylelint-scss - operator-no-newline-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-newline-before)

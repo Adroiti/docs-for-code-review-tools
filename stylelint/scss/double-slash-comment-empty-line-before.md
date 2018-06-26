@@ -69,7 +69,7 @@ a {}
 a {} // comment
 ```
 
-## Optional options
+## Configuration
 
 ### `except: ["first-nested"]`
 
@@ -154,4 +154,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - double-slash-comment-empty-line-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/double-slash-comment-empty-line-before/README.md)
+* [stylelint-scss - double-slash-comment-empty-line-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/double-slash-comment-empty-line-before)

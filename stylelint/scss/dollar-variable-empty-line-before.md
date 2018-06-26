@@ -74,7 +74,7 @@ a {
 $var: 1;
 ```
 
-# Configuration
+## Configuration
 
 ### `except: ["first-nested", "after-comment", "after-dollar-variable"]`
 
@@ -208,4 +208,4 @@ Disables autofixing for this rule.
 
 ## Further Reading
 
-* [stylelint-scss - dollar-variable-empty-line-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-empty-line-before/README.md)
+* [stylelint-scss - dollar-variable-empty-line-before](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-empty-line-before)

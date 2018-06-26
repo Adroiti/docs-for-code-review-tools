@@ -105,4 +105,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - operator-no-unspaced](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-unspaced/README.md)
+* [stylelint-scss - operator-no-unspaced](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-unspaced)

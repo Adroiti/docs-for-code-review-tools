@@ -55,7 +55,7 @@ a {
 @if ($x == 1) { }@else { }
 ```
 
-# Configuration
+## Configuration
 
 ### `disableFix: true`
 
@@ -63,4 +63,4 @@ Disables autofixing for this rule.
 
 ## Further Reading
 
-* [stylelint-scss - at-if-closing-brace-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-if-closing-brace-newline-after/README.md)
+* [stylelint-scss - at-if-closing-brace-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-if-closing-brace-newline-after)

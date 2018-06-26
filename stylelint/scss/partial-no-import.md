@@ -74,4 +74,4 @@ The following patterns are *not* considered warnings:
 
 ## Further Reading
 
-* [stylelint-scss - partial-no-import](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/partial-no-import/README.md)
+* [stylelint-scss - partial-no-import](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/partial-no-import)

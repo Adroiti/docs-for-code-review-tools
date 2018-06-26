@@ -73,4 +73,4 @@ a background :red {
 
 ## Further Reading
 
-* [stylelint-scss - declaration-nested-properties-no-divided-groups](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/declaration-nested-properties-no-divided-groups/README.md)
+* [stylelint-scss - declaration-nested-properties-no-divided-groups](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/declaration-nested-properties-no-divided-groups)

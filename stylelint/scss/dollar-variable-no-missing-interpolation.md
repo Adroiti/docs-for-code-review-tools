@@ -116,4 +116,4 @@ $var: my-anim;
 
 ## Further Reading
 
-* [stylelint-scss - dollar-variable-no-missing-interpolation](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-no-missing-interpolation/README.md)
+* [stylelint-scss - dollar-variable-no-missing-interpolation](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-no-missing-interpolation)

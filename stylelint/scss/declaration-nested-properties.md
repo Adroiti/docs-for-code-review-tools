@@ -115,7 +115,7 @@ a background:red {
 */
 ```
 
-## Optional options
+## Configuration
 
 ### `except: ["only-of-namespace"]`
 
@@ -158,4 +158,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - declaration-nested-properties](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/declaration-nested-properties/README.md)
+* [stylelint-scss - declaration-nested-properties](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/declaration-nested-properties)

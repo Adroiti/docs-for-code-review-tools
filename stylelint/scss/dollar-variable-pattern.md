@@ -32,7 +32,7 @@ The following patterns are *not* considered warnings:
 a { $foo-bar: 0; }
 ```
 
-## Optional Options
+## Configuration
 
 ### `ignore: "local"|"global"`
 
@@ -74,4 +74,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - dollar-variable-pattern](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-pattern/README.md)
+* [stylelint-scss - dollar-variable-pattern](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-pattern)

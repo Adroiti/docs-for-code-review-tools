@@ -59,4 +59,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - operator-no-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-newline-after/README.md)
+* [stylelint-scss - operator-no-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/operator-no-newline-after)

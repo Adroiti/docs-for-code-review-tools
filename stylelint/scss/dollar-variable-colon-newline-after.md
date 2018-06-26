@@ -80,7 +80,7 @@ $box-shadow:
 $var: 100px;
 ```
 
-# Configuration
+## Configuration
 
 ### `disableFix: true`
 
@@ -88,4 +88,4 @@ Disables autofixing for this rule.
 
 ## Further Reading
 
-* [stylelint-scss - dollar-variable-colon-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-colon-newline-after/README.md)
+* [stylelint-scss - dollar-variable-colon-newline-after](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/dollar-variable-colon-newline-after)

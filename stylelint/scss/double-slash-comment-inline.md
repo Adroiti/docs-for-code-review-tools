@@ -93,7 +93,7 @@ a {
 }
 ```
 
-## Optional options
+## Configuration
 
 ### `ignore: ["stylelint-commands"]`
 
@@ -115,4 +115,4 @@ a {
 
 ## Further Reading
 
-* [stylelint-scss - double-slash-comment-inline](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/double-slash-comment-inline/README.md)
+* [stylelint-scss - double-slash-comment-inline](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/double-slash-comment-inline)

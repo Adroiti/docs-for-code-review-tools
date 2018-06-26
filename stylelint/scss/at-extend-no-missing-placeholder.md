@@ -54,4 +54,4 @@ p {
 
 ## Further Reading
 
-* [stylelint-scss - at-extend-no-missing-placeholder](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-extend-no-missing-placeholder/README.md)
+* [stylelint-scss - at-extend-no-missing-placeholder](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-extend-no-missing-placeholder)
