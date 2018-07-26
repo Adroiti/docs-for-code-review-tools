@@ -1,4 +1,4 @@
-Pattern: Invalid all object
+Pattern: Invalid `__all__` object
 
 Issue: -
 
