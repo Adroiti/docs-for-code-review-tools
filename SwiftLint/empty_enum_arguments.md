@@ -1,4 +1,4 @@
-Pattern: Redundant enum arguments
+Pattern: Redundant enum argument
 
 Issue: -
 

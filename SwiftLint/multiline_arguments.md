@@ -1,4 +1,4 @@
-Pattern: Use of multi-line arguments
+Pattern: Use of multi-line argument
 
 Issue: -
 

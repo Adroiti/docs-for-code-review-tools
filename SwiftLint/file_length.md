@@ -1,4 +1,4 @@
-Pattern: Too many lines in file
+Pattern: File is too long
 
 Issue: -
 

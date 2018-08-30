@@ -1,10 +1,10 @@
-Pattern: Malformed ACL for parent-definition 
+Pattern: Malformed _ACL_ for parent-definition 
 
 Issue: -
 
 ## Description
 
-Ensure definitions have a lower access control level than their enclosing parent
+Ensure definitions have a lower Access Control Level than their enclosing parent
 
 Examples of **correct** code:
 ```swift

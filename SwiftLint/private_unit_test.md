@@ -1,4 +1,4 @@
-Pattern: `private` unit test
+Pattern: Use of `private` unit test
 
 Issue: -
 

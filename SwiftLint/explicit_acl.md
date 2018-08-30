@@ -1,4 +1,4 @@
-Pattern: Missing ACL keyword
+Pattern: Missing _ACL_ keyword
 
 Issue: -
 
