@@ -1,10 +1,10 @@
-Pattern: Discouraged usage of default separator
+Pattern: Explicit use of default separator
 
 Issue: -
 
 ## Description
 
-Discouraged explicit usage of the default separator.
+Use to discourage explicit usage of the default separator.
 
 Examples of **correct** code:
 ```swift

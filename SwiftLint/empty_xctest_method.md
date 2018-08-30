@@ -34,33 +34,6 @@ class TotoTests: XCTestCase {
     }
 }
 
-
-class Foobar {
-    func setUp() {}
-
-    func tearDown() {}
-
-    func testFoo() {}
-}
-
-
-class TotoTests: XCTestCase {
-    func setUp(with object: Foobar) {}
-
-    func tearDown(object: Foobar) {}
-
-    func testFoo(_ foo: Foobar) {}
-
-    func testBar(bar: (String) -> Int) {}
-}
-
-
-class TotoTests: XCTestCase {
-    func testFoo() { XCTAssertTrue(foobar?.foo) }
-
-    func testBar() { XCTAssertFalse(foobar?.bar) }
-}
-
 ```
 Examples of **incorrect** code:
 ```swift
@@ -86,60 +59,6 @@ class TotoTests: XCTestCase {
     func helperFunction() {
     }
 }
-
-
-class TotoTests: XCTestCase {
-    override ↓func setUp() {}
-
-    override ↓func tearDown() {}
-
-    ↓func testFoo() {}
-
-    func helperFunction() {}
-}
-
-
-class TotoTests: XCTestCase {
-    override ↓func setUp() {
-        // comment...
-    }
-
-    override ↓func tearDown() {
-        // comment...
-        // comment...
-    }
-
-    ↓func testFoo() {
-        // comment...
-
-        // comment...
-
-        // comment...
-    }
-
-    ↓func testBar() {
-        /*
-         * comment...
-         *
-         * comment...
-         *
-         * comment...
-         */
-    }
-
-    func helperFunction() {
-    }
-}
-
-
-class FooTests: XCTestCase {
-    override ↓func setUp() {}
-}
-
-class BarTests: XCTestCase {
-    ↓func testFoo() {}
-}
-
 ```
 
 ## Further Reading
