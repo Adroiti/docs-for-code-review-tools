@@ -6,6 +6,8 @@ Issue: -
 
 Delegates should be weak to avoid reference cycles.
 
+Strong reference cycles happen when two class instances have strong references to each other. Their reference counts never go to zero so they never get deallocated.
+
 Examples of **correct** code:
 ```swift
 class Foo {

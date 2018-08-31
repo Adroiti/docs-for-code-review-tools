@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Avoid using `dynamic` and `@inline(__always)` together.
+When a class method is marked as both `dynamic` and `@inline(__always)`, its dispatch behavior is not well defined. Therefore this specific combination is discouraged.
 
 Examples of **correct** code:
 ```swift

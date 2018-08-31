@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Prefer checking `isEmpty` over comparing `count` to zero.
+Prefer checking `isEmpty` over comparing `count` to zero. For collections that don’t conform to `RandomAccessCollection`, accessing the count property iterates through the elements of the collection.
 
 Examples of **correct** code:
 ```swift
@@ -18,12 +18,6 @@ var count = 0
 
 
 [Int]().count == 1
-
-
-discount == 0
-
-
-order.discount == 0
 
 ```
 Examples of **incorrect** code:
@@ -44,4 +38,5 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
+* [Apple Developer - isEmpty](https://developer.apple.com/documentation/swift/array/1688398-isempty)
 * [SwiftLint - Empty Count](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-count)

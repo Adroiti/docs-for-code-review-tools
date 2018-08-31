@@ -1,8 +1,10 @@
-Pattern: Invalid `NotificationCenter` detachment
+Pattern: Unsafe `NotificationCenter` detachment
 
 Issue: -
 
 ## Description
+
+Warns when an object removes itself as an observer to all notifications. This can be a problem if a superclass or a subclass wants to keep observing some notifications.
 
 An object should only remove itself as an observer in `deinit`.
 
@@ -35,4 +37,5 @@ class Foo {
 
 ## Further Reading
 
+* [Big Nerd Ranch - Over-aggressive Unregistration](https://www.bignerdranch.com/blog/notifications-part-3-gotchas/#over-aggressive-unregistration)
 * [SwiftLint - Notification Center Detachment](https://github.com/realm/SwiftLint/blob/master/Rules.md#notification-center-detachment)

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Prefer `private` over `fileprivate` declarations.
+Prefer `private` over `fileprivate` declarations. 
 
 Examples of **correct** code:
 ```swift
