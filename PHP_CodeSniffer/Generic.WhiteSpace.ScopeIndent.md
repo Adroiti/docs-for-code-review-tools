@@ -55,4 +55,4 @@ Setting the `ignoreIndentationTokens` property provides the rule with a list of 
 
 ## Further Reading
 
-* [PHP_Coderuleer - Generic.WhiteSpace.ScopeIndent](https://github.com/squizlabs/PHP_Coderuleer/blob/master/src/Standards/Generic/rules/WhiteSpace/ScopeIndentrule.php)
+* [PHP_CodeSniffer - Generic.WhiteSpace.ScopeIndent](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/ScopeIndentSniff.php)
