@@ -1,0 +1,7 @@
+Pattern: Possibly unused variable
+
+Issue: -
+
+## Description
+
+Used when a variable is defined but might not be used. The possibility comes from the fact that `locals()` might be used, which could consume or not the said variable.
