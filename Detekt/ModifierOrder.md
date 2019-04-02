@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports cases in the code where modifiers are not in the correct order.
+Reports cases in the code where modifiers are not in the correct order.
 
 Example of **incorrect** code:
 

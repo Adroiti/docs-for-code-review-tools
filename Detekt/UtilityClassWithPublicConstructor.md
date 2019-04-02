@@ -4,8 +4,7 @@ Issue: -
 
 ## Description
 
-A class which only contains utility variables and functions with no concrete implementation can be refactored
-into an `object` or an class with a non-public constructor. Furthermore, this rule reports utility classes which are not `final`.
+A class which only contains utility variables and functions with no concrete implementation can be refactored into an `object` or an class with a non-public constructor. Furthermore, this rule reports utility classes which are not `final`.
 
 Example of **incorrect** code:
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule detects and reports usages of magic numbers in the code. Prefer defining constants with clear names describing what the magic number means.
+Prefer defining constants with clear names describing what the magic number means.
 
 Example of **incorrect** code:
 

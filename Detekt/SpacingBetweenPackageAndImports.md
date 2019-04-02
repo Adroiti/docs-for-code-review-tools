@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule verifies spacing between `package` and `import` statements as well as between `import` statements and `class` declarations.
+Verifies spacing between `package` and `import` statements as well as between `import` statements and `class` declarations.
 
 Example of **incorrect** code:
 

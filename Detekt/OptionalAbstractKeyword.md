@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports `abstract` modifiers which are unnecessary and can be removed.
+`abstract` modifiers are unnecessary and can be removed.
 
 Example of **incorrect** code:
 

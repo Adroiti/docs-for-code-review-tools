@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule inspects casts and reports casts which could be replaced with safe casts instead.
+Found cast could be replaced with safe casts instead.
 
 Example of **incorrect** code:
 

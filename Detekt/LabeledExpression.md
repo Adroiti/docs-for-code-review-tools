@@ -4,10 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports labeled expressions. Expressions with labels generally increase complexity and worsen the
-maintainability of the code. Refactor the violating code to not use labels instead.
-Labeled expressions referencing an outer class with a label from an inner class are allowed, because there is no
-way to get the instance of an outer class from an inner class in Kotlin.
+Expressions with labels generally increase complexity and worsen the maintainability of the code. Refactor the violating code to not use labels instead. Labeled expressions referencing an outer class with a label from an inner class are allowed, because there is no way to get the instance of an outer class from an inner class in Kotlin.
 
 Example of **incorrect** code:
 

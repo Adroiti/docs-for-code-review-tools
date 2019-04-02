@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule checks for redundant visibility modifiers.
+Redundant visibility modifiers can be safely removed.
 
 Example of **incorrect** code:
 

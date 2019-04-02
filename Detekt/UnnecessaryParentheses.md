@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports unnecessary parentheses around expressions. These unnecessary parentheses can safely be removed.
+Unnecessary parentheses can be safely removed.
 
 Example of **incorrect** code:
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports files which do not end with a line separator.
+Reports files which do not end with a line separator.
 
 ## Further Reading
 

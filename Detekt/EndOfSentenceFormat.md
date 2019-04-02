@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule validates the end of the first sentence of a _KDoc_ comment. It should end with proper punctuation or with a correct URL.
+_KDoc_ comment should end with proper punctuation or with a correct URL.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports unnecessary super types. Inheriting from `Any` or `Object` is unnecessary and should simply be removed.
+Inheriting from `Any` or `Object` is unnecessary and should simply be removed.
 
 Example of **incorrect** code:
 

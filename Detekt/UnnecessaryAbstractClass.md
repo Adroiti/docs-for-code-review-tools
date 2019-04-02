@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule inspects `abstract` classes. In case an `abstract class` does not have any concrete members it should be refactored into an interface. Abstract classes which do not define any `abstract` members should instead be refactored into concrete classes.
+In case an `abstract class` does not have any concrete members it should be refactored into an interface. Abstract classes which do not define any `abstract` members should instead be refactored into concrete classes.
 
 Example of **incorrect** code:
 

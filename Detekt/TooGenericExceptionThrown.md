@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports thrown exceptions that have a type that is too generic. It should be preferred to throw specific exceptions to the case that has currently occurred.
+Reports thrown exceptions that have a type that is too generic. It should be preferred to throw specific exceptions to the case that has currently occurred.
 
 Example of **incorrect** code:
 

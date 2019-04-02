@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports a member that has the same name as the containing class or object. This might result in confusion. The member should either be renamed or changed to a constructor. Factory functions that create an instance of the class are exempt from this rule.
+Reports a member that has the same name as the containing class or object. This might result in confusion. The member should either be renamed or changed to a constructor. Factory functions that create an instance of the class are exempt from this rule.
 
 Example of **incorrect** code:
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports all exceptions that are caught and then later re-thrown without modification. It ignores caught exceptions that are rethrown if there is work done before that.
+Reports all exceptions that are caught and then later re-thrown without modification. It ignores caught exceptions that are rethrown if there is work done before that.
 
 Example of **incorrect** code:
 

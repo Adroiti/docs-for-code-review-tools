@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports all exceptions that are thrown in a `main` method. An exception should only be thrown if it can be handled by a "higher" function.
+An exception should only be thrown if it can be handled by a "higher" function.
 
 Example of **incorrect** code:
 

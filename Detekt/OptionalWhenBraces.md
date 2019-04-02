@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports unnecessary braces in when expressions. These optional braces should be removed.
+These optional `when` braces should be removed.
 
 Example of **incorrect** code:
 

@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-This rule detects and reports duplicated `String` literals. Repeatedly typing out the same String literal across the codebase makes it harder to change and maintain.
+Repeatedly typing out the same `String` literal across the codebase makes it harder to change and maintain.
 
-Instead, prefer extracting the String literal into a property or constant.
+Prefer extracting the String literal into a property or constant instead.
 
 Example of **incorrect** code:
 
