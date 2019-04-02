@@ -1,4 +1,4 @@
-Pattern: Unnecessary parentheses around expression
+Pattern: Unnecessary `()` around expression
 
 Issue: -
 
