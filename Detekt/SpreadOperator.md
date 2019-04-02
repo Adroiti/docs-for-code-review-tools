@@ -1,0 +1,23 @@
+Pattern: Use of spread operator
+
+Issue: -
+
+## Description
+
+Using a spread operator causes a full copy of the array to be created before calling a method. This has a very high performance penalty.
+
+Example of **incorrect** code:
+
+```kotlin
+fun foo(strs: Array<String>) {
+    bar(*strs)
+}
+
+fun bar(vararg strs: String) {
+    strs.forEach { println(it) }
+}
+```
+
+## Further Reading
+
+* [Detekt - SpreadOperator](https://arturbosch.github.io/detekt/performance.html#spreadoperator)

@@ -1,0 +1,29 @@
+Pattern: Missing use of safe cast
+
+Issue: -
+
+## Description
+
+This rule inspects casts and reports casts which could be replaced with safe casts instead.
+
+Example of **incorrect** code:
+
+```kotlin
+fun numberMagic(number: Number) {
+    val i = if (number is Int) number else null
+    // ...
+}
+```
+
+Example of **correct** code:
+
+```kotlin
+fun numberMagic(number: Number) {
+    val i = number as? Int
+    // ...
+}
+```
+
+## Further Reading
+
+* [Detekt - SafeCast](https://arturbosch.github.io/detekt/style.html#safecast)
