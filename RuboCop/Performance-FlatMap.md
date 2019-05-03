@@ -27,5 +27,5 @@ EnabledForFlattenWithoutParams | false
 
 ## Further Reading
 
-* [RuboCop - Performance/FlatMap](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceflatmap)
+* [RuboCop - Performance/FlatMap](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceflatmap)
 * [https://github.com/JuanitoFatas/fast-ruby#enumerablemaparrayflatten-vs-enumerableflat_map-code](https://github.com/JuanitoFatas/fast-ruby#enumerablemaparrayflatten-vs-enumerableflat_map-code)

@@ -28,4 +28,4 @@ array.sort_by { |a| a[:foo] }
 
 ## Further Reading
 
-* [RuboCop - Performance/CompareWithBlock](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancecomparewithblock)
+* [RuboCop - Performance/CompareWithBlock](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancecomparewithblock)

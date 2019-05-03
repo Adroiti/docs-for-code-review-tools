@@ -24,4 +24,4 @@ array
 
 ## Further Reading
 
-* [RuboCop - Performance/ChainArrayAllocation](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancechainarrayallocation)
+* [RuboCop - Performance/ChainArrayAllocation](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancechainarrayallocation)

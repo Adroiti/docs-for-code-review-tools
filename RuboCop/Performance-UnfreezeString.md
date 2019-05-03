@@ -30,4 +30,4 @@ String.new('something')
 
 ## Further Reading
 
-* [RuboCop - Performance/UnfreezeString](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceunfreezestring)
+* [RuboCop - Performance/UnfreezeString](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceunfreezestring)

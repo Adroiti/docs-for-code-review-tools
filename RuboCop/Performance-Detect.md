@@ -33,5 +33,5 @@ SafeMode | true
 
 ## Further Reading
 
-* [RuboCop - Performance/Detect](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancedetect)
+* [RuboCop - Performance/Detect](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancedetect)
 * [https://github.com/JuanitoFatas/fast-ruby#enumerabledetect-vs-enumerableselectfirst-code](https://github.com/JuanitoFatas/fast-ruby#enumerabledetect-vs-enumerableselectfirst-code)

@@ -22,5 +22,5 @@ return regex.match('str')
 
 ## Further Reading
 
-* [RuboCop - Performance/RedundantMatch](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceredundantmatch)
+* [RuboCop - Performance/RedundantMatch](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceredundantmatch)
 * [https://github.com/JuanitoFatas/fast-ruby#regexp-vs-stringmatch-vs-string-code-](https://github.com/JuanitoFatas/fast-ruby#regexp-vs-stringmatch-vs-string-code-)

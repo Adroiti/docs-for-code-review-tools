@@ -33,4 +33,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Performance/OpenStruct](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceopenstruct)
+* [RuboCop - Performance/OpenStruct](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceopenstruct)

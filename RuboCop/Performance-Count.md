@@ -50,4 +50,4 @@ SafeMode | true
 
 ## Further Reading
 
-* [RuboCop - Performance/Count](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancecount)
+* [RuboCop - Performance/Count](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancecount)

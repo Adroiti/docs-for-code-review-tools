@@ -23,5 +23,5 @@ str.casecmp('ABC').zero?
 
 ## Further Reading
 
-* [RuboCop - Performance/Casecmp](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancecasecmp)
+* [RuboCop - Performance/Casecmp](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancecasecmp)
 * [https://github.com/JuanitoFatas/fast-ruby#stringcasecmp-vs-stringdowncase---code](https://github.com/JuanitoFatas/fast-ruby#stringcasecmp-vs-stringdowncase---code)

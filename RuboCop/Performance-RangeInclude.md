@@ -17,5 +17,5 @@ desired result:
 
 ## Further Reading
 
-* [RuboCop - Performance/RangeInclude](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancerangeinclude)
+* [RuboCop - Performance/RangeInclude](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancerangeinclude)
 * [https://github.com/JuanitoFatas/fast-ruby#cover-vs-include-code](https://github.com/JuanitoFatas/fast-ruby#cover-vs-include-code)

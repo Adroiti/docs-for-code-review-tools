@@ -56,4 +56,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Performance/CaseWhenSplat](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancecasewhensplat)
+* [RuboCop - Performance/CaseWhenSplat](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancecasewhensplat)

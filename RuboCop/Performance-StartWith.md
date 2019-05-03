@@ -19,5 +19,5 @@ This rule identifies unnecessary use of a Regex where `String#start_with?` would
 
 ## Further Reading
 
-* [RuboCop - Performance/StartWith](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancestartwith)
+* [RuboCop - Performance/StartWith](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancestartwith)
 * [https://github.com/JuanitoFatas/fast-ruby#stringmatch-vs-stringstart_withstringend_with-code-start-code-end](https://github.com/JuanitoFatas/fast-ruby#stringmatch-vs-stringstart_withstringend_with-code-start-code-end)

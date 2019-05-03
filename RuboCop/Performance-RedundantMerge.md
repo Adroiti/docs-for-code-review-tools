@@ -22,5 +22,5 @@ MaxKeyValuePairs | 2
 
 ## Further Reading
 
-* [RuboCop - Performance/RedundantMerge](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceredundantmerge)
+* [RuboCop - Performance/RedundantMerge](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceredundantmerge)
 * [https://github.com/JuanitoFatas/fast-ruby#hashmerge-vs-hash-code](https://github.com/JuanitoFatas/fast-ruby#hashmerge-vs-hash-code)

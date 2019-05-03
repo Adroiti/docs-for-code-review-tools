@@ -65,4 +65,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Performance/RegexpMatch](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceregexpmatch)
+* [RuboCop - Performance/RegexpMatch](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceregexpmatch)

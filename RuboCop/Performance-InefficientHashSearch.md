@@ -42,5 +42,5 @@ h = { a: 1, b: 2 }; h.value?(nil)
 
 ## Further Reading
 
-* [RuboCop - Performance/InefficientHashSearch](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceinefficienthashsearch)
+* [RuboCop - Performance/InefficientHashSearch](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceinefficienthashsearch)
 * [GitHub - JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby#hashkey-instead-of-hashkeysinclude-code)

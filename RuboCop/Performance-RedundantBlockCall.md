@@ -28,5 +28,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Performance/RedundantBlockCall](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceredundantblockcall)
+* [RuboCop - Performance/RedundantBlockCall](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceredundantblockcall)
 * [https://github.com/JuanitoFatas/fast-ruby#proccall-and-block-arguments-vs-yieldcode](https://github.com/JuanitoFatas/fast-ruby#proccall-and-block-arguments-vs-yieldcode)

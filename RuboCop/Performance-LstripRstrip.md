@@ -19,4 +19,4 @@ This rule identifies places where `lstrip.rstrip` can be replaced by `strip`.
 
 ## Further Reading
 
-* [RuboCop - Performance/LstripRstrip](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancelstriprstrip)
+* [RuboCop - Performance/LstripRstrip](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancelstriprstrip)

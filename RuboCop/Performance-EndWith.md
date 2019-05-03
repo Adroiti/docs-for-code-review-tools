@@ -19,5 +19,5 @@ This rule identifies unnecessary use of a regex where `String#end_with?` would s
 
 ## Further Reading
 
-* [RuboCop - Performance/EndWith](https://rubocop.readthedocs.io/en/latest/cops_performance/#performanceendwith)
+* [RuboCop - Performance/EndWith](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceendwith)
 * [https://github.com/JuanitoFatas/fast-ruby#stringmatch-vs-stringstart_withstringend_with-code-start-code-end](https://github.com/JuanitoFatas/fast-ruby#stringmatch-vs-stringstart_withstringend_with-code-start-code-end)

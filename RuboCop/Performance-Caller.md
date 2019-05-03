@@ -24,4 +24,4 @@ caller_locations(1..1).first
 
 ## Further Reading
 
-* [RuboCop - Performance/Caller](https://rubocop.readthedocs.io/en/latest/cops_performance/#performancecaller)
+* [RuboCop - Performance/Caller](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancecaller)
