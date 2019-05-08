@@ -1,4 +1,4 @@
-Pattern: valid v cloak
+Pattern: Malformed `v-cloak` directive
 
 Issue: -
 

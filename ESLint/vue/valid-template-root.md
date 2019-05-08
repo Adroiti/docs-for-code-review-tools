@@ -1,4 +1,4 @@
-Pattern: valid template root
+Pattern: Malformed template root
 
 Issue: -
 

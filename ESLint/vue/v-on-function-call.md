@@ -1,4 +1,4 @@
-Pattern: v on function call
+Pattern: Malformed parentheses for `v-on` directive
 
 Issue: -
 

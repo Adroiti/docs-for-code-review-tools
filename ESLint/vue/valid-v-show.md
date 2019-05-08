@@ -1,4 +1,4 @@
-Pattern: valid v show
+Pattern: Malformed `v-show` directive
 
 Issue: -
 

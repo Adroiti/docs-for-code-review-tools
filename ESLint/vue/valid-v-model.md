@@ -1,4 +1,4 @@
-Pattern: valid v model
+Pattern: Malformed `v-model` directive
 
 Issue: -
 

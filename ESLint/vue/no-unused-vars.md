@@ -1,10 +1,10 @@
-Pattern: no unused vars
+Pattern: Unused variable definition
 
 Issue: -
 
 ## Description
 
-This rule report variable definitions of v-for directives or scope attributes if those are not used.
+This rule report variable definitions of `v-for` directives or scope attributes if those are not used.
 
 <eslint-code-block :rules="{'vue/no-unused-vars': ['error']}">
 

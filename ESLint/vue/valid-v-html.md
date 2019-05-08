@@ -1,4 +1,4 @@
-Pattern: valid v html
+Pattern: Malformed `v-html` directive
 
 Issue: -
 

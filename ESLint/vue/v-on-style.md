@@ -1,4 +1,4 @@
-Pattern: v on style
+Pattern: Malformed `v-on` directive
 
 Issue: -
 

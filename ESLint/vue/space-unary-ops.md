@@ -1,4 +1,4 @@
-Pattern: space unary ops
+Pattern: Inconsistent spacing for unary operator
 
 Issue: -
 

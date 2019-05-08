@@ -1,4 +1,4 @@
-Pattern: no restricted syntax
+Pattern: Use of restricted syntax
 
 Issue: -
 

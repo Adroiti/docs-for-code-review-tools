@@ -1,4 +1,4 @@
-Pattern: valid v pre
+Pattern: Malformed `v-pre` directive
 
 Issue: -
 

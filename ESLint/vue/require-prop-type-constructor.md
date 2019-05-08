@@ -1,4 +1,4 @@
-Pattern: require prop type constructor
+Pattern: Prop type not a constructor
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 This rule reports prop types that can't be presumed as constructors.
 
-It's impossible to catch every possible case and know whether the prop type is a constructor or not, hence this rule black list few types of nodes, instead of white-listing correct ones.
+It's impossible to catch every possible case and know whether the prop type is a constructor or not, hence this rule blacklists few types of nodes, instead of white-listing correct ones.
 
 The following types are forbidden and will be reported:
 

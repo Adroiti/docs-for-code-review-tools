@@ -1,4 +1,4 @@
-Pattern: no template key
+Pattern: Use of `key` attribute on `<template>`
 
 Issue: -
 

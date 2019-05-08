@@ -1,4 +1,4 @@
-Pattern: valid v for
+Pattern: Malformed `v-for` directive
 
 Issue: -
 

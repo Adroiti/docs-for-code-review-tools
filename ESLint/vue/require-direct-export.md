@@ -1,4 +1,4 @@
-Pattern: require direct export
+Pattern: Missing direct export for component object
 
 Issue: -
 

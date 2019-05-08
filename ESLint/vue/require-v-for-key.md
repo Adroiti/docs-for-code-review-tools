@@ -1,4 +1,4 @@
-Pattern: require v for key
+Pattern: Missing `v-bind:key` for `v-for` directive
 
 Issue: -
 

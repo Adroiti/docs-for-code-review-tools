@@ -1,4 +1,4 @@
-Pattern: valid v else
+Pattern: Malformed `v-else` directive
 
 Issue: -
 

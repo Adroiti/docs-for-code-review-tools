@@ -1,4 +1,4 @@
-Pattern: v bind style
+Pattern: Malformed `v-bind` directive
 
 Issue: -
 

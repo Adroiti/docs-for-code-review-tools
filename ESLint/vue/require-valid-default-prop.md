@@ -1,4 +1,4 @@
-Pattern: require valid default prop
+Pattern: Invalid props default value
 
 Issue: -
 

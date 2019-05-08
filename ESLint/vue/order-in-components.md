@@ -1,11 +1,10 @@
-Pattern: order in components
+Pattern: Wrong property order in component
 
 Issue: -
 
 ## Description
 
-This rule makes sure you keep declared order of properties in components.
-Recommended order of properties can be [found here](https://vuejs.org/v2/style-guide/#Component-instance-options-order-recommended).
+This rule makes sure you keep declared order of properties in components. Recommended order of properties can be [found here](https://vuejs.org/v2/style-guide/#Component-instance-options-order-recommended).
 
 <eslint-code-block fix :rules="{'vue/order-in-components': ['error']}">
 

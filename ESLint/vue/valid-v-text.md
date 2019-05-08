@@ -1,4 +1,4 @@
-Pattern: valid v text
+Pattern: Malformed `v-text` directive
 
 Issue: -
 

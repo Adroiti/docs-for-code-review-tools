@@ -1,10 +1,10 @@
-Pattern: no template shadow
+Pattern: Use of shadowed variable in template
 
 Issue: -
 
 ## Description
 
-This rule aims to eliminate shadowed variable declarations of v-for directives or scope attributes.
+This rule aims to eliminate shadowed variable declarations of `v-for` directives or scope attributes.
 
 <eslint-code-block :rules="{'vue/no-template-shadow': ['error']}">
 

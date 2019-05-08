@@ -1,10 +1,10 @@
-Pattern: prop name casing
+Pattern: Invalid casing for prop name
 
 Issue: -
 
 ## Description
 
-This rule enforce proper casing of props in vue components(camelCase).
+This rule enforces proper casing of props in vue components (camelCase).
 
 <eslint-code-block fix :rules="{'vue/prop-name-casing': ['error']}">
 

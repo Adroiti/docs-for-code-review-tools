@@ -1,4 +1,4 @@
-Pattern: return in computed property
+Pattern: Missing `return` in `computed` property
 
 Issue: -
 

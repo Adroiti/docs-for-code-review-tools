@@ -1,4 +1,4 @@
-Pattern: no side effects in computed properties
+Pattern: Side effect in computed property
 
 Issue: -
 

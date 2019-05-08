@@ -1,4 +1,4 @@
-Pattern: require component is
+Pattern: Missing `v-bind:is` for `<component>` element
 
 Issue: -
 

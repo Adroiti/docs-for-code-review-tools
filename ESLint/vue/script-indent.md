@@ -1,4 +1,4 @@
-Pattern: script indent
+Pattern: Inconsistent indentation in `<script>`
 
 Issue: -
 

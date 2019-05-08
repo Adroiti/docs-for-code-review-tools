@@ -1,4 +1,4 @@
-Pattern: no use v if with v for
+Pattern: Use of `v-if` on the same element as `v-for`
 
 Issue: -
 

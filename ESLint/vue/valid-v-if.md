@@ -1,4 +1,4 @@
-Pattern: valid v if
+Pattern: Malformed `v-if` directive
 
 Issue: -
 

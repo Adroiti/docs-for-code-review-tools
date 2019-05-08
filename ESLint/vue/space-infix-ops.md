@@ -1,4 +1,4 @@
-Pattern: space infix ops
+Pattern: Missing spacing around infix operator
 
 Issue: -
 

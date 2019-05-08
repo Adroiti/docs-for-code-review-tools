@@ -1,4 +1,4 @@
-Pattern: object curly spacing
+Pattern: Inconsistent spacing inside braces
 
 Issue: -
 

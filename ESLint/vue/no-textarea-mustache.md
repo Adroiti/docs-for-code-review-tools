@@ -1,4 +1,4 @@
-Pattern: no textarea mustache
+Pattern: Use of mustaches in `<textarea>`
 
 Issue: -
 

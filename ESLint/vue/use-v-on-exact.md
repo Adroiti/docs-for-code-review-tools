@@ -1,4 +1,4 @@
-Pattern: use v on exact
+Pattern: Missing use of `exact` modifier on `v-on`
 
 Issue: -
 

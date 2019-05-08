@@ -1,4 +1,4 @@
-Pattern: require prop types
+Pattern: Missing type definition in `props`
 
 Issue: -
 

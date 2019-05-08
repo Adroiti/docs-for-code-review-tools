@@ -1,11 +1,10 @@
-Pattern: singleline html element content newline
+Pattern: Missing line break for single-line element
 
 Issue: -
 
 ## Description
 
-This rule enforces a line break before and after the contents of a singleline element.
-
+This rule enforces a line break before and after the contents of a single-line element.
 
 <eslint-code-block fix :rules="{'vue/singleline-html-element-content-newline': ['error']}">
 

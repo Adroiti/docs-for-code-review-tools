@@ -1,4 +1,4 @@
-Pattern: v slot style
+Pattern: Malformed `v-slot` directive
 
 Issue: -
 

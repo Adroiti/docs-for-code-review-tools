@@ -1,4 +1,4 @@
-Pattern: no unused components
+Pattern: Unused component in template
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: this in template
+Pattern: Use of `this` in template
 
 Issue: -
 

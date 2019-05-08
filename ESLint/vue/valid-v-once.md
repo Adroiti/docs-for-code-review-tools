@@ -1,4 +1,4 @@
-Pattern: valid v once
+Pattern: Malformed `v-once` directive
 
 Issue: -
 
