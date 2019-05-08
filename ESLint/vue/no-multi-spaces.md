@@ -1,4 +1,4 @@
-Pattern: no multi spaces
+Pattern: Multiple spaces in tag
 
 Issue: -
 

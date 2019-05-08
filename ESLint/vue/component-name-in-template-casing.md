@@ -1,4 +1,4 @@
-Pattern: component name in template casing
+Pattern: Inconsistent casing for component name in template
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: comma dangle
+Pattern: Malformed trailing comma
 
 Issue: -
 
 ## Description
 
-Require or disallow trailing commas.
+This rule enforces consistent use of trailing commas in object and array literals.
 
 ## Further Reading
 

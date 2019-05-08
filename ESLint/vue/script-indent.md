@@ -37,8 +37,6 @@ const d = {
 
 ## Options
 
-This rule has some options.
-
 ```json
 {
   "vue/script-indent": ["error", TYPE, {

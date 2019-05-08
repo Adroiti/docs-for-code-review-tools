@@ -1,4 +1,4 @@
-Pattern: no empty pattern
+Pattern: Empty destructuring pattern
 
 Issue: -
 

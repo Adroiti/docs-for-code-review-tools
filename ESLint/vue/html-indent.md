@@ -1,4 +1,4 @@
-Pattern: html indent
+Pattern: Inconsistent indentation in `<template>`
 
 Issue: -
 

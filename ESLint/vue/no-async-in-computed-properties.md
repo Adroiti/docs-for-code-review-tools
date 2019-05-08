@@ -1,10 +1,10 @@
-Pattern: no async in computed properties
+Pattern: Asynchronous action in computed property
 
 Issue: -
 
 ## Description
 
-This rule is aimed at preventing asynchronous methods from being called in computed properties.
+This rule is aimed at preventing asynchronous methods from being called in computed properties. Computed properties should be synchronous. Asynchronous actions inside them may not work as expected and can lead to an unexpected behavior. If you need async computed properties you might want to consider using additional plug-in [vue-async-computed].
 
 <eslint-code-block :rules="{'vue/no-async-in-computed-properties': ['error']}">
 

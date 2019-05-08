@@ -1,10 +1,11 @@
-Pattern: no duplicate attributes
+Pattern: Duplicate attribute
 
 Issue: -
 
 ## Description
 
-This rule reports duplicate attributes.
+This rule reports duplicate attributes. When duplicate arguments exist, only the last one is valid.
+
 `v-bind:foo` directives are handled as the attributes `foo`.
 
 <eslint-code-block :rules="{'vue/no-duplicate-attributes': ['error']}">

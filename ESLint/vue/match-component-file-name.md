@@ -1,10 +1,12 @@
-Pattern: match component file name
+Pattern: Mismatched component file name
 
 Issue: -
 
 ## Description
 
-This rule has some options.
+This rule reports if a component name property does not match its file name.
+
+You can define an array of file extensions this rule should verify for the component's name.
 
 ```json
 {

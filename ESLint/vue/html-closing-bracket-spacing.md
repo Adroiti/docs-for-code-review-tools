@@ -1,4 +1,4 @@
-Pattern: html closing bracket spacing
+Pattern: Malformed spacing for HTML closing bracket
 
 Issue: -
 

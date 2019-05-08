@@ -1,4 +1,4 @@
-Pattern: keyword spacing
+Pattern: Inconsistent keyword spacing
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: block spacing
+Pattern: Malformed block spacing
 
 Issue: -
 

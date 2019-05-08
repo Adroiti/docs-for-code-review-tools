@@ -1,4 +1,4 @@
-Pattern: no boolean default
+Pattern: Use of boolean default
 
 Issue: -
 

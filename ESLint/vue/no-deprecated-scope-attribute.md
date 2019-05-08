@@ -1,4 +1,4 @@
-Pattern: no deprecated scope attribute
+Pattern: Use of deprecated `scope` attribute 
 
 Issue: -
 

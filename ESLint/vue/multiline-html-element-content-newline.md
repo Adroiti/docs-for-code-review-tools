@@ -1,10 +1,10 @@
-Pattern: multiline html element content newline
+Pattern: Malformed newline for multi-line element
 
 Issue: -
 
 ## Description
 
-This rule enforces a line break before and after the contents of a multiline element.
+This rule enforces a line break before and after the contents of a multi-line element.
 
 <eslint-code-block fix :rules="{'vue/multiline-html-element-content-newline': ['error']}">
 

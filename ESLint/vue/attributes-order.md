@@ -1,4 +1,4 @@
-Pattern: attributes order
+Pattern: Wrong attribute order
 
 Issue: -
 

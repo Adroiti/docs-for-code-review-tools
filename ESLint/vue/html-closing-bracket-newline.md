@@ -1,4 +1,4 @@
-Pattern: html closing bracket newline
+Pattern: Malformed newline for HTML closing bracket
 
 Issue: -
 

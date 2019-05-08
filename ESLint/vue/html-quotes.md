@@ -1,10 +1,16 @@
-Pattern: html quotes
+Pattern: Malformed quotes for HTML attribute
 
 Issue: -
 
 ## Description
 
-This rule reports the quotes of attributes if it is different to configured quotes.
+You can choose quotes of HTML attributes from:
+
+- Double quotes: `<div class="foo">`
+- Single quotes: `<div class='foo'>`
+- No quotes: `<div class=foo>`
+
+This rule enforces the quotes style of HTML attributes.
 
 <eslint-code-block fix :rules="{'vue/html-quotes': ['error']}">
 

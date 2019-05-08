@@ -1,4 +1,4 @@
-Pattern: html end tags
+Pattern: Missing HTML end tag
 
 Issue: -
 

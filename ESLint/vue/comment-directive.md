@@ -1,8 +1,16 @@
-Pattern: comment directive
+Pattern: Support comment-directives in `<template>`
 
 Issue: -
 
 ## Description
+
+Sole purpose of this rule is to provide `eslint-disable` functionality in `<template>`.
+It supports usage of the following comments:
+
+- `eslint-disable`
+- `eslint-enable`
+- `eslint-disable-line`
+- `eslint-disable-next-line`
 
 ESLint doesn't provide any API to enhance `eslint-disable` functionality and ESLint rules cannot affect other rules. But ESLint provides [processors API](https://eslint.org/docs/developer-guide/working-with-plugins#processors-in-plugins).
 

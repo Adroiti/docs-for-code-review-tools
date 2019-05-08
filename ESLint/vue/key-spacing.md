@@ -1,4 +1,4 @@
-Pattern: key spacing
+Pattern: Inconsistent key/value spacing in literal property
 
 Issue: -
 

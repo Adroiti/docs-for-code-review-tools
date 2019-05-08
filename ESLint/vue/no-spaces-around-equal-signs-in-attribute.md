@@ -1,4 +1,4 @@
-Pattern: no spaces around equal signs in attribute
+Pattern: Space around equal sign in attribute
 
 Issue: -
 

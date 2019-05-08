@@ -1,4 +1,4 @@
-Pattern: no confusing v for v if
+Pattern: Confusing `v-for` and `v-if` on the same element
 
 Issue: -
 

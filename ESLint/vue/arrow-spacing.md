@@ -1,4 +1,4 @@
-Pattern: arrow spacing
+Pattern: Malformed space before/after arrow function’s arrow
 
 Issue: -
 

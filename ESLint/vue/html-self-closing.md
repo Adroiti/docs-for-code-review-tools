@@ -1,4 +1,4 @@
-Pattern: html self closing
+Pattern: Malformed HTML self-closing sign
 
 Issue: -
 

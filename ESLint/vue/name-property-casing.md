@@ -1,4 +1,4 @@
-Pattern: name property casing
+Pattern: Invalid casing for property name
 
 Issue: -
 

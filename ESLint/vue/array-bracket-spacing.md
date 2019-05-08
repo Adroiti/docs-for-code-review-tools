@@ -1,4 +1,4 @@
-Pattern: array bracket spacing
+Pattern: Inconsistent spacing inside array brackets
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: attribute hyphenation
+Pattern: Invalid attribute name on custom component
 
 Issue: -
 

@@ -1,11 +1,10 @@
-Pattern: no parsing error
+Pattern: Parse error in `<template>`
 
 Issue: -
 
 ## Description
 
-This rule tries to parse directives/mustaches in `<template>` by the parser which parses `<script>`.
-Then reports syntax errors if exist.
+This rule tries to parse directives/mustaches in `<template>` by the parser which parses `<script>`. Then reports syntax errors if exist.
 
 <eslint-code-block :rules="{'vue/no-parsing-error': ['error']}">
 

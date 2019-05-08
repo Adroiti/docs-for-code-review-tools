@@ -1,4 +1,4 @@
-Pattern: mustache interpolation spacing
+Pattern: Malformed spacing for mustache interpolation
 
 Issue: -
 

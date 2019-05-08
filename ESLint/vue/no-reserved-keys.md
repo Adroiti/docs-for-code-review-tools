@@ -1,4 +1,4 @@
-Pattern: no reserved keys
+Pattern: Use of reserved key
 
 Issue: -
 

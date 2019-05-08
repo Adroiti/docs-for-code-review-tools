@@ -20,8 +20,6 @@ This rule reports all uses of `v-html` directive in order to reduce the risk of 
 
 </eslint-code-block>
 
-## :mute: When Not To Use It
-
 If you are certain the content passed to `v-html` is sanitized HTML you can disable this rule.
 
 ## Further Reading
