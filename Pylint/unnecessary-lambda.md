@@ -16,7 +16,7 @@ results = " ".join(rdd.map(lambda x: save_and_show(x)).collect())
 Example of **correct** code:
 
 ```python
-results = " ".join(rdd.map(save_and_show.collect())
+results = " ".join(rdd.map(save_and_show).collect())
 ```
 ## Further Reading
 
