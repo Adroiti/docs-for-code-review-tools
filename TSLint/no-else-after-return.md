@@ -1,0 +1,45 @@
+Pattern: Unnecessary `else` for block with `return`
+
+Issue: -
+
+## Description
+
+If an if block contains a return statement, the else block becomes unnecessary. Its contents can be placed outside of the block.
+
+## Options
+
+#### `"allow-else-if"`
+
+Example config:
+
+```js
+"no-else-after-return": {
+  "options": "allow-else-if"
+}
+
+// or
+
+"no-else-after-return": [true, "allow-else-if"]
+```
+
+Enable this option if you prefer `else if` blocks after `return` statements:
+
+```js
+if (condition) {
+  return 'foo';
+} else if (otherCondition) { // this is allowed with the option
+  return 'bar';
+}
+
+if (condition) {
+  return 'foo';
+} else if (otherCondition) {
+  return 'bar';
+} else { // this is still not allowed with the option
+  return 'baz';
+}
+```
+
+## Further Reading
+
+* [TSLint - no-else-after-return](https://github.com/ajafff/tslint-consistent-codestyle/blob/master/docs/no-else-after-return.md)
