@@ -20,12 +20,6 @@ Suppressions can be specified in your tslint.json configuration file like this:
 ]
 ```
 
-Or as a better alternative you can just extract all our suppressions into a separate file: 
-
-    "react-no-dangerous-html": [true].concat(
-        grunt.file.readJSON('../xss_exceptions.json')
-    )
-
 
 ## Further Reading
 
