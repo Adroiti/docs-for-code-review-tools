@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Restricts the usage of `extract()`.
+`extract()` makes code harder to debug and harder to understand.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Discourage the use of the PHP error silencing operator.
+Discourages the use of the PHP error silencing operator.
 
 This rule allows the error operator to be used with a select list
 of white-listed functions, as no amount of error checking can prevent

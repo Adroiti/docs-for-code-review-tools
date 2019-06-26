@@ -1,4 +1,4 @@
-Pattern: Inconsistent array indentation
+Pattern: Inconsistent WP array indentation
 
 Issue: -
 

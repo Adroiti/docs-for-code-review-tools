@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Flag calling `preg_quote()` without the second (`$delimiter`) parameter.
+Flags calling `preg_quote()` without the second (`$delimiter`) parameter.
 
 ## Further Reading
 

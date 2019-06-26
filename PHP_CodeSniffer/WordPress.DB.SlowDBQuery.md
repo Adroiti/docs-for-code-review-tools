@@ -8,5 +8,5 @@ Flag potentially slow queries.
 
 ## Further Reading
 
-* [WordPress.DB.SlowDBQuery](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#uncached-pageload)
+* [VIP Go](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#uncached-pageload)
 * [WordPress.DB.SlowDBQuery](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/DB/SlowDBQuerySniff.php)

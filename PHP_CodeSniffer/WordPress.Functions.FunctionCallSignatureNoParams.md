@@ -9,4 +9,3 @@ Enforces no whitespace between the parenthesis of a function call without parame
 ## Further Reading
 
 * [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#space-usage)
-* [WordPress.Functions.FunctionCallSignatureNoParams](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/Functions/FunctionCallSignatureNoParamsSniff.php)

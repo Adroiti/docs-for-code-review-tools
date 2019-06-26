@@ -4,9 +4,8 @@ Issue: -
 
 ## Description
 
-Discourages removal of the admin bar.
+The admin bar is an integral part of the WordPress experience and should not be removed.
 
 ## Further Reading
 
-* [WordPress.VIP.AdminBarRemoval](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#removing-the-admin-bar)
-* [WordPress.VIP.AdminBarRemoval](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/VIP/AdminBarRemovalSniff.php)
+* [VIP Go](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#removing-the-admin-bar)

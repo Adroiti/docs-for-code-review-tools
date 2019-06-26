@@ -8,5 +8,4 @@ Discourages the use of the session variable. Creating a session writes a file to
 
 ## Further Reading
 
-* [WordPress.VIP.SessionVariableUsage](https://lobby.vip.wordpress.com/wordpress-com-documentation/code-review-what-we-look-for/#session-start-and-other-session-functions)
-* [WordPress.VIP.SessionVariableUsage](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/VIP/SessionVariableUsageSniff.php)
+* [VIP Lobby - Code Review: What We Look For](https://lobby.vip.wordpress.com/wordpress-com-documentation/code-review-what-we-look-for/#session-start-and-other-session-functions)

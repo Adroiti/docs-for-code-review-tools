@@ -1,12 +1,11 @@
-Pattern: use of direct database query
+Pattern: Use of direct database query
 
 Issue: -
 
 ## Description
 
-Flags direct database queries.
+You should almost never need to query database tables directly. Using WordPress APIs rather than rolling your own functions saves you time and assures compatibility with past and future versions of WordPress and PHP. It also makes code reviews go more smoothly because we know we can trust the APIs.
 
 ## Further Reading
 
-* [WordPress.VIP.DirectDatabaseQuery](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#direct-database-queries)
-* [WordPress.VIP.DirectDatabaseQuery](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/VIP/DirectDatabaseQuerySniff.php)
+* [VIP Go](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#direct-database-queries)

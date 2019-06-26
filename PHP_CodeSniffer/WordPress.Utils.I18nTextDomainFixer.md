@@ -6,11 +6,11 @@ Issue: -
 
 Comprehensive _I18n_ text domain fixer tool.
 
-This sniff can:
+This rule can:
 - Add missing text domains.
 - Replace text domains based on an array of `old` values to a `new` value.
 
-Note: Without a user-defined configuration in a custom ruleset, this sniff will be ignored.
+Note: Without a user-defined configuration in a custom ruleset, this rule will be ignored.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Enforces Yoda conditional statements.
+When doing logical comparisons involving variables, always put the variable on the right side and put constants, literals, or function calls on the left side. If neither side is a variable, the order is not important.
 
 ## Further Reading
 

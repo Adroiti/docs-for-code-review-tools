@@ -4,9 +4,8 @@ Issue: -
 
 ## Description
 
-Flags returning high or infinite `posts_per_page`.
+Using `posts_per_page` (or `numberposts`) with the value set to -1 or an unreasonably high number or setting `nopaging` to `true` opens up the potential for scaling issues if the query ends up querying thousands of posts.
 
 ## Further Reading
 
-* [WordPress.VIP.PostsPerPage](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#no-limit-queries)
-* [WordPress.VIP.PostsPerPage](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/VIP/PostsPerPageSniff.php)
+* [VIP Go](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#no-limit-queries)

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Restrict the use of various development functions.
+Restricts the use of various development functions.
 
 ## Further Reading
 

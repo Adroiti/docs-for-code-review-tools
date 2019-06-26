@@ -18,7 +18,7 @@ Check the following issues:
   be passed.
 - Wildcards for LIKE compare values should be passed in via a replacement parameter.
 
-The sniff allows for a specific pattern with a variable number of placeholders
+The rule allows for a specific pattern with a variable number of placeholders
 created using code along the lines of:
 `sprintf( 'query .... IN (%s) ...', implode( ',', array_fill( 0, count( $something ), '%s' ) ) )`.
 

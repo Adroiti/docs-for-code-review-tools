@@ -1,4 +1,4 @@
-Pattern: Invalid file name
+Pattern: Invalid WP file name
 
 Issue: -
 

@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Check for usage of deprecated parameter values in WP functions and provide alternative based on the parameter passed.
+Checks for usage of deprecated parameter values in WP functions and provide alternative based on the parameter passed.
 
 ## Further Reading
 

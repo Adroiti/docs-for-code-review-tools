@@ -1,4 +1,4 @@
-Pattern: Invalid function name
+Pattern: Invalid WP function name
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Invalid variable name
+Pattern: Invalid WP variable name
 
 Issue: -
 

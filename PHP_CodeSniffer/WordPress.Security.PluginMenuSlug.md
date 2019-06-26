@@ -4,9 +4,9 @@ Issue: -
 
 ## Description
 
-Warns about `__FILE__` for page registration.
+When adding menus or registering your plugins, make sure that you use an unique handle or slug other than `__FILE__` to ensure that you are not revealing system paths.
 
 ## Further Reading
 
-* [WordPress.Security.PluginMenuSlug](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#using-__file__-for-page-registration)
+* [VIP Go](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#using-__file__-for-page-registration)
 * [WordPress.Security.PluginMenuSlug](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/Security/PluginMenuSlugSniff.php)
