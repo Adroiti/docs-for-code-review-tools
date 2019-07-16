@@ -135,6 +135,6 @@ Include | db/migrate/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/ReversibleMigration](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsreversiblemigration)
+* [RuboCop - Rails/ReversibleMigration](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsreversiblemigration)
 * [https://github.com/bbatsov/rails-style-guide#reversible-migration](https://github.com/bbatsov/rails-style-guide#reversible-migration)
 * [http://api.rubyonrails.org/classes/ActiveRecord/Migration/CommandRecorder.html](http://api.rubyonrails.org/classes/ActiveRecord/Migration/CommandRecorder.html)

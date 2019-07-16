@@ -33,4 +33,4 @@ SupportedStyles | referer, referrer
 
 ## Further Reading
 
-* [RuboCop - Rails/RequestReferer](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsrequestreferer)
+* [RuboCop - Rails/RequestReferer](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsrequestreferer)

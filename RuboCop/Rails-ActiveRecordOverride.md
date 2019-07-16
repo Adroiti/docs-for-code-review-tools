@@ -35,4 +35,4 @@ Include | `app/models/**/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/ActiveRecordOverride](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsactiverecordoverride)
+* [RuboCop - Rails/ActiveRecordOverride](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsactiverecordoverride)

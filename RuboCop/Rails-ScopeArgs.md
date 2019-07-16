@@ -25,4 +25,4 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/ScopeArgs](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsscopeargs)
+* [RuboCop - Rails/ScopeArgs](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsscopeargs)

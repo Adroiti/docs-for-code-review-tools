@@ -43,4 +43,4 @@ Include | `app/controllers/**/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/IgnoredSkipActionFilterOption](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsignoredskipactionfilteroption)
+* [RuboCop - Rails/IgnoredSkipActionFilterOption](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsignoredskipactionfilteroption)

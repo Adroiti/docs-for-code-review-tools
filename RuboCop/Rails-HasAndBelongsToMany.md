@@ -14,5 +14,5 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/HasAndBelongsToMany](https://rubocop.readthedocs.io/en/latest/cops_rails/#railshasandbelongstomany)
+* [RuboCop - Rails/HasAndBelongsToMany](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railshasandbelongstomany)
 * [https://github.com/bbatsov/rails-style-guide#has-many-through](https://github.com/bbatsov/rails-style-guide#has-many-through)

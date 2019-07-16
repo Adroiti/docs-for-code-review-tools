@@ -18,4 +18,4 @@ Book.update!(author: 'Alice')
 
 ## Further Reading
 
-* [RuboCop - Rails/ActiveRecordAliases](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsactiverecordaliases)
+* [RuboCop - Rails/ActiveRecordAliases](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsactiverecordaliases)

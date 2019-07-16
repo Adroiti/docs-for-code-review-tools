@@ -26,4 +26,4 @@ Include | spec/\*\*/\*, test/\*\*/\*
 
 ## Further Reading
 
-* [RuboCop - Rails/HttpPositionalArguments](https://rubocop.readthedocs.io/en/latest/cops_rails/#railshttppositionalarguments)
+* [RuboCop - Rails/HttpPositionalArguments](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railshttppositionalarguments)

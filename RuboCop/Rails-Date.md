@@ -49,4 +49,4 @@ SupportedStyles | strict, flexible
 
 ## Further Reading
 
-* [RuboCop - Rails/Date](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsdate)
+* [RuboCop - Rails/Date](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsdate)

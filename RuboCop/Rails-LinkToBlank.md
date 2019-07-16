@@ -21,4 +21,4 @@ link_to 'Click here', url, target: '_blank', rel: 'noopener'
 
 ## Further Reading
 
-* [RuboCop - Rails/LinkToBlank](https://rubocop.readthedocs.io/en/latest/cops_rails/#railslinktoblank)
+* [RuboCop - Rails/LinkToBlank](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railslinktoblank)

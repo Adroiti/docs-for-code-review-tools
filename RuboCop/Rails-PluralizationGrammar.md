@@ -20,4 +20,4 @@ This rule checks for correct grammar when using ActiveSupport's core extensions 
 
 ## Further Reading
 
-* [RuboCop - Rails/PluralizationGrammar](https://rubocop.readthedocs.io/en/latest/cops_rails/#railspluralizationgrammar)
+* [RuboCop - Rails/PluralizationGrammar](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railspluralizationgrammar)

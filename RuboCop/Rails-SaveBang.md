@@ -41,5 +41,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/SaveBang](https://rubocop.readthedocs.io/en/latest/cops_rails/#railssavebang)
+* [RuboCop - Rails/SaveBang](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railssavebang)
 * [https://github.com/bbatsov/rails-style-guide#save-bang](https://github.com/bbatsov/rails-style-guide#save-bang)

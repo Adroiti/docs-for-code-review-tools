@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/ApplicationRecord](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsapplicationrecord)
+* [RuboCop - Rails/ApplicationRecord](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsapplicationrecord)

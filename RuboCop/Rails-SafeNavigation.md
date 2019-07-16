@@ -51,4 +51,4 @@ ConvertTry | false
 
 ## Further Reading
 
-* [RuboCop - Rails/SafeNavigation](https://rubocop.readthedocs.io/en/latest/cops_rails/#railssafenavigation)
+* [RuboCop - Rails/SafeNavigation](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railssafenavigation)

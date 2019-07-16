@@ -65,5 +65,5 @@ Include | `app/controllers/**/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/LexicallyScopedActionFilter](https://rubocop.readthedocs.io/en/latest/cops_rails/#railslexicallyscopedactionfilter)
+* [RuboCop - Rails/LexicallyScopedActionFilter](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railslexicallyscopedactionfilter)
 * [https://github.com/bbatsov/rails-style-guide#lexically-scoped-action-filter](https://github.com/bbatsov/rails-style-guide#lexically-scoped-action-filter)

@@ -24,4 +24,4 @@ Environments | `development`, `test`, `production`
 
 ## Further Reading
 
-* [RuboCop - Rails/UnknownEnv](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsunknownenv)
+* [RuboCop - Rails/UnknownEnv](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsunknownenv)

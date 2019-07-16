@@ -38,6 +38,6 @@ SupportedStyles | strict, flexible
 
 ## Further Reading
 
-* [RuboCop - Rails/TimeZone](https://rubocop.readthedocs.io/en/latest/cops_rails/#railstimezone)
+* [RuboCop - Rails/TimeZone](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railstimezone)
 * [https://github.com/bbatsov/rails-style-guide#time](https://github.com/bbatsov/rails-style-guide#time)
 * [http://danilenko.org/2012/7/6/rails_timezones](http://danilenko.org/2012/7/6/rails_timezones)

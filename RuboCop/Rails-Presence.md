@@ -43,4 +43,4 @@ a.presence || b
 
 ## Further Reading
 
-* [RuboCop - Rails/Presence](https://rubocop.readthedocs.io/en/latest/cops_rails/#railspresence)
+* [RuboCop - Rails/Presence](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railspresence)

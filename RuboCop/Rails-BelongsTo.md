@@ -54,4 +54,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/BelongsTo](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsbelongsto)
+* [RuboCop - Rails/BelongsTo](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsbelongsto)

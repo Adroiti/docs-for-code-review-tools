@@ -19,4 +19,4 @@ has_many :accounts, class_name: 'Account'
 
 ## Further Reading
 
-* [RuboCop - Rails/ReflectionClassName](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsreflectionclassname)
+* [RuboCop - Rails/ReflectionClassName](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsreflectionclassname)

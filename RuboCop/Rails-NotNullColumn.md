@@ -28,4 +28,4 @@ Include | db/migrate/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/NotNullColumn](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsnotnullcolumn)
+* [RuboCop - Rails/NotNullColumn](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsnotnullcolumn)

@@ -60,4 +60,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/RedundantReceiverInWithOptions](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsredundantreceiverinwithoptions)
+* [RuboCop - Rails/RedundantReceiverInWithOptions](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsredundantreceiverinwithoptions)

@@ -27,4 +27,4 @@ Exclude | lib/\*\*/\*.rake
 
 ## Further Reading
 
-* [RuboCop - Rails/Exit](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsexit)
+* [RuboCop - Rails/Exit](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsexit)

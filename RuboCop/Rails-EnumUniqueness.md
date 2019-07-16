@@ -30,4 +30,4 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/EnumUniqueness](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsenumuniqueness)
+* [RuboCop - Rails/EnumUniqueness](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsenumuniqueness)

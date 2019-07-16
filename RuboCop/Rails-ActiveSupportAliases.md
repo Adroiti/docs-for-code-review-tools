@@ -24,4 +24,4 @@ This rule checks that ActiveSupport aliases to core ruby methods are not used.
 
 ## Further Reading
 
-* [RuboCop - Rails/ActiveSupportAliases](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsactivesupportaliases)
+* [RuboCop - Rails/ActiveSupportAliases](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsactivesupportaliases)

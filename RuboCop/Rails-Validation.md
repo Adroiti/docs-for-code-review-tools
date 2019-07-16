@@ -14,4 +14,4 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/Validation](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsvalidation)
+* [RuboCop - Rails/Validation](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsvalidation)

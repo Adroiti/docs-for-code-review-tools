@@ -28,4 +28,4 @@ Include | `**/test/**/*`
 
 ## Further Reading
 
-* [RuboCop - Rails/RefuteMethods](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsrefutemethods)
+* [RuboCop - Rails/RefuteMethods](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsrefutemethods)

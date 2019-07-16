@@ -25,5 +25,5 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/FindBy](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsfindby)
+* [RuboCop - Rails/FindBy](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsfindby)
 * [https://github.com/bbatsov/rails-style-guide#find_by](https://github.com/bbatsov/rails-style-guide#find_by)

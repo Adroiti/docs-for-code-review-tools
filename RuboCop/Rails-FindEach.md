@@ -24,5 +24,5 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/FindEach](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsfindeach)
+* [RuboCop - Rails/FindEach](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsfindeach)
 * [https://github.com/bbatsov/rails-style-guide#find-each](https://github.com/bbatsov/rails-style-guide#find-each)

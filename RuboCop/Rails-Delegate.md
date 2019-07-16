@@ -65,4 +65,4 @@ EnforceForPrefixed | true
 
 ## Further Reading
 
-* [RuboCop - Rails/Delegate](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsdelegate)
+* [RuboCop - Rails/Delegate](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsdelegate)

@@ -21,4 +21,4 @@ Rails.env.production?
 
 ## Further Reading
 
-* [RuboCop - Rails/EnvironmentComparison](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsenvironmentcomparison)
+* [RuboCop - Rails/EnvironmentComparison](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsenvironmentcomparison)

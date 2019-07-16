@@ -36,5 +36,5 @@ Whitelist | find_by_sql
 
 ## Further Reading
 
-* [RuboCop - Rails/DynamicFindBy](https://rubocop.readthedocs.io/en/latest/cops_rails/#railsdynamicfindby)
+* [RuboCop - Rails/DynamicFindBy](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsdynamicfindby)
 * [https://github.com/bbatsov/rails-style-guide#find_by](https://github.com/bbatsov/rails-style-guide#find_by)
