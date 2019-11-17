@@ -9,8 +9,8 @@ Issue: -
 Example of **incorrect** code:
 
 ```kotlin
-config.apply { version = "1.2" } // can be replaced with `config.version = "1.2"`
-config?.apply { environment = "test" } // can be replaced with `config?.environment = "test"`
+config.apply { version = "1.2" } // can be replaced with config.version = "1.2"
+config?.apply { environment = "test" } // can be replaced with config?.environment = "test"
 ```
 
 Example of **correct** code:

@@ -18,7 +18,7 @@ loop@ for (r in range) {
 class Outer {
     inner class Inner {
         fun f() {
-            val i = this@Inner // referencing itself, use `this instead
+            val i = this@Inner // referencing itself, use this instead
         }
     }
 }
