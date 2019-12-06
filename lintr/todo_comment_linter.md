@@ -9,16 +9,16 @@ Developers often add comments to code which is not complete or needs review. Mos
 Example of **incorrect** code:
 
 ```r
-// FIXME: this is not a good idea
-// TODO: need code review
+# FIXME: this is not a good idea
+# TODO: need code review
 arrange(value)
 ```
 
 Example of **correct** code:
 
 ```r
-// NOT READY FOR PRIME TIME
-// but too bad, it is not a predefined warning term
+# NOT READY FOR PRIME TIME
+# but too bad, it is not a predefined warning term
 arrange(value)
 ```
 
