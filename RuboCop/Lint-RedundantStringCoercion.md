@@ -1,4 +1,4 @@
-Pattern: Redundant string conversion in interpolation
+Pattern: Redundant string coercion
 
 Issue: -
 
@@ -21,5 +21,5 @@ This rule checks for string conversion in string interpolation, which is redunda
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantStringConversionInInterpolation](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantstringconversionininterpolation)
+* [RuboCop - Lint/RedundantStringCoercion](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantstringcoercion)
 * [https://github.com/bbatsov/ruby-style-guide#no-to-s](https://github.com/bbatsov/ruby-style-guide#no-to-s)

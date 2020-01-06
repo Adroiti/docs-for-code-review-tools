@@ -21,4 +21,4 @@ hash = { food: 'apple', other_food: 'orange' }
 
 ## Further Reading
 
-* [RuboCop - Lint/DuplicateKey](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintduplicatekey)
+* [RuboCop - Lint/DuplicateHashKey](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintduplicatehashkey)
