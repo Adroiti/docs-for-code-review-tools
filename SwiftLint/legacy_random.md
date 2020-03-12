@@ -32,4 +32,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Legacy Random](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-random)
+* [SwiftLint - Legacy Random](https://realm.github.io/SwiftLint/legacy_random.html)

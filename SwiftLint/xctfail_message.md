@@ -34,4 +34,4 @@ func testFoo() {
 
 ## Further Reading
 
-* [SwiftLint - XCTFail Message](https://github.com/realm/SwiftLint/blob/master/Rules.md#xctfail-message)
+* [SwiftLint - XCTFail Message](https://realm.github.io/SwiftLint/xctfail_message.html)

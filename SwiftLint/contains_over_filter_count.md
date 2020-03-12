@@ -79,4 +79,4 @@ let result = ↓myList.filter(where: someFunction).count != 0
 
 ## Further Reading
 
-* [SwiftLint - Contains Over Filter Count](https://github.com/realm/SwiftLint/blob/master/Rules.md#contains-over-filter-count)
+* [SwiftLint - Contains Over Filter Count](https://realm.github.io/SwiftLint/contains_over_filter_count.html)

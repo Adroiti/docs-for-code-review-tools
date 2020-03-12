@@ -1,12 +1,12 @@
 Pattern: Assigning variable through tuple pattern
 
-Issue: -
+Issue: _
 
 ## Description
 
-Assigning variables through a tuple pattern (sometimes referred to as a tuple shuffle) is only permitted if the left-hand side of the assignment is unlabeled.
+Assigning variables through a tuple pattern (sometimes referred to as a tuple shuffle) is only permitted if the left_hand side of the assignment is unlabeled.
 
-Labels on the left-hand side closely resemble type annotations, and can lead to confusing code.
+Labels on the left_hand side closely resemble type annotations, and can lead to confusing code.
 
 Examples of **correct** code:
 ```swift

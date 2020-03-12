@@ -32,4 +32,4 @@ let isObjc = !objcAttributes.↓intersection(dictionary.enclosedSwiftAttributes)
 
 ## Further Reading
 
-* [SwiftLint - Is Disjoint](https://github.com/realm/SwiftLint/blob/master/Rules.md#is-disjoint)
+* [SwiftLint - Is Disjoint](https://realm.github.io/SwiftLint/is_disjoint.html)

@@ -67,4 +67,4 @@ let foo = ["אבג", "αβγ", "🇺🇸"↓,]
 
 ## Further Reading
 
-* [SwiftLint - Trailing Comma](https://github.com/realm/SwiftLint/blob/master/Rules.md#trailing-comma)
+* [SwiftLint - Trailing Comma](https://realm.github.io/SwiftLint/trailing_comma.html)

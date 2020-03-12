@@ -72,4 +72,4 @@ do {
 
 ## Further Reading
 
-* [SwiftLint - Untyped Error in Catch](https://github.com/realm/SwiftLint/blob/master/Rules.md#untyped-error-in-catch)
+* [SwiftLint - Untyped Error in Catch](https://realm.github.io/SwiftLint/untyped_error_in_catch.html)

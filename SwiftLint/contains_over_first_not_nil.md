@@ -35,4 +35,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Contains over first not nil](https://github.com/realm/SwiftLint/blob/master/Rules.md#contains-over-first-not-nil)
+* [SwiftLint - Contains over first not nil](https://realm.github.io/SwiftLint/contains_over_first_not_nil.html)

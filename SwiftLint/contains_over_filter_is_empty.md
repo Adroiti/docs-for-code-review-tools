@@ -55,4 +55,4 @@ let result = ↓myList.filter(where: someFunction).isEmpty
 
 ## Further Reading
 
-* [SwiftLint - Contains Over Filter Is Empty](https://github.com/realm/SwiftLint/blob/master/Rules.md#contains-over-filter-is-empty)
+* [SwiftLint - Contains Over Filter Is Empty](https://realm.github.io/SwiftLint/contains_over_filter_is_empty.html)

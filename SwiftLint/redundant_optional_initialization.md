@@ -62,4 +62,4 @@ var myVar: Optional<Int>↓=nil
 
 ## Further Reading
 
-* [SwiftLint - Redundant Optional Initialization](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-optional-initialization)
+* [SwiftLint - Redundant Optional Initialization](https://realm.github.io/SwiftLint/redundant_optional_initialization.html)

@@ -44,4 +44,4 @@ foo { [bar, ↓unowned self] in _ }
 
 ## Further Reading
 
-* [SwiftLint - Unowned Variable Capture](https://github.com/realm/SwiftLint/blob/master/Rules.md#unowned-variable-capture)
+* [SwiftLint - Unowned Variable Capture](https://realm.github.io/SwiftLint/unowned_variable_capture.html)

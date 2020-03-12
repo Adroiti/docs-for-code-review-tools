@@ -64,4 +64,4 @@ struct Inter {
 
 ## Further Reading
 
-* [SwiftLint - Strict fileprivate](https://github.com/realm/SwiftLint/blob/master/Rules.md#strict-fileprivate)
+* [SwiftLint - Strict fileprivate](https://realm.github.io/SwiftLint/strict_fileprivate.html)

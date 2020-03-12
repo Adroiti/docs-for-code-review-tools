@@ -60,4 +60,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Conditional Returns on Newline](https://github.com/realm/SwiftLint/blob/master/Rules.md#conditional-returns-on-newline)
+* [SwiftLint - Conditional Returns on Newline](https://realm.github.io/SwiftLint/conditional_returns_on_newline.html)

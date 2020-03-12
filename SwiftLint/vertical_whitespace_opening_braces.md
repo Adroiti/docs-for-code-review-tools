@@ -164,4 +164,4 @@ struct MyStruct {
 
 ## Further Reading
 
-* [SwiftLint - Vertical Whitespace after Opening Braces](https://github.com/realm/SwiftLint/blob/master/Rules.md#vertical-whitespace-after-opening-braces)
+* [SwiftLint - Vertical Whitespace after Opening Braces](https://realm.github.io/SwiftLint/vertical_whitespace_opening_braces.html)

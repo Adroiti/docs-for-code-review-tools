@@ -95,4 +95,4 @@ class Foo {
 ## Further Reading
 
 * [Apple Developer - Render and inspect your custom views](https://help.apple.com/xcode/mac/8.0/#/devf60c1c514)
-* [SwiftLint - Valid IBInspectable](https://github.com/realm/SwiftLint/blob/master/Rules.md#valid-ibinspectable)
+* [SwiftLint - Valid IBInspectable](https://realm.github.io/SwiftLint/valid_ibinspectable.html)

@@ -79,4 +79,4 @@ func b() {}
 
 ## Further Reading
 
-* [SwiftLint - Explicit ACL](https://github.com/realm/SwiftLint/blob/master/Rules.md#explicit-acl)
+* [SwiftLint - Explicit ACL](https://realm.github.io/SwiftLint/explicit_acl.html)

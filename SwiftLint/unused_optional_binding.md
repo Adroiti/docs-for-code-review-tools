@@ -74,4 +74,4 @@ if case .some(let ↓_) = self {}
 
 ## Further Reading
 
-* [SwiftLint - Unused Optional Binding](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-optional-binding)
+* [SwiftLint - Unused Optional Binding](https://realm.github.io/SwiftLint/unused_optional_binding.html)

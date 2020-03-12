@@ -49,4 +49,4 @@ class Foo {
 
 ## Further Reading
 
-* [SwiftLint - Private Outlets](https://github.com/realm/SwiftLint/blob/master/Rules.md#private-outlets)
+* [SwiftLint - Private Outlets](https://realm.github.io/SwiftLint/private_outlets.html)

@@ -36,4 +36,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Discarded Notification Center Observer](https://github.com/realm/SwiftLint/blob/master/Rules.md#discarded-notification-center-observer)
+* [SwiftLint - Discarded Notification Center Observer](https://realm.github.io/SwiftLint/discarded_notification_center_observer.html)

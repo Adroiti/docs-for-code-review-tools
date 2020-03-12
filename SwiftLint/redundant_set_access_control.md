@@ -58,4 +58,4 @@ fileprivate class A {
 
 ## Further Reading
 
-* [SwiftLint - Redundant Set Access Control Rule](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-set-access-control-rule)
+* [SwiftLint - Redundant Set Access Control Rule](https://realm.github.io/SwiftLint/redundant_set_access_control_rule.html)

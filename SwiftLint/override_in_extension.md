@@ -53,4 +53,4 @@ extension Person {
 
 ## Further Reading
 
-* [SwiftLint - Override in Extension](https://github.com/realm/SwiftLint/blob/master/Rules.md#override-in-extension)
+* [SwiftLint - Override in Extension](https://realm.github.io/SwiftLint/override_in_extension.html)

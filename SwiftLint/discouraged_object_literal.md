@@ -38,4 +38,4 @@ let color = ↓#colorLiteral(red: 0.9607843161, green: 0.7058823705, blue: 0.200
 
 ## Further Reading
 
-* [SwiftLint - Discouraged Object Literal](https://github.com/realm/SwiftLint/blob/master/Rules.md#discouraged-object-literal)
+* [SwiftLint - Discouraged Object Literal](https://realm.github.io/SwiftLint/discouraged_object_literal.html)

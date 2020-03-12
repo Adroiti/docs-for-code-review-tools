@@ -35,4 +35,4 @@ protocol SomeClassOnlyProtocol: ↓class, SomeInheritedProtocol {}
 
 ## Further Reading
 
-* [SwiftLint - AnyObject Protocol](https://github.com/realm/SwiftLint/blob/master/Rules.md#anyobject-protocol)
+* [SwiftLint - AnyObject Protocol](https://realm.github.io/SwiftLint/anyobject_protocol.html)

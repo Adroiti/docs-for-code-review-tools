@@ -63,4 +63,4 @@ protocol Foo {
 
 ## Further Reading
 
-* [SwiftLint - Redundant Void Return](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-void-return)
+* [SwiftLint - Redundant Void Return](https://realm.github.io/SwiftLint/redundant_void_return.html)

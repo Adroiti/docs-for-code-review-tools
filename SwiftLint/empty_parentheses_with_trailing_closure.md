@@ -54,4 +54,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Empty Parentheses with Trailing Closure](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-parentheses-with-trailing-closure)
+* [SwiftLint - Empty Parentheses with Trailing Closure](https://realm.github.io/SwiftLint/empty_parentheses_with_trailing_closure.html)

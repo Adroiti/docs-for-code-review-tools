@@ -64,4 +64,4 @@ switch foo {
 
 ## Further Reading
 
-* [SwiftLint - Empty Enum Arguments](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-enum-arguments)
+* [SwiftLint - Empty Enum Arguments](https://realm.github.io/SwiftLint/empty_enum_arguments.html)

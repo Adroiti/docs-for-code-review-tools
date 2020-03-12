@@ -55,4 +55,4 @@ object.foo↓     ()
 
 ## Further Reading
 
-* [SwiftLint - No Space in Method Call](https://github.com/realm/SwiftLint/blob/master/Rules.md#no-space-in-method-call)
+* [SwiftLint - No Space in Method Call](https://realm.github.io/SwiftLint/no_space_in_method_call.html)

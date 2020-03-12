@@ -52,4 +52,4 @@ public let b: Int
 
 ## Further Reading
 
-* [SwiftLint - Missing Docs](https://github.com/realm/SwiftLint/blob/master/Rules.md#missing-docs)
+* [SwiftLint - Missing Docs](https://realm.github.io/SwiftLint/missing_docs.html)

@@ -35,4 +35,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Contains over range(of:) comparison to nil](https://github.com/realm/SwiftLint/blob/master/Rules.md#contains-over-range(of:)-comparison-to-nil)
+* [SwiftLint - Contains over range(of:) comparison to nil](https://realm.github.io/SwiftLint/contains_over_range(of:)_comparison_to_nil.html)

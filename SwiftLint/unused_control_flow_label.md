@@ -70,4 +70,4 @@ default: break
 
 ## Further Reading
 
-* [SwiftLint - Unused Control Flow Label](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-control-flow-label)
+* [SwiftLint - Unused Control Flow Label](https://realm.github.io/SwiftLint/unused_control_flow_label.html)

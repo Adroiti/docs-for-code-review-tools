@@ -54,4 +54,4 @@ dynamic
 
 ## Further Reading
 
-* [SwiftLint - Dynamic Inline](https://github.com/realm/SwiftLint/blob/master/Rules.md#dynamic-inline)
+* [SwiftLint - Dynamic Inline](https://realm.github.io/SwiftLint/dynamic_inline.html)

@@ -35,4 +35,4 @@ let name: String
 
 ## Further Reading
 
-* [SwiftLint - Trailing Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#trailing-whitespace)
+* [SwiftLint - Trailing Whitespace](https://realm.github.io/SwiftLint/trailing_whitespace.html)

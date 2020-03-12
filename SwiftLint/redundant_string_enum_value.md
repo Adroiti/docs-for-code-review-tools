@@ -59,4 +59,4 @@ enum Numbers: String {
 
 ## Further Reading
 
-* [SwiftLint - Redundant String Enum Value](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-string-enum-value)
+* [SwiftLint - Redundant String Enum Value](https://realm.github.io/SwiftLint/redundant_string_enum_value.html)

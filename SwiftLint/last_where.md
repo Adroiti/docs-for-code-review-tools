@@ -51,4 +51,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Last Where](https://github.com/realm/SwiftLint/blob/master/Rules.md#last-where)
+* [SwiftLint - Last Where](https://realm.github.io/SwiftLint/last_where.html)

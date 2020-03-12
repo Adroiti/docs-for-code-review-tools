@@ -74,4 +74,4 @@ class Foo: Hashable {
 
 ## Further Reading
 
-* [SwiftLint - Legacy Hashing](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-hashing)
+* [SwiftLint - Legacy Hashing](https://realm.github.io/SwiftLint/legacy_hashing.html)

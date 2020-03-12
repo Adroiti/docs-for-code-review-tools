@@ -84,4 +84,4 @@ let x: ↓Swift.Optional<String>
 
 ## Further Reading
 
-* [SwiftLint - Syntactic Sugar](https://github.com/realm/SwiftLint/blob/master/Rules.md#syntactic-sugar)
+* [SwiftLint - Syntactic Sugar](https://realm.github.io/SwiftLint/syntactic_sugar.html)

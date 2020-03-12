@@ -38,4 +38,4 @@ class Foo {
 ## Further Reading
 
 * [Big Nerd Ranch - Over-aggressive Unregistration](https://www.bignerdranch.com/blog/notifications-part-3-gotchas/#over-aggressive-unregistration)
-* [SwiftLint - Notification Center Detachment](https://github.com/realm/SwiftLint/blob/master/Rules.md#notification-center-detachment)
+* [SwiftLint - Notification Center Detachment](https://realm.github.io/SwiftLint/notification_center_detachment.html)

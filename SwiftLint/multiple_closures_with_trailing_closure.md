@@ -43,4 +43,4 @@ UIView.animate(withDuration: 1.0, animations: {
 
 ## Further Reading
 
-* [SwiftLint - Multiple Closures with Trailing Closure](https://github.com/realm/SwiftLint/blob/master/Rules.md#multiple-closures-with-trailing-closure)
+* [SwiftLint - Multiple Closures with Trailing Closure](https://realm.github.io/SwiftLint/multiple_closures_with_trailing_closure.html)

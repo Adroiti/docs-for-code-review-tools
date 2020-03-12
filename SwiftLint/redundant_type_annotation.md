@@ -45,4 +45,4 @@ class ViewController: UIViewController {
 
 ## Further Reading
 
-* [SwiftLint - Redundant Type Annotation](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-type-annotation)
+* [SwiftLint - Redundant Type Annotation](https://realm.github.io/SwiftLint/redundant_type_annotation.html)

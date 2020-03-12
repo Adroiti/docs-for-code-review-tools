@@ -27,4 +27,4 @@ let set = ↓Set.init(arrayLiteral: 1, 2)
 ## Further Reading
 
 * [Apple Developer - init(arrayLiteral:)](https://developer.apple.com/documentation/swift/set/1539368-init)
-* [SwiftLint - Compiler Protocol Init](https://github.com/realm/SwiftLint/blob/master/Rules.md#compiler-protocol-init)
+* [SwiftLint - Compiler Protocol Init](https://realm.github.io/SwiftLint/compiler_protocol_init.html)

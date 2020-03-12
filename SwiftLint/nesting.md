@@ -89,4 +89,4 @@ func func4() { func func5() {
 
 ## Further Reading
 
-* [SwiftLint - Nesting](https://github.com/realm/SwiftLint/blob/master/Rules.md#nesting)
+* [SwiftLint - Nesting](https://realm.github.io/SwiftLint/nesting.html)

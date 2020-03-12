@@ -33,4 +33,4 @@ let a = 0↓; ; ;
 
 ## Further Reading
 
-* [SwiftLint - Trailing Semicolon](https://github.com/realm/SwiftLint/blob/master/Rules.md#trailing-semicolon)
+* [SwiftLint - Trailing Semicolon](https://realm.github.io/SwiftLint/trailing_semicolon.html)

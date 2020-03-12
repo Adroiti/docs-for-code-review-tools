@@ -59,4 +59,4 @@ protocol Foo {
 
 ## Further Reading
 
-* [SwiftLint - Multiline Parameters](https://github.com/realm/SwiftLint/blob/master/Rules.md#multiline-parameters)
+* [SwiftLint - Multiline Parameters](https://realm.github.io/SwiftLint/multiline_parameters.html)

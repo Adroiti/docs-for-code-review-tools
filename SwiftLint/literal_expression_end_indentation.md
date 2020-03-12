@@ -70,4 +70,4 @@ let x = [
 
 ## Further Reading
 
-* [SwiftLint - Literal Expression End Indentation](https://github.com/realm/SwiftLint/blob/master/Rules.md#literal-expression-end-indentation)
+* [SwiftLint - Literal Expression End Indentation](https://realm.github.io/SwiftLint/literal_expression_end_indentation.html)

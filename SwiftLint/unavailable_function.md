@@ -49,4 +49,4 @@ class ViewController: UIViewController {
 
 ## Further Reading
 
-* [SwiftLint - Unavailable Function](https://github.com/realm/SwiftLint/blob/master/Rules.md#unavailable-function)
+* [SwiftLint - Unavailable Function](https://realm.github.io/SwiftLint/unavailable_function.html)

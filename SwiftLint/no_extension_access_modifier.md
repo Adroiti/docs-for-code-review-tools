@@ -36,4 +36,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - No Extension Access Modifier](https://github.com/realm/SwiftLint/blob/master/Rules.md#no-extension-access-modifier)
+* [SwiftLint - No Extension Access Modifier](https://realm.github.io/SwiftLint/no_extension_access_modifier.html)

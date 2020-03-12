@@ -71,4 +71,4 @@ class Outer {
 
 ## Further Reading
 
-* [SwiftLint - Required Deinit](https://github.com/realm/SwiftLint/blob/master/Rules.md#required-deinit)
+* [SwiftLint - Required Deinit](https://realm.github.io/SwiftLint/required_deinit.html)

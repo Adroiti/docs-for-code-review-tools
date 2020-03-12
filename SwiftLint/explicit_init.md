@@ -35,4 +35,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Explicit Init](https://github.com/realm/SwiftLint/blob/master/Rules.md#explicit-init)
+* [SwiftLint - Explicit Init](https://realm.github.io/SwiftLint/explicit_init.html)

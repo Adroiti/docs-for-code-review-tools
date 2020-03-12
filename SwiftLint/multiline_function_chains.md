@@ -95,4 +95,4 @@ a.b {
 
 ## Further Reading
 
-* [SwiftLint - Multiline Function Chains](https://github.com/realm/SwiftLint/blob/master/Rules.md#multiline-function-chains)
+* [SwiftLint - Multiline Function Chains](https://realm.github.io/SwiftLint/multiline_function_chains.html)

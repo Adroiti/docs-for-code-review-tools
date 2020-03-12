@@ -156,4 +156,4 @@ case "abc":
 
 ## Further Reading
 
-* [SwiftLint - No Fallthrough Only](https://github.com/realm/SwiftLint/blob/master/Rules.md#no-fallthrough-only)
+* [SwiftLint - No Fallthrough Only](https://realm.github.io/SwiftLint/no_fallthrough_only.html)

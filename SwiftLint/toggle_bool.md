@@ -38,4 +38,4 @@ func foo() { ↓abc = !abc }
 
 ## Further Reading
 
-* [SwiftLint - Toggle Bool](https://github.com/realm/SwiftLint/blob/master/Rules.md#toggle-bool)
+* [SwiftLint - Toggle Bool](https://realm.github.io/SwiftLint/toggle_bool.html)

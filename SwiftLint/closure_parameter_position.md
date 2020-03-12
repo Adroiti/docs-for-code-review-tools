@@ -108,4 +108,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Closure Parameter Position](https://github.com/realm/SwiftLint/blob/master/Rules.md#closure-parameter-position)
+* [SwiftLint - Closure Parameter Position](https://realm.github.io/SwiftLint/closure_parameter_position.html)

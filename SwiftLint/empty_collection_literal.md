@@ -52,4 +52,4 @@ myDict↓ == [ : ]
 
 ## Further Reading
 
-* [SwiftLint - Empty Collection Literal](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-collection-literal)
+* [SwiftLint - Empty Collection Literal](https://realm.github.io/SwiftLint/empty_collection_literal.html)

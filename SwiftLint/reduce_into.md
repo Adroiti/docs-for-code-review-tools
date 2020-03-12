@@ -92,4 +92,4 @@ let bar = values.↓reduce([Int](repeating: 0, count: 10)) { result, value in
 
 ## Further Reading
 
-* [SwiftLint - Reduce Into](https://github.com/realm/SwiftLint/blob/master/Rules.md#reduce-into)
+* [SwiftLint - Reduce Into](https://realm.github.io/SwiftLint/reduce_into.html)

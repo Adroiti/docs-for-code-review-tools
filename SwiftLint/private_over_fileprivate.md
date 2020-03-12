@@ -61,4 +61,4 @@ fileprivate(set) var myInt = 4
 
 ## Further Reading
 
-* [SwiftLint - Private over fileprivate](https://github.com/realm/SwiftLint/blob/master/Rules.md#private-over-fileprivate)
+* [SwiftLint - Private over fileprivate](https://realm.github.io/SwiftLint/private_over_fileprivate.html)

@@ -34,4 +34,4 @@ class ViewController: UIViewController {
 
 ## Further Reading
 
-* [SwiftLint - Prohibited Interface Builder](https://github.com/realm/SwiftLint/blob/master/Rules.md#prohibited-interface-builder)
+* [SwiftLint - Prohibited Interface Builder](https://realm.github.io/SwiftLint/prohibited_interface_builder.html)

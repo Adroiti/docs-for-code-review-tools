@@ -91,4 +91,4 @@ extension MarkTest {}
 ## Further Reading
 
 * [Stackoverflow - Swift: Understanding // MARK](https://stackoverflow.com/questions/35963128/swift-understanding-mark)
-* [SwiftLint - Mark](https://github.com/realm/SwiftLint/blob/master/Rules.md#mark)
+* [SwiftLint - Mark](https://realm.github.io/SwiftLint/mark.html)

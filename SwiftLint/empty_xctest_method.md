@@ -63,4 +63,4 @@ class TotoTests: XCTestCase {
 
 ## Further Reading
 
-* [SwiftLint - Empty XCTest Method](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-xctest-method)
+* [SwiftLint - Empty XCTest Method](https://realm.github.io/SwiftLint/empty_xctest_method.html)

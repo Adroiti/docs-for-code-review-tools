@@ -109,4 +109,4 @@ y:6
 
 ## Further Reading
 
-* [SwiftLint - Vertical Whitespace before Closing Braces](https://github.com/realm/SwiftLint/blob/master/Rules.md#vertical-whitespace-before-closing-braces)
+* [SwiftLint - Vertical Whitespace Closing Braces](https://realm.github.io/SwiftLint/vertical_whitespace_closing_braces.html)

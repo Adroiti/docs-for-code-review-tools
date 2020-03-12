@@ -56,4 +56,4 @@ class Foo { public private(set) var bar: String? }
 
 ## Further Reading
 
-* [SwiftLint - Lower ACL than parent](https://github.com/realm/SwiftLint/blob/master/Rules.md#lower-acl-than-parent)
+* [SwiftLint - Lower ACL than parent](https://realm.github.io/SwiftLint/lower_acl_than_parent.html)

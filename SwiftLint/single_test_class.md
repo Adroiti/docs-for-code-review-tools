@@ -50,4 +50,4 @@ class TotoTests {  }
 
 ## Further Reading
 
-* [SwiftLint - Single Test Class](https://github.com/realm/SwiftLint/blob/master/Rules.md#single-test-class)
+* [SwiftLint - Single Test Class](https://realm.github.io/SwiftLint/single_test_class.html)

@@ -36,4 +36,4 @@ enum PictureImport {
 
 ## Further Reading
 
-* [SwiftLint - Duplicate Enum Cases](https://github.com/realm/SwiftLint/blob/master/Rules.md#duplicate-enum-cases)
+* [SwiftLint - Duplicate Enum Cases](https://realm.github.io/SwiftLint/duplicate_enum_cases.html)

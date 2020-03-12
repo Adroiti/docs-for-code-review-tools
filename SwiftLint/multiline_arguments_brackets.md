@@ -72,4 +72,4 @@ foo(
 
 ## Further Reading
 
-* [SwiftLint - Multiline Arguments Brackets](https://github.com/realm/SwiftLint/blob/master/Rules.md#multiline-arguments-brackets)
+* [SwiftLint - Multiline Arguments Brackets](https://realm.github.io/SwiftLint/multiline_arguments_brackets.html)

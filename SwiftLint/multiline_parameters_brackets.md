@@ -84,4 +84,4 @@ func foo<T>(↓param1: T, param2: String,
 
 ## Further Reading
 
-* [SwiftLint - Multiline Parameters Brackets](https://github.com/realm/SwiftLint/blob/master/Rules.md#multiline-parameters-brackets)
+* [SwiftLint - Multiline Parameters Brackets](https://realm.github.io/SwiftLint/multiline_parameters_brackets.html)

@@ -97,4 +97,4 @@ open var computed: String { return foo.bar↓! }
 
 ## Further Reading
 
-* [SwiftLint - Force Unwrapping](https://github.com/realm/SwiftLint/blob/master/Rules.md#force-unwrapping)
+* [SwiftLint - Force Unwrapping](https://realm.github.io/SwiftLint/force_unwrapping.html)

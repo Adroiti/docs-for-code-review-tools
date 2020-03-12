@@ -76,4 +76,4 @@ public class FooTest: XCTestCase { func test1() {}
 
 ## Further Reading
 
-* [SwiftLint - Private Unit Test](https://github.com/realm/SwiftLint/blob/master/Rules.md#private-unit-test)
+* [SwiftLint - Private Unit Test](https://realm.github.io/SwiftLint/private_unit_test.html)

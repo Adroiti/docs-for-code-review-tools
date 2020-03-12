@@ -75,4 +75,4 @@ class Foo {
 
 ## Further Reading
 
-* [SwiftLint - Weak Delegate](https://github.com/realm/SwiftLint/blob/master/Rules.md#weak-delegate)
+* [SwiftLint - Weak Delegate](https://realm.github.io/SwiftLint/weak_delegate.html)

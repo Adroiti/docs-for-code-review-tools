@@ -75,4 +75,4 @@ withEnvironment(apiService: MockService(fetchProjectResponse: project)) { [↓fo
 
 ## Further Reading
 
-* [SwiftLint - Unused Capture List](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-capture-list)
+* [SwiftLint - Unused Capture List](https://realm.github.io/SwiftLint/unused_capture_list.html)

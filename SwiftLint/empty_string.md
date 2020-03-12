@@ -26,4 +26,4 @@ myString↓ != ""
 
 ## Further Reading
 
-* [SwiftLint - Empty String](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-string)
+* [SwiftLint - Empty String](https://realm.github.io/SwiftLint/empty_string.html)

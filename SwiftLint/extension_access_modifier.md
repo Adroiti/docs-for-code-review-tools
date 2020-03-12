@@ -73,4 +73,4 @@ public extension Foo {
 
 ## Further Reading
 
-* [SwiftLint - Extension Access Modifier](https://github.com/realm/SwiftLint/blob/master/Rules.md#extension-access-modifier)
+* [SwiftLint - Extension Access Modifier](https://realm.github.io/SwiftLint/extension_access_modifier.html)

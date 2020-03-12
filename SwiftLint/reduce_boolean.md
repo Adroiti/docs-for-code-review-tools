@@ -46,4 +46,4 @@ let anyValid = validators.↓reduce(false, { $0 || $1(input) })
 
 ## Further Reading
 
-* [SwiftLint - Reduce Boolean](https://github.com/realm/SwiftLint/blob/master/Rules.md#reduce-boolean)
+* [SwiftLint - Reduce Boolean](https://realm.github.io/SwiftLint/reduce_boolean.html)

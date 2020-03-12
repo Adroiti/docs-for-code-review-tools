@@ -8,4 +8,4 @@ Create custom rules by providing a regex string. Optionally specify what syntax 
 
 ## Further Reading
 
-* [SwiftLint - Custom Rules](https://github.com/realm/SwiftLint/blob/master/Rules.md#custom-rules)
+* [SwiftLint - Custom Rules](https://realm.github.io/SwiftLint/custom_rules.html)

@@ -26,4 +26,4 @@ let foo = ↓bar.map { $0.array }.reduce([], +)
 
 ## Further Reading
 
-* [SwiftLint - FlatMap over map and reduce](https://github.com/realm/SwiftLint/blob/master/Rules.md#flatmap-over-map-and-reduce)
+* [SwiftLint - FlatMap over map and reduce](https://realm.github.io/SwiftLint/flatmap_over_map_and_reduce.html)

@@ -35,4 +35,4 @@ if _ = foo() { ↓let _ = bar() }
 
 ## Further Reading
 
-* [SwiftLint - Redundant Discardable Let](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-discardable-let)
+* [SwiftLint - Redundant Discardable Let](https://realm.github.io/SwiftLint/redundant_discardable_let.html)

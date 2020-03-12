@@ -56,4 +56,4 @@ let foo: (ConfigurationTests) -> () throws -> ↓())
 
 ## Further Reading
 
-* [SwiftLint - Void Return](https://github.com/realm/SwiftLint/blob/master/Rules.md#void-return)
+* [SwiftLint - Void Return](https://realm.github.io/SwiftLint/void_return.html)

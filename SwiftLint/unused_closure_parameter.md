@@ -103,4 +103,4 @@ fooFunc { ↓아 in
 
 ## Further Reading
 
-* [SwiftLint - Unused Closure Parameter](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-closure-parameter)
+* [SwiftLint - Unused Closure Parameter](https://realm.github.io/SwiftLint/unused_closure_parameter.html)

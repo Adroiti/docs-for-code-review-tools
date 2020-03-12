@@ -41,4 +41,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Operator Function Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#operator-function-whitespace)
+* [SwiftLint - Operator Function Whitespace](https://realm.github.io/SwiftLint/operator_function_whitespace.html)

@@ -38,4 +38,4 @@ filter ↓{ sorted ↓{ $0 < $1}}
 
 ## Further Reading
 
-* [SwiftLint - Closure Spacing](https://github.com/realm/SwiftLint/blob/master/Rules.md#closure-spacing)
+* [SwiftLint - Closure Spacing](https://realm.github.io/SwiftLint/closure_spacing.html)

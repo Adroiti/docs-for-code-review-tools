@@ -150,4 +150,4 @@ switch foo {
 
 ## Further Reading
 
-* [SwiftLint - Switch Case on Newline](https://github.com/realm/SwiftLint/blob/master/Rules.md#switch-case-on-newline)
+* [SwiftLint - Switch Case on Newline](https://realm.github.io/SwiftLint/switch_case_on_newline.html)

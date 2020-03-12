@@ -230,4 +230,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - XCTest Specific Matcher](https://github.com/realm/SwiftLint/blob/master/Rules.md#xctest-specific-matcher)
+* [SwiftLint - XCTest Specific Matcher](https://realm.github.io/SwiftLint/xct_specific_matcher.html)

@@ -56,4 +56,4 @@ class Foo {
 
 ## Further Reading
 
-* [SwiftLint - Explicit Type Interface](https://github.com/realm/SwiftLint/blob/master/Rules.md#explicit-type-interface)
+* [SwiftLint - Explicit Type Interface](https://realm.github.io/SwiftLint/explicit_type_interface.html)

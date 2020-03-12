@@ -206,4 +206,4 @@ extension TestViewController: UITableViewDataSource {
 
 ## Further Reading
 
-* [SwiftLint - File Types Order](https://github.com/realm/SwiftLint/blob/master/Rules.md#file-types-order)
+* [SwiftLint - File Types Order](https://realm.github.io/SwiftLint/file_types_order.html)

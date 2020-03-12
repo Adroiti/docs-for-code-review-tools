@@ -85,4 +85,4 @@ class TotoTests: QuickSpec {
 
 ## Further Reading
 
-* [SwiftLint - Quick Discouraged Focused Test](https://github.com/realm/SwiftLint/blob/master/Rules.md#quick-discouraged-focused-test)
+* [SwiftLint - Quick Discouraged Focused Test](https://realm.github.io/SwiftLint/quick_discouraged_focused_test.html)

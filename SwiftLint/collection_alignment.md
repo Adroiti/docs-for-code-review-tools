@@ -103,4 +103,4 @@ var evenNumbers: Set<Int> = [
 
 ## Further Reading
 
-* [SwiftLint - Collection Element Alignment](https://github.com/realm/SwiftLint/blob/master/Rules.md#collection-element-alignment)
+* [SwiftLint - Collection Element Alignment](https://realm.github.io/SwiftLint/collection_element_alignment.html)

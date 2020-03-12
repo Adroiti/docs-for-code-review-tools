@@ -59,4 +59,4 @@ switch foo {
 
 ## Further Reading
 
-* [SwiftLint - Optional Enum Case Match](https://github.com/realm/SwiftLint/blob/master/Rules.md#optional_enum_case_matching)
+* [SwiftLint - Optional Enum Case Match](https://realm.github.io/SwiftLint/optional_enum_case_matching.html)

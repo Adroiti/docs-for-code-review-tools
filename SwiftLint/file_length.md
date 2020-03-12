@@ -9,4 +9,4 @@ Limiting the number of lines allowed in a file allows files to remain small, sin
 
 ## Further Reading
 
-* [SwiftLint - File Line Length](https://github.com/realm/SwiftLint/blob/master/Rules.md#file-line-length)
+* [SwiftLint - File Line Length](https://realm.github.io/SwiftLint/file_line_length.html)

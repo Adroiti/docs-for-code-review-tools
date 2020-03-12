@@ -58,4 +58,4 @@ let result = plus(
 
 ## Further Reading
 
-* [SwiftLint - Comma Spacing](https://github.com/realm/SwiftLint/blob/master/Rules.md#comma-spacing)
+* [SwiftLint - Comma Spacing](https://realm.github.io/SwiftLint/comma_spacing.html)

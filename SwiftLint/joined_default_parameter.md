@@ -30,4 +30,4 @@ let foo = bar.filter(toto)
 
 ## Further Reading
 
-* [SwiftLint - Joined Default Parameter](https://github.com/realm/SwiftLint/blob/master/Rules.md#joined-default-parameter)
+* [SwiftLint - Joined Default Parameter](https://realm.github.io/SwiftLint/joined_default_parameter.html)

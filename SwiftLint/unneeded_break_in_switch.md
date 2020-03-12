@@ -72,4 +72,4 @@ case .foo, .foo2 where condition:
 
 ## Further Reading
 
-* [SwiftLint - Unneeded Break in Switch](https://github.com/realm/SwiftLint/blob/master/Rules.md#unneeded-break-in-switch)
+* [SwiftLint - Unneeded Break in Switch](https://realm.github.io/SwiftLint/unneeded_break_in_switch.html)

@@ -42,4 +42,4 @@ let ↓abc : [Void: Void]
 
 ## Further Reading
 
-* [SwiftLint - Colon](https://github.com/realm/SwiftLint/blob/master/Rules.md#colon)
+* [SwiftLint - Colon](https://realm.github.io/SwiftLint/colon.html)

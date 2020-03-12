@@ -97,4 +97,4 @@ var aValue: String {
 
 ## Further Reading
 
-* [SwiftLint - Unused Setter Value](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-setter-value)
+* [SwiftLint - Unused Setter Value](https://realm.github.io/SwiftLint/unused_setter_value.html)

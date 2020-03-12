@@ -33,4 +33,4 @@ class TotoTests: QuickSpec {
 
 ## Further Reading
 
-* [SwiftLint - Quick Discouraged Call](https://github.com/realm/SwiftLint/blob/master/Rules.md#quick-discouraged-call)
+* [SwiftLint - Quick Discouraged Call](https://realm.github.io/SwiftLint/quick_discouraged_call.html)

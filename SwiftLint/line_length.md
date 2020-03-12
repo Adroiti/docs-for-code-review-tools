@@ -8,4 +8,4 @@ Your source code should not contain very long lines. The default wrapping in mos
 
 ## Further Reading
 
-* [SwiftLint - Line Length](https://github.com/realm/SwiftLint/blob/master/Rules.md#line-length)
+* [SwiftLint - Line Length](https://realm.github.io/SwiftLint/line_length.html)

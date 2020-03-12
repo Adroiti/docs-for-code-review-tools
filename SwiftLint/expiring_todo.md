@@ -31,4 +31,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - ExpiringTodo](https://github.com/realm/SwiftLint/blob/master/Rules.md#expiring_todo)
+* [SwiftLint - ExpiringTodo](https://realm.github.io/SwiftLint/expiring_todo.html)

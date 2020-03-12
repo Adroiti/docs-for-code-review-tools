@@ -44,4 +44,4 @@ import Foundation
 
 ## Further Reading
 
-* [SwiftLint - Duplicate Imports](https://github.com/realm/SwiftLint/blob/master/Rules.md#duplicate-imports)
+* [SwiftLint - Duplicate Imports](https://realm.github.io/SwiftLint/duplicate_imports.html)

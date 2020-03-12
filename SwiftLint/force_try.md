@@ -20,4 +20,4 @@ func a() throws {}; ↓try! a()
 
 ## Further Reading
 
-* [SwiftLint - Force Try](https://github.com/realm/SwiftLint/blob/master/Rules.md#force-try)
+* [SwiftLint - Force Try](https://realm.github.io/SwiftLint/force_try.html)

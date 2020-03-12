@@ -34,4 +34,4 @@ import CCC
 
 ## Further Reading
 
-* [SwiftLint - Sorted Imports](https://github.com/realm/SwiftLint/blob/master/Rules.md#sorted-imports)
+* [SwiftLint - Sorted Imports](https://realm.github.io/SwiftLint/sorted_imports.html)

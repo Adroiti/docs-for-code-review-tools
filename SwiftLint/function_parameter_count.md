@@ -59,4 +59,4 @@ init(a: Int, b: Int, c: Int, d: Int, e: Int, f: Int) {}
 
 ## Further Reading
 
-* [SwiftLint - Function Parameter Count](https://github.com/realm/SwiftLint/blob/master/Rules.md#function-parameter-count)
+* [SwiftLint - Function Parameter Count](https://realm.github.io/SwiftLint/function_parameter_count.html)

@@ -48,4 +48,4 @@ func example2() {
 
 ## Further Reading
 
-* [SwiftLint - Inert Defer](https://github.com/realm/SwiftLint/blob/master/Rules.md#inert-defer)
+* [SwiftLint - Inert Defer](https://realm.github.io/SwiftLint/inert_defer.html)

@@ -83,4 +83,4 @@ enum Foo { case ↓MyEnum }
 
 ## Further Reading
 
-* [SwiftLint - Identifier Name](https://github.com/realm/SwiftLint/blob/master/Rules.md#identifier-name)
+* [SwiftLint - Identifier Name](https://realm.github.io/SwiftLint/identifier_name.html)

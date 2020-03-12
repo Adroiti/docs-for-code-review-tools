@@ -46,4 +46,4 @@ foo.map {
 
 ## Further Reading
 
-* [SwiftLint - Implicit Return](https://github.com/realm/SwiftLint/blob/master/Rules.md#implicit-return)
+* [SwiftLint - Implicit Return](https://realm.github.io/SwiftLint/implicit_return.html)

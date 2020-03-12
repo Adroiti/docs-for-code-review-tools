@@ -42,4 +42,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - First Where](https://github.com/realm/SwiftLint/blob/master/Rules.md#first-where)
+* [SwiftLint - First Where](https://realm.github.io/SwiftLint/first_where.html)

@@ -114,4 +114,4 @@ var x = 0
 
 ## Further Reading
 
-* [SwiftLint - Variable Declaration Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#variable-declaration-whitespace)
+* [SwiftLint - Variable Declaration Whitespace](https://realm.github.io/SwiftLint/variable_declaration_whitespace.html)

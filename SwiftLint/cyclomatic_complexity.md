@@ -64,4 +64,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Cyclomatic Complexity](https://github.com/realm/SwiftLint/blob/master/Rules.md#cyclomatic-complexity)
+* [SwiftLint - Cyclomatic Complexity](https://realm.github.io/SwiftLint/cyclomatic_complexity.html)

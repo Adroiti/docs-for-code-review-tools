@@ -43,4 +43,4 @@ class A {}
 
 ## Further Reading
 
-* [SwiftLint - Unused Import](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-import)
+* [SwiftLint - Unused Import](https://realm.github.io/SwiftLint/unused_import.html)

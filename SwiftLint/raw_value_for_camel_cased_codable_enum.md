@@ -49,4 +49,4 @@ enum Status: String, Encodable {
 
 ## Further Reading
 
-* [SwiftLint - Raw Value For Camel Cased Codable Enum](https://github.com/realm/SwiftLint/blob/master/Rules.md#raw_value_for_camel_cased_codable_enum)
+* [SwiftLint - Raw Value For Camel Cased Codable Enum](https://realm.github.io/SwiftLint/raw_value_for_camel_cased_codable_enum.html)

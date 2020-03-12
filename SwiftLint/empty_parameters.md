@@ -44,4 +44,4 @@ let foo: ↓(Void) -> () throws -> Void)
 
 ## Further Reading
 
-* [SwiftLint - Empty Parameters](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-parameters)
+* [SwiftLint - Empty Parameters](https://realm.github.io/SwiftLint/empty_parameters.html)

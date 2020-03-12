@@ -108,4 +108,4 @@ let v8 = 1↓ <<  (6)
 
 ## Further Reading
 
-* [SwiftLint - Operator Usage Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#operator-usage-whitespace)
+* [SwiftLint - Operator Usage Whitespace](https://realm.github.io/SwiftLint/operator_usage_whitespace.html)

@@ -43,4 +43,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - NSLocalizedString Require Bundle](https://github.com/realm/SwiftLint/blob/master/Rules.md#nslocalizedstring-require-bundle)
+* [SwiftLint - NSLocalizedString Require Bundle](https://realm.github.io/SwiftLint/nslocalizedstring_require_bundle.html)

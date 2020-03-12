@@ -38,4 +38,4 @@ extension External { struct Gotcha {}}
 
 ## Further Reading
 
-* [SwiftLint - No Grouping Extension](https://github.com/realm/SwiftLint/blob/master/Rules.md#no-grouping-extension)
+* [SwiftLint - No Grouping Extension](https://realm.github.io/SwiftLint/no_grouping_extension.html)

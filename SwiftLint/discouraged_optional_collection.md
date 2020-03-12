@@ -43,4 +43,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Discouraged Optional Collection](https://github.com/realm/SwiftLint/blob/master/Rules.md#discouraged-optional-collection)
+* [SwiftLint - Discouraged Optional Collection](https://realm.github.io/SwiftLint/discouraged_optional_collection.html)

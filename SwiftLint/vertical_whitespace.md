@@ -42,4 +42,4 @@ class BBBB {}
 
 ## Further Reading
 
-* [SwiftLint - Vertical Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#vertical-whitespace)
+* [SwiftLint - Vertical Whitespace](https://realm.github.io/SwiftLint/vertical_whitespace.html)

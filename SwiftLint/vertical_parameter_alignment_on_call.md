@@ -92,4 +92,4 @@ foo(param1: 1, param2: { _ in },
 
 ## Further Reading
 
-* [SwiftLint - Vertical Parameter Alignment On Call](https://github.com/realm/SwiftLint/blob/master/Rules.md#vertical-parameter-alignment-on-call)
+* [SwiftLint - Vertical Parameter Alignment On Call](https://realm.github.io/SwiftLint/vertical_parameter_alignment_on_call.html)

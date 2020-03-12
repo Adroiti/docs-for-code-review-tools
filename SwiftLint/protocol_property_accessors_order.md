@@ -34,4 +34,4 @@ protocol Foo {
 
 ## Further Reading
 
-* [SwiftLint - Protocol Property Accessors Order](https://github.com/realm/SwiftLint/blob/master/Rules.md#protocol-property-accessors-order)
+* [SwiftLint - Protocol Property Accessors Order](https://realm.github.io/SwiftLint/protocol_property_accessors_order.html)

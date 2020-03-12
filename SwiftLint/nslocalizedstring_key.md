@@ -24,4 +24,4 @@ NSLocalizedString(↓"key_\(param)", comment: nil)
 
 ## Further Reading
 
-* [SwiftLint - NSLocalizedString Key](https://github.com/realm/SwiftLint/blob/master/Rules.md#nslocalizedstring-key)
+* [SwiftLint - NSLocalizedString Key](https://realm.github.io/SwiftLint/nslocalizedstring_key.html)

@@ -92,4 +92,4 @@ class TotoTests: QuickSpec {
 
 ## Further Reading
 
-* [SwiftLint - Quick Discouraged Pending Test](https://github.com/realm/SwiftLint/blob/master/Rules.md#quick-discouraged-pending-test)
+* [SwiftLint - Quick Discouraged Pending Test](https://realm.github.io/SwiftLint/quick_discouraged_pending_test.html)

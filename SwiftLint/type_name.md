@@ -134,4 +134,4 @@ protocol Foo {
 
 ## Further Reading
 
-* [SwiftLint - Type Name](https://github.com/realm/SwiftLint/blob/master/Rules.md#type-name)
+* [SwiftLint - Type Name](https://realm.github.io/SwiftLint/type_name.html)

@@ -60,4 +60,4 @@ enum MyNetworkResponse: String, NetworkResponsable {
 
 ## Further Reading
 
-* [SwiftLint - Required Enum Case](https://github.com/realm/SwiftLint/blob/master/Rules.md#required-enum-case)
+* [SwiftLint - Required Enum Case](https://realm.github.io/SwiftLint/required_enum_case.html)

@@ -39,4 +39,4 @@ Examples of **incorrect** code:
 ## Further Reading
 
 * [Apple Developer - isEmpty](https://developer.apple.com/documentation/swift/array/1688398-isempty)
-* [SwiftLint - Empty Count](https://github.com/realm/SwiftLint/blob/master/Rules.md#empty-count)
+* [SwiftLint - Empty Count](https://realm.github.io/SwiftLint/empty_count.html)

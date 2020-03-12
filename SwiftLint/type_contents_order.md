@@ -230,4 +230,4 @@ class TestViewController: UIViewController {
 
 ## Further Reading
 
-* [SwiftLint - Type Contents Order](https://github.com/realm/SwiftLint/blob/master/Rules.md#type-contents-order)
+* [SwiftLint - Type Contents Order](https://realm.github.io/SwiftLint/type_contents_order.html)

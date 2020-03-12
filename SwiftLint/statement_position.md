@@ -52,4 +52,4 @@ catch {
 
 ## Further Reading
 
-* [SwiftLint - Statement Position](https://github.com/realm/SwiftLint/blob/master/Rules.md#statement-position)
+* [SwiftLint - Statement Position](https://realm.github.io/SwiftLint/statement_position.html)

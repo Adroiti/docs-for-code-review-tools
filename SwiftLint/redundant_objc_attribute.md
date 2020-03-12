@@ -181,4 +181,4 @@ extension Foo {
 
 ## Further Reading
 
-* [SwiftLint - Redundant @objc Attribute](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-@objc-attribute)
+* [SwiftLint - Redundant @objc Attribute](https://realm.github.io/SwiftLint/redundant_@objc_attribute.html)

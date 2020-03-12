@@ -28,4 +28,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Closing Brace Spacing](https://github.com/realm/SwiftLint/blob/master/Rules.md#closing-brace-spacing)
+* [SwiftLint - Closing Brace Spacing](https://realm.github.io/SwiftLint/closing_brace.html)

@@ -8,4 +8,4 @@ SwiftLint `disable` commands are superfluous when the disabled rule would not ha
 
 ## Further Reading
 
-* [SwiftLint - Superfluous Disable Command](https://github.com/realm/SwiftLint/blob/master/Rules.md#superfluous-disable-command)
+* [SwiftLint - Superfluous Disable Command](https://realm.github.io/SwiftLint/superfluous_disable_command.html)

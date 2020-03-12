@@ -80,4 +80,4 @@ case 1:
 
 ## Further Reading
 
-* [SwiftLint - Switch and Case Statement Alignment](https://github.com/realm/SwiftLint/blob/master/Rules.md#switch-and-case-statement-alignment)
+* [SwiftLint - Switch and Case Statement Alignment](https://realm.github.io/SwiftLint/switch_case_alignment.html)

@@ -72,4 +72,4 @@ expect(10) > 2
 
 ## Further Reading
 
-* [SwiftLint - Nimble Operator](https://github.com/realm/SwiftLint/blob/master/Rules.md#nimble-operator)
+* [SwiftLint - Nimble Operator](https://realm.github.io/SwiftLint/nimble_operator.html)

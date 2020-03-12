@@ -70,4 +70,4 @@ enum Numbers: Decimal {
 
 ## Further Reading
 
-* [SwiftLint - Explicit Enum Raw Value](https://github.com/realm/SwiftLint/blob/master/Rules.md#explicit-enum-raw-value)
+* [SwiftLint - Explicit Enum Raw Value](https://realm.github.io/SwiftLint/explicit_enum_raw_value.html)

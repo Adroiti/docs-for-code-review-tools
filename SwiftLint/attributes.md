@@ -49,4 +49,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Attributes](https://github.com/realm/SwiftLint/blob/master/Rules.md#attributes)
+* [SwiftLint - Attributes](https://realm.github.io/SwiftLint/attributes.html)

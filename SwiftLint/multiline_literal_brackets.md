@@ -94,4 +94,4 @@ class Hogwarts {
 
 ## Further Reading
 
-* [SwiftLint - Multiline Literal Brackets](https://github.com/realm/SwiftLint/blob/master/Rules.md#multiline-literal-brackets)
+* [SwiftLint - Multiline Literal Brackets](https://realm.github.io/SwiftLint/multiline_literal_brackets.html)

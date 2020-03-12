@@ -28,4 +28,4 @@ case .bar2:
 
 ## Further Reading
 
-* [SwiftLint - Fallthrough](https://github.com/realm/SwiftLint/blob/master/Rules.md#fallthrough)
+* [SwiftLint - Fallthrough](https://realm.github.io/SwiftLint/fallthrough.html)

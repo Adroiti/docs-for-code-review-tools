@@ -20,4 +20,4 @@ NSNumber() ↓as! Int
 
 ## Further Reading
 
-* [SwiftLint - Force Cast](https://github.com/realm/SwiftLint/blob/master/Rules.md#force-cast)
+* [SwiftLint - Force Cast](https://realm.github.io/SwiftLint/force_cast.html)

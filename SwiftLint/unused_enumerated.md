@@ -53,4 +53,4 @@ for (idx, ↓_) in bar.enumerated() { }
 
 ## Further Reading
 
-* [SwiftLint - Unused Enumerated](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-enumerated)
+* [SwiftLint - Unused Enumerated](https://realm.github.io/SwiftLint/unused_enumerated.html)

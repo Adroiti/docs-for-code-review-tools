@@ -111,4 +111,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Vertical Whitespace Between Cases](https://github.com/realm/SwiftLint/blob/master/Rules.md#vertical-whitespace-between-cases)
+* [SwiftLint - Vertical Whitespace Between Cases](https://realm.github.io/SwiftLint/vertical_whitespace_between_cases.html)

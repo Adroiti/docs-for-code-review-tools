@@ -90,4 +90,4 @@ let ↓foo = {
 
 ## Further Reading
 
-* [SwiftLint - Prefixed Top-Level Constant](https://github.com/realm/SwiftLint/blob/master/Rules.md#prefixed-top-level-constant)
+* [SwiftLint - Prefixed Top_Level Constant](https://realm.github.io/SwiftLint/prefixed_top_level_constant.html)

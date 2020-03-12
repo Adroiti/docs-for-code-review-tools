@@ -106,4 +106,4 @@ class AClass: NSObject {
 
 ## Further Reading
 
-* [SwiftLint - NSObject Prefer isEqual](https://github.com/realm/SwiftLint/blob/master/Rules.md#nsobject-prefer-isequal)
+* [SwiftLint - NSObject Prefer isEqual](https://realm.github.io/SwiftLint/nsobject_prefer_isequal.html)

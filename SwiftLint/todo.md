@@ -44,4 +44,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Todo](https://github.com/realm/SwiftLint/blob/master/Rules.md#todo)
+* [SwiftLint - Todo](https://realm.github.io/SwiftLint/todo.html)

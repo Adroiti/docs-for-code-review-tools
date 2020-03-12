@@ -21,4 +21,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Leading Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#leading-whitespace)
+* [SwiftLint - Leading Whitespace](https://realm.github.io/SwiftLint/leading_whitespace.html)

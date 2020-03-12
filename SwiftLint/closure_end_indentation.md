@@ -55,4 +55,4 @@ return match(pattern: pattern, with: [.comment]).flatMap { range in
 
 ## Further Reading
 
-* [SwiftLint - Closure End Indentation](https://github.com/realm/SwiftLint/blob/master/Rules.md#closure-end-indentation)
+* [SwiftLint - Closure End Indentation](https://realm.github.io/SwiftLint/closure_end_indentation.html)

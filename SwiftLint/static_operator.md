@@ -76,4 +76,4 @@ private ↓func < <T: Comparable>(lhs: T?, rhs: T?) -> Bool {
 
 ## Further Reading
 
-* [SwiftLint - Static Operator](https://github.com/realm/SwiftLint/blob/master/Rules.md#static-operator)
+* [SwiftLint - Static Operator](https://realm.github.io/SwiftLint/static_operator.html)

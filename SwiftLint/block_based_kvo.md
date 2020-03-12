@@ -33,4 +33,4 @@ class Foo: NSObject {
 
 ## Further Reading
 
-* [SwiftLint - Block Based KVO](https://github.com/realm/SwiftLint/blob/master/Rules.md#block-based-kvo)
+* [SwiftLint - Block Based KVO](https://realm.github.io/SwiftLint/block_based_kvo.html)

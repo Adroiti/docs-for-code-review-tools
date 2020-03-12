@@ -40,4 +40,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - File Header](https://github.com/realm/SwiftLint/blob/master/Rules.md#file-header)
+* [SwiftLint - File Header](https://realm.github.io/SwiftLint/file_header.html)

@@ -47,4 +47,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Function Default Parameter at End](https://github.com/realm/SwiftLint/blob/master/Rules.md#function-default-parameter-at-end)
+* [SwiftLint - Function Default Parameter at End](https://realm.github.io/SwiftLint/function_default_parameter_at_end.html)

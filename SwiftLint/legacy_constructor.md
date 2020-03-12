@@ -134,4 +134,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Legacy Constructor](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-constructor)
+* [SwiftLint - Legacy Constructor](https://realm.github.io/SwiftLint/legacy_constructor.html)

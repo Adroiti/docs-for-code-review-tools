@@ -34,4 +34,4 @@ func foo() {
 
 ## Further Reading
 
-* [SwiftLint - Fatal Error Message](https://github.com/realm/SwiftLint/blob/master/Rules.md#fatal-error-message)
+* [SwiftLint - Fatal Error Message](https://realm.github.io/SwiftLint/fatal_error_message.html)

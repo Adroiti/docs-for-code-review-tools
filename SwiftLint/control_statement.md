@@ -107,4 +107,4 @@ do { ; } ↓while (condition) {
 
 ## Further Reading
 
-* [SwiftLint - Control Statement](https://github.com/realm/SwiftLint/blob/master/Rules.md#control-statement)
+* [SwiftLint - Control Statement](https://realm.github.io/SwiftLint/control_statement.html)

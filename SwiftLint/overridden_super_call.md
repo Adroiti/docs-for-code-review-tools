@@ -74,4 +74,4 @@ class VC: UIViewController {
 
 ## Further Reading
 
-* [SwiftLint - Overridden methods call super](https://github.com/realm/SwiftLint/blob/master/Rules.md#overridden-methods-call-super)
+* [SwiftLint - Overridden methods call super](https://realm.github.io/SwiftLint/overridden_methods_call_super.html)

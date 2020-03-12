@@ -58,4 +58,4 @@ var abc = {(param: Int)↓->Bool in }
 
 ## Further Reading
 
-* [SwiftLint - Returning Whitespace](https://github.com/realm/SwiftLint/blob/master/Rules.md#returning-whitespace)
+* [SwiftLint - Returning Whitespace](https://realm.github.io/SwiftLint/return_arrow_whitespace.html)

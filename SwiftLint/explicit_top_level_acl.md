@@ -54,4 +54,4 @@ func b() {}
 
 ## Further Reading
 
-* [SwiftLint - Explicit Top Level ACL](https://github.com/realm/SwiftLint/blob/master/Rules.md#explicit-top-level-acl)
+* [SwiftLint - Explicit Top Level ACL](https://realm.github.io/SwiftLint/explicit_top_level_acl.html)

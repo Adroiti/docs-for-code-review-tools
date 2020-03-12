@@ -58,4 +58,4 @@ let isMultiple = value ↓% constant == 0
 
 ## Further Reading
 
-* [SwiftLint - Legacy Multiple](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-multiple)
+* [SwiftLint - Legacy Multiple](https://realm.github.io/SwiftLint/legacy_multiple.html)

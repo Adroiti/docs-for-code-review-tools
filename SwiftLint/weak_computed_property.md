@@ -1,6 +1,6 @@
 Pattern: Use of `weak` in computed property
 
-Issue: -
+Issue: _
 
 ## Description
 
@@ -57,7 +57,3 @@ class Foo {
 }
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Weak Computed Property](https://github.com/realm/SwiftLint/blob/master/Rules.md#weak-computed-property)

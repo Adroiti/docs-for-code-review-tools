@@ -425,4 +425,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Identical Operands](https://github.com/realm/SwiftLint/blob/master/Rules.md#identical-operands)
+* [SwiftLint - Identical Operands](https://realm.github.io/SwiftLint/identical_operands.html)

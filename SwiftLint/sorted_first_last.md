@@ -68,4 +68,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Min or Max over Sorted First or Last](https://github.com/realm/SwiftLint/blob/master/Rules.md#min-or-max-over-sorted-first-or-last)
+* [SwiftLint - Min or Max over Sorted First or Last](https://realm.github.io/SwiftLint/sorted_first_last.html)

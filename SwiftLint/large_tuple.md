@@ -98,4 +98,4 @@ func getDictionaryAndInt() -> (Dictionary<Int, ↓(String, String, String)>, Int
 
 ## Further Reading
 
-* [SwiftLint - Large Tuple](https://github.com/realm/SwiftLint/blob/master/Rules.md#large-tuple)
+* [SwiftLint - Large Tuple](https://realm.github.io/SwiftLint/large_tuple.html)

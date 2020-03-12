@@ -65,4 +65,4 @@ func foo(int: Int!) {}
 
 ## Further Reading
 
-* [SwiftLint - Implicitly Unwrapped Optional](https://github.com/realm/SwiftLint/blob/master/Rules.md#implicitly-unwrapped-optional)
+* [SwiftLint - Implicitly Unwrapped Optional](https://realm.github.io/SwiftLint/implicitly_unwrapped_optional.html)

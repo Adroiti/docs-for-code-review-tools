@@ -134,4 +134,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Legacy CGGeometry Functions](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-cggeometry-functions)
+* [SwiftLint - Legacy CGGeometry Functions](https://realm.github.io/SwiftLint/legacy_cggeometry_functions.html)

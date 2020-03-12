@@ -48,4 +48,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Class Delegate Protocol](https://github.com/realm/SwiftLint/blob/master/Rules.md#class-delegate-protocol)
+* [SwiftLint - Class Delegate Protocol](https://realm.github.io/SwiftLint/class_delegate_protocol.html)

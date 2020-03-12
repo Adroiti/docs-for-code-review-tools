@@ -66,4 +66,4 @@ for user in users {
 
 ## Further Reading
 
-* [SwiftLint - For Where](https://github.com/realm/SwiftLint/blob/master/Rules.md#for-where)
+* [SwiftLint - For Where](https://realm.github.io/SwiftLint/for_where.html)

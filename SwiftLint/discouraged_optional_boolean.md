@@ -44,4 +44,4 @@ let foo: [String: ↓Bool?] = [:]
 
 ## Further Reading
 
-* [SwiftLint - Discouraged Optional Boolean](https://github.com/realm/SwiftLint/blob/master/Rules.md#discouraged-optional-boolean)
+* [SwiftLint - Discouraged Optional Boolean](https://realm.github.io/SwiftLint/discouraged_optional_boolean.html)

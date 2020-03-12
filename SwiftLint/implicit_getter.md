@@ -158,4 +158,4 @@ var foo: Int {
 
 ## Further Reading
 
-* [SwiftLint - Implicit Getter](https://github.com/realm/SwiftLint/blob/master/Rules.md#implicit-getter)
+* [SwiftLint - Implicit Getter](https://realm.github.io/SwiftLint/implicit_getter.html)

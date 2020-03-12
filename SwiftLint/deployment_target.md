@@ -83,4 +83,4 @@ guard ↓#available(iOS 6.0, *) else { return }
 
 ## Further Reading
 
-* [SwiftLint - Deployment Target](https://github.com/realm/SwiftLint/blob/master/Rules.md#deployment-target)
+* [SwiftLint - Deployment Target](https://realm.github.io/SwiftLint/deployment_target.html)

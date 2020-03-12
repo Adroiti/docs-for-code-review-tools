@@ -44,4 +44,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Trailing Closure](https://github.com/realm/SwiftLint/blob/master/Rules.md#trailing-closure)
+* [SwiftLint - Trailing Closure](https://realm.github.io/SwiftLint/trailing_closure.html)

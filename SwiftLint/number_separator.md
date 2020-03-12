@@ -194,4 +194,4 @@ let foo = ↓1000000.000000_1
 
 ## Further Reading
 
-* [SwiftLint - Number Separator](https://github.com/realm/SwiftLint/blob/master/Rules.md#number-separator)
+* [SwiftLint - Number Separator](https://realm.github.io/SwiftLint/number_separator.html)

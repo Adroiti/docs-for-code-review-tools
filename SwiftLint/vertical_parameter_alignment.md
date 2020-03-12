@@ -72,4 +72,4 @@ func validateFunction(_ file: File,
 
 ## Further Reading
 
-* [SwiftLint - Vertical Parameter Alignment](https://github.com/realm/SwiftLint/blob/master/Rules.md#vertical-parameter-alignment)
+* [SwiftLint - Vertical Parameter Alignment](https://realm.github.io/SwiftLint/vertical_parameter_alignment.html)

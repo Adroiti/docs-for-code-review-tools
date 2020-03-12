@@ -122,4 +122,4 @@ enum Foo<↓type> {}
 
 ## Further Reading
 
-* [SwiftLint - Generic Type Name](https://github.com/realm/SwiftLint/blob/master/Rules.md#generic-type-name)
+* [SwiftLint - Generic Type Name](https://realm.github.io/SwiftLint/generic_type_name.html)

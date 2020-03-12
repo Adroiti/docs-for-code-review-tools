@@ -1,6 +1,6 @@
 Pattern: Use of ternary operator to call `void`
 
-Issue: -
+Issue: _
 
 ## Description
 
@@ -17,7 +17,7 @@ if success {
 }
 
 var price: Double {
-    return hasDiscount ? initialPrice - discount : initialPrice
+    return hasDiscount ? initialPrice _ discount : initialPrice
 }
 
 ```

@@ -21,4 +21,4 @@ private let ↓kConstant = 0
 
 ## Further Reading
 
-* [SwiftLint - Unused Private Declaration](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-private-declaration)
+* [SwiftLint - Unused Declaration](https://realm.github.io/SwiftLint/unused_declaration.html)

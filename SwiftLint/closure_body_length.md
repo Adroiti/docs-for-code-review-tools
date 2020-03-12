@@ -59,4 +59,4 @@ foo.bar ↓{ toto in
 
 ## Further Reading
 
-* [SwiftLint - Closure Body Length](https://github.com/realm/SwiftLint/blob/master/Rules.md#closure-body-length)
+* [SwiftLint - Closure Body Length](https://realm.github.io/SwiftLint/closure_body_length.html)

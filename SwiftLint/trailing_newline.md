@@ -23,4 +23,4 @@ let a = 0
 
 ## Further Reading
 
-* [SwiftLint - Trailing Newline](https://github.com/realm/SwiftLint/blob/master/Rules.md#trailing-newline)
+* [SwiftLint - Trailing Newline](https://realm.github.io/SwiftLint/trailing_newline.html)

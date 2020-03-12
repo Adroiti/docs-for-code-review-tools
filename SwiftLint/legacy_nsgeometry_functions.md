@@ -128,4 +128,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Legacy NSGeometry Functions](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-nsgeometry-functions)
+* [SwiftLint - Legacy NSGeometry Functions](https://realm.github.io/SwiftLint/legacy_nsgeometry_functions.html)

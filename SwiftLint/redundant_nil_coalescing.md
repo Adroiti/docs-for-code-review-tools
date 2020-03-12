@@ -23,4 +23,4 @@ var myVar: Int? = nil; myVar↓??nil
 
 ## Further Reading
 
-* [SwiftLint - Redundant Nil Coalescing](https://github.com/realm/SwiftLint/blob/master/Rules.md#redundant-nil-coalescing)
+* [SwiftLint - Redundant Nil Coalescing](https://realm.github.io/SwiftLint/redundant_nil_coalescing.html)

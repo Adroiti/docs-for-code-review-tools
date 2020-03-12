@@ -55,4 +55,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Convenience Type](https://github.com/realm/SwiftLint/blob/master/Rules.md#convenience-type)
+* [SwiftLint - Convenience Type](https://realm.github.io/SwiftLint/convenience_type.html)

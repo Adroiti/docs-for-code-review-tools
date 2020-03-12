@@ -46,4 +46,4 @@ struct A {
 
 ## Further Reading
 
-* [SwiftLint - Explicit Self](https://github.com/realm/SwiftLint/blob/master/Rules.md#explicit-self)
+* [SwiftLint - Explicit Self](https://realm.github.io/SwiftLint/explicit_self.html)

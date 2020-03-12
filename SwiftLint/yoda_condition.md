@@ -62,4 +62,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Yoda condition rule](https://github.com/realm/SwiftLint/blob/master/Rules.md#yoda-condition-rule)
+* [SwiftLint - Yoda condition](https://realm.github.io/SwiftLint/yoda_condition.html)

@@ -70,4 +70,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Array Init](https://github.com/realm/SwiftLint/blob/master/Rules.md#array-init)
+* [SwiftLint - Array Init](https://realm.github.io/SwiftLint/array_init.html)

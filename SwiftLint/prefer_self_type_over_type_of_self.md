@@ -58,4 +58,4 @@ class Foo {
 
 ## Further Reading
 
-* [SwiftLint - Prefer Self Type Over Type of Self](https://github.com/realm/SwiftLint/blob/master/Rules.md#prefer_self_type_over_type_of_self)
+* [SwiftLint - Prefer Self Type Over Type of Self](https://realm.github.io/SwiftLint/prefer_self_type_over_type_of_self.html)

@@ -99,4 +99,4 @@ switch foo {
 
 ## Further Reading
 
-* [SwiftLint - Pattern Matching Keywords](https://github.com/realm/SwiftLint/blob/master/Rules.md#pattern-matching-keywords)
+* [SwiftLint - Pattern Matching Keywords](https://realm.github.io/SwiftLint/pattern_matching_keywords.html)

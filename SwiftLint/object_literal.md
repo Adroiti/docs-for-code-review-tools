@@ -86,4 +86,4 @@ let color = ↓NSColor.init(white: 0.5, alpha: 1)
 
 ## Further Reading
 
-* [SwiftLint - Object Literal](https://github.com/realm/SwiftLint/blob/master/Rules.md#object-literal)
+* [SwiftLint - Object Literal](https://realm.github.io/SwiftLint/object_literal.html)

@@ -186,4 +186,4 @@ n = n - i / outputLength
 
 ## Further Reading
 
-* [SwiftLint - Shorthand Operator](https://github.com/realm/SwiftLint/blob/master/Rules.md#shorthand-operator)
+* [SwiftLint - Shorthand Operator](https://realm.github.io/SwiftLint/shorthand_operator.html)

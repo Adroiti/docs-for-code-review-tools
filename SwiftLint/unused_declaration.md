@@ -58,4 +58,4 @@ class ↓ResponseModel {
 
 ## Further Reading
 
-* [SwiftLint - Unused Declaration](https://github.com/realm/SwiftLint/blob/master/Rules.md#unused-declaration)
+* [SwiftLint - Unused Declaration](https://realm.github.io/SwiftLint/unused_declaration.html)

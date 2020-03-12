@@ -99,4 +99,4 @@ internal extension Foo {
 
 ## Further Reading
 
-* [SwiftLint - Private Actions](https://github.com/realm/SwiftLint/blob/master/Rules.md#private-actions)
+* [SwiftLint - Private Actions](https://realm.github.io/SwiftLint/private_actions.html)

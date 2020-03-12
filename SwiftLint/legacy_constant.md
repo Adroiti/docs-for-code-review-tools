@@ -74,4 +74,4 @@ Examples of **incorrect** code:
 
 ## Further Reading
 
-* [SwiftLint - Legacy Constant](https://github.com/realm/SwiftLint/blob/master/Rules.md#legacy-constant)
+* [SwiftLint - Legacy Constant](https://realm.github.io/SwiftLint/legacy_constant.html)

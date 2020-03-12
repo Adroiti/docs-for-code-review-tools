@@ -39,4 +39,4 @@ class ViewController: UIViewController {
 
 ## Further Reading
 
-* [SwiftLint - Strong IBOutlet](https://github.com/realm/SwiftLint/blob/master/Rules.md#strong-iboutlet)
+* [SwiftLint - Strong IBOutlet](https://realm.github.io/SwiftLint/strong_iboutlet.html)

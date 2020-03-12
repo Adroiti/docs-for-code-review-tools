@@ -35,4 +35,4 @@ foo.bar { [weak self] ↓(x, y) in }
 
 ## Further Reading
 
-* [SwiftLint - Unneeded Parentheses in Closure Argument](https://github.com/realm/SwiftLint/blob/master/Rules.md#unneeded-parentheses-in-closure-argument)
+* [SwiftLint - Unneeded Parentheses in Closure Argument](https://realm.github.io/SwiftLint/unneeded_parentheses_in_closure_argument.html)

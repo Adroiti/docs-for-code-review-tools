@@ -34,4 +34,4 @@ enum Barcode {
 
 ## Further Reading
 
-* [SwiftLint - Enum Case Associated Values Count](https://github.com/realm/SwiftLint/blob/master/Rules.md#enum_case_associated_values_count)
+* [SwiftLint - Enum Case Associated Values Count](https://realm.github.io/SwiftLint/enum_case_associated_values_count.html)

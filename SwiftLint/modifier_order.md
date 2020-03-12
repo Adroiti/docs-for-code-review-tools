@@ -72,4 +72,4 @@ public class RootFoo {
 
 ## Further Reading
 
-* [SwiftLint - Modifier Order](https://github.com/realm/SwiftLint/blob/master/Rules.md#modifier-order)
+* [SwiftLint - Modifier Order](https://realm.github.io/SwiftLint/modifier_order.html)
