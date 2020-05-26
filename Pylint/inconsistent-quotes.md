@@ -4,8 +4,7 @@ Issue: -
 
 ## Description
 
-Emitted when quotes delimiters (`"` and `'`) are not used consistently throughout a module.  It allows avoiding unnecessary escaping,
-allowing, for example, `"Don't error"` in a module in which single-quotes otherwise delimit strings so that the single quote in `Don't` doesn't need to be escaped.
+Emitted when quotes delimiters (`"` and `'`) are not used consistently throughout a module.  It allows avoiding unnecessary escaping, allowing, for example, `"Don't error"` in a module in which single-quotes otherwise delimit strings so that the single quote in `Don't` doesn't need to be escaped.
 
 Example of **incorrect** code:
 
