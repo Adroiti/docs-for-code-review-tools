@@ -10,7 +10,7 @@ This rule checks the length of lines in the source code. The maximum length is c
 
 Attribute | Value
 --- | ---
-Max | 80
+Max | 120
 AllowHeredoc | true
 AllowURI | true
 URISchemes | http, https
@@ -19,5 +19,4 @@ IgnoredPatterns |
 
 ## Further Reading
 
-* [RuboCop - Layout/LineLength](https://rubocop.readthedocs.io/en/latest/cops_metrics/#layoutlinelength)
-* [https://github.com/bbatsov/ruby-style-guide#80-character-limits](https://github.com/bbatsov/ruby-style-guide#80-character-limits)
+* [RuboCop - Layout/LineLength](https://docs.rubocop.org/rubocop/cops_layout.html#layoutlinelength)
