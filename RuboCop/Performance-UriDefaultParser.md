@@ -18,4 +18,4 @@ URI::DEFAULT_PARSER
 
 ## Further Reading
 
-* [RuboCop - Performance/UriDefaultParser](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performanceuridefaultparser)
+* [RuboCop - Performance/UriDefaultParser](https://docs.rubocop.org/rubocop-performance/cops_performance.html#performanceuridefaultparser)

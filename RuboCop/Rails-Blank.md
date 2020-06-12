@@ -52,4 +52,4 @@ UnlessPresent | true
 
 ## Further Reading
 
-* [RuboCop - Rails/Blank](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsblank)
+* [RuboCop - Rails/Blank](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsblank)

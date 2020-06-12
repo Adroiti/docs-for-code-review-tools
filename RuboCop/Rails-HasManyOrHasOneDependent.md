@@ -30,5 +30,5 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/HasManyOrHasOneDependent](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railshasmanyorhasonedependent)
+* [RuboCop - Rails/HasManyOrHasOneDependent](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railshasmanyorhasonedependent)
 * [https://github.com/bbatsov/rails-style-guide#has_many-has_one-dependent-option](https://github.com/bbatsov/rails-style-guide#has_many-has_one-dependent-option)

@@ -74,4 +74,4 @@ safe_join([user_content, " ", content_tag(:span, user_content)])
 
 ## Further Reading
 
-* [RuboCop - Rails/OutputSafety](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsoutputsafety)
+* [RuboCop - Rails/OutputSafety](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsoutputsafety)

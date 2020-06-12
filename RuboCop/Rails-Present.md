@@ -50,4 +50,4 @@ UnlessBlank | true
 
 ## Further Reading
 
-* [RuboCop - Rails/Present](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railspresent)
+* [RuboCop - Rails/Present](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railspresent)

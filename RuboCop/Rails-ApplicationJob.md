@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/ApplicationJob](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsapplicationjob)
+* [RuboCop - Rails/ApplicationJob](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsapplicationjob)

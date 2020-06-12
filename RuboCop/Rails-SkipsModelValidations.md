@@ -34,5 +34,5 @@ Blacklist | decrement!, decrement_counter, increment!, increment_counter, toggle
 
 ## Further Reading
 
-* [RuboCop - Rails/SkipsModelValidations](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsskipsmodelvalidations)
+* [RuboCop - Rails/SkipsModelValidations](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsskipsmodelvalidations)
 * [http://guides.rubyonrails.org/active_record_validations.html#skipping-validations](http://guides.rubyonrails.org/active_record_validations.html#skipping-validations)

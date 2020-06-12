@@ -19,4 +19,4 @@ Include | app/controllers/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/ActionFilter](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsactionfilter)
+* [RuboCop - Rails/ActionFilter](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsactionfilter)

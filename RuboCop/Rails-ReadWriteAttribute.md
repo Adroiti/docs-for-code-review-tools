@@ -26,5 +26,5 @@ Include | app/models/\*\*/\*.rb
 
 ## Further Reading
 
-* [RuboCop - Rails/ReadWriteAttribute](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsreadwriteattribute)
+* [RuboCop - Rails/ReadWriteAttribute](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsreadwriteattribute)
 * [https://github.com/bbatsov/rails-style-guide#read-attribute](https://github.com/bbatsov/rails-style-guide#read-attribute)

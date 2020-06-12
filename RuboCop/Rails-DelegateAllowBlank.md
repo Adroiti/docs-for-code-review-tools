@@ -20,4 +20,4 @@ delegate :foo, to: :bar, allow_nil: true
 
 ## Further Reading
 
-* [RuboCop - Rails/DelegateAllowBlank](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsdelegateallowblank)
+* [RuboCop - Rails/DelegateAllowBlank](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsdelegateallowblank)

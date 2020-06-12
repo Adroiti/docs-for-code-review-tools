@@ -44,4 +44,4 @@ SupportedStyles | conservative, aggressive
 
 ## Further Reading
 
-* [RuboCop - Rails/UniqBeforePluck](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsuniqbeforepluck)
+* [RuboCop - Rails/UniqBeforePluck](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsuniqbeforepluck)

@@ -16,4 +16,4 @@ Include | `app/helpers/**/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/HelperInstanceVariable](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails)
+* [RuboCop - Rails/HelperInstanceVariable](https://docs.rubocop.org/rubocop-rails/cops_rails.html)

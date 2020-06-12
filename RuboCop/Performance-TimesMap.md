@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Performance/TimesMap](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancetimesmap)
+* [RuboCop - Performance/TimesMap](https://docs.rubocop.org/rubocop-performance/cops_performance.html#performancetimesmap)

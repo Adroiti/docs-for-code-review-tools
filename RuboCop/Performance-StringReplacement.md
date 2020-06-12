@@ -24,5 +24,5 @@ This rule identifies places where `gsub` can be replaced by `tr` or `delete`.
 
 ## Further Reading
 
-* [RuboCop - Performance/StringReplacement](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancestringreplacement)
+* [RuboCop - Performance/StringReplacement](https://docs.rubocop.org/rubocop-performance/cops_performance.html#performancestringreplacement)
 * [https://github.com/JuanitoFatas/fast-ruby#stringgsub-vs-stringtr-code](https://github.com/JuanitoFatas/fast-ruby#stringgsub-vs-stringtr-code)

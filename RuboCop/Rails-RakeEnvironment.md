@@ -30,4 +30,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/RakeEnvironment](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails)
+* [RuboCop - Rails/RakeEnvironment](https://docs.rubocop.org/rubocop-rails/cops_rails.html)

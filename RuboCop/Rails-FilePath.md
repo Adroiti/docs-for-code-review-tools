@@ -20,4 +20,4 @@ Rails.root.join('app', 'models', 'goober')
 
 ## Further Reading
 
-* [RuboCop - Rails/FilePath](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsfilepath)
+* [RuboCop - Rails/FilePath](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsfilepath)

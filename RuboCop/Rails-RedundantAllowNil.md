@@ -37,4 +37,4 @@ Include | `app/models/**/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/RedundantAllowNil](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsredundantallownil)
+* [RuboCop - Rails/RedundantAllowNil](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsredundantallownil)

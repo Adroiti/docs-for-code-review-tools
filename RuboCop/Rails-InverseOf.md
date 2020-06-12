@@ -144,4 +144,4 @@ Include | `app/models/**/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/InverseOf](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsinverseof)
+* [RuboCop - Rails/InverseOf](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsinverseof)

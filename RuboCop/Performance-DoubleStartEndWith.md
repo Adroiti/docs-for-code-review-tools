@@ -32,4 +32,4 @@ IncludeActiveSupportAliases | false
 
 ## Further Reading
 
-* [RuboCop - Performance/DoubleStartEndWith](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancedoublestartendwith)
+* [RuboCop - Performance/DoubleStartEndWith](https://docs.rubocop.org/rubocop-performance/cops_performance.html#performancedoublestartendwith)

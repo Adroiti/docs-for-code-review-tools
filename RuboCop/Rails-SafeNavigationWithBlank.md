@@ -25,4 +25,4 @@ do_something unless foo.blank?
 
 ## Further Reading
 
-* [RuboCop - Rails/SafeNavigationWithBlank](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails)
+* [RuboCop - Rails/SafeNavigationWithBlank](https://docs.rubocop.org/rubocop-rails/cops_rails.html)

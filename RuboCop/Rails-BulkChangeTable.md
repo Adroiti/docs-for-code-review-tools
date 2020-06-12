@@ -76,4 +76,4 @@ Include | `db/migrate/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/BulkChangeTable](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsbulkchangetable)
+* [RuboCop - Rails/BulkChangeTable](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsbulkchangetable)

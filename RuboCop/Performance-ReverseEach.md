@@ -18,5 +18,5 @@ This rule is used to identify usages of `reverse.each` and change them to use `r
 
 ## Further Reading
 
-* [RuboCop - Performance/ReverseEach](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancereverseeach)
+* [RuboCop - Performance/ReverseEach](https://docs.rubocop.org/rubocop-performance/cops_performance.html#performancereverseeach)
 * [https://github.com/JuanitoFatas/fast-ruby#enumerablereverseeach-vs-enumerablereverse_each-code](https://github.com/JuanitoFatas/fast-ruby#enumerablereverseeach-vs-enumerablereverse_each-code)

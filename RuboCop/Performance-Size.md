@@ -27,5 +27,5 @@ This rule is used to identify usages of `count` on an `Array` and `Hash` and cha
 
 ## Further Reading
 
-* [RuboCop - Performance/Size](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancesize)
+* [RuboCop - Performance/Size](https://docs.rubocop.org/rubocop-performance/cops_performance.html#performancesize)
 * [https://github.com/JuanitoFatas/fast-ruby#arraycount-vs-arraysize-code](https://github.com/JuanitoFatas/fast-ruby#arraycount-vs-arraysize-code)

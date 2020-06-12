@@ -51,4 +51,4 @@ Include | `db/migrate/*.rb`
 
 ## Further Reading
 
-* [RuboCop - Rails/CreateTableWithTimestamps](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railscreatetablewithtimestamps)
+* [RuboCop - Rails/CreateTableWithTimestamps](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railscreatetablewithtimestamps)

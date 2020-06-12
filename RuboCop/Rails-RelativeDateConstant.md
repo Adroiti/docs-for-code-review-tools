@@ -24,4 +24,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Rails/RelativeDateConstant](https://github.com/rubocop-hq/rubocop-rails/tree/master/lib/rubocop/cop/rails#railsrelativedateconstant)
+* [RuboCop - Rails/RelativeDateConstant](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsrelativedateconstant)
