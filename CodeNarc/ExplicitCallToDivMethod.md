@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.div(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToDivMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToDivMethod)
+* [CodeNarc - ExplicitCallToDivMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltodivmethod-rule)

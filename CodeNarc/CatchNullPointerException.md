@@ -8,4 +8,4 @@ Checks for catching a `NullPointerException`. Catching `NullPointerException` is
 
 ## Further Reading
 
-* [CodeNarc - CatchNullPointerException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchNullPointerException)
+* [CodeNarc - CatchNullPointerException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catchnullpointerexception-rule)

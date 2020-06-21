@@ -8,4 +8,4 @@ Adding trailing whitespace can cause extra work for others editing the same file
 
 ## Further Reading
 
-* [CodeNarc - TrailingWhitespace](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#TrailingWhitespace)
+* [CodeNarc - TrailingWhitespace](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#trailingwhitespace-rule)

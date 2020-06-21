@@ -10,4 +10,4 @@ A transactional resource object such as database connection can only be associat
 
 ## Further Reading
 
-* [CodeNarc - StaticConnection](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#StaticConnection)
+* [CodeNarc - StaticConnection](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#staticconnection-rule)

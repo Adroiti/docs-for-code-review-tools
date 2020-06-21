@@ -21,4 +21,4 @@ println [a :[1:11, 2:22],           // violation on a (before colon)
 
 ## Further Reading
 
-* [CodeNarc - SpaceAroundMapEntryColon](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAroundMapEntryColon)
+* [CodeNarc - SpaceAroundMapEntryColon](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spacearoundmapentrycolon-rule)

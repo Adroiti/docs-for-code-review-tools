@@ -18,4 +18,4 @@ def method3() {
 
 ## Further Reading
 
-* [CodeNarc - SynchronizedOnThis](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedOnThis)
+* [CodeNarc - SynchronizedOnThis](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedonthis-rule)

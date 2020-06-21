@@ -14,4 +14,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - EmptyStaticInitializer](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyStaticInitializer)
+* [CodeNarc - EmptyStaticInitializer](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptystaticinitializer-rule)

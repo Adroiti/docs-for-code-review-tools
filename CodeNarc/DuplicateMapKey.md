@@ -21,4 +21,4 @@ def var6 = ["a":1, "b":1, "c":1]
 
 ## Further Reading
 
-* [CodeNarc - DuplicateMapKey](http://codenarc.sourceforge.net/codenarc-rules-basic.html#DuplicateMapKey)
+* [CodeNarc - DuplicateMapKey](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#duplicatemapkey-rule)

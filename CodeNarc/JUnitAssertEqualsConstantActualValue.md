@@ -17,4 +17,4 @@ assertEquals("Message", result, 2.3d, 0.5d)
 
 ## Further Reading
 
-* [CodeNarc - JUnitAssertEqualsConstantActualValue](http://codenarc.sourceforge.net/codenarc-rules-enhanced.html#JUnitAssertEqualsConstantActualValue)
+* [CodeNarc - JUnitAssertEqualsConstantActualValue](https://codenarc.github.io/CodeNarc/codenarc-rules-enhanced.html#junitassertequalsconstantactualvalue-rule)

@@ -24,4 +24,4 @@ return name != null || !name.size()                 // violation
 
 ## Further Reading
 
-* [CodeNarc - BrokenNullCheck](http://codenarc.sourceforge.net/codenarc-rules-basic.html#BrokenNullCheck)
+* [CodeNarc - BrokenNullCheck](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#brokennullcheck-rule)

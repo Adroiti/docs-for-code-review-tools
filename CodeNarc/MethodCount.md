@@ -14,4 +14,4 @@ A class with too many methods is probably a good suspect for refactoring, in ord
 
 ## Further Reading
 
-* [CodeNarc - MethodCount](http://codenarc.sourceforge.net/codenarc-rules-size.html#MethodCount)
+* [CodeNarc - MethodCount](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#methodcount-rule)

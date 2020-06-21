@@ -19,4 +19,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - EmptySynchronizedStatement](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptySynchronizedStatement)
+* [CodeNarc - EmptySynchronizedStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptysynchronizedstatement-rule)

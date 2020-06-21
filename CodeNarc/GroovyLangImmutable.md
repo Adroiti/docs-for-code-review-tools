@@ -44,4 +44,4 @@ class SomeClass { }
 
 ## Further Reading
 
-* [CodeNarc - GroovyLangImmutable](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#GroovyLangImmutable)
+* [CodeNarc - GroovyLangImmutable](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#groovylangimmutable-rule)

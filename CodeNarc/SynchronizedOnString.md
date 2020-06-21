@@ -72,4 +72,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - SynchronizedOnString](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedOnString)
+* [CodeNarc - SynchronizedOnString](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedonstring-rule)

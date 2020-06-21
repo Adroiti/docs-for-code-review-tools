@@ -61,4 +61,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryIfStatement](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryIfStatement)
+* [CodeNarc - UnnecessaryIfStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryifstatement-rule)

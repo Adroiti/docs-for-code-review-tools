@@ -19,4 +19,4 @@ switch  (x) {                               // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterSwitch](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterSwitch)
+* [CodeNarc - SpaceAfterSwitch](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceafterswitch-rule)

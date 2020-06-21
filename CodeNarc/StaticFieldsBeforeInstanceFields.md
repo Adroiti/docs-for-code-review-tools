@@ -24,4 +24,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - StaticFieldsBeforeInstanceFields](http://codenarc.sourceforge.net/codenarc-rules-convention.html#StaticFieldsBeforeInstanceFields)
+* [CodeNarc - StaticFieldsBeforeInstanceFields](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#staticfieldsbeforeinstancefields-rule)

@@ -18,4 +18,4 @@ Here is an example of code that produces a violation:
 
 ## Further Reading
 
-* [CodeNarc - ThreadYield](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#ThreadYield)
+* [CodeNarc - ThreadYield](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#threadyield-rule)

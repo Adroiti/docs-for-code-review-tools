@@ -26,4 +26,4 @@ This rule sets the default value of the *applyToClassNames* property to only mat
 
 ## Further Reading
 
-* [CodeNarc - JUnitAssertAlwaysFails](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitAssertAlwaysFails)
+* [CodeNarc - JUnitAssertAlwaysFails](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitassertalwaysfails-rule)

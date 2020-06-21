@@ -35,4 +35,4 @@ for (int j = 0; j < 100; ++j) { // violation
 
 ## Further Reading
 
-* [CodeNarc - NestedForLoop](http://codenarc.sourceforge.net/codenarc-rules-design.html#NestedForLoop)
+* [CodeNarc - NestedForLoop](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#nestedforloop-rule)

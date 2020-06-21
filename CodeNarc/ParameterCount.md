@@ -30,4 +30,4 @@ class SampleClass {
 
 ## Further Reading
 
-* [CodeNarc - ParameterCount](http://codenarc.sourceforge.net/codenarc-rules-size.html#ParameterCount)
+* [CodeNarc - ParameterCount](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#parametercount-rule)

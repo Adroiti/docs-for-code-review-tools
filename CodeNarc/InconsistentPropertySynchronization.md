@@ -61,4 +61,4 @@ class Person {
 
 ## Further Reading
 
-* [CodeNarc - InconsistentPropertySynchronization](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#InconsistentPropertySynchronization)
+* [CodeNarc - InconsistentPropertySynchronization](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#inconsistentpropertysynchronization-rule)

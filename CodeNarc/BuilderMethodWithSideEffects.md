@@ -26,4 +26,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - BuilderMethodWithSideEffects](http://codenarc.sourceforge.net/codenarc-rules-design.html#BuilderMethodWithSideEffects)
+* [CodeNarc - BuilderMethodWithSideEffects](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#buildermethodwithsideeffects-rule)

@@ -18,4 +18,4 @@ l.collectMany{ [it, it*2] }       // same functionality, better readability
 
 ## Further Reading
 
-* [CodeNarc - UseCollectMany](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#UseCollectMany)
+* [CodeNarc - UseCollectMany](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#usecollectmany-rule)

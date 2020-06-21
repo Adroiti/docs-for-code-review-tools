@@ -51,4 +51,4 @@ class SomeClass implements Serializable {
 
 ## Further Reading
 
-* [CodeNarc - SynchronizedReadObjectMethod](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedReadObjectMethod)
+* [CodeNarc - SynchronizedReadObjectMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedreadobjectmethod-rule)

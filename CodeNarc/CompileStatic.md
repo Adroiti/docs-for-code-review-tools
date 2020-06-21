@@ -8,4 +8,4 @@ Enforces classes are annotated either with one of the `@CompileStatic`, `@Grails
 
 ## Further Reading
 
-* [CodeNarc - CompileStatic](http://codenarc.sourceforge.net/codenarc-rules-convention.html#CompileStatic)
+* [CodeNarc - CompileStatic](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#compilestatic-rule)

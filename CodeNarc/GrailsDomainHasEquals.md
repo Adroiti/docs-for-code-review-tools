@@ -12,4 +12,4 @@ This rule sets the default value of `applyToFilesMatching` to only match files u
 
 ## Further Reading
 
-* [CodeNarc - GrailsDomainHasEquals](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsDomainHasEquals)
+* [CodeNarc - GrailsDomainHasEquals](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsdomainhasequals-rule)

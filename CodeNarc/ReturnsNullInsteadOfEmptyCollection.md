@@ -8,4 +8,4 @@ If you have a method or closure that returns a collection, then when there are n
 
 ## Further Reading
 
-* [CodeNarc - ReturnsNullInsteadOfEmptyCollection](http://codenarc.sourceforge.net/codenarc-rules-design.html#ReturnsNullInsteadOfEmptyCollection)
+* [CodeNarc - ReturnsNullInsteadOfEmptyCollection](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#returnsnullinsteadofemptycollection-rule)

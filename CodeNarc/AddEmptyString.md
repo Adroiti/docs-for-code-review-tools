@@ -20,4 +20,4 @@ def d = property?.toString() ?: ""
 
 ## Further Reading
 
-* [CodeNarc - AddEmptyString](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#AddEmptyString)
+* [CodeNarc - AddEmptyString](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#addemptystring-rule)

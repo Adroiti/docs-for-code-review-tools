@@ -33,4 +33,4 @@ class SomeTest extends GroovyTestCase {
 
 ## Further Reading
 
-* [CodeNarc - ChainedTest](http://codenarc.sourceforge.net/codenarc-rules-junit.html#ChainedTest)
+* [CodeNarc - ChainedTest](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#chainedtest-rule)

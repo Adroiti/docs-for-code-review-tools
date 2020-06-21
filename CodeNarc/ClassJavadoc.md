@@ -10,4 +10,4 @@ By default, only the main class in a file is checked for Javadoc. The main class
 
 ## Further Reading
 
-* [CodeNarc - ClassJavadoc](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#ClassJavadoc)
+* [CodeNarc - ClassJavadoc](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#classjavadoc-rule)

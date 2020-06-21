@@ -26,4 +26,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessarySafeNavigationOperator](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessarySafeNavigationOperator)
+* [CodeNarc - UnnecessarySafeNavigationOperator](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarysafenavigationoperator-rule)

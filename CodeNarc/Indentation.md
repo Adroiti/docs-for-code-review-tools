@@ -53,4 +53,4 @@ private void executeOtherOne() {            // CORRECT
 
 ## Further Reading
 
-* [CodeNarc - Indentation](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#Indentation)
+* [CodeNarc - Indentation](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#indentation-rule)

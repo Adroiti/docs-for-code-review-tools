@@ -34,4 +34,4 @@ A RuleSet can contain any number of instances of this rule, but each should be c
 
 ## Further Reading
 
-* [CodeNarc - IllegalClassReference](http://codenarc.sourceforge.net/codenarc-rules-generic.html#IllegalClassReference)
+* [CodeNarc - IllegalClassReference](https://codenarc.github.io/CodeNarc/codenarc-rules-generic.html#illegalclassreference-rule)

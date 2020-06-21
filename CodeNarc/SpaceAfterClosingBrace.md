@@ -32,4 +32,4 @@ list?.collect { it?.type }?.join(',')               // no violation for null-saf
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterClosingBrace](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterClosingBrace)
+* [CodeNarc - SpaceAfterClosingBrace](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceafterclosingbrace-rule)

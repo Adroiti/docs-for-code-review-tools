@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.and(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToAndMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToAndMethod)
+* [CodeNarc - ExplicitCallToAndMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoandmethod-rule)

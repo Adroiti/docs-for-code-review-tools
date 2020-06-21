@@ -26,4 +26,4 @@ String tostring(int value) {}               // ok; not empty params
 
 ## Further Reading
 
-* [CodeNarc - ObjectOverrideMisspelledMethodName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#ObjectOverrideMisspelledMethodName)
+* [CodeNarc - ObjectOverrideMisspelledMethodName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#objectoverridemisspelledmethodname-rule)

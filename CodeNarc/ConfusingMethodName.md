@@ -19,4 +19,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - ConfusingMethodName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#ConfusingMethodName)
+* [CodeNarc - ConfusingMethodName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#confusingmethodname-rule)

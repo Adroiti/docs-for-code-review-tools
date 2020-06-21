@@ -14,4 +14,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - EmptyInstanceInitializer](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyInstanceInitializer)
+* [CodeNarc - EmptyInstanceInitializer](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyinstanceinitializer-rule)

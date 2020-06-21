@@ -8,4 +8,4 @@ Checks for parameters to private methods that are not referenced within the meth
 
 ## Further Reading
 
-* [CodeNarc - UnusedPrivateMethodParameter](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedPrivateMethodParameter)
+* [CodeNarc - UnusedPrivateMethodParameter](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedprivatemethodparameter-rule)

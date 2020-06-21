@@ -23,4 +23,4 @@ class SomeOtherClass implements Serializable {
 
 ## Further Reading
 
-* [CodeNarc - SerialPersistentFields](http://codenarc.sourceforge.net/codenarc-rules-serialization.html#SerialPersistentFields)
+* [CodeNarc - SerialPersistentFields](https://codenarc.github.io/CodeNarc/codenarc-rules-serialization.html#serialpersistentfields-rule)

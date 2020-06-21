@@ -8,4 +8,4 @@ Checks for synchronization on `getClass()` rather than class literal. This insta
 
 ## Further Reading
 
-* [CodeNarc - SynchronizedOnGetClass](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedOnGetClass)
+* [CodeNarc - SynchronizedOnGetClass](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedongetclass-rule)

@@ -8,4 +8,4 @@ Checks for catching a `Exception`. In most cases that is too broad or general. I
 
 ## Further Reading
 
-* [CodeNarc - CatchException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchException)
+* [CodeNarc - CatchException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catchexception-rule)

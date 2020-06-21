@@ -12,4 +12,4 @@ A package source file's path should match the package declaration.
 
 ## Further Reading
 
-* [CodeNarc - PackageNameMatchesFilePath](http://codenarc.sourceforge.net/codenarc-rules-naming.html#PackageNameMatchesFilePath)
+* [CodeNarc - PackageNameMatchesFilePath](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#packagenamematchesfilepath-rule)

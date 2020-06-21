@@ -29,4 +29,4 @@ x.getProperty('key')
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryGetter](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryGetter)
+* [CodeNarc - UnnecessaryGetter](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarygetter-rule)

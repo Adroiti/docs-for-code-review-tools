@@ -13,4 +13,4 @@ Verifies that the name of each parameter matches a regular expression. This rule
 
 ## Further Reading
 
-* [CodeNarc - ParameterName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#ParameterName)
+* [CodeNarc - ParameterName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#parametername-rule)

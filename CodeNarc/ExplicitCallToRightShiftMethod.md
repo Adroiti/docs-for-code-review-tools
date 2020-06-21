@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.rightShift(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToRightShiftMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToRightShiftMethod)
+* [CodeNarc - ExplicitCallToRightShiftMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltorightshiftmethod-rule)

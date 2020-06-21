@@ -10,4 +10,4 @@ NOTE: This rule ignores annotation types, e.g. `@interface SomeAnnotation `.
 
 ## Further Reading
 
-* [CodeNarc - BracesForClass](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BracesForClass)
+* [CodeNarc - BracesForClass](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#bracesforclass-rule)

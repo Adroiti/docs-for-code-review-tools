@@ -32,4 +32,4 @@ class SomeCorrectClass {
 
 ## Further Reading
 
-* [CodeNarc - StaticSimpleDateFormatField](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#StaticSimpleDateFormatField)
+* [CodeNarc - StaticSimpleDateFormatField](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#staticsimpledateformatfield-rule)

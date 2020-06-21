@@ -15,4 +15,4 @@ if  (true) { }                          // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterIf](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterIf)
+* [CodeNarc - SpaceAfterIf](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceafterif-rule)

@@ -26,4 +26,4 @@ Boolean.FALSE != false      // violation
 
 ## Further Reading
 
-* [CodeNarc - ComparisonOfTwoConstants](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ComparisonOfTwoConstants)
+* [CodeNarc - ComparisonOfTwoConstants](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#comparisonoftwoconstants-rule)

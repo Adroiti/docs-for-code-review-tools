@@ -16,4 +16,4 @@ synchronized def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - SynchronizedMethod](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedMethod)
+* [CodeNarc - SynchronizedMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedmethod-rule)

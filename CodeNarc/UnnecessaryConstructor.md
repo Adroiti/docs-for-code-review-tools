@@ -27,4 +27,4 @@ class SomeClass2 extends OtherClass {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryConstructor](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryConstructor)
+* [CodeNarc - UnnecessaryConstructor](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryconstructor-rule)

@@ -18,4 +18,4 @@ public class Foo {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryInstantiationToGetClass](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryInstantiationToGetClass)
+* [CodeNarc - UnnecessaryInstantiationToGetClass](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryinstantiationtogetclass-rule)

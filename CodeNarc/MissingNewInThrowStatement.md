@@ -23,4 +23,4 @@ throw runtimeFailure()      // first letter lowercase, assumed to be method call
 
 ## Further Reading
 
-* [CodeNarc - MissingNewInThrowStatement](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#MissingNewInThrowStatement)
+* [CodeNarc - MissingNewInThrowStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#missingnewinthrowstatement-rule)

@@ -19,4 +19,4 @@ Example of violation:
 
 ## Further Reading
 
-* [CodeNarc - MissingBlankLineAfterPackage](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#MissingBlankLineAfterPackage)
+* [CodeNarc - MissingBlankLineAfterPackage](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#missingblanklineafterpackage-rule)

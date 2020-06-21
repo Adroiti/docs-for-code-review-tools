@@ -20,4 +20,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - VariableTypeRequired](http://codenarc.sourceforge.net/codenarc-rules-convention.html#VariableTypeRequired)
+* [CodeNarc - VariableTypeRequired](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#variabletyperequired-rule)

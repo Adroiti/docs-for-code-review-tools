@@ -17,4 +17,4 @@ someVar.substring(1, 5)       // can use someVar[1..4] instead
 
 ## Further Reading
 
-* [CodeNarc - UnnecessarySubstring](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessarySubstring)
+* [CodeNarc - UnnecessarySubstring](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarysubstring-rule)

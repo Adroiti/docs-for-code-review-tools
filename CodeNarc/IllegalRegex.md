@@ -14,4 +14,4 @@ A RuleSet can contain any number of instances of this rule, but each should be c
 
 ## Further Reading
 
-* [CodeNarc - IllegalRegex](http://codenarc.sourceforge.net/codenarc-rules-generic.html#IllegalRegex)
+* [CodeNarc - IllegalRegex](https://codenarc.github.io/CodeNarc/codenarc-rules-generic.html#illegalregex-rule)

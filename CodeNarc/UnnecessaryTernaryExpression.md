@@ -27,4 +27,4 @@ ready ? minValue : minValue    // can be replaced by: minValue
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryTernaryExpression](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryTernaryExpression)
+* [CodeNarc - UnnecessaryTernaryExpression](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryternaryexpression-rule)

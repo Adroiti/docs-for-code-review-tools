@@ -23,4 +23,4 @@ if ([a, b, c]) { .. }
 
 ## Further Reading
 
-* [CodeNarc - ConstantIfExpression](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ConstantIfExpression)
+* [CodeNarc - ConstantIfExpression](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#constantifexpression-rule)

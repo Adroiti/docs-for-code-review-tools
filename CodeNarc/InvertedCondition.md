@@ -16,4 +16,4 @@ boolean isTenCharactersLong(String value) {
 
 ## Further Reading
 
-* [CodeNarc - InvertedCondition](http://codenarc.sourceforge.net/codenarc-rules-convention.html#InvertedCondition)
+* [CodeNarc - InvertedCondition](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#invertedcondition-rule)

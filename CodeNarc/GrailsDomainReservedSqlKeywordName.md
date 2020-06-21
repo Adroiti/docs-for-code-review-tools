@@ -15,4 +15,4 @@ Note: due to limited type information available during CodeNarc's operation, thi
 
 ## Further Reading
 
-* [CodeNarc - GrailsDomainReservedSqlKeywordName](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsDomainReservedSqlKeywordName)
+* [CodeNarc - GrailsDomainReservedSqlKeywordName](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsdomainreservedsqlkeywordname-rule)

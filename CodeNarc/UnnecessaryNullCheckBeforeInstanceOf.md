@@ -27,4 +27,4 @@ if (x != null && x instanceof SomeClass && x.isValid()) {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryNullCheckBeforeInstanceOf](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryNullCheckBeforeInstanceOf)
+* [CodeNarc - UnnecessaryNullCheckBeforeInstanceOf](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarynullcheckbeforeinstanceof-rule)

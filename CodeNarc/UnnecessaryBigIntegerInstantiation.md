@@ -8,4 +8,4 @@ It is unnecessary to instantiate `BigInteger` objects. Instead just use the lite
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryBigIntegerInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryBigIntegerInstantiation)
+* [CodeNarc - UnnecessaryBigIntegerInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarybigintegerinstantiation-rule)

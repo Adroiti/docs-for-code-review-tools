@@ -8,4 +8,4 @@ It is unnecessary to instantiate `Float` objects. Instead just use the float lit
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryFloatInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryFloatInstantiation)
+* [CodeNarc - UnnecessaryFloatInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryfloatinstantiation-rule)

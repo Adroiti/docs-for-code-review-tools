@@ -25,4 +25,4 @@ class Person {
 
 ## Further Reading
 
-* [CodeNarc - GrailsDuplicateConstraint](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsDuplicateConstraint)
+* [CodeNarc - GrailsDuplicateConstraint](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsduplicateconstraint-rule)

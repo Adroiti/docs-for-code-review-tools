@@ -19,4 +19,4 @@ Boolean.getBoolean()
 
 ## Further Reading
 
-* [CodeNarc - BooleanGetBoolean](http://codenarc.sourceforge.net/codenarc-rules-basic.html#BooleanGetBoolean)
+* [CodeNarc - BooleanGetBoolean](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#booleangetboolean-rule)

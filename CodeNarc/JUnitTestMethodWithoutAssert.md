@@ -22,4 +22,4 @@ If you'd like to add any method starting with 'ensure' to the ignores then you w
 
 ## Further Reading
 
-* [CodeNarc - JUnitTestMethodWithoutAssert](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitTestMethodWithoutAssert)
+* [CodeNarc - JUnitTestMethodWithoutAssert](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junittestmethodwithoutassert-rule)

@@ -22,4 +22,4 @@ def (f, g) = [1, 2]    // ok
 
 ## Further Reading
 
-* [CodeNarc - ConfusingMultipleReturns](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ConfusingMultipleReturns)
+* [CodeNarc - ConfusingMultipleReturns](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#confusingmultiplereturns-rule)

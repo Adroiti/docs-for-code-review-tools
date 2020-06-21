@@ -27,4 +27,4 @@ println 'Executing else logic...'
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryElseStatement](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryElseStatement)
+* [CodeNarc - UnnecessaryElseStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryelsestatement-rule)

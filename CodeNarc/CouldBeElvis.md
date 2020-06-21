@@ -25,4 +25,4 @@ x ?: 'some value'           // OK
 
 ## Further Reading
 
-* [CodeNarc - CouldBeElvis](http://codenarc.sourceforge.net/codenarc-rules-convention.html#CouldBeElvis)
+* [CodeNarc - CouldBeElvis](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#couldbeelvis-rule)

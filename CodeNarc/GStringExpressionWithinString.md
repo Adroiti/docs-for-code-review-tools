@@ -19,4 +19,4 @@ def str5 = 'abc {123}'                      // ok
 
 ## Further Reading
 
-* [CodeNarc - GStringExpressionWithinString](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#GStringExpressionWithinString)
+* [CodeNarc - GStringExpressionWithinString](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#gstringexpressionwithinstring-rule)

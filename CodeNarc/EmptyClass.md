@@ -8,4 +8,4 @@ Reports classes without methods, fields or properties. This rule ignores interfa
 
 ## Further Reading
 
-* [CodeNarc - EmptyClass](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyClass)
+* [CodeNarc - EmptyClass](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyclass-rule)

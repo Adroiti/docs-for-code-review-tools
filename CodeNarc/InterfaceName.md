@@ -12,4 +12,4 @@ Verifies that the name of an interface matches the regular expression specified 
 
 ## Further Reading
 
-* [CodeNarc - InterfaceName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#InterfaceName)
+* [CodeNarc - InterfaceName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#interfacename-rule)

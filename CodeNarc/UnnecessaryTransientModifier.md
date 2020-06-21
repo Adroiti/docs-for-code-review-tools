@@ -24,4 +24,4 @@ class SomeSerializableClass implements Serializable {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryTransientModifier](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryTransientModifier)
+* [CodeNarc - UnnecessaryTransientModifier](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarytransientmodifier-rule)

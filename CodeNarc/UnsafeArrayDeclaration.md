@@ -19,4 +19,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - UnsafeArrayDeclaration](http://codenarc.sourceforge.net/codenarc-rules-security.html#UnsafeArrayDeclaration)
+* [CodeNarc - UnsafeArrayDeclaration](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#unsafearraydeclaration-rule)

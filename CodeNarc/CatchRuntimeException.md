@@ -8,4 +8,4 @@ Checks for catching a `RuntimeException`. In most cases that is too broad or gen
 
 ## Further Reading
 
-* [CodeNarc - CatchRuntimeException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchRuntimeException)
+* [CodeNarc - CatchRuntimeException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catchruntimeexception-rule)

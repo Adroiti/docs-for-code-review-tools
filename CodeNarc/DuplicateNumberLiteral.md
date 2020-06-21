@@ -22,4 +22,4 @@ By default, the rule does not analyze test files. This rule sets the default val
 
 ## Further Reading
 
-* [CodeNarc - DuplicateNumberLiteral](http://codenarc.sourceforge.net/codenarc-rules-dry.html#DuplicateNumberLiteral)
+* [CodeNarc - DuplicateNumberLiteral](https://codenarc.github.io/CodeNarc/codenarc-rules-dry.html#duplicatenumberliteral-rule)

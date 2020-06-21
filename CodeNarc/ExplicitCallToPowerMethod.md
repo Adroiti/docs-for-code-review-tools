@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.power(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToPowerMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToPowerMethod)
+* [CodeNarc - ExplicitCallToPowerMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltopowermethod-rule)

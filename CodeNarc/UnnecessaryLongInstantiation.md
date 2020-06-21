@@ -8,4 +8,4 @@ It is unnecessary to instantiate `Long` objects. Instead just use the literal wi
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryLongInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryLongInstantiation)
+* [CodeNarc - UnnecessaryLongInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarylonginstantiation-rule)

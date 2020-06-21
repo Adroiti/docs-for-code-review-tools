@@ -8,4 +8,4 @@ Checks for throwing an instance of `java.lang.Error`. This is not appropriate wi
 
 ## Further Reading
 
-* [CodeNarc - ThrowError](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ThrowError)
+* [CodeNarc - ThrowError](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#throwerror-rule)

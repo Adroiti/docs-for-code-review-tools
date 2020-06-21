@@ -14,4 +14,4 @@ private final method() {}
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryFinalOnPrivateMethod](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryFinalOnPrivateMethod)
+* [CodeNarc - UnnecessaryFinalOnPrivateMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryfinalonprivatemethod-rule)

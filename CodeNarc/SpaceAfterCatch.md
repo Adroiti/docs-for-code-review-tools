@@ -15,4 +15,4 @@ try { } catch  (Exception e) { }        // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterCatch](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterCatch)
+* [CodeNarc - SpaceAfterCatch](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceaftercatch-rule)

@@ -19,4 +19,4 @@ class SomeClass {
 ## Further Reading
 
 * [SlideShare - Java Concurrency Gotchas](https://www.slideshare.net/alexmiller/java-concurrency-gotchas-3666977)
-* [CodeNarc - VolatileArrayField](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#VolatileArrayField)
+* [CodeNarc - VolatileArrayField](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#volatilearrayfield-rule)

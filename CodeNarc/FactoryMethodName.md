@@ -57,4 +57,4 @@ class WidgetBuilder {
 
 ## Further Reading
 
-* [CodeNarc - FactoryMethodName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#FactoryMethodName)
+* [CodeNarc - FactoryMethodName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#factorymethodname-rule)

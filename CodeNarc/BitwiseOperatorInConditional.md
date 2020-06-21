@@ -15,4 +15,4 @@ if (a & b) { }
 
 ## Further Reading
 
-* [CodeNarc - BitwiseOperatorInConditional](http://codenarc.sourceforge.net/codenarc-rules-basic.html#BitwiseOperatorInConditional)
+* [CodeNarc - BitwiseOperatorInConditional](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#bitwiseoperatorinconditional-rule)

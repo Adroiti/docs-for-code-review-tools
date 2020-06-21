@@ -18,4 +18,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptySwitchStatement](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptySwitchStatement)
+* [CodeNarc - EmptySwitchStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyswitchstatement-rule)

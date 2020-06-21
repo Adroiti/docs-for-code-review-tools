@@ -18,4 +18,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyForStatement](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyForStatement)
+* [CodeNarc - EmptyForStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyforstatement-rule)

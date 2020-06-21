@@ -45,4 +45,4 @@ class SomeClass {
 ## Further Reading
 
 * [SEI CERT Coding Standards - THI03-J. Always invoke wait() and await() methods inside a loop](https://www.securecoding.cert.org/confluence/display/java/THI03-J.+Always+invoke+wait()+and+await()+methods+inside+a+loop)
-* [CodeNarc - WaitOutsideOfWhileLoop](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#WaitOutsideOfWhileLoop)
+* [CodeNarc - WaitOutsideOfWhileLoop](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#waitoutsideofwhileloop-rule)

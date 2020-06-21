@@ -12,4 +12,4 @@ This rule also does not produce violations when the parameter is a double, e.g. 
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryBigDecimalInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryBigDecimalInstantiation)
+* [CodeNarc - UnnecessaryBigDecimalInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarybigdecimalinstantiation-rule)

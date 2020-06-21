@@ -10,4 +10,4 @@ This rule sets the default value of `applyToFilesMatching` to only match files u
 
 ## Further Reading
 
-* [CodeNarc - GrailsDomainWithServiceReference](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsDomainWithServiceReference)
+* [CodeNarc - GrailsDomainWithServiceReference](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsdomainwithservicereference-rule)

@@ -8,4 +8,4 @@ Makes sure each source file ends with a newline character.
 
 ## Further Reading
 
-* [CodeNarc - FileEndsWithoutNewline](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#FileEndsWithoutNewline)
+* [CodeNarc - FileEndsWithoutNewline](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#fileendswithoutnewline-rule)

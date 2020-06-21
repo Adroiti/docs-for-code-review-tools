@@ -24,4 +24,4 @@ class SomeCorrectClass {
 
 ## Further Reading
 
-* [CodeNarc - StaticMatcherField](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#StaticMatcherField)
+* [CodeNarc - StaticMatcherField](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#staticmatcherfield-rule)

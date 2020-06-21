@@ -16,4 +16,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - AssignCollectionUnique](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#AssignCollectionUnique)
+* [CodeNarc - AssignCollectionUnique](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#assigncollectionunique-rule)

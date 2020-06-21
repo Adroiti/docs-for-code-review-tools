@@ -8,4 +8,4 @@ If a class defines a `void close()` then that class should implement `java.io.Cl
 
 ## Further Reading
 
-* [CodeNarc - CloseWithoutCloseable](http://codenarc.sourceforge.net/codenarc-rules-design.html#CloseWithoutCloseable)
+* [CodeNarc - CloseWithoutCloseable](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#closewithoutcloseable-rule)

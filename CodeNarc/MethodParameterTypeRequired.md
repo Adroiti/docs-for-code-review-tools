@@ -20,4 +20,4 @@ void methodWithObjectParameter(Object parameter)              // OK
 
 ## Further Reading
 
-* [CodeNarc - MethodParameterTypeRequired](http://codenarc.sourceforge.net/codenarc-rules-convention.html#MethodParameterTypeRequired)
+* [CodeNarc - MethodParameterTypeRequired](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#methodparametertyperequired-rule)

@@ -18,4 +18,4 @@ prop.substring(0, 1)        // OK, end is specified
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryCallToSubstring](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryCallToSubstring)
+* [CodeNarc - UnnecessaryCallToSubstring](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarycalltosubstring-rule)

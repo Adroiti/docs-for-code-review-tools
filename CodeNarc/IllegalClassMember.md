@@ -65,4 +65,4 @@ A RuleSet can contain any number of instances of this rule, but each should be c
 
 ## Further Reading
 
-* [CodeNarc - IllegalClassMember](http://codenarc.sourceforge.net/codenarc-rules-generic.html#IllegalClassMember)
+* [CodeNarc - IllegalClassMember](https://codenarc.github.io/CodeNarc/codenarc-rules-generic.html#illegalclassmember-rule)

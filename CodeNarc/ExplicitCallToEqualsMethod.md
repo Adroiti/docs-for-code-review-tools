@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.equals(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToEqualsMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToEqualsMethod)
+* [CodeNarc - ExplicitCallToEqualsMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoequalsmethod-rule)

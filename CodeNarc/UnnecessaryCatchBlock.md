@@ -8,4 +8,4 @@ Violations are triggered when a *catch* block does nothing but throw the origina
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryCatchBlock](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryCatchBlock)
+* [CodeNarc - UnnecessaryCatchBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarycatchblock-rule)

@@ -14,4 +14,4 @@ class SomeException extends Throwable { }   // violation
 
 ## Further Reading
 
-* [CodeNarc - ExceptionExtendsThrowable](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ExceptionExtendsThrowable)
+* [CodeNarc - ExceptionExtendsThrowable](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#exceptionextendsthrowable-rule)

@@ -51,4 +51,4 @@ class Child2 extends Parent {
 
 ## Further Reading
 
-* [CodeNarc - GetterMethodCouldBeProperty](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#GetterMethodCouldBeProperty)
+* [CodeNarc - GetterMethodCouldBeProperty](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#gettermethodcouldbeproperty-rule)

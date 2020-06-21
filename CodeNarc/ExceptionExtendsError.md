@@ -17,4 +17,4 @@ class SomeException extends Exception { }  // OK
 
 ## Further Reading
 
-* [CodeNarc - ExceptionExtendsError](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ExceptionExtendsError)
+* [CodeNarc - ExceptionExtendsError](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#exceptionextendserror-rule)

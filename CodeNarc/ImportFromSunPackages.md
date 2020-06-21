@@ -19,4 +19,4 @@ public class SomeClass{}
 
 ## Further Reading
 
-* [CodeNarc - ImportFromSunPackages](http://codenarc.sourceforge.net/codenarc-rules-imports.html#ImportFromSunPackages)
+* [CodeNarc - ImportFromSunPackages](https://codenarc.github.io/CodeNarc/codenarc-rules-imports.html#importfromsunpackages-rule)

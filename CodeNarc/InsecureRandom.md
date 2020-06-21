@@ -26,4 +26,4 @@ Example of violations:
 ## Further Reading
 
 * [Stack Overflow - Difference between java.util.Random and java.security.SecureRandom](https://stackoverflow.com/questions/11051205/difference-between-java-util-random-and-java-security-securerandom)
-* [CodeNarc - InsecureRandom](http://codenarc.sourceforge.net/codenarc-rules-security.html#InsecureRandom)
+* [CodeNarc - InsecureRandom](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#insecurerandom-rule)

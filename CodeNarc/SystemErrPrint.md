@@ -8,4 +8,4 @@ Checks for calls to `System.err.print()`, `System.err.println()` or `System.err.
 
 ## Further Reading
 
-* [CodeNarc - SystemErrPrint](http://codenarc.sourceforge.net/codenarc-rules-logging.html#SystemErrPrint)
+* [CodeNarc - SystemErrPrint](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#systemerrprint-rule)

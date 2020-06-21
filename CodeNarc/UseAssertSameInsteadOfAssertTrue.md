@@ -10,4 +10,4 @@ This rule sets the default value of the *applyToClassNames* property to only mat
 
 ## Further Reading
 
-* [CodeNarc - UseAssertSameInsteadOfAssertTrue](http://codenarc.sourceforge.net/codenarc-rules-junit.html#UseAssertSameInsteadOfAssertTrue)
+* [CodeNarc - UseAssertSameInsteadOfAssertTrue](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#useassertsameinsteadofasserttrue-rule)

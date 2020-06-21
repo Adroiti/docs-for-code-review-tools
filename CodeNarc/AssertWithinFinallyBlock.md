@@ -20,4 +20,4 @@ int someMethod(int count) {
 
 ## Further Reading
 
-* [CodeNarc - AssertWithinFinallyBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#AssertWithinFinallyBlock)
+* [CodeNarc - AssertWithinFinallyBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#assertwithinfinallyblock-rule)

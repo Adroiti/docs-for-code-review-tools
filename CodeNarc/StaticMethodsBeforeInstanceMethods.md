@@ -31,4 +31,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - StaticMethodsBeforeInstanceMethods](http://codenarc.sourceforge.net/codenarc-rules-convention.html#StaticMethodsBeforeInstanceMethods)
+* [CodeNarc - StaticMethodsBeforeInstanceMethods](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#staticmethodsbeforeinstancemethods-rule)

@@ -24,4 +24,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterSemicolon](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterSemicolon)
+* [CodeNarc - SpaceAfterSemicolon](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceaftersemicolon-rule)

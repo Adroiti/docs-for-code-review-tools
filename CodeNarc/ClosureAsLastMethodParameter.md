@@ -18,4 +18,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - ClosureAsLastMethodParameter](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ClosureAsLastMethodParameter)
+* [CodeNarc - ClosureAsLastMethodParameter](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#closureaslastmethodparameter-rule)

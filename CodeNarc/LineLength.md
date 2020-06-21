@@ -17,4 +17,4 @@ NOTE: This rule does not support the `@SuppressAnnotations` annotation or the cl
 
 ## Further Reading
 
-* [CodeNarc - LineLength](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#LineLength)
+* [CodeNarc - LineLength](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#linelength-rule)

@@ -18,4 +18,4 @@ if (exp % 2) {}     // ok
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryModOne](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryModOne)
+* [CodeNarc - UnnecessaryModOne](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarymodone-rule)

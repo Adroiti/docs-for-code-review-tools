@@ -30,4 +30,4 @@ abstract class SomeClass extends BaseParent{
 
 ## Further Reading
 
-* [CodeNarc - AbstractClassWithoutAbstractMethod](http://codenarc.sourceforge.net/codenarc-rules-design.html#AbstractClassWithoutAbstractMethod)
+* [CodeNarc - AbstractClassWithoutAbstractMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#abstractclasswithoutabstractmethod-rule)

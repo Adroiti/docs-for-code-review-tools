@@ -17,4 +17,4 @@ def someMap = new Hashtable()           // violation
 ## Further Reading
 
 * [Java API Specification - Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
-* [CodeNarc - HashtableIsObsolete](http://codenarc.sourceforge.net/codenarc-rules-convention.html#HashtableIsObsolete)
+* [CodeNarc - HashtableIsObsolete](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#hashtableisobsolete-rule)

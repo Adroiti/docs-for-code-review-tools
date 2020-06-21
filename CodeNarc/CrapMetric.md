@@ -33,4 +33,4 @@ Where **comp(m)** is the *cyclomatic complexity* of method m, and **cov(m)** is 
 
 ## Further Reading
 
-* [CodeNarc - CrapMetric](http://codenarc.sourceforge.net/codenarc-rules-size.html#CrapMetric)
+* [CodeNarc - CrapMetric](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#crapmetric-rule)

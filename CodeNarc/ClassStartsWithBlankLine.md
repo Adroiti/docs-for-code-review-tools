@@ -54,4 +54,4 @@ If ignoreSingleLineClasses is `false` and blankLineRequired is `false`
 
 ## Further Reading
 
-* [CodeNarc - ClassStartsWithBlankLine](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#ClassStartsWithBlankLine)
+* [CodeNarc - ClassStartsWithBlankLine](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#classstartswithblankline-rule)

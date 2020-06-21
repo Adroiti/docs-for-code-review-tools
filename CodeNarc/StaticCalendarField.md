@@ -31,4 +31,4 @@ class SomeCorrectClass {
 
 ## Further Reading
 
-* [CodeNarc - StaticCalendarField](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#StaticCalendarField)
+* [CodeNarc - StaticCalendarField](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#staticcalendarfield-rule)

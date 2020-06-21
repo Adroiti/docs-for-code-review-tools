@@ -23,4 +23,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocMissingThrowsDescription](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocMissingThrowsDescription)
+* [CodeNarc - JavadocMissingThrowsDescription](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocmissingthrowsdescription-rule)

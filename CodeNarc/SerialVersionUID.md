@@ -10,4 +10,4 @@ From API javadoc for `java.io.Serializable`: *It is also strongly advised that e
 
 ## Further Reading
 
-* [CodeNarc - SerialVersionUID](http://codenarc.sourceforge.net/codenarc-rules-serialization.html#SerialVersionUID)
+* [CodeNarc - SerialVersionUID](https://codenarc.github.io/CodeNarc/codenarc-rules-serialization.html#serialversionuid-rule)

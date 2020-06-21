@@ -29,4 +29,4 @@ writer.append('a', 'b').append('Hello')     // two arg append is unknown
 
 ## Further Reading
 
-* [CodeNarc - ConsecutiveLiteralAppends](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#ConsecutiveLiteralAppends)
+* [CodeNarc - ConsecutiveLiteralAppends](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#consecutiveliteralappends-rule)

@@ -29,4 +29,4 @@ try {
 
 ## Further Reading
 
-* [CodeNarc - ExceptionNotThrown](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ExceptionNotThrown)
+* [CodeNarc - ExceptionNotThrown](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#exceptionnotthrown-rule)

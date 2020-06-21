@@ -22,4 +22,4 @@ class SomeTestCase {
 
 ## Further Reading
 
-* [CodeNarc - JUnitLostTest](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitLostTest)
+* [CodeNarc - JUnitLostTest](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitlosttest-rule)

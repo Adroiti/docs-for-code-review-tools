@@ -48,4 +48,4 @@ if (obj != null && obj.method() && isValid(obj)) { }
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryNullCheck](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryNullCheck)
+* [CodeNarc - UnnecessaryNullCheck](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarynullcheck-rule)

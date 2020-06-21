@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.plus(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToPlusMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToPlusMethod)
+* [CodeNarc - ExplicitCallToPlusMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoplusmethod-rule)

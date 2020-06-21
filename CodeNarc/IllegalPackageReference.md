@@ -34,4 +34,4 @@ A RuleSet can contain any number of instances of this rule, but each should be c
 
 ## Further Reading
 
-* [CodeNarc - IllegalPackageReference](http://codenarc.sourceforge.net/codenarc-rules-generic.html#IllegalPackageReference)
+* [CodeNarc - IllegalPackageReference](https://codenarc.github.io/CodeNarc/codenarc-rules-generic.html#illegalpackagereference-rule)

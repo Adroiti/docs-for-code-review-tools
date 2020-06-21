@@ -20,4 +20,4 @@ Integer.getInteger(value, radix, locale)
 
 ## Further Reading
 
-* [CodeNarc - IntegerGetInteger](http://codenarc.sourceforge.net/codenarc-rules-basic.html#IntegerGetInteger)
+* [CodeNarc - IntegerGetInteger](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#integergetinteger-rule)

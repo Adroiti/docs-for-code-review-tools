@@ -30,4 +30,4 @@ def String string6 = 'example'
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryDefInVariableDeclaration](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryDefInVariableDeclaration)
+* [CodeNarc - UnnecessaryDefInVariableDeclaration](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarydefinvariabledeclaration-rule)

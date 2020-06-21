@@ -8,4 +8,4 @@ Checks for calls to `this.print()`, `this.println()` or `this.printf()`. Conside
 
 ## Further Reading
 
-* [CodeNarc - Println](http://codenarc.sourceforge.net/codenarc-rules-logging.html#Println)
+* [CodeNarc - Println](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#println-rule)

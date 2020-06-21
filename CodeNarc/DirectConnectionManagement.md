@@ -15,4 +15,4 @@ java.sql.DriverManager.getConnection()
 
 ## Further Reading
 
-* [CodeNarc - DirectConnectionManagement](http://codenarc.sourceforge.net/codenarc-rules-jdbc.html#DirectConnectionManagement)
+* [CodeNarc - DirectConnectionManagement](https://codenarc.github.io/CodeNarc/codenarc-rules-jdbc.html#directconnectionmanagement-rule)

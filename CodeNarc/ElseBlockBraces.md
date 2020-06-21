@@ -10,4 +10,4 @@ By default, braces are not required for an *else* if it is followed immediately 
 
 ## Further Reading
 
-* [CodeNarc - ElseBlockBraces](http://codenarc.sourceforge.net/codenarc-rules-braces.html#ElseBlockBraces)
+* [CodeNarc - ElseBlockBraces](https://codenarc.github.io/CodeNarc/codenarc-rules-braces.html#elseblockbraces-rule)

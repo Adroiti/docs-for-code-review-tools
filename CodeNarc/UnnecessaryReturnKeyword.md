@@ -8,4 +8,4 @@ In Groovy, the `return` keyword is often optional. If a statement is the last li
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryReturnKeyword](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryReturnKeyword)
+* [CodeNarc - UnnecessaryReturnKeyword](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryreturnkeyword-rule)

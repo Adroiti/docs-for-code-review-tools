@@ -22,4 +22,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptyReturnTag](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptyReturnTag)
+* [CodeNarc - JavadocEmptyReturnTag](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptyreturntag-rule)

@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.getAt(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToGetAtMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToGetAtMethod)
+* [CodeNarc - ExplicitCallToGetAtMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltogetatmethod-rule)

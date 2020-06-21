@@ -34,4 +34,4 @@ public class SomeSpec extends spock.lang.Specification {
 
 ## Further Reading
 
-* [CodeNarc - SpockIgnoreRestUsed](http://codenarc.sourceforge.net/codenarc-rules-junit.html#SpockIgnoreRestUsed)
+* [CodeNarc - SpockIgnoreRestUsed](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#spockignorerestused-rule)

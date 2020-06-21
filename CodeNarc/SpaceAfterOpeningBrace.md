@@ -46,4 +46,4 @@ shouldFail(Exception) {doStuff() }          // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterOpeningBrace](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterOpeningBrace)
+* [CodeNarc - SpaceAfterOpeningBrace](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceafteropeningbrace-rule)

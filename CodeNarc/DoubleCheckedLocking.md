@@ -43,4 +43,4 @@ class someClass  {
 ## Further Reading
 
 * [Wikipedia - Double-checked locking](https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java)
-* [CodeNarc - DoubleCheckedLocking](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#DoubleCheckedLocking)
+* [CodeNarc - DoubleCheckedLocking](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#doublecheckedlocking-rule)

@@ -31,4 +31,4 @@ def j = 'Hello' - "$World"  // OK because not +
 
 ## Further Reading
 
-* [CodeNarc - ConsecutiveStringConcatenation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#ConsecutiveStringConcatenation)
+* [CodeNarc - ConsecutiveStringConcatenation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#consecutivestringconcatenation-rule)

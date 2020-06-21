@@ -14,4 +14,4 @@ interface SomeInterface extends other.SomeInterface { }     // violation
 
 ## Further Reading
 
-* [CodeNarc - InterfaceNameSameAsSuperInterface](http://codenarc.sourceforge.net/codenarc-rules-naming.html#InterfaceNameSameAsSuperInterface)
+* [CodeNarc - InterfaceNameSameAsSuperInterface](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#interfacenamesameassuperinterface-rule)

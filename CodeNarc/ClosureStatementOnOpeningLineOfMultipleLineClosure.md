@@ -16,4 +16,4 @@ def closure = { name -> println name
 
 ## Further Reading
 
-* [CodeNarc - ClosureStatementOnOpeningLineOfMultipleLineClosure](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#ClosureStatementOnOpeningLineOfMultipleLineClosure)
+* [CodeNarc - ClosureStatementOnOpeningLineOfMultipleLineClosure](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#closurestatementonopeninglineofmultiplelineclosure-rule)

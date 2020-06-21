@@ -40,4 +40,4 @@ You can suppress the error by annotating a class or method with the `@SuppressWa
 
 ## Further Reading
 
-* [CodeNarc - DuplicateListLiteral](http://codenarc.sourceforge.net/codenarc-rules-dry.html#DuplicateListLiteral)
+* [CodeNarc - DuplicateListLiteral](https://codenarc.github.io/CodeNarc/codenarc-rules-dry.html#duplicatelistliteral-rule)

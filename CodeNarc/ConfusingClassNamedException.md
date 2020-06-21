@@ -8,4 +8,4 @@ Class is not derived from another exception, but ends with 'Exception'. This wil
 
 ## Further Reading
 
-* [CodeNarc - ConfusingClassNamedException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ConfusingClassNamedException)
+* [CodeNarc - ConfusingClassNamedException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#confusingclassnamedexception-rule)

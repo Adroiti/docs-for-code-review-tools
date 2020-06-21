@@ -20,4 +20,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyFinallyBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyFinallyBlock)
+* [CodeNarc - EmptyFinallyBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyfinallyblock-rule)

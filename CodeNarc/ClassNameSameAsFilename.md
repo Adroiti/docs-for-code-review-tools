@@ -8,4 +8,4 @@ Outer type name and the file name should match to avoid any confusion or misunde
 
 ## Further Reading
 
-* [CodeNarc - ClassNameSameAsFilename](http://codenarc.sourceforge.net/codenarc-rules-naming.html#ClassNameSameAsFilename)
+* [CodeNarc - ClassNameSameAsFilename](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#classnamesameasfilename-rule)

@@ -28,4 +28,4 @@ public void testSomething() {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryFail](http://codenarc.sourceforge.net/codenarc-rules-junit.html#UnnecessaryFail)
+* [CodeNarc - UnnecessaryFail](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#unnecessaryfail-rule)

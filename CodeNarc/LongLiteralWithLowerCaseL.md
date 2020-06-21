@@ -15,4 +15,4 @@ def y = 55l
 
 ## Further Reading
 
-* [CodeNarc - LongLiteralWithLowerCaseL](http://codenarc.sourceforge.net/codenarc-rules-convention.html#LongLiteralWithLowerCaseL)
+* [CodeNarc - LongLiteralWithLowerCaseL](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#longliteralwithlowercasel-rule)

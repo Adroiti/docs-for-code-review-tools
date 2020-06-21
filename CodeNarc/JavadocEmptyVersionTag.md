@@ -20,4 +20,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptyVersionTag](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptyVersionTag)
+* [CodeNarc - JavadocEmptyVersionTag](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptyversiontag-rule)

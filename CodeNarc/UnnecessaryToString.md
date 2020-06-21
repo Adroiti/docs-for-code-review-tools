@@ -32,4 +32,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryToString](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryToString)
+* [CodeNarc - UnnecessaryToString](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarytostring-rule)

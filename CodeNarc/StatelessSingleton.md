@@ -34,4 +34,4 @@ class Service {                                       // violation
 
 ## Further Reading
 
-* [CodeNarc - StatelessSingleton](http://codenarc.sourceforge.net/codenarc-rules-design.html#StatelessSingleton)
+* [CodeNarc - StatelessSingleton](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#statelesssingleton-rule)

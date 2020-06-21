@@ -8,4 +8,4 @@ Checks for calls to `System.out.print()`, `System.out.println()` or `System.out.
 
 ## Further Reading
 
-* [CodeNarc - SystemOutPrint](http://codenarc.sourceforge.net/codenarc-rules-logging.html#SystemOutPrint)
+* [CodeNarc - SystemOutPrint](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#systemoutprint-rule)

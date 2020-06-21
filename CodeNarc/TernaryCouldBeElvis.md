@@ -31,4 +31,4 @@ NOTE: If the *boolean* and *true* expressions are the same method call, and that
 
 ## Further Reading
 
-* [CodeNarc - TernaryCouldBeElvis](http://codenarc.sourceforge.net/codenarc-rules-convention.html#TernaryCouldBeElvis)
+* [CodeNarc - TernaryCouldBeElvis](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#ternarycouldbeelvis-rule)

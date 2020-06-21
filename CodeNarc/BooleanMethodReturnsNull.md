@@ -8,4 +8,4 @@ Checks for a method with `Boolean` return type that returns an explicit `null`. 
 
 ## Further Reading
 
-* [CodeNarc - BooleanMethodReturnsNull](http://codenarc.sourceforge.net/codenarc-rules-design.html#BooleanMethodReturnsNull)
+* [CodeNarc - BooleanMethodReturnsNull](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#booleanmethodreturnsnull-rule)

@@ -34,4 +34,4 @@ null ?: y
 
 ## Further Reading
 
-* [CodeNarc - ConstantTernaryExpression](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ConstantTernaryExpression)
+* [CodeNarc - ConstantTernaryExpression](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#constantternaryexpression-rule)

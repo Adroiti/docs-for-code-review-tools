@@ -21,4 +21,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptyExceptionTag](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptyExceptionTag)
+* [CodeNarc - JavadocEmptyExceptionTag](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptyexceptiontag-rule)

@@ -10,4 +10,4 @@ A program should never call finalize explicitly, except to call `super.finalize(
 
 ## Further Reading
 
-* [CodeNarc - PublicFinalizeMethod](http://codenarc.sourceforge.net/codenarc-rules-security.html#PublicFinalizeMethod)
+* [CodeNarc - PublicFinalizeMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#publicfinalizemethod-rule)

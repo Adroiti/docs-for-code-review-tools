@@ -8,4 +8,4 @@ Checks for throwing an instance of `java.lang.NullPointerException`. Application
 
 ## Further Reading
 
-* [CodeNarc - ThrowNullPointerException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ThrowNullPointerException)
+* [CodeNarc - ThrowNullPointerException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#thrownullpointerexception-rule)

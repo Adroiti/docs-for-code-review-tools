@@ -17,4 +17,4 @@ public class SomeClass{}
 
 ## Further Reading
 
-* [CodeNarc - MisorderedStaticImports](http://codenarc.sourceforge.net/codenarc-rules-imports.html#MisorderedStaticImports)
+* [CodeNarc - MisorderedStaticImports](https://codenarc.github.io/CodeNarc/codenarc-rules-imports.html#misorderedstaticimports-rule)

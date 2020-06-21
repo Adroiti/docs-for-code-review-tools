@@ -32,4 +32,4 @@ def f = x.getAt(z.size() -1)   // different objects
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryCallForLastElement](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryCallForLastElement)
+* [CodeNarc - UnnecessaryCallForLastElement](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarycallforlastelement-rule)

@@ -8,4 +8,4 @@ It is unnecessary to instantiate `Integer` objects. Instead just use the literal
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryIntegerInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryIntegerInstantiation)
+* [CodeNarc - UnnecessaryIntegerInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryintegerinstantiation-rule)

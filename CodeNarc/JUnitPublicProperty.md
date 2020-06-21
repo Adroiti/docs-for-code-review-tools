@@ -28,4 +28,4 @@ class SomeTestCase {
 
 ## Further Reading
 
-* [CodeNarc - JUnitPublicProperty](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitPublicProperty)
+* [CodeNarc - JUnitPublicProperty](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitpublicproperty-rule)

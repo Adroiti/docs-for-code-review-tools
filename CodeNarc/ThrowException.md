@@ -8,4 +8,4 @@ Checks for throwing an instance of `java.lang.Exception`. Throw an instance of a
 
 ## Further Reading
 
-* [CodeNarc - ThrowException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ThrowException)
+* [CodeNarc - ThrowException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#throwexception-rule)

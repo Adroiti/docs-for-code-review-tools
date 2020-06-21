@@ -18,4 +18,4 @@ int k = +~8             // violation
 
 ## Further Reading
 
-* [CodeNarc - MultipleUnaryOperators](http://codenarc.sourceforge.net/codenarc-rules-basic.html#MultipleUnaryOperators)
+* [CodeNarc - MultipleUnaryOperators](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#multipleunaryoperators-rule)

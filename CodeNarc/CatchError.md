@@ -8,4 +8,4 @@ Checks for catching a `Error`. In most cases that is much too broad, and is also
 
 ## Further Reading
 
-* [CodeNarc - CatchError](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchError)
+* [CodeNarc - CatchError](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catcherror-rule)

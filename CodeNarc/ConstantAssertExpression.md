@@ -23,4 +23,4 @@ assert [a, b, c]
 
 ## Further Reading
 
-* [CodeNarc - ConstantAssertExpression](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ConstantAssertExpression)
+* [CodeNarc - ConstantAssertExpression](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#constantassertexpression-rule)

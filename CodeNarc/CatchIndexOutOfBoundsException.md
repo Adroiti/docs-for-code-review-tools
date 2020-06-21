@@ -8,4 +8,4 @@ Checks for catching a `IndexOutOfBoundsException`. Catching `IndexOutOfBoundsExc
 
 ## Further Reading
 
-* [CodeNarc - CatchIndexOutOfBoundsException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchIndexOutOfBoundsException)
+* [CodeNarc - CatchIndexOutOfBoundsException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catchindexoutofboundsexception-rule)

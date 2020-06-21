@@ -16,4 +16,4 @@ class BadClass implements Cloneable {
 
 ## Further Reading
 
-* [CodeNarc - CloneableWithoutClone](http://codenarc.sourceforge.net/codenarc-rules-design.html#CloneableWithoutClone)
+* [CodeNarc - CloneableWithoutClone](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#cloneablewithoutclone-rule)

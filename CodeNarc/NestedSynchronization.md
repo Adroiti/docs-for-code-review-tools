@@ -23,4 +23,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - NestedSynchronization](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#NestedSynchronization)
+* [CodeNarc - NestedSynchronization](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#nestedsynchronization-rule)

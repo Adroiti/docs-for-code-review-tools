@@ -49,4 +49,4 @@ Example of code that does not cause violations:
 
 ## Further Reading
 
-* [CodeNarc - UnusedMethodParameter](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedMethodParameter)
+* [CodeNarc - UnusedMethodParameter](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedmethodparameter-rule)

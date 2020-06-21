@@ -14,4 +14,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryParenthesesForMethodCallWithClosure](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryParenthesesForMethodCallWithClosure)
+* [CodeNarc - UnnecessaryParenthesesForMethodCallWithClosure](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryparenthesesformethodcallwithclosure-rule)

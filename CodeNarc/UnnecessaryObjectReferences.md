@@ -50,4 +50,4 @@ def p2 = new Person().identity {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryObjectReferences](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryObjectReferences)
+* [CodeNarc - UnnecessaryObjectReferences](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryobjectreferences-rule)

@@ -20,4 +20,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - Instanceof](http://codenarc.sourceforge.net/codenarc-rules-design.html#Instanceof)
+* [CodeNarc - Instanceof](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#instanceof-rule)

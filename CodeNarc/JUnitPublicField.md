@@ -25,4 +25,4 @@ class SomeTestCase {
 
 ## Further Reading
 
-* [CodeNarc - JUnitPublicField](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitPublicField)
+* [CodeNarc - JUnitPublicField](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitpublicfield-rule)

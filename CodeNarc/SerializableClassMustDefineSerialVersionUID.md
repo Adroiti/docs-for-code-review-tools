@@ -16,4 +16,4 @@ class SomeClass imlements Serializable {
 
 ## Further Reading
 
-* [CodeNarc - SerializableClassMustDefineSerialVersionUID](http://codenarc.sourceforge.net/codenarc-rules-serialization.html#SerializableClassMustDefineSerialVersionUID)
+* [CodeNarc - SerializableClassMustDefineSerialVersionUID](https://codenarc.github.io/CodeNarc/codenarc-rules-serialization.html#serializableclassmustdefineserialversionuid-rule)

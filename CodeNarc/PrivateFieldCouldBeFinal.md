@@ -13,4 +13,4 @@ This rule finds `private` fields that are only set within a *constructor* or *fi
 
 ## Further Reading
 
-* [CodeNarc - PrivateFieldCouldBeFinal](http://codenarc.sourceforge.net/codenarc-rules-design.html#PrivateFieldCouldBeFinal)
+* [CodeNarc - PrivateFieldCouldBeFinal](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#privatefieldcouldbefinal-rule)

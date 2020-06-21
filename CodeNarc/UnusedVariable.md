@@ -18,4 +18,4 @@ Known limitations:
 
 ## Further Reading
 
-* [CodeNarc - UnusedVariable](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedVariable)
+* [CodeNarc - UnusedVariable](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedvariable-rule)

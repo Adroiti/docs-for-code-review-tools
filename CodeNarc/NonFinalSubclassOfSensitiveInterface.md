@@ -32,4 +32,4 @@ class SomePrivilegedActionException extends PrivilegedActionException {
 
 ## Further Reading
 
-* [CodeNarc - NonFinalSubclassOfSensitiveInterface](http://codenarc.sourceforge.net/codenarc-rules-security.html#NonFinalSubclassOfSensitiveInterface)
+* [CodeNarc - NonFinalSubclassOfSensitiveInterface](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#nonfinalsubclassofsensitiveinterface-rule)

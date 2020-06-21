@@ -17,4 +17,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - UnsafeImplementationAsMap](http://codenarc.sourceforge.net/codenarc-rules-enhanced.html#UnsafeImplementationAsMap)
+* [CodeNarc - UnsafeImplementationAsMap](https://codenarc.github.io/CodeNarc/codenarc-rules-enhanced.html#unsafeimplementationasmap-rule)

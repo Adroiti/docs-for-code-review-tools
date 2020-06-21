@@ -16,4 +16,4 @@ def method() {
 
 ## Further Reading
 
-* [CodeNarc - SystemRunFinalizersOnExit](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SystemRunFinalizersOnExit)
+* [CodeNarc - SystemRunFinalizersOnExit](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#systemrunfinalizersonexit-rule)

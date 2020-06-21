@@ -23,4 +23,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - FieldTypeRequired](http://codenarc.sourceforge.net/codenarc-rules-convention.html#FieldTypeRequired)
+* [CodeNarc - FieldTypeRequired](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#fieldtyperequired-rule)

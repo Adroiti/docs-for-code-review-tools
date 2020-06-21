@@ -18,4 +18,4 @@ You can suppress the error by annotating a class or method with the `@SuppressWa
 
 ## Further Reading
 
-* [CodeNarc - DuplicateStringLiteral](http://codenarc.sourceforge.net/codenarc-rules-dry.html#DuplicateStringLiteral)
+* [CodeNarc - DuplicateStringLiteral](https://codenarc.github.io/CodeNarc/codenarc-rules-dry.html#duplicatestringliteral-rule)

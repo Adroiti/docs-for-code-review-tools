@@ -17,4 +17,4 @@ System.getSecurityManager().getThreadGroup()
 
 ## Further Reading
 
-* [CodeNarc - ThreadGroup](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#ThreadGroup)
+* [CodeNarc - ThreadGroup](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#threadgroup-rule)

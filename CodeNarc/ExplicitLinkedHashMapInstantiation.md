@@ -8,4 +8,4 @@ This rule checks for the explicit instantiation of a `LinkedHashMap` using the n
 
 ## Further Reading
 
-* [CodeNarc - ExplicitLinkedHashMapInstantiation](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitLinkedHashMapInstantiation)
+* [CodeNarc - ExplicitLinkedHashMapInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitlinkedhashmapinstantiation-rule)

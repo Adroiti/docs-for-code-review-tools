@@ -8,4 +8,4 @@ This rule detects calling JUnit style assertions like `assertEquals`, `assertTru
 
 ## Further Reading
 
-* [CodeNarc - JUnitStyleAssertions](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitStyleAssertions)
+* [CodeNarc - JUnitStyleAssertions](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitstyleassertions-rule)

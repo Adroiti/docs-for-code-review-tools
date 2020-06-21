@@ -8,4 +8,4 @@ Checks the location of the opening brace (`{`) for for loops. By default, requir
 
 ## Further Reading
 
-* [CodeNarc - BracesForForLoop](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BracesForForLoop)
+* [CodeNarc - BracesForForLoop](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#bracesforforloop-rule)

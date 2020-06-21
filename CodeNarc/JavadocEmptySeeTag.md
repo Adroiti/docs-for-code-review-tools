@@ -41,4 +41,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptySeeTag](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptySeeTag)
+* [CodeNarc - JavadocEmptySeeTag](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptyseetag-rule)

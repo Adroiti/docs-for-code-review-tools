@@ -18,4 +18,4 @@ try {
 
 ## Further Reading
 
-* [CodeNarc - SwallowThreadDeath](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#SwallowThreadDeath)
+* [CodeNarc - SwallowThreadDeath](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#swallowthreaddeath-rule)

@@ -12,4 +12,4 @@ This rule has a property: `allowNonStaticLogger`, which defaults to `false`. Set
 
 ## Further Reading
 
-* [CodeNarc - LoggerWithWrongModifiers](http://codenarc.sourceforge.net/codenarc-rules-logging.html#LoggerWithWrongModifiers)
+* [CodeNarc - LoggerWithWrongModifiers](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#loggerwithwrongmodifiers-rule)

@@ -16,4 +16,4 @@ class Person {
 
 ## Further Reading
 
-* [CodeNarc - PublicInstanceField](http://codenarc.sourceforge.net/codenarc-rules-design.html#PublicInstanceField)
+* [CodeNarc - PublicInstanceField](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#publicinstancefield-rule)

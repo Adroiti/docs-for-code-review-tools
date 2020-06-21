@@ -20,4 +20,4 @@ class ClassOverridingToString {
 
 ## Further Reading
 
-* [CodeNarc - MissingOverrideAnnotation](http://codenarc.sourceforge.net/codenarc-rules-enhanced.html#MissingOverrideAnnotation)
+* [CodeNarc - MissingOverrideAnnotation](https://codenarc.github.io/CodeNarc/codenarc-rules-enhanced.html#missingoverrideannotation-rule)

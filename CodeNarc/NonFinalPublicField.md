@@ -10,4 +10,4 @@ All public member variables in an Applet and in classes used by an Applet should
 
 ## Further Reading
 
-* [CodeNarc - NonFinalPublicField](http://codenarc.sourceforge.net/codenarc-rules-security.html#NonFinalPublicField)
+* [CodeNarc - NonFinalPublicField](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#nonfinalpublicfield-rule)

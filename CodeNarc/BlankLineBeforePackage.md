@@ -8,4 +8,4 @@ Makes sure there are no blank lines before the package declaration of a source c
 
 ## Further Reading
 
-* [CodeNarc - BlankLineBeforePackage](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BlankLineBeforePackage)
+* [CodeNarc - BlankLineBeforePackage](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#blanklinebeforepackage-rule)

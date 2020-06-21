@@ -23,4 +23,4 @@ int someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - ReturnFromFinallyBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ReturnFromFinallyBlock)
+* [CodeNarc - ReturnFromFinallyBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#returnfromfinallyblock-rule)

@@ -8,4 +8,4 @@ Checks for an *import* from any package that is already automatically imported f
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryGroovyImport](http://codenarc.sourceforge.net/codenarc-rules-imports.html#UnnecessaryGroovyImport)
+* [CodeNarc - UnnecessaryGroovyImport](https://codenarc.github.io/CodeNarc/codenarc-rules-imports.html#unnecessarygroovyimport-rule)

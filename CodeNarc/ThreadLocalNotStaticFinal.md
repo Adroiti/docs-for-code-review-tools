@@ -19,4 +19,4 @@ ThreadLocal local4 = new ThreadLocal()
 
 ## Further Reading
 
-* [CodeNarc - ThreadLocalNotStaticFinal](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#ThreadLocalNotStaticFinal)
+* [CodeNarc - ThreadLocalNotStaticFinal](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#threadlocalnotstaticfinal-rule)

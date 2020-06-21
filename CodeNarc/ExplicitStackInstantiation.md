@@ -8,4 +8,4 @@ This rule checks for explicit calls to the no-argument constructor of `Stack`. I
 
 ## Further Reading
 
-* [CodeNarc - ExplicitStackInstantiation](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitStackInstantiation)
+* [CodeNarc - ExplicitStackInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitstackinstantiation-rule)

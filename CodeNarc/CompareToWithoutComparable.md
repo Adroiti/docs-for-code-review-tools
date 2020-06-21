@@ -20,4 +20,4 @@ Known limitations:
 
 ## Further Reading
 
-* [CodeNarc - CompareToWithoutComparable](http://codenarc.sourceforge.net/codenarc-rules-design.html#CompareToWithoutComparable)
+* [CodeNarc - CompareToWithoutComparable](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#comparetowithoutcomparable-rule)

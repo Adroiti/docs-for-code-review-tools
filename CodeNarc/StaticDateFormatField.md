@@ -38,4 +38,4 @@ class SomeCorrectClass {
 
 ## Further Reading
 
-* [CodeNarc - StaticDateFormatField](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#StaticDateFormatField)
+* [CodeNarc - StaticDateFormatField](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#staticdateformatfield-rule)

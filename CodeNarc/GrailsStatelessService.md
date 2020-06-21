@@ -34,4 +34,4 @@ This rule also sets the default value of `applyToClassNames` to only match class
 
 ## Further Reading
 
-* [CodeNarc - GrailsStatelessService](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsStatelessService)
+* [CodeNarc - GrailsStatelessService](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsstatelessservice-rule)

@@ -8,4 +8,4 @@ Checks for throwing an instance of `java.lang.RuntimeException`. Throw an instan
 
 ## Further Reading
 
-* [CodeNarc - ThrowRuntimeException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ThrowRuntimeException)
+* [CodeNarc - ThrowRuntimeException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#throwruntimeexception-rule)

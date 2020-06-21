@@ -22,4 +22,4 @@ a.b = a().b         // acceptable
 
 ## Further Reading
 
-* [CodeNarc - UnnecessarySelfAssignment](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessarySelfAssignment)
+* [CodeNarc - UnnecessarySelfAssignment](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryselfassignment-rule)

@@ -41,4 +41,4 @@ result = ![a,b]                     // Negation of List literal
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryBooleanExpression](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryBooleanExpression)
+* [CodeNarc - UnnecessaryBooleanExpression](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarybooleanexpression-rule)

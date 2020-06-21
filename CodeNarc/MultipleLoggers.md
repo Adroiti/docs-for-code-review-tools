@@ -8,4 +8,4 @@ This rule catches classes that have more than one logger object defined. Typical
 
 ## Further Reading
 
-* [CodeNarc - MultipleLoggers](http://codenarc.sourceforge.net/codenarc-rules-logging.html#MultipleLoggers)
+* [CodeNarc - MultipleLoggers](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#multipleloggers-rule)

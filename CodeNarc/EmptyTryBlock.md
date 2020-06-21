@@ -20,4 +20,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyTryBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyTryBlock)
+* [CodeNarc - EmptyTryBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptytryblock-rule)

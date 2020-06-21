@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.or(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToOrMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToOrMethod)
+* [CodeNarc - ExplicitCallToOrMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoormethod-rule)

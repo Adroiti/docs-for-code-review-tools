@@ -8,4 +8,4 @@ Checks for an *import* of a class that is within the same package as the importi
 
 ## Further Reading
 
-* [CodeNarc - ImportFromSamePackage](http://codenarc.sourceforge.net/codenarc-rules-imports.html#ImportFromSamePackage)
+* [CodeNarc - ImportFromSamePackage](https://codenarc.github.io/CodeNarc/codenarc-rules-imports.html#importfromsamepackage-rule)

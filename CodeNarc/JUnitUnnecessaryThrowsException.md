@@ -28,4 +28,4 @@ class SomeTest extends GroovyTestCase {
 
 ## Further Reading
 
-* [CodeNarc - JUnitUnnecessaryThrowsException](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitUnnecessaryThrowsException)
+* [CodeNarc - JUnitUnnecessaryThrowsException](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitunnecessarythrowsexception-rule)

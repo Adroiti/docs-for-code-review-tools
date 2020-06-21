@@ -18,4 +18,4 @@ def someList = new Vector()           // violation
 
 * [Stack Overflow - Why is Java Vector class considered obsolete or deprecated?](https://stackoverflow.com/questions/1386275/why-is-java-vector-class-considered-obsolete-or-deprecated)
 * [Java API Specification - Vector](https://docs.oracle.com/javase/8/docs/api/java/util/Vector.html)
-* [CodeNarc - VectorIsObsolete](http://codenarc.sourceforge.net/codenarc-rules-convention.html#VectorIsObsolete)
+* [CodeNarc - VectorIsObsolete](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#vectorisobsolete-rule)

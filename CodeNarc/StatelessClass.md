@@ -28,4 +28,4 @@ You can configure this rule to ignore certain fields either by name or by type. 
 
 ## Further Reading
 
-* [CodeNarc - StatelessClass](http://codenarc.sourceforge.net/codenarc-rules-generic.html#StatelessClass)
+* [CodeNarc - StatelessClass](https://codenarc.github.io/CodeNarc/codenarc-rules-generic.html#statelessclass-rule)

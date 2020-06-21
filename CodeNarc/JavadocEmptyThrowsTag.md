@@ -21,4 +21,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptyThrowsTag](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptyThrowsTag)
+* [CodeNarc - JavadocEmptyThrowsTag](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptythrowstag-rule)

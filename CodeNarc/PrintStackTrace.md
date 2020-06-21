@@ -8,4 +8,4 @@ Checks for calls to `Throwable.printStackTrace()` or `StackTraceUtils.printSanit
 
 ## Further Reading
 
-* [CodeNarc - PrintStackTrace](http://codenarc.sourceforge.net/codenarc-rules-logging.html#PrintStackTrace)
+* [CodeNarc - PrintStackTrace](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#printstacktrace-rule)

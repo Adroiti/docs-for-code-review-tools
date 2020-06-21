@@ -14,4 +14,4 @@ class SomeClass extends other.SomeClass         // violation
 
 ## Further Reading
 
-* [CodeNarc - ClassNameSameAsSuperclass](http://codenarc.sourceforge.net/codenarc-rules-naming.html#ClassNameSameAsSuperclass)
+* [CodeNarc - ClassNameSameAsSuperclass](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#classnamesameassuperclass-rule)

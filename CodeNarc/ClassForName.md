@@ -16,4 +16,4 @@ Class.forName(aClassName, true, aClassLoader)
 ## Further Reading
 
 * [The Programming Delusion - Class.forName caches defined class in the initiating class loader](http://blog.hargrave.io/2007/09/classforname-caches-defined-class-in.html)
-* [CodeNarc - ClassForName](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ClassForName)
+* [CodeNarc - ClassForName](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#classforname-rule)

@@ -29,4 +29,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocConsecutiveEmptyLines](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocConsecutiveEmptyLines)
+* [CodeNarc - JavadocConsecutiveEmptyLines](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocconsecutiveemptylines-rule)

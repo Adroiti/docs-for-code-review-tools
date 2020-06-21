@@ -13,4 +13,4 @@ Verifies that the name of each method matches a regular expression. By default i
 
 ## Further Reading
 
-* [CodeNarc - MethodName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#MethodName)
+* [CodeNarc - MethodName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#methodname-rule)

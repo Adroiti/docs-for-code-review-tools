@@ -8,4 +8,4 @@ Checks for throwing an instance of `java.lang.Throwable`. Throw an instance of a
 
 ## Further Reading
 
-* [CodeNarc - ThrowThrowable](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ThrowThrowable)
+* [CodeNarc - ThrowThrowable](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#throwthrowable-rule)

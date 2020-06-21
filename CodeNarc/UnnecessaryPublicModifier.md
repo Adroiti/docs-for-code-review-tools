@@ -23,4 +23,4 @@ public class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryPublicModifier](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryPublicModifier)
+* [CodeNarc - UnnecessaryPublicModifier](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarypublicmodifier-rule)

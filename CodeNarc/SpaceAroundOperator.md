@@ -31,4 +31,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - SpaceAroundOperator](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAroundOperator)
+* [CodeNarc - SpaceAroundOperator](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spacearoundoperator-rule)

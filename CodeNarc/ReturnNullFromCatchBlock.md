@@ -8,4 +8,4 @@ Returning `null` from a `catch` block often masks errors and requires the client
 
 ## Further Reading
 
-* [CodeNarc - ReturnNullFromCatchBlock](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#ReturnNullFromCatchBlock)
+* [CodeNarc - ReturnNullFromCatchBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#returnnullfromcatchblock-rule)

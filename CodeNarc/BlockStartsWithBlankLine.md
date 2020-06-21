@@ -63,4 +63,4 @@ switch (true) {
 
 ## Further Reading
 
-* [CodeNarc - BlockStartsWithBlankLine](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BlockStartsWithBlankLine)
+* [CodeNarc - BlockStartsWithBlankLine](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#blockstartswithblankline-rule)

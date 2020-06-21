@@ -15,4 +15,4 @@ class SomeClass { }                       // violation
 
 ## Further Reading
 
-* [CodeNarc - MissingBlankLineAfterImports](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#MissingBlankLineAfterImports)
+* [CodeNarc - MissingBlankLineAfterImports](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#missingblanklineafterimports-rule)

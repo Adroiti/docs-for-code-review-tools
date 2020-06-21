@@ -29,4 +29,4 @@ def closure = { new Date() }    // OK (last statement in block)
 
 ## Further Reading
 
-* [CodeNarc - UnusedObject](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedObject)
+* [CodeNarc - UnusedObject](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedobject-rule)

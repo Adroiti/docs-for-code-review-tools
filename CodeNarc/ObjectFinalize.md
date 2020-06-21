@@ -10,4 +10,4 @@ While the Java Language Specification allows an object's `finalize()` method to 
 
 ## Further Reading
 
-* [CodeNarc - ObjectFinalize](http://codenarc.sourceforge.net/codenarc-rules-security.html#ObjectFinalize)
+* [CodeNarc - ObjectFinalize](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#objectfinalize-rule)

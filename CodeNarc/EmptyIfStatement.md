@@ -18,4 +18,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyIfStatement](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyIfStatement)
+* [CodeNarc - EmptyIfStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyifstatement-rule)

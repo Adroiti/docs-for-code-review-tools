@@ -55,4 +55,4 @@ shouldFail(Exception){ doStuff() }          // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceBeforeOpeningBrace](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceBeforeOpeningBrace)
+* [CodeNarc - SpaceBeforeOpeningBrace](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spacebeforeopeningbrace-rule)

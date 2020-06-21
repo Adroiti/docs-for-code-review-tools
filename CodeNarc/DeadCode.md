@@ -8,4 +8,4 @@ Dead code appears after a `return` statement or an exception is thrown. If code 
 
 ## Further Reading
 
-* [CodeNarc - DeadCode](http://codenarc.sourceforge.net/codenarc-rules-basic.html#DeadCode)
+* [CodeNarc - DeadCode](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#deadcode-rule)

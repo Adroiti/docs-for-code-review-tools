@@ -8,4 +8,4 @@ Checks that *if* statements use braces, even for a single statement.
 
 ## Further Reading
 
-* [CodeNarc - IfStatementBraces](http://codenarc.sourceforge.net/codenarc-rules-braces.html#IfStatementBraces)
+* [CodeNarc - IfStatementBraces](https://codenarc.github.io/CodeNarc/codenarc-rules-braces.html#ifstatementbraces-rule)

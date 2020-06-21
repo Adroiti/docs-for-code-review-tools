@@ -8,4 +8,4 @@ This rule checks for explicit calls to the no-argument constructor of `ArrayList
 
 ## Further Reading
 
-* [CodeNarc - ExplicitArrayListInstantiation](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitArrayListInstantiation)
+* [CodeNarc - ExplicitArrayListInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitarraylistinstantiation-rule)

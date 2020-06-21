@@ -21,4 +21,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - GrailsMassAssignment](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsMassAssignment)
+* [CodeNarc - GrailsMassAssignment](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsmassassignment-rule)

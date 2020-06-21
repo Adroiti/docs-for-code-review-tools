@@ -20,4 +20,4 @@ The order of precedence for the regular expression properties is: **staticFinalR
 
 ## Further Reading
 
-* [CodeNarc - PropertyName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#PropertyName)
+* [CodeNarc - PropertyName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#propertyname-rule)

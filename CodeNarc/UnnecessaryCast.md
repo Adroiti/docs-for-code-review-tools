@@ -19,4 +19,4 @@ def map = (Map)[a:1]                    // violation
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryCast](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryCast)
+* [CodeNarc - UnnecessaryCast](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarycast-rule)

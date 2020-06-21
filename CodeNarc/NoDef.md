@@ -12,4 +12,4 @@ Do not allow using the `def` keyword in code. Use a specific type instead.
 
 ## Further Reading
 
-* [CodeNarc - NoDef](http://codenarc.sourceforge.net/codenarc-rules-convention.html#NoDef)
+* [CodeNarc - NoDef](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#nodef-rule)

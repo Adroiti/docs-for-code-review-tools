@@ -32,4 +32,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryDefInFieldDeclaration](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryDefInFieldDeclaration)
+* [CodeNarc - UnnecessaryDefInFieldDeclaration](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarydefinfielddeclaration-rule)

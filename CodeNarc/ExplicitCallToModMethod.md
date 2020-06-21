@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.mod(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToModMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToModMethod)
+* [CodeNarc - ExplicitCallToModMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltomodmethod-rule)

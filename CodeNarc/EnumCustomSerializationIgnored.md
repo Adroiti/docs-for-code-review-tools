@@ -27,4 +27,4 @@ enum SomeEnum {
 
 ## Further Reading
 
-* [CodeNarc - EnumCustomSerializationIgnored](http://codenarc.sourceforge.net/codenarc-rules-serialization.html#EnumCustomSerializationIgnored)
+* [CodeNarc - EnumCustomSerializationIgnored](https://codenarc.github.io/CodeNarc/codenarc-rules-serialization.html#enumcustomserializationignored-rule)

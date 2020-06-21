@@ -20,4 +20,4 @@ The order of precedence for the regular expression properties is: **staticFinalR
 
 ## Further Reading
 
-* [CodeNarc - FieldName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#FieldName)
+* [CodeNarc - FieldName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#fieldname-rule)

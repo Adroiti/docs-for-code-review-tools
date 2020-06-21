@@ -27,4 +27,4 @@ def closure = { new Date[3] }   // OK (last statement in block)
 
 ## Further Reading
 
-* [CodeNarc - UnusedArray](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedArray)
+* [CodeNarc - UnusedArray](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedarray-rule)

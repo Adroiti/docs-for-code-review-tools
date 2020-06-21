@@ -30,4 +30,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyCatchBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyCatchBlock)
+* [CodeNarc - EmptyCatchBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptycatchblock-rule)

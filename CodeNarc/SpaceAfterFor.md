@@ -15,4 +15,4 @@ for  (int i=0; i < 10; i++) { }         // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterFor](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterFor)
+* [CodeNarc - SpaceAfterFor](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceafterfor-rule)

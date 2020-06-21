@@ -17,4 +17,4 @@ class ValueClass {
 
 ## Further Reading
 
-* [CodeNarc - CloneWithoutCloneable](http://codenarc.sourceforge.net/codenarc-rules-enhanced.html#CloneWithoutCloneable)
+* [CodeNarc - CloneWithoutCloneable](https://codenarc.github.io/CodeNarc/codenarc-rules-enhanced.html#clonewithoutcloneable-rule)

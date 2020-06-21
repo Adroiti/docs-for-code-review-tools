@@ -54,4 +54,4 @@ class Person {
 
 ## Further Reading
 
-* [CodeNarc - InconsistentPropertyLocking](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#InconsistentPropertyLocking)
+* [CodeNarc - InconsistentPropertyLocking](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#inconsistentpropertylocking-rule)

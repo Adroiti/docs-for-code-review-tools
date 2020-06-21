@@ -8,4 +8,4 @@ Checks for an overriding method that merely calls the same method defined in a s
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryOverridingMethod](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryOverridingMethod)
+* [CodeNarc - UnnecessaryOverridingMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryoverridingmethod-rule)

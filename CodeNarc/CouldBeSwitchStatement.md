@@ -50,4 +50,4 @@ if (!x && y) {                      // OK
 
 ## Further Reading
 
-* [CodeNarc - CouldBeSwitchStatement](http://codenarc.sourceforge.net/codenarc-rules-convention.html#CouldBeSwitchStatement)
+* [CodeNarc - CouldBeSwitchStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#couldbeswitchstatement-rule)

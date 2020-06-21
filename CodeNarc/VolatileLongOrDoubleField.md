@@ -19,4 +19,4 @@ Here is an example of code that produces a violation:
 
 ## Further Reading
 
-* [CodeNarc - VolatileLongOrDoubleField](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#VolatileLongOrDoubleField)
+* [CodeNarc - VolatileLongOrDoubleField](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#volatilelongordoublefield-rule)

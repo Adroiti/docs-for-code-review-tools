@@ -13,4 +13,4 @@ Verifies that the package name of a class matches a regular expression. By defau
 
 ## Further Reading
 
-* [CodeNarc - PackageName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#PackageName)
+* [CodeNarc - PackageName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#packagename-rule)

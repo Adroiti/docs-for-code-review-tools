@@ -8,4 +8,4 @@ Checks that all source files do not contain the tab character.
 
 ## Further Reading
 
-* [CodeNarc - NoTabCharacter](http://codenarc.sourceforge.net/codenarc-rules-convention.html#NoTabCharacter)
+* [CodeNarc - NoTabCharacter](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#notabcharacter-rule)

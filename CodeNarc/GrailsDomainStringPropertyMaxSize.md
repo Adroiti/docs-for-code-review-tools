@@ -45,4 +45,4 @@ class Person {
 
 ## Further Reading
 
-* [CodeNarc - GrailsDomainStringPropertyMaxSize](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsDomainStringPropertyMaxSize)
+* [CodeNarc - GrailsDomainStringPropertyMaxSize](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsdomainstringpropertymaxsize-rule)

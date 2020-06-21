@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.leftShift(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToLeftShiftMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToLeftShiftMethod)
+* [CodeNarc - ExplicitCallToLeftShiftMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoleftshiftmethod-rule)

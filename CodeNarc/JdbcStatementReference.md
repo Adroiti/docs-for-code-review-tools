@@ -10,4 +10,4 @@ Note: If a violation is triggered from an **import** statement, then you may get
 
 ## Further Reading
 
-* [CodeNarc - JdbcStatementReference](http://codenarc.sourceforge.net/codenarc-rules-jdbc.html#JdbcStatementReference)
+* [CodeNarc - JdbcStatementReference](https://codenarc.github.io/CodeNarc/codenarc-rules-jdbc.html#jdbcstatementreference-rule)

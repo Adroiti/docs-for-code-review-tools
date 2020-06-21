@@ -15,4 +15,4 @@ while  (true) { }           // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterWhile](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterWhile)
+* [CodeNarc - SpaceAfterWhile](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceafterwhile-rule)

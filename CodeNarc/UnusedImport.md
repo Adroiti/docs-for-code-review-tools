@@ -13,4 +13,4 @@ Known limitations:
 
 ## Further Reading
 
-* [CodeNarc - UnusedImport](http://codenarc.sourceforge.net/codenarc-rules-imports.html#UnusedImport)
+* [CodeNarc - UnusedImport](https://codenarc.github.io/CodeNarc/codenarc-rules-imports.html#unusedimport-rule)

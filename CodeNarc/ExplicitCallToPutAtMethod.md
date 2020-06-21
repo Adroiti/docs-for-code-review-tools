@@ -18,4 +18,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToPutAtMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToPutAtMethod)
+* [CodeNarc - ExplicitCallToPutAtMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoputatmethod-rule)

@@ -64,4 +64,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - LoggerForDifferentClass](http://codenarc.sourceforge.net/codenarc-rules-logging.html#LoggerForDifferentClass)
+* [CodeNarc - LoggerForDifferentClass](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#loggerfordifferentclass-rule)

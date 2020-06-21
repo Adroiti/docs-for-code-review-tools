@@ -39,4 +39,4 @@ The *ABC Metric* calculation rules for Groovy:
 
 ## Further Reading
 
-* [CodeNarc - AbcMetric](http://codenarc.sourceforge.net/codenarc-rules-size.html#AbcMetric)
+* [CodeNarc - AbcMetric](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#abcmetric-rule)

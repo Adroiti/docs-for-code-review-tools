@@ -8,4 +8,4 @@ This rule checks for explicit calls to the no-argument constructor of `HashSet`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitHashSetInstantiation](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitHashSetInstantiation)
+* [CodeNarc - ExplicitHashSetInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicithashsetinstantiation-rule)

@@ -8,4 +8,4 @@ If you have a method or closure that returns an array, then when there are no re
 
 ## Further Reading
 
-* [CodeNarc - ReturnsNullInsteadOfEmptyArray](http://codenarc.sourceforge.net/codenarc-rules-design.html#ReturnsNullInsteadOfEmptyArray)
+* [CodeNarc - ReturnsNullInsteadOfEmptyArray](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#returnsnullinsteadofemptyarray-rule)

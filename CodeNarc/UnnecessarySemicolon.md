@@ -27,4 +27,4 @@ println(value); println (otherValue)
 
 ## Further Reading
 
-* [CodeNarc - UnnecessarySemicolon](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessarySemicolon)
+* [CodeNarc - UnnecessarySemicolon](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarysemicolon-rule)

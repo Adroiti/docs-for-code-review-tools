@@ -8,4 +8,4 @@ Checks for useless calls to collections. For any collection `c`, calling `c.cont
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryCollectionCall](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryCollectionCall)
+* [CodeNarc - UnnecessaryCollectionCall](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarycollectioncall-rule)

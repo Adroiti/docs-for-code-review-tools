@@ -8,4 +8,4 @@ Checks the location of the opening brace (`{`) for constructors and methods. By 
 
 ## Further Reading
 
-* [CodeNarc - BracesForMethod](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BracesForMethod)
+* [CodeNarc - BracesForMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#bracesformethod-rule)

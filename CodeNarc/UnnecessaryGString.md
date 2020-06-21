@@ -42,4 +42,4 @@ def j = '''i am a
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryGString](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryGString)
+* [CodeNarc - UnnecessaryGString](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarygstring-rule)

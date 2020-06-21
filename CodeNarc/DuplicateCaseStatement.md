@@ -24,4 +24,4 @@ switch( "test" ) {
 
 ## Further Reading
 
-* [CodeNarc - DuplicateCaseStatement](http://codenarc.sourceforge.net/codenarc-rules-basic.html#DuplicateCaseStatement)
+* [CodeNarc - DuplicateCaseStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#duplicatecasestatement-rule)

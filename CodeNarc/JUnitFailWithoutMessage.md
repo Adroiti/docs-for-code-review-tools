@@ -8,4 +8,4 @@ This rule detects JUnit calling the `fail()` method without an argument. For bet
 
 ## Further Reading
 
-* [CodeNarc - JUnitFailWithoutMessage](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitFailWithoutMessage)
+* [CodeNarc - JUnitFailWithoutMessage](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitfailwithoutmessage-rule)

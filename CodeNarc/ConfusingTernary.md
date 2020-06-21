@@ -27,4 +27,4 @@ Example:
 
 ## Further Reading
 
-* [CodeNarc - ConfusingTernary](http://codenarc.sourceforge.net/codenarc-rules-convention.html#ConfusingTernary)
+* [CodeNarc - ConfusingTernary](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#confusingternary-rule)

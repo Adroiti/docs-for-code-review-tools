@@ -22,4 +22,4 @@ class EventListener {
 
 * [SlideShare - Java Concurrency Gotchas](https://www.slideshare.net/alexmiller/java-concurrency-gotchas-3666977/38)
 * [IBM developerWorks - Safe construction techniques](https://www.ibm.com/developerworks/java/library/j-jtp0618/index.html)
-* [CodeNarc - ThisReferenceEscapesConstructor](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#ThisReferenceEscapesConstructor)
+* [CodeNarc - ThisReferenceEscapesConstructor](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#thisreferenceescapesconstructor-rule)

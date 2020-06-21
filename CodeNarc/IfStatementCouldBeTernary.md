@@ -29,4 +29,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - IfStatementCouldBeTernary](http://codenarc.sourceforge.net/codenarc-rules-convention.html#IfStatementCouldBeTernary)
+* [CodeNarc - IfStatementCouldBeTernary](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#ifstatementcouldbeternary-rule)

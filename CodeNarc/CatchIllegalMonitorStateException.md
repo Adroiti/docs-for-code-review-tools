@@ -8,4 +8,4 @@ Dubious catching of `IllegalMonitorStateException`. `IllegalMonitorStateExceptio
 
 ## Further Reading
 
-* [CodeNarc - CatchIllegalMonitorStateException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchIllegalMonitorStateException)
+* [CodeNarc - CatchIllegalMonitorStateException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catchillegalmonitorstateexception-rule)

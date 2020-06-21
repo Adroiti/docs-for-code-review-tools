@@ -18,4 +18,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyWhileStatement](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyWhileStatement)
+* [CodeNarc - EmptyWhileStatement](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptywhilestatement-rule)

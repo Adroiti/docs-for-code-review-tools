@@ -19,4 +19,4 @@ Known limitations:
 
 ## Further Reading
 
-* [CodeNarc - UnusedPrivateField](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedPrivateField)
+* [CodeNarc - UnusedPrivateField](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedprivatefield-rule)

@@ -8,4 +8,4 @@ Checks the location of the opening brace (`{`) for `try` statements. By default,
 
 ## Further Reading
 
-* [CodeNarc - BracesForTryCatchFinally](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BracesForTryCatchFinally)
+* [CodeNarc - BracesForTryCatchFinally](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#bracesfortrycatchfinally-rule)

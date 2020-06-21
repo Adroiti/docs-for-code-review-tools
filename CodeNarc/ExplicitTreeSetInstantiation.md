@@ -8,4 +8,4 @@ This rule checks for explicit calls to the no-argument constructor of `TreeSet`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitTreeSetInstantiation](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitTreeSetInstantiation)
+* [CodeNarc - ExplicitTreeSetInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicittreesetinstantiation-rule)

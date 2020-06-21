@@ -178,4 +178,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - SynchronizedOnBoxedPrimitive](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedOnBoxedPrimitive)
+* [CodeNarc - SynchronizedOnBoxedPrimitive](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedonboxedprimitive-rule)

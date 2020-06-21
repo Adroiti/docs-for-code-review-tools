@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.minus(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToMinusMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToMinusMethod)
+* [CodeNarc - ExplicitCallToMinusMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltominusmethod-rule)

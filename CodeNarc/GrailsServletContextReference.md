@@ -16,4 +16,4 @@ This rule sets the default value of `applyToFilesMatching` to only match files u
 
 ## Further Reading
 
-* [CodeNarc - GrailsServletContextReference](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsServletContextReference)
+* [CodeNarc - GrailsServletContextReference](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsservletcontextreference-rule)

@@ -12,4 +12,4 @@ Verifies that the name of an abstract class matches the regular expression speci
 
 ## Further Reading
 
-* [CodeNarc - AbstractClassName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#AbstractClassName)
+* [CodeNarc - AbstractClassName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#abstractclassname-rule)

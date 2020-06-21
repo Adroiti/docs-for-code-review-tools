@@ -20,4 +20,4 @@ Locale.default = Locale.UK                                  // violation
 
 ## Further Reading
 
-* [CodeNarc - LocaleSetDefault](http://codenarc.sourceforge.net/codenarc-rules-design.html#LocaleSetDefault)
+* [CodeNarc - LocaleSetDefault](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#localesetdefault-rule)

@@ -20,4 +20,4 @@ Known limitations:
 
 ## Further Reading
 
-* [CodeNarc - UnusedPrivateMethod](http://codenarc.sourceforge.net/codenarc-rules-unused.html#UnusedPrivateMethod)
+* [CodeNarc - UnusedPrivateMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-unused.html#unusedprivatemethod-rule)

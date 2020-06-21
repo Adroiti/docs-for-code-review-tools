@@ -12,4 +12,4 @@ Checks if the size of a class exceeds the number of lines specified by the **max
 
 ## Further Reading
 
-* [CodeNarc - ClassSize](http://codenarc.sourceforge.net/codenarc-rules-size.html#ClassSize)
+* [CodeNarc - ClassSize](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#classsize-rule)

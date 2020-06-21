@@ -20,4 +20,4 @@ def someMethod() {
 
 ## Further Reading
 
-* [CodeNarc - EmptyElseBlock](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyElseBlock)
+* [CodeNarc - EmptyElseBlock](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptyelseblock-rule)

@@ -18,4 +18,4 @@ def x = String
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryDotClass](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryDotClass)
+* [CodeNarc - UnnecessaryDotClass](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarydotclass-rule)

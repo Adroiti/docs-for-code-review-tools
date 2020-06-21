@@ -23,4 +23,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocMissingParamDescription](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocMissingParamDescription)
+* [CodeNarc - JavadocMissingParamDescription](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocmissingparamdescription-rule)

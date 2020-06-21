@@ -8,4 +8,4 @@ Checks for code that calls `notify()` rather than `notifyAll()`. Java monitors a
 
 ## Further Reading
 
-* [CodeNarc - UseOfNotifyMethod](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#UseOfNotifyMethod)
+* [CodeNarc - UseOfNotifyMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#useofnotifymethod-rule)

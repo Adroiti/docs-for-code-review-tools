@@ -50,4 +50,4 @@ shouldFail(Exception) { doStuff()}          // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceBeforeClosingBrace](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceBeforeClosingBrace)
+* [CodeNarc - SpaceBeforeClosingBrace](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spacebeforeclosingbrace-rule)

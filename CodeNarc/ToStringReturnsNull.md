@@ -34,4 +34,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - ToStringReturnsNull](http://codenarc.sourceforge.net/codenarc-rules-design.html#ToStringReturnsNull)
+* [CodeNarc - ToStringReturnsNull](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#tostringreturnsnull-rule)

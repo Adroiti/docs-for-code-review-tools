@@ -20,4 +20,4 @@ class SomeTest extends TestCase {
 
 ## Further Reading
 
-* [CodeNarc - JUnitUnnecessaryTearDown](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitUnnecessaryTearDown)
+* [CodeNarc - JUnitUnnecessaryTearDown](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitunnecessaryteardown-rule)

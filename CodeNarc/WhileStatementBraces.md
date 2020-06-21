@@ -8,4 +8,4 @@ Checks that `while` statements use braces, even for a single statement.
 
 ## Further Reading
 
-* [CodeNarc - WhileStatementBraces](http://codenarc.sourceforge.net/codenarc-rules-braces.html#WhileStatementBraces)
+* [CodeNarc - WhileStatementBraces](https://codenarc.github.io/CodeNarc/codenarc-rules-braces.html#whilestatementbraces-rule)

@@ -46,4 +46,4 @@ The following code does not produce violations:
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryCollectCall](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryCollectCall)
+* [CodeNarc - UnnecessaryCollectCall](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarycollectcall-rule)

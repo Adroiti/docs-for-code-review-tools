@@ -21,4 +21,4 @@ This rule also ignores all calls to `super.compareTo(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToCompareToMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToCompareToMethod)
+* [CodeNarc - ExplicitCallToCompareToMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltocomparetomethod-rule)

@@ -44,4 +44,4 @@ You can suppress the error by annotating a class or method with the `@SuppressWa
 
 ## Further Reading
 
-* [CodeNarc - DuplicateMapLiteral](http://codenarc.sourceforge.net/codenarc-rules-dry.html#DuplicateMapLiteral)
+* [CodeNarc - DuplicateMapLiteral](https://codenarc.github.io/CodeNarc/codenarc-rules-dry.html#duplicatemapliteral-rule)

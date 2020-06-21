@@ -33,4 +33,4 @@ while (x) {
 
 ## Further Reading
 
-* [CodeNarc - BusyWait](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#BusyWait)
+* [CodeNarc - BusyWait](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#busywait-rule)

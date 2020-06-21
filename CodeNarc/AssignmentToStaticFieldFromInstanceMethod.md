@@ -29,4 +29,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - AssignmentToStaticFieldFromInstanceMethod](http://codenarc.sourceforge.net/codenarc-rules-design.html#AssignmentToStaticFieldFromInstanceMethod)
+* [CodeNarc - AssignmentToStaticFieldFromInstanceMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#assignmenttostaticfieldfrominstancemethod-rule)

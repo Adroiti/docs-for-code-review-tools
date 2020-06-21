@@ -37,4 +37,4 @@ doSomethingExperimental();
 
 ## Further Reading
 
-* [checkstyle - IllegalRegex](http://codenarc.sourceforge.net/codenarc-rules-generic.html#IllegalRegex)
+* [checkstyle - IllegalRegex](https://codenarc.github.io/CodeNarc/codenarc-rules-generic.html#illegalregex-rule)

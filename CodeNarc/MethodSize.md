@@ -17,4 +17,4 @@ Known Limitations:
 
 ## Further Reading
 
-* [CodeNarc - MethodSize](http://codenarc.sourceforge.net/codenarc-rules-size.html#MethodSize)
+* [CodeNarc - MethodSize](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#methodsize-rule)

@@ -8,4 +8,4 @@ Checks for catching a `ArrayIndexOutOfBoundsException`. Catching `ArrayIndexOutO
 
 ## Further Reading
 
-* [CodeNarc - CatchArrayIndexOutOfBoundsException](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchArrayIndexOutOfBoundsException)
+* [CodeNarc - CatchArrayIndexOutOfBoundsException](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catcharrayindexoutofboundsexception-rule)

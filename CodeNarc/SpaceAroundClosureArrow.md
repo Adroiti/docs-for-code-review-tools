@@ -22,4 +22,4 @@ def closure5 = { count, name ->println 123 }    // violation
 
 ## Further Reading
 
-* [CodeNarc - SpaceAroundClosureArrow](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAroundClosureArrow)
+* [CodeNarc - SpaceAroundClosureArrow](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spacearoundclosurearrow-rule)

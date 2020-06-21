@@ -23,4 +23,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - PublicMethodsBeforeNonPublicMethods](http://codenarc.sourceforge.net/codenarc-rules-convention.html#PublicMethodsBeforeNonPublicMethods)
+* [CodeNarc - PublicMethodsBeforeNonPublicMethods](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#publicmethodsbeforenonpublicmethods-rule)

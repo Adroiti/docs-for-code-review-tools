@@ -22,4 +22,4 @@ println x.compareTo(x)          // violation
 
 ## Further Reading
 
-* [CodeNarc - ComparisonWithSelf](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ComparisonWithSelf)
+* [CodeNarc - ComparisonWithSelf](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#comparisonwithself-rule)

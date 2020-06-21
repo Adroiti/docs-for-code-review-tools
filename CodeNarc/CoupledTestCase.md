@@ -25,4 +25,4 @@ class SomeTest extends GroovyTestCase {
 
 ## Further Reading
 
-* [CodeNarc - CoupledTestCase](http://codenarc.sourceforge.net/codenarc-rules-junit.html#CoupledTestCase)
+* [CodeNarc - CoupledTestCase](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#coupledtestcase-rule)

@@ -8,4 +8,4 @@ This rule finds classes marked `final` that contain `protected` members. If a cl
 
 ## Further Reading
 
-* [CodeNarc - FinalClassWithProtectedMember](http://codenarc.sourceforge.net/codenarc-rules-design.html#FinalClassWithProtectedMember)
+* [CodeNarc - FinalClassWithProtectedMember](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#finalclasswithprotectedmember-rule)

@@ -8,4 +8,4 @@ Checks for catching a `Throwable`. In most cases that is much too broad, and is 
 
 ## Further Reading
 
-* [CodeNarc - CatchThrowable](http://codenarc.sourceforge.net/codenarc-rules-exceptions.html#CatchThrowable)
+* [CodeNarc - CatchThrowable](https://codenarc.github.io/CodeNarc/codenarc-rules-exceptions.html#catchthrowable-rule)

@@ -19,4 +19,4 @@ def b4 = Boolean.valueOf(false)        // violation
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryBooleanInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryBooleanInstantiation)
+* [CodeNarc - UnnecessaryBooleanInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarybooleaninstantiation-rule)

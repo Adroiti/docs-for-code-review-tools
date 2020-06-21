@@ -34,4 +34,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - TrailingComma](http://codenarc.sourceforge.net/codenarc-rules-convention.html#TrailingComma)
+* [CodeNarc - TrailingComma](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#trailingcomma-rule)

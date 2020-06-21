@@ -21,4 +21,4 @@ int countThings(int startIndex) { }
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptySinceTag](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptySinceTag)
+* [CodeNarc - JavadocEmptySinceTag](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptysincetag-rule)

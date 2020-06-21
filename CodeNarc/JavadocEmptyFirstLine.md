@@ -33,4 +33,4 @@ class MyClass {
 
 ## Further Reading
 
-* [CodeNarc - JavadocEmptyFirstLine](http://codenarc.sourceforge.net/codenarc-rules-comments.html#JavadocEmptyFirstLine)
+* [CodeNarc - JavadocEmptyFirstLine](https://codenarc.github.io/CodeNarc/codenarc-rules-comments.html#javadocemptyfirstline-rule)

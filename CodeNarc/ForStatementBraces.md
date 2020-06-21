@@ -8,4 +8,4 @@ Checks that *for* statements use braces, even for a single statement.
 
 ## Further Reading
 
-* [CodeNarc - ForStatementBraces](http://codenarc.sourceforge.net/codenarc-rules-braces.html#ForStatementBraces)
+* [CodeNarc - ForStatementBraces](https://codenarc.github.io/CodeNarc/codenarc-rules-braces.html#forstatementbraces-rule)

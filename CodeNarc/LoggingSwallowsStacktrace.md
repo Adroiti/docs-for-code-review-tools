@@ -8,4 +8,4 @@ If you are logging an exception then the proper API is to call `error(Object, Th
 
 ## Further Reading
 
-* [CodeNarc - LoggingSwallowsStacktrace](http://codenarc.sourceforge.net/codenarc-rules-logging.html#LoggingSwallowsStacktrace)
+* [CodeNarc - LoggingSwallowsStacktrace](https://codenarc.github.io/CodeNarc/codenarc-rules-logging.html#loggingswallowsstacktrace-rule)

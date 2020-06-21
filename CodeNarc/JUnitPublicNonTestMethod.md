@@ -23,4 +23,4 @@ This rule sets the default value of the *applyToClassNames* property to only mat
 
 ## Further Reading
 
-* [CodeNarc - JUnitPublicNonTestMethod](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitPublicNonTestMethod)
+* [CodeNarc - JUnitPublicNonTestMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitpublicnontestmethod-rule)

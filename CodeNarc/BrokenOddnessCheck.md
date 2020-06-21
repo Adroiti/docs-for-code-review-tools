@@ -18,4 +18,4 @@ if (x % 2 != 0) { }             // OK
 
 ## Further Reading
 
-* [CodeNarc - BrokenOddnessCheck](http://codenarc.sourceforge.net/codenarc-rules-basic.html#BrokenOddnessCheck)
+* [CodeNarc - BrokenOddnessCheck](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#brokenoddnesscheck-rule)

@@ -20,4 +20,4 @@ This rule also sets the default value of `applyToClassNames` to only match class
 
 ## Further Reading
 
-* [CodeNarc - GrailsPublicControllerMethod](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsPublicControllerMethod (disabled))
+* [CodeNarc - GrailsPublicControllerMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailspubliccontrollermethod-rule-disabled)

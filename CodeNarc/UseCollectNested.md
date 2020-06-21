@@ -28,4 +28,4 @@ println list.collectNested { it * 2 } // same functionality, better readability
 
 ## Further Reading
 
-* [CodeNarc - UseCollectNested](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#UseCollectNested)
+* [CodeNarc - UseCollectNested](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#usecollectnested-rule)

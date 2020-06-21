@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.multiply(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToMultiplyMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToMultiplyMethod)
+* [CodeNarc - ExplicitCallToMultiplyMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltomultiplymethod-rule)

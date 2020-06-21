@@ -15,4 +15,4 @@ Checks the location of the opening brace (`{`) for if statements. By default, re
 
 ## Further Reading
 
-* [CodeNarc - BracesForIfElse](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#BracesForIfElse)
+* [CodeNarc - BracesForIfElse](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#bracesforifelse-rule)

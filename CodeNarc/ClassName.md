@@ -12,4 +12,4 @@ Verifies that the name of a class matches a regular expression. By default it ch
 
 ## Further Reading
 
-* [CodeNarc - ClassName](http://codenarc.sourceforge.net/codenarc-rules-naming.html#ClassName)
+* [CodeNarc - ClassName](https://codenarc.github.io/CodeNarc/codenarc-rules-naming.html#classname-rule)

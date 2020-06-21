@@ -8,4 +8,4 @@ There is no point in using a double negative, it is always positive. For instanc
 
 ## Further Reading
 
-* [CodeNarc - DoubleNegative](http://codenarc.sourceforge.net/codenarc-rules-basic.html#DoubleNegative)
+* [CodeNarc - DoubleNegative](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#doublenegative-rule)

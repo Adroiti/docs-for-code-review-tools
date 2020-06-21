@@ -19,4 +19,4 @@ new SimpleDateFormat('pattern', locale)
 
 ## Further Reading
 
-* [CodeNarc - SimpleDateFormatMissingLocale](http://codenarc.sourceforge.net/codenarc-rules-design.html#SimpleDateFormatMissingLocale)
+* [CodeNarc - SimpleDateFormatMissingLocale](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#simpledateformatmissinglocale-rule)

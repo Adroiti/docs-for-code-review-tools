@@ -27,4 +27,4 @@ class Person {
 
 ## Further Reading
 
-* [CodeNarc - GrailsDuplicateMapping](http://codenarc.sourceforge.net/codenarc-rules-grails.html#GrailsDuplicateMapping)
+* [CodeNarc - GrailsDuplicateMapping](https://codenarc.github.io/CodeNarc/codenarc-rules-grails.html#grailsduplicatemapping-rule)

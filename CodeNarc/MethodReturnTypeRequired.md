@@ -21,4 +21,4 @@ Object objectReturningMethod() {       // OK
 
 ## Further Reading
 
-* [CodeNarc - MethodReturnTypeRequired](http://codenarc.sourceforge.net/codenarc-rules-convention.html#MethodReturnTypeRequired)
+* [CodeNarc - MethodReturnTypeRequired](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#methodreturntyperequired-rule)

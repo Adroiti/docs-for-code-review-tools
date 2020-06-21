@@ -17,4 +17,4 @@ public class SomeClass{}
 
 ## Further Reading
 
-* [CodeNarc - NoWildcardImports](http://codenarc.sourceforge.net/codenarc-rules-imports.html#NoWildcardImports)
+* [CodeNarc - NoWildcardImports](https://codenarc.github.io/CodeNarc/codenarc-rules-imports.html#nowildcardimports-rule)

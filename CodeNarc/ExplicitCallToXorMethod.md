@@ -10,4 +10,4 @@ This rule also ignores all calls to `super.xor(Object)`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitCallToXorMethod](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitCallToXorMethod)
+* [CodeNarc - ExplicitCallToXorMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicitcalltoxormethod-rule)

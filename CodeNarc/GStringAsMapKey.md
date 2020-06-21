@@ -14,4 +14,4 @@ Map map = ["${someRef}" : 'invalid' ]       // violation
 
 ## Further Reading
 
-* [CodeNarc - GStringAsMapKey](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#GStringAsMapKey)
+* [CodeNarc - GStringAsMapKey](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#gstringasmapkey-rule)

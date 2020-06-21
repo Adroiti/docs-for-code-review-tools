@@ -21,4 +21,4 @@ def someClosure1 = { int a, b ->
 
 ## Further Reading
 
-* [CodeNarc - ParameterReassignment](http://codenarc.sourceforge.net/codenarc-rules-convention.html#ParameterReassignment)
+* [CodeNarc - ParameterReassignment](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#parameterreassignment-rule)

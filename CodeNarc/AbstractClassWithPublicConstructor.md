@@ -16,4 +16,4 @@ abstract class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - AbstractClassWithPublicConstructor](http://codenarc.sourceforge.net/codenarc-rules-design.html#AbstractClassWithPublicConstructor)
+* [CodeNarc - AbstractClassWithPublicConstructor](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#abstractclasswithpublicconstructor-rule)

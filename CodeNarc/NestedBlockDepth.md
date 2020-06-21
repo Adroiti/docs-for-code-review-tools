@@ -32,4 +32,4 @@ someBuilder.root {
 
 ## Further Reading
 
-* [CodeNarc - NestedBlockDepth](http://codenarc.sourceforge.net/codenarc-rules-size.html#NestedBlockDepth)
+* [CodeNarc - NestedBlockDepth](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#nestedblockdepth-rule)

@@ -31,4 +31,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryDefInMethodDeclaration](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryDefInMethodDeclaration)
+* [CodeNarc - UnnecessaryDefInMethodDeclaration](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarydefinmethoddeclaration-rule)

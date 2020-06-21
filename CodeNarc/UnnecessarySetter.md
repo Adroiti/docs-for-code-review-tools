@@ -25,4 +25,4 @@ These bits of code do not:
 
 ## Further Reading
 
-* [CodeNarc - UnnecessarySetter](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessarySetter)
+* [CodeNarc - UnnecessarySetter](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarysetter-rule)

@@ -59,4 +59,4 @@ class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - ImplementationAsType](http://codenarc.sourceforge.net/codenarc-rules-design.html#ImplementationAsType)
+* [CodeNarc - ImplementationAsType](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#implementationastype-rule)

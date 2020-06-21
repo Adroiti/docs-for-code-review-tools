@@ -17,4 +17,4 @@ def b2 = new java.math.BigDecimal(23.45d)  // violation
 
 ## Further Reading
 
-* [CodeNarc - BigDecimalInstantiation](http://codenarc.sourceforge.net/codenarc-rules-basic.html#BigDecimalInstantiation)
+* [CodeNarc - BigDecimalInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#bigdecimalinstantiation-rule)

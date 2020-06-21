@@ -32,4 +32,4 @@ assert foo() == false : "message"       // violation only if checkAssertStatemen
 
 ## Further Reading
 
-* [CodeNarc - UseAssertTrueInsteadOfAssertEquals](http://codenarc.sourceforge.net/codenarc-rules-junit.html#UseAssertTrueInsteadOfAssertEquals)
+* [CodeNarc - UseAssertTrueInsteadOfAssertEquals](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#useasserttrueinsteadofassertequals-rule)

@@ -90,4 +90,4 @@ class SomeClass {
 ## Further Reading
 
 * [SlideShare - Java Concurrency Gotchas](http://www.slideshare.net/alexmiller/java-concurrency-gotchas-3666977)
-* [CodeNarc - SynchronizedOnReentrantLock](http://codenarc.sourceforge.net/codenarc-rules-concurrency.html#SynchronizedOnReentrantLock)
+* [CodeNarc - SynchronizedOnReentrantLock](https://codenarc.github.io/CodeNarc/codenarc-rules-concurrency.html#synchronizedonreentrantlock-rule)

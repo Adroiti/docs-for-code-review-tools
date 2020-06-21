@@ -24,4 +24,4 @@ may be better to just disable this rule (either per class or globally).
 
 ## Further Reading
 
-* [CodeNarc - NoJavaUtilDate](http://codenarc.sourceforge.net/codenarc-rules-convention.html#NoJavaUtilDate)
+* [CodeNarc - NoJavaUtilDate](https://codenarc.github.io/CodeNarc/codenarc-rules-convention.html#nojavautildate-rule)

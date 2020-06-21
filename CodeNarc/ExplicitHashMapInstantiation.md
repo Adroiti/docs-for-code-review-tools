@@ -8,4 +8,4 @@ This rule checks for explicit calls to the no-argument constructor of `HashMap`.
 
 ## Further Reading
 
-* [CodeNarc - ExplicitHashMapInstantiation](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#ExplicitHashMapInstantiation)
+* [CodeNarc - ExplicitHashMapInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#explicithashmapinstantiation-rule)

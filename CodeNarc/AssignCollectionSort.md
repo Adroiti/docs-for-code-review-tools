@@ -16,4 +16,4 @@ Example of violations:
 
 ## Further Reading
 
-* [CodeNarc - AssignCollectionSort](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#AssignCollectionSort)
+* [CodeNarc - AssignCollectionSort](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#assigncollectionsort-rule)

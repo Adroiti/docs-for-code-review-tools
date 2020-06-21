@@ -26,4 +26,4 @@ def c = [1, '1'] as Set
 
 ## Further Reading
 
-* [CodeNarc - DuplicateSetValue](http://codenarc.sourceforge.net/codenarc-rules-basic.html#DuplicateSetValue)
+* [CodeNarc - DuplicateSetValue](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#duplicatesetvalue-rule)

@@ -21,4 +21,4 @@ if (!(variable instanceof String)) { ... }
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryInstanceOfCheck](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryInstanceOfCheck)
+* [CodeNarc - UnnecessaryInstanceOfCheck](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessaryinstanceofcheck-rule)

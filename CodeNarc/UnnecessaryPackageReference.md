@@ -64,4 +64,4 @@ Known limitations:
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryPackageReference](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryPackageReference)
+* [CodeNarc - UnnecessaryPackageReference](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarypackagereference-rule)

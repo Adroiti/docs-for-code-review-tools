@@ -21,4 +21,4 @@ def id
 
 ## Further Reading
 
-* [CodeNarc - ConsecutiveBlankLines](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#ConsecutiveBlankLines)
+* [CodeNarc - ConsecutiveBlankLines](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#consecutiveblanklines-rule)

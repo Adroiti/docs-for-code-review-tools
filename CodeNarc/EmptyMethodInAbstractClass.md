@@ -20,4 +20,4 @@ abstract class SomeClass {
 
 ## Further Reading
 
-* [CodeNarc - EmptyMethodInAbstractClass](http://codenarc.sourceforge.net/codenarc-rules-design.html#EmptyMethodInAbstractClass)
+* [CodeNarc - EmptyMethodInAbstractClass](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#emptymethodinabstractclass-rule)

@@ -33,4 +33,4 @@ new RandomAccessFile(name, parent)
 
 ## Further Reading
 
-* [CodeNarc - JavaIoPackageAccess](http://codenarc.sourceforge.net/codenarc-rules-security.html#JavaIoPackageAccess)
+* [CodeNarc - JavaIoPackageAccess](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#javaiopackageaccess-rule)

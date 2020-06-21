@@ -30,4 +30,4 @@ abstract class SomeBaseClass {
 
 ## Further Reading
 
-* [CodeNarc - EmptyMethod](http://codenarc.sourceforge.net/codenarc-rules-basic.html#EmptyMethod)
+* [CodeNarc - EmptyMethod](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#emptymethod-rule)

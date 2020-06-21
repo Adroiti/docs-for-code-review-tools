@@ -30,4 +30,4 @@ value == true ?: x
 
 ## Further Reading
 
-* [CodeNarc - AssignmentInConditional](http://codenarc.sourceforge.net/codenarc-rules-basic.html#AssignmentInConditional)
+* [CodeNarc - AssignmentInConditional](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#assignmentinconditional-rule)

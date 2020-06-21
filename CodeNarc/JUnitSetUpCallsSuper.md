@@ -12,4 +12,4 @@ This rule sets the default value of the *applyToClassNames* property to only mat
 
 ## Further Reading
 
-* [CodeNarc - JUnitSetUpCallsSuper](http://codenarc.sourceforge.net/codenarc-rules-junit.html#JUnitSetUpCallsSuper)
+* [CodeNarc - JUnitSetUpCallsSuper](https://codenarc.github.io/CodeNarc/codenarc-rules-junit.html#junitsetupcallssuper-rule)

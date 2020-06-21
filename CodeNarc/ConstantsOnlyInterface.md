@@ -15,4 +15,4 @@ public interface ConstantsInterface {
 
 ## Further Reading
 
-* [CodeNarc - ConstantsOnlyInterface](http://codenarc.sourceforge.net/codenarc-rules-design.html#ConstantsOnlyInterface)
+* [CodeNarc - ConstantsOnlyInterface](https://codenarc.github.io/CodeNarc/codenarc-rules-design.html#constantsonlyinterface-rule)

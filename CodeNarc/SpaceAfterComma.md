@@ -26,4 +26,4 @@ def map1 = [a:1,b:2, c:3]                   // violation on map element b:2
 
 ## Further Reading
 
-* [CodeNarc - SpaceAfterComma](http://codenarc.sourceforge.net/codenarc-rules-formatting.html#SpaceAfterComma)
+* [CodeNarc - SpaceAfterComma](https://codenarc.github.io/CodeNarc/codenarc-rules-formatting.html#spaceaftercomma-rule)

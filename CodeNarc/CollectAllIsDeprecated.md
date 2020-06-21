@@ -18,4 +18,4 @@ list.collectNested { it * 2 }   // replacement
 
 ## Further Reading
 
-* [CodeNarc - CollectAllIsDeprecated](http://codenarc.sourceforge.net/codenarc-rules-groovyism.html#CollectAllIsDeprecated)
+* [CodeNarc - CollectAllIsDeprecated](https://codenarc.github.io/CodeNarc/codenarc-rules-groovyism.html#collectallisdeprecated-rule)

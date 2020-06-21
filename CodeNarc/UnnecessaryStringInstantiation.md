@@ -14,4 +14,4 @@ def s = new String('abc')
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryStringInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryStringInstantiation)
+* [CodeNarc - UnnecessaryStringInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarystringinstantiation-rule)

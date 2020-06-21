@@ -8,4 +8,4 @@ It is unnecessary to instantiate `Double` objects. Instead just use the double l
 
 ## Further Reading
 
-* [CodeNarc - UnnecessaryDoubleInstantiation](http://codenarc.sourceforge.net/codenarc-rules-unnecessary.html#UnnecessaryDoubleInstantiation)
+* [CodeNarc - UnnecessaryDoubleInstantiation](https://codenarc.github.io/CodeNarc/codenarc-rules-unnecessary.html#unnecessarydoubleinstantiation-rule)

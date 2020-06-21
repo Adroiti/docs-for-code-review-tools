@@ -32,4 +32,4 @@ for (Plan p : plans) {  // OK
 
 ## Further Reading
 
-* [CodeNarc - ForLoopShouldBeWhileLoop](http://codenarc.sourceforge.net/codenarc-rules-basic.html#ForLoopShouldBeWhileLoop)
+* [CodeNarc - ForLoopShouldBeWhileLoop](https://codenarc.github.io/CodeNarc/codenarc-rules-basic.html#forloopshouldbewhileloop-rule)

@@ -36,4 +36,4 @@ The *cyclomatic complexity* value is calculated as follows:
 
 ## Further Reading
 
-* [CodeNarc - CyclomaticComplexity](http://codenarc.sourceforge.net/codenarc-rules-size.html#CyclomaticComplexity)
+* [CodeNarc - CyclomaticComplexity](https://codenarc.github.io/CodeNarc/codenarc-rules-size.html#cyclomaticcomplexity-rule)

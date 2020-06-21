@@ -8,4 +8,4 @@ Web applications should never call `System.exit()`. A call to `System.exit()` is
 
 ## Further Reading
 
-* [CodeNarc - SystemExit](http://codenarc.sourceforge.net/codenarc-rules-security.html#SystemExit)
+* [CodeNarc - SystemExit](https://codenarc.github.io/CodeNarc/codenarc-rules-security.html#systemexit-rule)
