@@ -18,4 +18,4 @@ items[1..]
 
 ## Further Reading
 
-* [RuboCop - Layout/SlicingWithRange](https://docs.rubocop.org/rubocop/cops_style.html#styleslicingwithrange)
+* [RuboCop - Style/SlicingWithRange](https://docs.rubocop.org/rubocop/cops_style.html#styleslicingwithrange)
