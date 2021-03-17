@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule reports uses of classes that have been removed from Vuetify.
+Disallows the use of removed utility classes.
 
 ## Further Reading
 
