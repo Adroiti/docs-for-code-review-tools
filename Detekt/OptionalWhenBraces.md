@@ -28,4 +28,4 @@ when (i) {
 
 ## Further Reading
 
-* [Detekt - OptionalWhenBraces](https://arturbosch.github.io/detekt/style.html#optionalwhenbraces)
+* [Detekt - OptionalWhenBraces](https://detekt.github.io/detekt/style.html#optionalwhenbraces)

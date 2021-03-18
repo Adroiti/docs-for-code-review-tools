@@ -24,4 +24,4 @@ val x = "string"
 
 ## Further Reading
 
-* [Detekt - RedundantExplicitType](https://arturbosch.github.io/detekt/style.html#redundantexplicittype)
+* [Detekt - RedundantExplicitType](https://detekt.github.io/detekt/style.html#redundantexplicittype)

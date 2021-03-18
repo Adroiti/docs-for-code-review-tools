@@ -8,4 +8,4 @@ Reports empty `do`/`while` loops. Empty blocks of code serve no purpose and shou
 
 ## Further Reading
 
-* [Detekt - EmptyDoWhileBlock](https://arturbosch.github.io/detekt/empty-blocks.html#emptydowhileblock)
+* [Detekt - EmptyDoWhileBlock](https://detekt.github.io/detekt/empty-blocks.html#emptydowhileblock)

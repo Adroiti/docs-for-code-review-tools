@@ -8,4 +8,4 @@ Reports unused private classes. If private classes are unused they should be rem
 
 ## Further Reading
 
-* [Detekt - UnusedPrivateClass](https://arturbosch.github.io/detekt/style.html#unusedprivateclass)
+* [Detekt - UnusedPrivateClass](https://detekt.github.io/detekt/style.html#unusedprivateclass)

@@ -20,4 +20,4 @@ fun isNull(str: String) = str == null
 
 ## Further Reading
 
-* [Detekt - EqualsNullCall](https://arturbosch.github.io/detekt/style.html#equalsnullcall)
+* [Detekt - EqualsNullCall](https://detekt.github.io/detekt/style.html#equalsnullcall)

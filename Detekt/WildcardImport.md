@@ -40,4 +40,4 @@ with wildcard imports. (default: 'java.util.*,kotlinx.android.synthetic.*')
 
 ## Further Reading
 
-* [Detekt - WildcardImport](https://arturbosch.github.io/detekt/style.html#wildcardimport)
+* [Detekt - WildcardImport](https://detekt.github.io/detekt/style.html#wildcardimport)

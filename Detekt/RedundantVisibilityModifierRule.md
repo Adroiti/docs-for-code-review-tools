@@ -26,4 +26,4 @@ interface Foo {
 
 ## Further Reading
 
-* [Detekt - RedundantVisibilityModifierRule](https://arturbosch.github.io/detekt/style.html#redundantvisibilitymodifierrule)
+* [Detekt - RedundantVisibilityModifierRule](https://detekt.github.io/detekt/style.html#redundantvisibilitymodifierrule)

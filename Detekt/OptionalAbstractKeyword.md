@@ -28,4 +28,4 @@ interface Foo {
 
 ## Further Reading
 
-* [Detekt - OptionalAbstractKeyword](https://arturbosch.github.io/detekt/style.html#optionalabstractkeyword)
+* [Detekt - OptionalAbstractKeyword](https://detekt.github.io/detekt/style.html#optionalabstractkeyword)

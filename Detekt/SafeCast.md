@@ -26,4 +26,4 @@ fun numberMagic(number: Number) {
 
 ## Further Reading
 
-* [Detekt - SafeCast](https://arturbosch.github.io/detekt/style.html#safecast)
+* [Detekt - SafeCast](https://detekt.github.io/detekt/style.html#safecast)

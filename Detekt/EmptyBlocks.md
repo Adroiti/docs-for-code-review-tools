@@ -16,4 +16,4 @@ fun unnecessaryFunction() {
 
 ## Further Reading
 
-* [Detekt - EmptyBlocks](https://arturbosch.github.io/detekt/empty-blocks.html#emptyblocks)
+* [Detekt - EmptyBlocks](https://detekt.github.io/detekt/empty-blocks.html#emptyblocks)

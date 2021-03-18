@@ -8,4 +8,4 @@ Reports when property names inside objects which do not follow the specified nam
 
 ## Further Reading
 
-* [Detekt - ObjectPropertyNaming](https://arturbosch.github.io/detekt/naming.html#objectpropertynaming)
+* [Detekt - ObjectPropertyNaming](https://detekt.github.io/detekt/naming.html#objectpropertynaming)

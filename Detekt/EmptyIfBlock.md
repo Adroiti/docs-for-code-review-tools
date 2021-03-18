@@ -8,4 +8,4 @@ Reports empty `if` blocks. Empty blocks of code serve no purpose and should be r
 
 ## Further Reading
 
-* [Detekt - EmptyIfBlock](https://arturbosch.github.io/detekt/empty-blocks.html#emptyifblock)
+* [Detekt - EmptyIfBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyifblock)

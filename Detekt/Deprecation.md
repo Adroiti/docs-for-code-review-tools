@@ -8,4 +8,4 @@ Deprecated elements are expected to be removed in future. Alternatives should be
 
 ## Further Reading
 
-* [Detekt - Deprecation](https://arturbosch.github.io/detekt/potential-bugs.html#deprecation)
+* [Detekt - Deprecation](https://detekt.github.io/detekt/potential-bugs.html#deprecation)

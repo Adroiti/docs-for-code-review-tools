@@ -30,4 +30,4 @@ fun foo(bar: Int) {
 
 ## Further Reading
 
-* [Detekt - ThrowingExceptionsWithoutMessageOrCause](https://arturbosch.github.io/detekt/exceptions.html#throwingexceptionswithoutmessageorcause)
+* [Detekt - ThrowingExceptionsWithoutMessageOrCause](https://detekt.github.io/detekt/exceptions.html#throwingexceptionswithoutmessageorcause)

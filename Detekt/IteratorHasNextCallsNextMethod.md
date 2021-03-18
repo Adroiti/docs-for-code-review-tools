@@ -19,4 +19,4 @@ class MyIterator : Iterator<String> {
 
 ## Further Reading
 
-* [Detekt - IteratorHasNextCallsNextMethod](https://arturbosch.github.io/detekt/potential-bugs.html#iteratorhasnextcallsnextmethod)
+* [Detekt - IteratorHasNextCallsNextMethod](https://detekt.github.io/detekt/potential-bugs.html#iteratorhasnextcallsnextmethod)

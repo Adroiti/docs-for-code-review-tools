@@ -16,4 +16,4 @@ import kotlin.SinceKotlin
 
 ## Further Reading
 
-* [Detekt - ForbiddenImport](https://arturbosch.github.io/detekt/style.html#forbiddenimport)
+* [Detekt - ForbiddenImport](https://detekt.github.io/detekt/style.html#forbiddenimport)

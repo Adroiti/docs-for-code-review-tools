@@ -32,5 +32,5 @@ for (i in 1..10) {
 
 ## Further Reading
 
-* [Detekt - ForEachOnRange](https://arturbosch.github.io/detekt/performance.html#foreachonrange)
+* [Detekt - ForEachOnRange](https://detekt.github.io/detekt/performance.html#foreachonrange)
 * [Kotlin's hidden costs - Benchmarks](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks)

@@ -44,4 +44,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - RethrowCaughtException](https://arturbosch.github.io/detekt/exceptions.html#rethrowcaughtexception)
+* [Detekt - RethrowCaughtException](https://detekt.github.io/detekt/exceptions.html#rethrowcaughtexception)

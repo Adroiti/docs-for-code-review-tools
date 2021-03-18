@@ -36,4 +36,4 @@ class Foo {
 
 ## Further Reading
 
-* [Detekt - EqualsWithHashCodeExist](https://arturbosch.github.io/detekt/potential-bugs.html#equalswithhashcodeexist)
+* [Detekt - EqualsWithHashCodeExist](https://detekt.github.io/detekt/potential-bugs.html#equalswithhashcodeexist)

@@ -8,4 +8,4 @@ Reports empty `for` loops. Empty blocks of code serve no purpose and should be r
 
 ## Further Reading
 
-* [Detekt - EmptyForBlock](https://arturbosch.github.io/detekt/empty-blocks.html#emptyforblock)
+* [Detekt - EmptyForBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyforblock)

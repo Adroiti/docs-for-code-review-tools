@@ -20,4 +20,4 @@ const val constantString = "1"
 
 ## Further Reading
 
-* [Detekt - FunctionOnlyReturningConstant](https://arturbosch.github.io/detekt/style.html#functiononlyreturningconstant)
+* [Detekt - FunctionOnlyReturningConstant](https://detekt.github.io/detekt/style.html#functiononlyreturningconstant)

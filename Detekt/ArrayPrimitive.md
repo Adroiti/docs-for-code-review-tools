@@ -28,4 +28,4 @@ fun returningFunction(): DoubleArray { }
 
 ## Further Reading
 
-* [Detekt - ArrayPrimitive](https://arturbosch.github.io/detekt/performance.html#arrayprimitive)
+* [Detekt - ArrayPrimitive](https://detekt.github.io/detekt/performance.html#arrayprimitive)

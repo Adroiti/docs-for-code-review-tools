@@ -19,4 +19,4 @@ class Foo {
 
 ## Further Reading
 
-* [Detekt - ExceptionRaisedInUnexpectedLocation](https://arturbosch.github.io/detekt/exceptions.html#exceptionraisedinunexpectedlocation)
+* [Detekt - ExceptionRaisedInUnexpectedLocation](https://detekt.github.io/detekt/exceptions.html#exceptionraisedinunexpectedlocation)

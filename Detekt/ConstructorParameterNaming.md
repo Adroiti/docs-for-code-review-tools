@@ -8,4 +8,4 @@ Reports constructor parameter names which do not follow the specified naming con
 
 ## Further Reading
 
-* [Detekt - ConstructorParameterNaming](https://arturbosch.github.io/detekt/naming.html#constructorparameternaming)
+* [Detekt - ConstructorParameterNaming](https://detekt.github.io/detekt/naming.html#constructorparameternaming)

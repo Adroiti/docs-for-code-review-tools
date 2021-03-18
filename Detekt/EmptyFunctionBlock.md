@@ -8,4 +8,4 @@ Empty blocks of code serve no purpose and should be removed. This rule will not 
 
 ## Further Reading
 
-* [Detekt - EmptyFunctionBlock](https://arturbosch.github.io/detekt/empty-blocks.html#emptyfunctionblock)
+* [Detekt - EmptyFunctionBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyfunctionblock)

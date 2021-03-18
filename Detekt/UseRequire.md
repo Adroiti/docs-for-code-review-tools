@@ -22,4 +22,4 @@ require(value >= 0) { "value is $value but should be at least 0" }
 
 ## Further Reading
 
-* [Detekt - UseRequire](https://arturbosch.github.io/detekt/style.html#userequire)
+* [Detekt - UseRequire](https://detekt.github.io/detekt/style.html#userequire)

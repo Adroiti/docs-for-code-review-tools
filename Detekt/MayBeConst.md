@@ -20,4 +20,4 @@ const val MY_CONSTANT = "abc"
 
 ## Further Reading
 
-* [Detekt - MayBeConst](https://arturbosch.github.io/detekt/style.html#maybeconst)
+* [Detekt - MayBeConst](https://detekt.github.io/detekt/style.html#maybeconst)

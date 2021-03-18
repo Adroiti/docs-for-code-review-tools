@@ -24,4 +24,4 @@ fun foo(str: String?) {
 
 ## Further Reading
 
-* [Detekt - UnsafeCallOnNullableType](https://arturbosch.github.io/detekt/potential-bugs.html#unsafecallonnullabletype)
+* [Detekt - UnsafeCallOnNullableType](https://detekt.github.io/detekt/potential-bugs.html#unsafecallonnullabletype)

@@ -15,5 +15,5 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - UseIfInsteadOfWhen](https://arturbosch.github.io/detekt/style.html#useifinsteadofwhen)
+* [Detekt - UseIfInsteadOfWhen](https://detekt.github.io/detekt/style.html#useifinsteadofwhen)
 * [Kotlin Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html#if-versus-when)

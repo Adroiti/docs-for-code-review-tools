@@ -8,4 +8,4 @@ Reports functions which have more parameters than a certain threshold (default: 
 
 ## Further Reading
 
-* [Detekt - LongParameterList](https://arturbosch.github.io/detekt/complexity.html#longparameterlist)
+* [Detekt - LongParameterList](https://detekt.github.io/detekt/complexity.html#longparameterlist)

@@ -30,4 +30,4 @@ when (i) {
 
 ## Further Reading
 
-* [Detekt - DuplicateCaseInWhenExpression](https://arturbosch.github.io/detekt/potential-bugs.html#duplicatecaseinwhenexpression)
+* [Detekt - DuplicateCaseInWhenExpression](https://detekt.github.io/detekt/potential-bugs.html#duplicatecaseinwhenexpression)

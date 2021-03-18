@@ -17,4 +17,4 @@ val b = someValue?.length```
 
 ## Further Reading
 
-* [Detekt - UnnecessarySafeCall](https://arturbosch.github.io/detekt/potential-bugs.html#unnecessarysafecall)
+* [Detekt - UnnecessarySafeCall](https://detekt.github.io/detekt/potential-bugs.html#unnecessarysafecall)

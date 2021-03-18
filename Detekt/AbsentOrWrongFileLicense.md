@@ -8,4 +8,4 @@ Report every Kotlin source file which doesn't have required license header. (def
 
 ## Further Reading
 
-* [Detekt - AbsentOrWrongFileLicense](https://arturbosch.github.io/detekt/comments.html#absentorwrongfilelicense)
+* [Detekt - AbsentOrWrongFileLicense](https://detekt.github.io/detekt/comments.html#absentorwrongfilelicense)

@@ -15,4 +15,4 @@ fun foo() { }
 
 ## Further Reading
 
-* [Detekt - ForbiddenComment](https://arturbosch.github.io/detekt/style.html#forbiddencomment)
+* [Detekt - ForbiddenComment](https://detekt.github.io/detekt/style.html#forbiddencomment)

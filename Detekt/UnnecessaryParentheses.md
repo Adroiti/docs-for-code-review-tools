@@ -32,4 +32,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - UnnecessaryParentheses](https://arturbosch.github.io/detekt/style.html#unnecessaryparentheses)
+* [Detekt - UnnecessaryParentheses](https://detekt.github.io/detekt/style.html#unnecessaryparentheses)

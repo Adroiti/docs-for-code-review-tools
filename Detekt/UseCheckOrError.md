@@ -30,4 +30,4 @@ when(a) {
 
 ## Further Reading
 
-* [Detekt - UseCheckOrError](https://arturbosch.github.io/detekt/style.html#usecheckorerror)
+* [Detekt - UseCheckOrError](https://detekt.github.io/detekt/style.html#usecheckorerror)

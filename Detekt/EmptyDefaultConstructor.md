@@ -8,4 +8,4 @@ Reports empty default constructors. Empty blocks of code serve no purpose and sh
 
 ## Further Reading
 
-* [Detekt - EmptyDefaultConstructor](https://arturbosch.github.io/detekt/empty-blocks.html#emptydefaultconstructor)
+* [Detekt - EmptyDefaultConstructor](https://detekt.github.io/detekt/empty-blocks.html#emptydefaultconstructor)

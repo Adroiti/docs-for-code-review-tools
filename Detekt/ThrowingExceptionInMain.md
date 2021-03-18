@@ -17,4 +17,4 @@ fun main(args: Array<String>) {
 
 ## Further Reading
 
-* [Detekt - ThrowingExceptionInMain](https://arturbosch.github.io/detekt/exceptions.html#throwingexceptioninmain)
+* [Detekt - ThrowingExceptionInMain](https://detekt.github.io/detekt/exceptions.html#throwingexceptioninmain)

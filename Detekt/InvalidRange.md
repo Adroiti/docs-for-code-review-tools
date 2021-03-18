@@ -27,4 +27,4 @@ val range =  2 until 2)
 
 ## Further Reading
 
-* [Detekt - InvalidRange](https://arturbosch.github.io/detekt/potential-bugs.html#invalidrange)
+* [Detekt - InvalidRange](https://detekt.github.io/detekt/potential-bugs.html#invalidrange)

@@ -8,4 +8,4 @@ Reports empty `while` expressions. Empty blocks of code serve no purpose and sho
 
 ## Further Reading
 
-* [Detekt - EmptyWhileBlock](https://arturbosch.github.io/detekt/empty-blocks.html#emptywhileblock)
+* [Detekt - EmptyWhileBlock](https://detekt.github.io/detekt/empty-blocks.html#emptywhileblock)

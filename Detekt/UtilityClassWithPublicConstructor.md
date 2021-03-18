@@ -48,4 +48,4 @@ object UtilityClass {
 
 ## Further Reading
 
-* [Detekt - UtilityClassWithPublicConstructor](https://arturbosch.github.io/detekt/style.html#utilityclasswithpublicconstructor)
+* [Detekt - UtilityClassWithPublicConstructor](https://detekt.github.io/detekt/style.html#utilityclasswithpublicconstructor)

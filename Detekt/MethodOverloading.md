@@ -10,4 +10,4 @@ Refactor these methods and try to use optional parameters instead to prevent som
 
 ## Further Reading
 
-* [Detekt - MethodOverloading](https://arturbosch.github.io/detekt/complexity.html#methodoverloading)
+* [Detekt - MethodOverloading](https://detekt.github.io/detekt/complexity.html#methodoverloading)

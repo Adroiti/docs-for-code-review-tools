@@ -20,4 +20,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - ThrowingExceptionFromFinally](https://arturbosch.github.io/detekt/exceptions.html#throwingexceptionfromfinally)
+* [Detekt - ThrowingExceptionFromFinally](https://detekt.github.io/detekt/exceptions.html#throwingexceptionfromfinally)

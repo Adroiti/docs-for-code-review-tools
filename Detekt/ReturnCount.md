@@ -34,4 +34,4 @@ fun foo(i: Int): String {
 
 ## Further Reading
 
-* [Detekt - ReturnCount](https://arturbosch.github.io/detekt/style.html#returncount)
+* [Detekt - ReturnCount](https://detekt.github.io/detekt/style.html#returncount)

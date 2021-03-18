@@ -41,4 +41,4 @@ class User {
 
 ## Further Reading
 
-* [Detekt - MagicNumber](https://arturbosch.github.io/detekt/style.html#magicnumber)
+* [Detekt - MagicNumber](https://detekt.github.io/detekt/style.html#magicnumber)

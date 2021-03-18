@@ -8,4 +8,4 @@ Reports when variable names which do not follow the specified naming convention 
 
 ## Further Reading
 
-* [Detekt - VariableNaming](https://arturbosch.github.io/detekt/naming.html#variablenaming)
+* [Detekt - VariableNaming](https://detekt.github.io/detekt/naming.html#variablenaming)

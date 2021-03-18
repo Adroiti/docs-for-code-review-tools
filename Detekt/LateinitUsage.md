@@ -17,4 +17,4 @@ class Foo {
 
 ## Further Reading
 
-* [Detekt - LateinitUsage](https://arturbosch.github.io/detekt/potential-bugs.html#lateinitusage)
+* [Detekt - LateinitUsage](https://detekt.github.io/detekt/potential-bugs.html#lateinitusage)

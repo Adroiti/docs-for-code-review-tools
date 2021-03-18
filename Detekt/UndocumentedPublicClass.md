@@ -10,4 +10,4 @@ By default this rule also searches for nested and inner classes and objects. Thi
 
 ## Further Reading
 
-* [Detekt - UndocumentedPublicClass](https://arturbosch.github.io/detekt/comments.html#undocumentedpublicclass)
+* [Detekt - UndocumentedPublicClass](https://detekt.github.io/detekt/comments.html#undocumentedpublicclass)

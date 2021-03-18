@@ -38,4 +38,4 @@ fun bar() {
 
 ## Further Reading
 
-* [Detekt - PrintStackTrace](https://arturbosch.github.io/detekt/exceptions.html#printstacktrace)
+* [Detekt - PrintStackTrace](https://detekt.github.io/detekt/exceptions.html#printstacktrace)

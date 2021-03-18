@@ -35,4 +35,4 @@ class MyIterator : Iterator<String> {
 
 ## Further Reading
 
-* [Detekt - IteratorNotThrowingNoSuchElementException](https://arturbosch.github.io/detekt/potential-bugs.html#iteratornotthrowingnosuchelementexception)
+* [Detekt - IteratorNotThrowingNoSuchElementException](https://detekt.github.io/detekt/potential-bugs.html#iteratornotthrowingnosuchelementexception)

@@ -22,4 +22,4 @@ val range = 0 until 10
 
 ## Further Reading
 
-* [Detekt - UntilInsteadOfRangeTo](https://arturbosch.github.io/detekt/style.html#untilinsteadofrangeto)
+* [Detekt - UntilInsteadOfRangeTo](https://detekt.github.io/detekt/style.html#untilinsteadofrangeto)

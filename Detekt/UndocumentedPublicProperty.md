@@ -8,4 +8,4 @@ This rule will report any public property which does not have the required docum
 
 ## Further Reading
 
-* [Detekt - UndocumentedPublicProperty](https://arturbosch.github.io/detekt/comments.html#undocumentedpublicproperty)
+* [Detekt - UndocumentedPublicProperty](https://detekt.github.io/detekt/comments.html#undocumentedpublicproperty)

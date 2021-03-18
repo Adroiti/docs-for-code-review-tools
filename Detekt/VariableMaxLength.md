@@ -8,4 +8,4 @@ Reports when very long variable names are used.
 
 ## Further Reading
 
-* [Detekt - VariableMaxLength](https://arturbosch.github.io/detekt/naming.html#variablemaxlength)
+* [Detekt - VariableMaxLength](https://detekt.github.io/detekt/naming.html#variablemaxlength)

@@ -8,4 +8,4 @@ Reports when class or object names which do not follow the specified naming conv
 
 ## Further Reading
 
-* [Detekt - ClassNaming](https://arturbosch.github.io/detekt/naming.html#classnaming)
+* [Detekt - ClassNaming](https://detekt.github.io/detekt/naming.html#classnaming)

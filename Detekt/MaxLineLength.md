@@ -8,4 +8,4 @@ Long lines might be hard to read on smaller screens or printouts. Additionally h
 
 ## Further Reading
 
-* [Detekt - MaxLineLength](https://arturbosch.github.io/detekt/style.html#maxlinelength)
+* [Detekt - MaxLineLength](https://detekt.github.io/detekt/style.html#maxlinelength)

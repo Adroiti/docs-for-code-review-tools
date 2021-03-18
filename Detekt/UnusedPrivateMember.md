@@ -8,4 +8,4 @@ Reports unused private properties, function parameters and functions. If private
 
 ## Further Reading
 
-* [Detekt - UnusedPrivateMember](https://arturbosch.github.io/detekt/style.html#unusedprivatemember)
+* [Detekt - UnusedPrivateMember](https://detekt.github.io/detekt/style.html#unusedprivatemember)

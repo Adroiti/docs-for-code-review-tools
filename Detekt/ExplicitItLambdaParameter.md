@@ -36,4 +36,4 @@ collection.zipWithNext { prev, next -> // Lambdas with multiple parameter should
 
 ## Further Reading
 
-* [Detekt - ExplicitItLambdaParameter](https://arturbosch.github.io/detekt/style.html#explicititlambdaparameter)
+* [Detekt - ExplicitItLambdaParameter](https://detekt.github.io/detekt/style.html#explicititlambdaparameter)

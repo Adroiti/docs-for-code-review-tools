@@ -13,4 +13,4 @@ fun main() {   System.gc()}```
 
 ## Further Reading
 
-* [Detekt - ForbiddenMethodCall](https://arturbosch.github.io/detekt/style.html#forbiddenmethodcall)
+* [Detekt - ForbiddenMethodCall](https://detekt.github.io/detekt/style.html#forbiddenmethodcall)

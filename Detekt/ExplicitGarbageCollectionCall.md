@@ -16,4 +16,4 @@ System.runFinalization()
 
 ## Further Reading
 
-* [Detekt - ExplicitGarbageCollectionCall](https://arturbosch.github.io/detekt/potential-bugs.html#explicitgarbagecollectioncall)
+* [Detekt - ExplicitGarbageCollectionCall](https://detekt.github.io/detekt/potential-bugs.html#explicitgarbagecollectioncall)

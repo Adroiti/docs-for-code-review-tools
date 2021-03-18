@@ -23,4 +23,4 @@ data class DataClass(val i: Int, val i2: Int)
 
 ## Further Reading
 
-* [Detekt - UseDataClass](https://arturbosch.github.io/detekt/style.html#usedataclass)
+* [Detekt - UseDataClass](https://detekt.github.io/detekt/style.html#usedataclass)

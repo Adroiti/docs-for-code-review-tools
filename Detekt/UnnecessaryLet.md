@@ -30,4 +30,4 @@ a?.let { param -> param.plus(param) }
 
 ## Further Reading
 
-* [Detekt - UnnecessaryLet](https://arturbosch.github.io/detekt/style.html#unnecessarylet)
+* [Detekt - UnnecessaryLet](https://detekt.github.io/detekt/style.html#unnecessarylet)

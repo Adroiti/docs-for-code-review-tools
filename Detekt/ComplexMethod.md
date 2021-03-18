@@ -10,4 +10,4 @@ Smaller methods can also be named much clearer which leads to improved readabili
 
 ## Further Reading
 
-* [Detekt - ComplexMethod](https://arturbosch.github.io/detekt/complexity.html#complexmethod)
+* [Detekt - ComplexMethod](https://detekt.github.io/detekt/complexity.html#complexmethod)

@@ -15,4 +15,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - UnnecessaryAnnotationUseSiteTarget](https://arturbosch.github.io/detekt/style.html#unnecessaryannotationusesitetarget)
+* [Detekt - UnnecessaryAnnotationUseSiteTarget](https://detekt.github.io/detekt/style.html#unnecessaryannotationusesitetarget)

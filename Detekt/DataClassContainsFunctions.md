@@ -16,4 +16,4 @@ data class DataClassWithFunctions(val i: Int) {
 
 ## Further Reading
 
-* [Detekt - DataClassContainsFunctions](https://arturbosch.github.io/detekt/style.html#dataclasscontainsfunctions)
+* [Detekt - DataClassContainsFunctions](https://detekt.github.io/detekt/style.html#dataclasscontainsfunctions)

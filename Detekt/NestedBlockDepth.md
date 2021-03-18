@@ -8,4 +8,4 @@ Excessively nested code becomes harder to read and increases its hidden complexi
 
 ## Further Reading
 
-* [Detekt - NestedBlockDepth](https://arturbosch.github.io/detekt/complexity.html#nestedblockdepth)
+* [Detekt - NestedBlockDepth](https://detekt.github.io/detekt/complexity.html#nestedblockdepth)

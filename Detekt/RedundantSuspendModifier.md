@@ -15,4 +15,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - RedundantSuspendModifier](https://arturbosch.github.io/detekt/coroutines.html#redundantsuspendmodifier)
+* [Detekt - RedundantSuspendModifier](https://detekt.github.io/detekt/coroutines.html#redundantsuspendmodifier)

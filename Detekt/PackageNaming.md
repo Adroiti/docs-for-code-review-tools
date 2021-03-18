@@ -8,4 +8,4 @@ Reports when package names which do not follow the specified naming convention a
 
 ## Further Reading
 
-* [Detekt - PackageNaming](https://arturbosch.github.io/detekt/naming.html#packagenaming)
+* [Detekt - PackageNaming](https://detekt.github.io/detekt/naming.html#packagenaming)

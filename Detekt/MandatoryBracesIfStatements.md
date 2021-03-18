@@ -22,4 +22,4 @@ val x = if (condition) 5 else 4
 
 ## Further Reading
 
-* [Detekt - MandatoryBracesIfStatements](https://arturbosch.github.io/detekt/style.html#mandatorybracesifstatements)
+* [Detekt - MandatoryBracesIfStatements](https://detekt.github.io/detekt/style.html#mandatorybracesifstatements)

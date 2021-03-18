@@ -26,4 +26,4 @@ internal class NestedClassesVisibility {
 
 ## Further Reading
 
-* [Detekt - NestedClassesVisibility](https://arturbosch.github.io/detekt/style.html#nestedclassesvisibility)
+* [Detekt - NestedClassesVisibility](https://detekt.github.io/detekt/style.html#nestedclassesvisibility)

@@ -10,4 +10,4 @@ This rule reports files, classes, interfaces, objects and enums which contain to
 
 ## Further Reading
 
-* [Detekt - TooManyFunctions](https://arturbosch.github.io/detekt/complexity.html#toomanyfunctions)
+* [Detekt - TooManyFunctions](https://detekt.github.io/detekt/complexity.html#toomanyfunctions)

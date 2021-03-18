@@ -54,4 +54,4 @@ fun whenOnEnumCompliant2(c: Color) {
 
 ## Further Reading
 
-* [Detekt - RedundantElseInWhen](https://arturbosch.github.io/detekt/potential-bugs.html#redundantelseinwhen)
+* [Detekt - RedundantElseInWhen](https://detekt.github.io/detekt/potential-bugs.html#redundantelseinwhen)

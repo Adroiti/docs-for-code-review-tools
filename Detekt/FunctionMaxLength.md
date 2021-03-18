@@ -8,4 +8,4 @@ Reports when very long function names are used.
 
 ## Further Reading
 
-* [Detekt - FunctionMaxLength](https://arturbosch.github.io/detekt/naming.html#functionmaxlength)
+* [Detekt - FunctionMaxLength](https://detekt.github.io/detekt/naming.html#functionmaxlength)
