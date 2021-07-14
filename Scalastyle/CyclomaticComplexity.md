@@ -31,4 +31,4 @@ If the code is too complex, then this can make code hard to read.
 
 ## Further Reading
 
-* [Scalastyle - CyclomaticComplexity](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_CyclomaticComplexityChecker)
+* [Scalastyle - CyclomaticComplexity](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_CyclomaticComplexityChecker)

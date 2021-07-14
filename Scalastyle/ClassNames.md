@@ -26,5 +26,5 @@ The Scala style guide recommends that class names conform to certain standards.
 
 ## Further Reading
 
-* [Scalastyle - ClassNames](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ClassNamesChecker)
+* [Scalastyle - ClassNames](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_ClassNamesChecker)
 * [The Scala Programming Language - Naming Conventions](https://docs.scala-lang.org/style/naming-conventions.html#classestraits)

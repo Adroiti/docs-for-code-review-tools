@@ -15,4 +15,4 @@ A boolean expression which can be simplified can make code easier to read.
 
 ## Further Reading
 
-* [Scalastyle - SimplifyBooleanExpression](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_SimplifyBooleanExpressionChecker)
+* [Scalastyle - SimplifyBooleanExpression](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_SimplifyBooleanExpressionChecker)

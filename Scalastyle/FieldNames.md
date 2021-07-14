@@ -31,5 +31,5 @@ A consistent naming convention for field names can make code easier to read and 
 
 ## Further Reading
 
-* [Scalastyle - FieldNames](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_FieldNamesChecker)
+* [Scalastyle - FieldNames](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_FieldNamesChecker)
 * [The Scala Programming Language - Naming Conventions](https://docs.scala-lang.org/style/naming-conventions.html#constants-values-variable-and-methods)

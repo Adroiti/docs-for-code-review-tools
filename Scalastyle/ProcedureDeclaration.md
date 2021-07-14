@@ -23,4 +23,4 @@ This rule raises a warning with the first line. To fix it, use an explicit retur
 
 ## Further Reading
 
-* [Scalastyle - ProcedureDeclaration](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ProcedureDeclarationChecker)
+* [Scalastyle - ProcedureDeclaration](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_ProcedureDeclarationChecker)

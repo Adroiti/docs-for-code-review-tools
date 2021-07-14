@@ -15,4 +15,4 @@ Defining either `equals()` or `hashCode()` in a class without defining the other
 
 ## Further Reading
 
-* [Scalastyle - EqualsHashCode](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_EqualsHashCodeChecker)
+* [Scalastyle - EqualsHashCode](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_EqualsHashCodeChecker)

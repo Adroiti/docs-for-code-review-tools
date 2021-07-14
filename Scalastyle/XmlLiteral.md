@@ -14,4 +14,4 @@ Some projects prefer not to have XML literals. They could use a templating engin
 
 ## Further Reading
 
-* [Scalastyle - XmlLiteral](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_XmlLiteralChecker)
+* [Scalastyle - XmlLiteral](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_XmlLiteralChecker)

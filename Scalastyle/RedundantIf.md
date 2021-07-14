@@ -15,4 +15,4 @@ If expressions with boolean constants in both branches can be eliminated without
 
 ## Further Reading
 
-* [Scalastyle - RedundantIf](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_RedundantIfChecker)
+* [Scalastyle - RedundantIf](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_RedundantIfChecker)

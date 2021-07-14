@@ -15,4 +15,4 @@ Any source files and text files in general should end with a line separator to l
 
 ## Further Reading
 
-* [Scalastyle - NewLineAtEof](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_NewLineAtEofChecker)
+* [Scalastyle - NewLineAtEof](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_NewLineAtEofChecker)

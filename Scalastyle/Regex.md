@@ -32,4 +32,4 @@ This rule reports issues captured with a regular expression.
 
 ## Further Reading
 
-* [Scalastyle - Regex](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_RegexChecker)
+* [Scalastyle - Regex](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_RegexChecker)

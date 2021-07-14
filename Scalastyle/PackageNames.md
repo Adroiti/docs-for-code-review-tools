@@ -26,5 +26,5 @@ The Scala style guide recommends that package names conform to certain standards
 
 ## Further Reading
 
-* [Scalastyle - PackageNames](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_PackageNamesChecker)
+* [Scalastyle - PackageNames](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_PackageNamesChecker)
 * [The Scala Programming Language - Naming Conventions](https://docs.scala-lang.org/style/naming-conventions.html#packages)

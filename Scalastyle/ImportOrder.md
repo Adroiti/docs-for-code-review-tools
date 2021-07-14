@@ -22,4 +22,4 @@ Consistent import ordering improves code readability and reduces unrelated chang
 
 ## Further Reading
 
-* [Scalastyle - ImportOrder](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ImportOrderChecker)
+* [Scalastyle - ImportOrder](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_ImportOrderChecker)

@@ -15,4 +15,4 @@ An expression with spaces around `+` can be easier to read.
 
 ## Further Reading
 
-* [Scalastyle - SpacesBeforePlus](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_SpacesBeforePlusChecker)
+* [Scalastyle - SpacesBeforePlus](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_SpacesBeforePlusChecker)

@@ -26,4 +26,4 @@ Developers often add comments to code which is not complete or needs review. Mos
 
 ## Further Reading
 
-* [Scalastyle - TodoComment](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_TodoCommentChecker)
+* [Scalastyle - TodoComment](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_TodoCommentChecker)

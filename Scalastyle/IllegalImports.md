@@ -24,4 +24,4 @@ Prefer a public, documented and specified class instead.
 
 ## Further Reading
 
-* [Scalastyle - IllegalImports](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_IllegalImportsChecker)
+* [Scalastyle - IllegalImports](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_IllegalImportsChecker)

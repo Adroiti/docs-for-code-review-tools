@@ -15,4 +15,4 @@ Issue: -
 
 ## Further Reading
 
-* [Scalastyle - While](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_WhileChecker)
+* [Scalastyle - While](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_WhileChecker)

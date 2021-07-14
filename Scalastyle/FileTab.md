@@ -20,4 +20,4 @@ Rationale:
 
 ## Further Reading
 
-* [Scalastyle - FileTab](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_FileTabChecker)
+* [Scalastyle - FileTab](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_FileTabChecker)

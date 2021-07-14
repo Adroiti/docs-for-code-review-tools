@@ -15,4 +15,4 @@ If there is whitespace before a left bracket, this can be confusing to the reade
 
 ## Further Reading
 
-* [Scalastyle - NoWhitespaceBeforeLeftBracket](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_NoWhitespaceBeforeLeftBracketChecker)
+* [Scalastyle - NoWhitespaceBeforeLeftBracket](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_NoWhitespaceBeforeLeftBracketChecker)

@@ -15,4 +15,4 @@ Block imports (e.g. `import a.{b, c}`) can lead to annoying merge errors in larg
 
 ## Further Reading
 
-* [Scalastyle - BlockImport](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_BlockImportChecker)
+* [Scalastyle - BlockImport](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_BlockImportChecker)

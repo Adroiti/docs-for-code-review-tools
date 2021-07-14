@@ -26,4 +26,4 @@ Limiting the number of lines allowed in a file allows files to remain small, sin
 
 ## Further Reading
 
-* [Scalastyle - FileLength](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_FileLengthChecker)
+* [Scalastyle - FileLength](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_FileLengthChecker)

@@ -19,4 +19,4 @@ Correct formatting can help readability.
 
 ## Further Reading
 
-* [Scalastyle - DisallowSpaceAfterToken](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_DisallowSpaceAfterTokenChecker)
+* [Scalastyle - DisallowSpaceAfterToken](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_DisallowSpaceAfterTokenChecker)

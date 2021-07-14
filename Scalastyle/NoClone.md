@@ -15,4 +15,4 @@ The clone method is difficult to get right. You can use the copy constructor of 
 
 ## Further Reading
 
-* [Scalastyle - NoClone](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_NoCloneChecker)
+* [Scalastyle - NoClone](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_NoCloneChecker)

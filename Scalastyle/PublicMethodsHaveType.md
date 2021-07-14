@@ -26,4 +26,4 @@ A public method declared on a type is effectively an API declaration. Explicitly
 
 ## Further Reading
 
-* [Scalastyle - PublicMethodsHaveType](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_PublicMethodsHaveTypeChecker)
+* [Scalastyle - PublicMethodsHaveType](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_PublicMethodsHaveTypeChecker)

@@ -45,4 +45,4 @@ Note: If you intend to enable only if expressions in the format below, disable t
 
 ## Further Reading
 
-* [Scalastyle - IfBrace](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_IfBraceChecker)
+* [Scalastyle - IfBrace](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_IfBraceChecker)

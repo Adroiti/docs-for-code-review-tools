@@ -31,4 +31,4 @@ val e = 3/** Correct*/ // Correct
 
 ## Further Reading
 
-* [Scalastyle - SpaceAfterCommentStart](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_SpaceAfterCommentStartChecker)
+* [Scalastyle - SpaceAfterCommentStart](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_SpaceAfterCommentStartChecker)

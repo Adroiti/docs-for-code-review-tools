@@ -26,5 +26,5 @@ Scala generic type names are generally single upper case letters (from the Engli
 
 ## Further Reading
 
-* [Scalastyle - ClassTypeParameter](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ClassTypeParameterChecker)
+* [Scalastyle - ClassTypeParameter](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_ClassTypeParameterChecker)
 * [The Scala Programming Language - Naming Conventions](https://docs.scala-lang.org/style/naming-conventions.html#type-parameters-generics)

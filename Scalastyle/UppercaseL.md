@@ -15,4 +15,4 @@ A lowercase `L` (`l`) can look similar to a number `1` with some fonts.
 
 ## Further Reading
 
-* [Scalastyle - UppercaseL](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_UppercaseLChecker)
+* [Scalastyle - UppercaseL](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_UppercaseLChecker)

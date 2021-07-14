@@ -31,4 +31,4 @@ To fix it, replace the (unicode operator)`⇒` with `=>`.
 
 ## Further Reading
 
-* [Scalastyle - NonASCIICharacter](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_NonASCIICharacterChecker)
+* [Scalastyle - NonASCIICharacter](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_NonASCIICharacterChecker)

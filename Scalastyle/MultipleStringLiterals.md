@@ -31,4 +31,4 @@ Code duplication makes maintenance more difficult, so it's better to replace mul
 
 ## Further Reading
 
-* [Scalastyle - MultipleStringLiterals](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_MultipleStringLiteralsChecker)
+* [Scalastyle - MultipleStringLiterals](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_MultipleStringLiteralsChecker)

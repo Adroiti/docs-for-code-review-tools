@@ -26,4 +26,4 @@ If a type declares too many methods, this can be an indication of bad design.
 
 ## Further Reading
 
-* [Scalastyle - NumberOfMethodsInType](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_NumberOfMethodsInTypeChecker)
+* [Scalastyle - NumberOfMethodsInType](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_NumberOfMethodsInTypeChecker)

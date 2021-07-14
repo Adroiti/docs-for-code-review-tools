@@ -26,4 +26,4 @@ Whitespace at the end of a line can cause problems when diffing between files or
 
 ## Further Reading
 
-* [Scalastyle - WhitespaceEndOfLine](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_WhitespaceEndOfLineChecker)
+* [Scalastyle - WhitespaceEndOfLine](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_WhitespaceEndOfLineChecker)

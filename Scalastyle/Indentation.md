@@ -36,4 +36,4 @@ Code that is not indented consistently can be hard to read.
 
 ## Further Reading
 
-* [Scalastyle - Indentation](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_IndentationChecker)
+* [Scalastyle - Indentation](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_IndentationChecker)

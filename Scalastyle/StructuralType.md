@@ -17,5 +17,5 @@ Warning: This rule can also wrongly pick up type lamdbas and other such construc
 
 ## Further Reading
 
-* [Scalastyle - StructuralType](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_StructuralTypeChecker)
+* [Scalastyle - StructuralType](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_StructuralTypeChecker)
 * [The Scala Programming Language - Structural Types](https://docs.scala-lang.org/style/types.html#structural-types)

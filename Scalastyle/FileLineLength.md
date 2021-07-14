@@ -36,4 +36,4 @@ Your source code should not contain very long lines. The default wrapping in mos
 
 ## Further Reading
 
-* [Scalastyle - FileLineLength](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_file_FileLineLengthChecker)
+* [Scalastyle - FileLineLength](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_file_FileLineLengthChecker)

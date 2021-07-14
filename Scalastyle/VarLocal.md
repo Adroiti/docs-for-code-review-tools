@@ -15,4 +15,4 @@ vars (mutable local variables) loops are deprecated if you're using a strict fun
 
 ## Further Reading
 
-* [Scalastyle - VarLocal](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_VarLocalChecker)
+* [Scalastyle - VarLocal](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_VarLocalChecker)

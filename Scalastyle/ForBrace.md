@@ -31,4 +31,4 @@ To fix it, replace the () with {}. And then remove the ; at the end of the lines
 
 ## Further Reading
 
-* [Scalastyle - ForBrace](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ForBraceChecker)
+* [Scalastyle - ForBrace](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_ForBraceChecker)

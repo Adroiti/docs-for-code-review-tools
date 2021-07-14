@@ -15,4 +15,4 @@ vars (mutable fields) are deprecated if you're using a strict functional style.
 
 ## Further Reading
 
-* [Scalastyle - VarField](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_VarFieldChecker)
+* [Scalastyle - VarField](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_VarFieldChecker)

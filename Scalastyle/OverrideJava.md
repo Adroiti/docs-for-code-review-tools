@@ -15,4 +15,4 @@ You should be using the Scala `override` keyword instead.
 
 ## Further Reading
 
-* [Scalastyle - OverrideJava](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_OverrideJavaChecker)
+* [Scalastyle - OverrideJava](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_OverrideJavaChecker)

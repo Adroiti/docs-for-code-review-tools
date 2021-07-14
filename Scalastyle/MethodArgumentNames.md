@@ -31,5 +31,5 @@ The Scala style guide recommends that method argument names conform to certain s
 
 ## Further Reading
 
-* [Scalastyle - MethodArgumentNames](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_MethodArgumentNamesChecker)
+* [Scalastyle - MethodArgumentNames](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_MethodArgumentNamesChecker)
 * [The Scala Programming Language - Naming Conventions](https://docs.scala-lang.org/style/naming-conventions.html#methods)

@@ -19,4 +19,4 @@ Importing all classes from a package or static members from a class leads to tig
 ## Further Reading
 
 * [Databricks Scala Guide - Imports](https://github.com/databricks/scala-style-guide#imports)
-* [Scalastyle - UnderscoreImport](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_UnderscoreImportChecker)
+* [Scalastyle - UnderscoreImport](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_UnderscoreImportChecker)

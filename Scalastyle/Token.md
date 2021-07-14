@@ -27,4 +27,4 @@ This rule reports issues captured with a regular expression token.
 
 ## Further Reading
 
-* [Scalastyle - Token](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_TokenChecker)
+* [Scalastyle - Token](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_TokenChecker)

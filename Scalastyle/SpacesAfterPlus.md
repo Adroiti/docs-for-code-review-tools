@@ -12,4 +12,4 @@ An expression with spaces around `+` can be easier to read.
 
 ## Further Reading
 
-* [Scalastyle - SpacesAfterPlus](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_SpacesAfterPlusChecker)
+* [Scalastyle - SpacesAfterPlus](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_SpacesAfterPlusChecker)

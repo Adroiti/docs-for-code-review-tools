@@ -26,4 +26,4 @@ If there are too many classes/objects defined in a single file, this can cause t
 
 ## Further Reading
 
-* [Scalastyle - NumberOfTypes](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_NumberOfTypesChecker)
+* [Scalastyle - NumberOfTypes](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_NumberOfTypesChecker)

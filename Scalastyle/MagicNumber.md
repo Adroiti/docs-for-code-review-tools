@@ -38,4 +38,4 @@ is considered to be a magic number.
 
 ## Further Reading
 
-* [Scalastyle - MagicNumber](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_MagicNumberChecker)
+* [Scalastyle - MagicNumber](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_MagicNumberChecker)

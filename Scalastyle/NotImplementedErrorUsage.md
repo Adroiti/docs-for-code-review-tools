@@ -15,4 +15,4 @@ The ??? operator denotes that an implementation is missing. This rule helps to a
 
 ## Further Reading
 
-* [Scalastyle - NotImplementedErrorUsage](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_NotImplementedErrorUsage)
+* [Scalastyle - NotImplementedErrorUsage](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_NotImplementedErrorUsage)

@@ -31,4 +31,4 @@ Long methods can be hard to read and understand.
 
 ## Further Reading
 
-* [Scalastyle - MethodLength](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_MethodLengthChecker)
+* [Scalastyle - MethodLength](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_MethodLengthChecker)

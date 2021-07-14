@@ -15,4 +15,4 @@ Use of `return` is not usually necessary in Scala. In fact, use of `return` can 
 
 ## Further Reading
 
-* [Scalastyle - Return](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_ReturnChecker)
+* [Scalastyle - Return](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_ReturnChecker)

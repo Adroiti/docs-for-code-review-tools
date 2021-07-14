@@ -15,4 +15,4 @@ Empty interpolated strings are harder to read and not necessary.
 
 ## Further Reading
 
-* [Scalastyle - EmptyInterpolatedString](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_EmptyInterpolatedStringChecker)
+* [Scalastyle - EmptyInterpolatedString](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_EmptyInterpolatedStringChecker)

@@ -19,4 +19,4 @@ Correct formatting can help readability.
 
 ## Further Reading
 
-* [Scalastyle - EnsureSingleSpaceBeforeToken](http://www.scalastyle.org/rules-1.0.0.html#org_scalastyle_scalariform_EnsureSingleSpaceBeforeTokenChecker)
+* [Scalastyle - EnsureSingleSpaceBeforeToken](https://scalastyle.beautiful-scala.com/rules-1.5.0.html#org_scalastyle_scalariform_EnsureSingleSpaceBeforeTokenChecker)
