@@ -49,5 +49,5 @@ EnforcedStyle | `and_return` | `and_return`, `block`
 
 ## Further Reading
 
-* [RSpec - RSpec/ReturnFromStub](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecreturnfromstub)
+* [RSpec - RSpec/ReturnFromStub](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecreturnfromstub)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ReturnFromStub](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ReturnFromStub)

@@ -60,5 +60,5 @@ EnforcedStyle | `inflected` | `inflected`, `explicit`
 
 ## Further Reading
 
-* [RSpec - RSpec/PredicateMatcher](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecpredicatematcher)
+* [RSpec - RSpec/PredicateMatcher](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecpredicatematcher)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/PredicateMatcher](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/PredicateMatcher)

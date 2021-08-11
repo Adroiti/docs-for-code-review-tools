@@ -26,5 +26,5 @@ include_examples 'foo bar baz'
 
 ## Further Reading
 
-* [RSpec - RSpec/SharedExamples](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecsharedexamples)
+* [RSpec - RSpec/SharedExamples](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecsharedexamples)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/SharedExamples](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/SharedExamples)

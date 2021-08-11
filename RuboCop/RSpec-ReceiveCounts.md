@@ -28,5 +28,5 @@ expect(foo).to receive(:bar).at_most(:twice).times
 
 ## Further Reading
 
-* [RSpec - RSpec/ReceiveCounts](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecreceivecounts)
+* [RSpec - RSpec/ReceiveCounts](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecreceivecounts)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ReceiveCounts](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ReceiveCounts)

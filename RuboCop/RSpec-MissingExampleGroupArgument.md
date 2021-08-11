@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/MissingExampleGroupArgument](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecmissingexamplegroupargument)
+* [RSpec - RSpec/MissingExampleGroupArgument](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmissingexamplegroupargument)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MissingExampleGroupArgument](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MissingExampleGroupArgument)

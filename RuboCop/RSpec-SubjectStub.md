@@ -21,5 +21,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/SubjectStub](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecsubjectstub)
+* [RSpec - RSpec/SubjectStub](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecsubjectstub)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/SubjectStub](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/SubjectStub)

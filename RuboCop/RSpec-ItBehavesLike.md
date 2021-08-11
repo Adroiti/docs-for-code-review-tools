@@ -35,5 +35,5 @@ EnforcedStyle | `it_behaves_like` | `it_behaves_like`, `it_should_behave_like`
 
 ## Further Reading
 
-* [RSpec - RSpec/ItBehavesLike](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecitbehaveslike)
+* [RSpec - RSpec/ItBehavesLike](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecitbehaveslike)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ItBehavesLike](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ItBehavesLike)

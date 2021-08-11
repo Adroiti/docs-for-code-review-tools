@@ -36,5 +36,5 @@ expect { do_something }.not_to raise_error
 
 ## Further Reading
 
-* [RSpec - RSpec/UnspecifiedException](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecunspecifiedexception)
+* [RSpec - RSpec/UnspecifiedException](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecunspecifiedexception)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/UnspecifiedException](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/UnspecifiedException)

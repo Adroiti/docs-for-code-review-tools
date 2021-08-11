@@ -18,5 +18,5 @@ expect(foo).not_to receive(:bar)
 
 ## Further Reading
 
-* [RSpec - RSpec/ReceiveNever](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecreceivenever)
+* [RSpec - RSpec/ReceiveNever](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecreceivenever)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ReceiveNever](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ReceiveNever)

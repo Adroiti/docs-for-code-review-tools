@@ -30,4 +30,4 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/ContextMethod](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspeccontextmethod)
+* [RSpec - RSpec/ContextMethod](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspeccontextmethod)

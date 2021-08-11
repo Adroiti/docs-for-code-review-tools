@@ -38,5 +38,5 @@ Max | `5` | Integer
 
 ## Further Reading
 
-* [RSpec - RSpec/ExampleLength](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecexamplelength)
+* [RSpec - RSpec/ExampleLength](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecexamplelength)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExampleLength](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExampleLength)

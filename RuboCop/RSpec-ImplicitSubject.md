@@ -42,5 +42,5 @@ EnforcedStyle | `single_line_only` | `single_line_only`, `single_statement_only`
 
 ## Further Reading
 
-* [RSpec - RSpec/ImplicitSubject](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecimplicitsubject)
+* [RSpec - RSpec/ImplicitSubject](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecimplicitsubject)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ImplicitSubject](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ImplicitSubject)

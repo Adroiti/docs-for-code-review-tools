@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/Focus](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecfocus)
+* [RSpec - RSpec/Focus](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecfocus)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Focus](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Focus)

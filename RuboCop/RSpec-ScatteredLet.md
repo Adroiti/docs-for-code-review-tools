@@ -30,5 +30,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/ScatteredLet](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecscatteredlet)
+* [RSpec - RSpec/ScatteredLet](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecscatteredlet)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ScatteredLet](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ScatteredLet)

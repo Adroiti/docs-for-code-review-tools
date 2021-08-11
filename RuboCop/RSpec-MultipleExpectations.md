@@ -55,5 +55,5 @@ AggregateFailuresByDefault | `false` | Boolean
 
 ## Further Reading
 
-* [RSpec - RSpec/MultipleExpectations](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecmultipleexpectations)
+* [RSpec - RSpec/MultipleExpectations](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmultipleexpectations)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleExpectations](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleExpectations)

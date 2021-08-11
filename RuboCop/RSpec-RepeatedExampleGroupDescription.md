@@ -48,4 +48,4 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/RepeatedExampleGroupDescription](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecrepeatedexamplegroupdescription)
+* [RSpec - RSpec/RepeatedExampleGroupDescription](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecrepeatedexamplegroupdescription)

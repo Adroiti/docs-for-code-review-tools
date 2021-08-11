@@ -46,5 +46,5 @@ EnforcedStyle | `described_class` | `described_class`, `explicit`
 
 ## Further Reading
 
-* [RSpec - RSpec/DescribedClass](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecdescribedclass)
+* [RSpec - RSpec/DescribedClass](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecdescribedclass)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/DescribedClass](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/DescribedClass)

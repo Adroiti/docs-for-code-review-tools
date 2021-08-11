@@ -29,5 +29,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/HooksBeforeExamples](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspechooksbeforeexamples)
+* [RSpec - RSpec/HooksBeforeExamples](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspechooksbeforeexamples)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/HooksBeforeExamples](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/HooksBeforeExamples)

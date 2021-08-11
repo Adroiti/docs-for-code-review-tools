@@ -28,5 +28,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/MultipleDescribes](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecmultipledescribes)
+* [RSpec - RSpec/MultipleDescribes](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmultipledescribes)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleDescribes](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleDescribes)

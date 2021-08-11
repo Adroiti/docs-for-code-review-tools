@@ -29,4 +29,4 @@ after(:all) { cleanup_feed }
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyHook](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptyhook)
+* [RSpec - RSpec/EmptyHook](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptyhook)

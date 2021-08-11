@@ -36,5 +36,5 @@ Enforce that `subject` is the first definition in the test.
 
 ## Further Reading
 
-* [RSpec - RSpec/LeadingSubject](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecleadingsubject)
+* [RSpec - RSpec/LeadingSubject](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecleadingsubject)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/LeadingSubject](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/LeadingSubject)

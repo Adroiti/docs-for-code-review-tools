@@ -24,4 +24,4 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/DescribedClassModuleWrapping](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecdescribedclassmodulewrapping)
+* [RSpec - RSpec/DescribedClassModuleWrapping](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecdescribedclassmodulewrapping)

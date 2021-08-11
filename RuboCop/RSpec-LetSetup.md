@@ -32,5 +32,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/LetSetup](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecletsetup)
+* [RSpec - RSpec/LetSetup](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecletsetup)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/LetSetup](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/LetSetup)

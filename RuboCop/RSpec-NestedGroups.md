@@ -97,5 +97,5 @@ Max | `3` | Integer
 
 ## Further Reading
 
-* [RSpec - RSpec/NestedGroups](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecnestedgroups)
+* [RSpec - RSpec/NestedGroups](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecnestedgroups)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/NestedGroups](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/NestedGroups)

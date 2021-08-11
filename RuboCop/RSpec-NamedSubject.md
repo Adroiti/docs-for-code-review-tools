@@ -54,5 +54,5 @@ IgnoreSharedExamples | `true` | Boolean
 
 ## Further Reading
 
-* [RSpec - RSpec/NamedSubject](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecnamedsubject)
+* [RSpec - RSpec/NamedSubject](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecnamedsubject)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/NamedSubject](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/NamedSubject)

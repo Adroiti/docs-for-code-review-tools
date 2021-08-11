@@ -36,5 +36,5 @@ Exclude | `spec/spec_helper.rb`, `spec/rails_helper.rb`, `spec/support/**/*.rb` 
 
 ## Further Reading
 
-* [RSpec - RSpec/BeforeAfterAll](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecbeforeafterall)
+* [RSpec - RSpec/BeforeAfterAll](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecbeforeafterall)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/BeforeAfterAll](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/BeforeAfterAll)

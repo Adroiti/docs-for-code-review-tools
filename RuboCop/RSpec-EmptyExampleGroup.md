@@ -71,5 +71,5 @@ CustomIncludeMethods | `[]` | Array
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyExampleGroup](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptyexamplegroup)
+* [RSpec - RSpec/EmptyExampleGroup](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptyexamplegroup)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyExampleGroup](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyExampleGroup)

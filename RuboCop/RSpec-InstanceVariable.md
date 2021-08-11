@@ -59,5 +59,5 @@ AssignmentOnly | `false` | Boolean
 
 ## Further Reading
 
-* [RSpec - RSpec/InstanceVariable](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecinstancevariable)
+* [RSpec - RSpec/InstanceVariable](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecinstancevariable)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InstanceVariable](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InstanceVariable)

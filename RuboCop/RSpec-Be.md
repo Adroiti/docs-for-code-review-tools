@@ -24,5 +24,5 @@ expect(foo).to be(true)
 
 ## Further Reading
 
-* [RSpec - RSpec/Be](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecbe)
+* [RSpec - RSpec/Be](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecbe)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Be](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Be)

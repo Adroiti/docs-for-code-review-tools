@@ -20,5 +20,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/RepeatedExample](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecrepeatedexample)
+* [RSpec - RSpec/RepeatedExample](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecrepeatedexample)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/RepeatedExample](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/RepeatedExample)

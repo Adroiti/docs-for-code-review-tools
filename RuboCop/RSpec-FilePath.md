@@ -56,5 +56,5 @@ IgnoreMethods | `false` | Boolean
 
 ## Further Reading
 
-* [RSpec - RSpec/FilePath](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecfilepath)
+* [RSpec - RSpec/FilePath](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecfilepath)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FilePath](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FilePath)

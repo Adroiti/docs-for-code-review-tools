@@ -54,4 +54,4 @@ AllowConsecutiveOneLiners | `true` | Boolean
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyLineAfterExample](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptylineafterexample)
+* [RSpec - RSpec/EmptyLineAfterExample](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptylineafterexample)

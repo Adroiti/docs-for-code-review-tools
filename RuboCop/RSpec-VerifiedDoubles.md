@@ -34,5 +34,5 @@ IgnoreSymbolicNames | `false` | Boolean
 
 ## Further Reading
 
-* [RSpec - RSpec/VerifiedDoubles](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecverifieddoubles)
+* [RSpec - RSpec/VerifiedDoubles](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecverifieddoubles)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/VerifiedDoubles](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/VerifiedDoubles)

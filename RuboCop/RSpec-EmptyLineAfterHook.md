@@ -39,5 +39,5 @@ it { does_something }
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyLineAfterHook](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptylineafterhook)
+* [RSpec - RSpec/EmptyLineAfterHook](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptylineafterhook)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterHook](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterHook)

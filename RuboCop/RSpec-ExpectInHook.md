@@ -27,5 +27,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/ExpectInHook](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecexpectinhook)
+* [RSpec - RSpec/ExpectInHook](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecexpectinhook)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExpectInHook](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExpectInHook)

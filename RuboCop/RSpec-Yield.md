@@ -18,5 +18,5 @@ expect(foo).to be(:bar).and_yield(1)
 
 ## Further Reading
 
-* [RSpec - RSpec/Yield](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecyield)
+* [RSpec - RSpec/Yield](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecyield)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Yield](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Yield)

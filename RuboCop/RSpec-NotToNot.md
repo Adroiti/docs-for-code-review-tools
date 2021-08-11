@@ -28,5 +28,5 @@ EnforcedStyle | `not_to` | `not_to`, `to_not`
 
 ## Further Reading
 
-* [RSpec - RSpec/NotToNot](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecnottonot)
+* [RSpec - RSpec/NotToNot](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecnottonot)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/NotToNot](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/NotToNot)

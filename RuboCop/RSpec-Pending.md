@@ -32,5 +32,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/Pending](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecpending)
+* [RSpec - RSpec/Pending](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecpending)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Pending](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Pending)
