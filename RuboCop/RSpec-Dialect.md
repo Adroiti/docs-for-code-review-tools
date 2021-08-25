@@ -54,4 +54,4 @@ PreferredMethods | `{}` |
 
 ## Further Reading
 
-* [RSpec - RSpec/Dialect](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecdialect)
+* [RSpec - RSpec/Dialect](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecdialect)

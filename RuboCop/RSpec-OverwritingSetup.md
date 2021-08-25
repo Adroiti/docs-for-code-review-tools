@@ -28,5 +28,5 @@ let!(:other) { other }
 
 ## Further Reading
 
-* [RSpec - RSpec/OverwritingSetup](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecoverwritingsetup)
+* [RSpec - RSpec/OverwritingSetup](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecoverwritingsetup)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/OverwritingSetup](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/OverwritingSetup)

@@ -23,5 +23,5 @@ it { does_something }
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyLineAfterFinalLet](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptylineafterfinallet)
+* [RSpec - RSpec/EmptyLineAfterFinalLet](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptylineafterfinallet)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterFinalLet](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterFinalLet)

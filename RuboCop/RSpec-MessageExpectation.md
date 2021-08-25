@@ -37,5 +37,5 @@ EnforcedStyle | `allow` | `allow`, `expect`
 
 ## Further Reading
 
-* [RSpec - RSpec/MessageExpectation](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecmessageexpectation)
+* [RSpec - RSpec/MessageExpectation](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmessageexpectation)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MessageExpectation](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MessageExpectation)

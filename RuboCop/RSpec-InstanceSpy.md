@@ -24,5 +24,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/InstanceSpy](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecinstancespy)
+* [RSpec - RSpec/InstanceSpy](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecinstancespy)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InstanceSpy](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InstanceSpy)

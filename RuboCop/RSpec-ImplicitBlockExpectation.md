@@ -21,4 +21,4 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/ImplicitBlockExpectation](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecimplicitblockexpectation)
+* [RSpec - RSpec/ImplicitBlockExpectation](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecimplicitblockexpectation)

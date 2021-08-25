@@ -28,5 +28,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/ScatteredSetup](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecscatteredsetup)
+* [RSpec - RSpec/ScatteredSetup](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecscatteredsetup)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ScatteredSetup](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ScatteredSetup)

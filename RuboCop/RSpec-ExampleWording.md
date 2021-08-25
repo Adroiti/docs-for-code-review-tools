@@ -41,5 +41,5 @@ IgnoredWords | `[]` | Array
 
 ## Further Reading
 
-* [RSpec - RSpec/ExampleWording](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecexamplewording)
+* [RSpec - RSpec/ExampleWording](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecexamplewording)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExampleWording](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExampleWording)

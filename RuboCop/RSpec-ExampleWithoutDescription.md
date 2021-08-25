@@ -61,5 +61,5 @@ EnforcedStyle | `always_allow` | `always_allow`, `single_line_only`, `disallow`
 
 ## Further Reading
 
-* [RSpec - RSpec/ExampleWithoutDescription](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecexamplewithoutdescription)
+* [RSpec - RSpec/ExampleWithoutDescription](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecexamplewithoutdescription)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExampleWithoutDescription](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExampleWithoutDescription)

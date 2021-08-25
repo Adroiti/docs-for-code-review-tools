@@ -76,5 +76,5 @@ EnforcedStyle | `implicit` | `implicit`, `each`, `example`
 
 ## Further Reading
 
-* [RSpec - RSpec/HookArgument](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspechookargument)
+* [RSpec - RSpec/HookArgument](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspechookargument)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/HookArgument](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/HookArgument)

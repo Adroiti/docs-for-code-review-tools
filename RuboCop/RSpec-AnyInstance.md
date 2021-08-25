@@ -29,5 +29,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/AnyInstance](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecanyinstance)
+* [RSpec - RSpec/AnyInstance](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecanyinstance)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/AnyInstance](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/AnyInstance)

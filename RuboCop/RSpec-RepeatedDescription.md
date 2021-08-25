@@ -34,5 +34,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/RepeatedDescription](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecrepeateddescription)
+* [RSpec - RSpec/RepeatedDescription](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecrepeateddescription)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/RepeatedDescription](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/RepeatedDescription)

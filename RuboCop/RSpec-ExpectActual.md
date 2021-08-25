@@ -28,5 +28,5 @@ Exclude | `spec/routing/**/*` | Array
 
 ## Further Reading
 
-* [RSpec - RSpec/ExpectActual](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecexpectactual)
+* [RSpec - RSpec/ExpectActual](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecexpectactual)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExpectActual](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExpectActual)

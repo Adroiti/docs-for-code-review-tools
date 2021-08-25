@@ -37,5 +37,5 @@ EnforcedStyle | `is_expected` | `is_expected`, `should`
 
 ## Further Reading
 
-* [RSpec - RSpec/ImplicitExpect](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecimplicitexpect)
+* [RSpec - RSpec/ImplicitExpect](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecimplicitexpect)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ImplicitExpect](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ImplicitExpect)

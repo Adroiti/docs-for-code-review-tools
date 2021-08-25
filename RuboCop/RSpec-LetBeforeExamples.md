@@ -37,5 +37,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/LetBeforeExamples](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecletbeforeexamples)
+* [RSpec - RSpec/LetBeforeExamples](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecletbeforeexamples)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/LetBeforeExamples](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/LetBeforeExamples)

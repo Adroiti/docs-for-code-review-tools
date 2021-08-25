@@ -38,5 +38,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/MultipleSubjects](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecmultiplesubjects)
+* [RSpec - RSpec/MultipleSubjects](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmultiplesubjects)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleSubjects](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleSubjects)

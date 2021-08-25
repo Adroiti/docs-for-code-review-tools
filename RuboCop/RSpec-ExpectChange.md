@@ -44,5 +44,5 @@ EnforcedStyle | `method_call` | `method_call`, `block`
 
 ## Further Reading
 
-* [RSpec - RSpec/ExpectChange](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecexpectchange)
+* [RSpec - RSpec/ExpectChange](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecexpectchange)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExpectChange](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ExpectChange)

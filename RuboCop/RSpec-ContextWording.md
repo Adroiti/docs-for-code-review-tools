@@ -40,5 +40,5 @@ Prefixes | `when`, `with`, `without` | Array
 
 ## Further Reading
 
-* [RSpec - RSpec/ContextWording](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspeccontextwording)
+* [RSpec - RSpec/ContextWording](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspeccontextwording)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ContextWording](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/ContextWording)

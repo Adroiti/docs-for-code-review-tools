@@ -40,5 +40,5 @@ expect(foo).to be(nil)
 
 ## Further Reading
 
-* [RSpec - RSpec/BeEql](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecbeeql)
+* [RSpec - RSpec/BeEql](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecbeeql)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/BeEql](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/BeEql)

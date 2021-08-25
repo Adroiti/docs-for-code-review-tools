@@ -37,5 +37,5 @@ EnforcedStyle | `have_received` | `have_received`, `receive`
 
 ## Further Reading
 
-* [RSpec - RSpec/MessageSpies](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecmessagespies)
+* [RSpec - RSpec/MessageSpies](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmessagespies)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MessageSpies](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MessageSpies)

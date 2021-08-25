@@ -29,5 +29,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyLineAfterExampleGroup](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptylineafterexamplegroup)
+* [RSpec - RSpec/EmptyLineAfterExampleGroup](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptylineafterexamplegroup)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterExampleGroup](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterExampleGroup)

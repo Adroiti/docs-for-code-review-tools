@@ -23,5 +23,5 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/DescribeMethod](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecdescribemethod)
+* [RSpec - RSpec/DescribeMethod](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecdescribemethod)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/DescribeMethod](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/DescribeMethod)

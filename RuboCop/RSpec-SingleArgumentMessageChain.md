@@ -22,5 +22,5 @@ allow(foo).to receive("bar.baz")
 
 ## Further Reading
 
-* [RSpec - RSpec/SingleArgumentMessageChain](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecsingleargumentmessagechain)
+* [RSpec - RSpec/SingleArgumentMessageChain](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecsingleargumentmessagechain)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/SingleArgumentMessageChain](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/SingleArgumentMessageChain)

@@ -22,5 +22,5 @@ let(:a)      { b }
 
 ## Further Reading
 
-* [RSpec - RSpec/AlignLeftLetBrace](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecalignleftletbrace)
+* [RSpec - RSpec/AlignLeftLetBrace](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecalignleftletbrace)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/AlignLeftLetBrace](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/AlignLeftLetBrace)

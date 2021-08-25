@@ -21,5 +21,5 @@ let(:foo) { bar }
 
 ## Further Reading
 
-* [RSpec - RSpec/EmptyLineAfterSubject](https://rubocop-rspec.readthedocs.io/en/latest/cops_rspec/#rspecemptylineaftersubject)
+* [RSpec - RSpec/EmptyLineAfterSubject](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecemptylineaftersubject)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterSubject](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/EmptyLineAfterSubject)
