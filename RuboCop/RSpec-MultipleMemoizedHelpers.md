@@ -100,4 +100,4 @@ Max | `5` | Integer
 
 ## Further Reading
 
-* [RSpec - RSpec/MultipleMemoizedHelpers](https://docs.rubocop.org/rubocop/cops_rspec.html#rspecmultiplememoizedhelpers)
+* [RSpec - RSpec/MultipleMemoizedHelpers](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecmultiplememoizedhelpers)

@@ -51,4 +51,4 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/RepeatedIncludeExample](https://docs.rubocop.org/rubocop/cops_rspec.html#rspecrepeatedincludeexample)
+* [RSpec - RSpec/RepeatedIncludeExample](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecrepeatedincludeexample)

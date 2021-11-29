@@ -19,4 +19,4 @@ expect(foo).to receive(:bar).with(42)
 
 ## Further Reading
 
-* [RSpec - RSpec/StubbedMock](https://docs.rubocop.org/rubocop/cops_rspec.html#rspecstubbedmock)
+* [RSpec - RSpec/StubbedMock](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecstubbedmock)
