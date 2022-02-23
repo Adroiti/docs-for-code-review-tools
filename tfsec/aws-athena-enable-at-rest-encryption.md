@@ -1,4 +1,4 @@
-Pattern: Athena databases and workgroup configurations are created unencrypted at rest by default, they should be encrypted
+Pattern: Disabled encryption for AWS Athena
 
 Issue: -
 

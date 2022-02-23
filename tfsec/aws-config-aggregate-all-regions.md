@@ -1,12 +1,10 @@
-Pattern: Config configuration aggregator should be using all regions for source
+Pattern: Missing use of `all_regions` for AWS configuration aggregator
 
 Issue: -
 
 ## Description
 
-The configuration aggregator should be configured with all_regions for the source. 
-
-This will help limit the risk of any unmonitored configuration in regions that are thought to be unused.
+The configuration aggregator should be configured with `all_regions` for the source. This will help limit the risk of any un-monitored configurations in regions that are thought to be unused.
 
 **Resolution**: Set the aggregator to cover all regions.
 

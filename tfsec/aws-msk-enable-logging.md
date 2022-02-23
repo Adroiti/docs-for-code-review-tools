@@ -1,4 +1,4 @@
-Pattern: Disabled logging for MSK Cluster
+Pattern: Disabled logging for AWS MSK cluster
 
 Issue: -
 

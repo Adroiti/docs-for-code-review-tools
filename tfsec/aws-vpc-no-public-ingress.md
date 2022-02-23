@@ -1,4 +1,4 @@
-Pattern: An ingress Network ACL rule allows specific ports from /0
+Pattern: Use of public AWS network ACL
 
 Issue: -
 

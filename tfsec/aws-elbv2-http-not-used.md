@@ -1,4 +1,4 @@
-Pattern: Use of plain HTTP
+Pattern: Use of HTTP for AWS load balancer
 
 Issue: -
 

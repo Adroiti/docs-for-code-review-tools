@@ -1,10 +1,10 @@
-Pattern: EKS should have the encryption of secrets enabled
+Pattern: Disabled secrets encryption for AWS EKS 
 
 Issue: -
 
 ## Description
 
-EKS cluster resources should have the encryption_config block set with protection of the secrets resource.
+EKS cluster resources should have the `encryption_config` block set with protection of the secrets resource.
 
 **Resolution**: Enable encryption of EKS secrets.
 

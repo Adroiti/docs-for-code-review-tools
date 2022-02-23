@@ -1,4 +1,4 @@
-Pattern: aws_instance should activate session tokens for Instance Metadata Service
+Pattern: Missing use of `http_tokens` for AWS instance
 
 Issue: -
 

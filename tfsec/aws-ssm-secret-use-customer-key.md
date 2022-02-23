@@ -1,4 +1,4 @@
-Pattern: Secrets Manager should use customer managed keys
+Pattern: Missing use of Customer Managed Keys for AWS secrets manager
 
 Issue: -
 

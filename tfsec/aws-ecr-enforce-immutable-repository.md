@@ -1,12 +1,10 @@
-Pattern: ECR images tags shouldn't be mutable
+Pattern: Use of mutable AWS ECR image
 
 Issue: -
 
 ## Description
 
-ECR images should be set to IMMUTABLE to prevent code injection through image mutation.
-
-This can be done by setting `image_tab_mutability` to `IMMUTABLE`
+ECR images should be set to IMMUTABLE to prevent code injection through image mutation. This can be done by setting `image_tab_mutability` to `IMMUTABLE`.
 
 **Resolution**: Only use immutable images in ECR.
 

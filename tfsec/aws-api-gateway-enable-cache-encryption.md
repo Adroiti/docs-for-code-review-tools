@@ -1,4 +1,4 @@
-Pattern: API Gateway must have cache enabled
+Pattern: Disabled cache encryption for AWS API Gateway
 
 Issue: -
 

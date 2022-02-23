@@ -1,4 +1,4 @@
-Pattern: ECR repository has image scans disabled
+Pattern: Disabled image scans for AWS ECR
 
 Issue: -
 

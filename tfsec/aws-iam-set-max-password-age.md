@@ -1,14 +1,12 @@
-Pattern: IAM Password policy should have expiry less than or equal to 90 days
+Pattern: Allowed non-expiring passwords for AWS IAM policy
 
 Issue: -
 
 ## Description
 
-IAM account password policies should have a maximum age specified. 
+IAM account password policies should have a maximum age specified. The account password policy should be set to expire passwords after `90` days or less.
 
-The account password policy should be set to expire passwords after 90 days or less.
-
-**Resolution**: import (.
+**Resolution**: Limit the password duration with an expiry in the policy.
 
 ## Examples
 

@@ -1,4 +1,4 @@
-Pattern: An inline egress security group rule allows traffic to /0
+Pattern: Use of public AWS egress security group
 
 Issue: -
 

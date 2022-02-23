@@ -1,4 +1,4 @@
-Pattern: Use of wildcard for IAM policy
+Pattern: Use of `*` for AWS IAM policy
 
 Issue: -
 

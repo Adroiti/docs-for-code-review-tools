@@ -1,4 +1,4 @@
-Pattern: Disabled X-Ray tracing for Lambda function
+Pattern: Disabled tracing for AWS Lambda function
 
 Issue: -
 

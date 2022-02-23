@@ -1,4 +1,4 @@
-Pattern: A resource has a public IP address
+Pattern: Use of public IP for AWS resource
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 You should limit the provision of public IP addresses for resources. Resources should not be exposed on the public internet, but should have access limited to consumers required for the function of your application.
 
-**Resolution**: Set the instance to not be publically accessible.
+**Resolution**: Set the instance to not be publicly accessible.
 
 ## Examples
 

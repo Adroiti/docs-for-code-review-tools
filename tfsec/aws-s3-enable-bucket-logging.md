@@ -1,4 +1,4 @@
-Pattern: S3 Bucket does not have logging enabled
+Pattern: Disabled bucket logging for AWS S3
 
 Issue: -
 

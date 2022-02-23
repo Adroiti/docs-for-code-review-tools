@@ -1,4 +1,4 @@
-Pattern: S3 Access block should block public policy
+Pattern: Unblocked public policy for AWS S3 bucket
 
 Issue: -
 

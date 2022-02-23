@@ -1,4 +1,4 @@
-Pattern: CloudFront distribution does not have a WAF in front
+Pattern: Disabled WAF for AWS CloudFront
 
 Issue: -
 

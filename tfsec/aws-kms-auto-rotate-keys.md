@@ -1,4 +1,4 @@
-Pattern: A KMS key is not configured to auto-rotate
+Pattern: Missing use of auto rotation for AWS KMS key
 
 Issue: -
 

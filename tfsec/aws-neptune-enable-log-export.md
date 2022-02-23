@@ -1,4 +1,4 @@
-Pattern: Disabled Nepture export logs
+Pattern: Disabled log export for AWS Neptune
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Unencrypted Elasticache Replication Group
+Pattern: Unencrypted ElastiCache replication group
 
 Issue: -
 
 ## Description
 
-You should ensure your Elasticache data is encrypted at rest to help prevent sensitive information from being read by unauthorised users.
+You should ensure your ElastiCache data is encrypted at rest to help prevent sensitive information from being read by unauthorised users.
 
 **Resolution**: Enable encryption for replication group.
 

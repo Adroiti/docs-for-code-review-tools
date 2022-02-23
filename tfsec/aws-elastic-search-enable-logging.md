@@ -1,12 +1,12 @@
-Pattern: AWS ES Domain should have logging enabled
+Pattern: Disabled logging for AWS Elasticsearch domain
 
 Issue: -
 
 ## Description
 
-AWS ES domain should have logging enabled by default.
+AWS Elasticsearch domain should have logging enabled by default.
 
-**Resolution**: Enable logging for ElasticSearch domains.
+**Resolution**: Enable logging for Elasticsearch domains.
 
 ## Examples
 

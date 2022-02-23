@@ -1,4 +1,4 @@
-Pattern: S3 Access Block should Ignore Public Acl
+Pattern: Unignored public ACL for AWS S3 bucket
 
 Issue: -
 

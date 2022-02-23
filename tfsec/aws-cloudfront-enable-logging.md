@@ -1,10 +1,10 @@
-Pattern: Cloudfront distribution should have Access Logging configured
+Pattern: Disabled logging for AWS CloudFront
 
 Issue: -
 
 ## Description
 
-You should configure CloudFront Access Logging to create log files that contain detailed information about every user request that CloudFront receives
+You should configure CloudFront Access Logging to create log files that contain detailed information about every user request that CloudFront receives.
 
 **Resolution**: Enable logging for CloudFront distributions.
 

@@ -1,4 +1,4 @@
-Pattern: Launch configuration with unencrypted block device
+Pattern: Disabled encryption for AWS block device
 
 Issue: -
 

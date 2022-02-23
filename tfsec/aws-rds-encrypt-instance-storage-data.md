@@ -1,4 +1,4 @@
-Pattern: RDS encryption has not been enabled at a DB Instance level
+Pattern: Disabled encryption for AWS RDS instance storage
 
 Issue: -
 
@@ -6,9 +6,7 @@ Issue: -
 
 Encryption should be enabled for an RDS Database instances. 
 
-When enabling encryption by setting the kms_key_id.
-
-**Resolution**: Enable encryption for RDS clusters and instances.
+**Resolution**: Enable encryption for RDS instances.
 
 ## Examples
 

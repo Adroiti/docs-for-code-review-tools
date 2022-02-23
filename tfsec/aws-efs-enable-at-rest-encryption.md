@@ -1,4 +1,4 @@
-Pattern: EFS Encryption has not been enabled
+Pattern: Disabled encryption for AWS EFS
 
 Issue: -
 

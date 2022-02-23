@@ -1,4 +1,4 @@
-Pattern: API Gateway domain name uses outdated SSL/TLS protocols
+Pattern: Use of insecure TLS policy for AWS API Gateway domain name
 
 Issue: -
 

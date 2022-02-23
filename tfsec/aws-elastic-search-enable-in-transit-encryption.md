@@ -1,4 +1,4 @@
-Pattern: Elasticsearch domain uses plaintext traffic for node to node communication
+Pattern: Disabled in-transit encryption for AWS Elasticsearch
 
 Issue: -
 

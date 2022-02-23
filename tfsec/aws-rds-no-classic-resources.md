@@ -1,4 +1,4 @@
-Pattern: AWS Classic resource usage
+Pattern: Use of AWS classic resource
 
 Issue: -
 

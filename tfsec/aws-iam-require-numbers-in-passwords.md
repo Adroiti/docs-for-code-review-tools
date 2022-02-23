@@ -1,4 +1,4 @@
-Pattern: IAM Password policy should have requirement for at least one number in the password
+Pattern: Allowed non-number passwords for AWS IAM policy
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 IAM account password policies should ensure that passwords content including at least one number.
 
-**Resolution**: import (.
+**Resolution**: Enforce longer, more complex passwords in the policy.
 
 ## Examples
 

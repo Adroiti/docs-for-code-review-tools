@@ -1,4 +1,4 @@
-Pattern: Athena workgroups should enforce configuration to prevent client disabling encryption
+Pattern: Possible encryption override for AWS Athena
 
 Issue: -
 

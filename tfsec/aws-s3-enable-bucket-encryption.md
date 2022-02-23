@@ -1,4 +1,4 @@
-Pattern: Unencrypted S3 bucket
+Pattern: Unencrypted AWS S3 bucket
 
 Issue: -
 

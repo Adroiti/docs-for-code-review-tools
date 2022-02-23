@@ -1,4 +1,4 @@
-Pattern: Disabled Customer Managed Keys for DocumentDB
+Pattern: Disabled Customer Managed Keys for AWS DocumentDB
 
 Issue: -
 

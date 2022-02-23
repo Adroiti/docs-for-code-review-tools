@@ -1,4 +1,4 @@
-Pattern: Disabled encryption of Neptune storage
+Pattern: Disabled storage encryption for AWS Neptune
 
 Issue: -
 

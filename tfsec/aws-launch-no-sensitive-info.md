@@ -1,4 +1,4 @@
-Pattern: Use of possibly sensitive data in Launch configuration EBS
+Pattern: Use of possibly sensitive data in AWS launch configuration
 
 Issue: -
 

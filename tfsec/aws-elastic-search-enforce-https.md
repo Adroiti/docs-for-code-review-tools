@@ -1,4 +1,4 @@
-Pattern: Elasticsearch doesn't enforce HTTPS traffic
+Pattern: Use of HTTP for AWS Elasticsearch
 
 Issue: -
 
@@ -8,7 +8,7 @@ Plain HTTP is unencrypted and human-readable. This means that if a malicious act
 
 You should use HTTPS, which is HTTP over an encrypted (TLS) connection, meaning eavesdroppers cannot read your traffic.
 
-**Resolution**: Enforce the use of HTTPS for ElasticSearch.
+**Resolution**: Enforce the use of HTTPS for Elasticsearch.
 
 ## Examples
 

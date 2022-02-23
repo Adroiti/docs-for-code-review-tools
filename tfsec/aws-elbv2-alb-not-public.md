@@ -1,4 +1,4 @@
-Pattern: Load balancer is exposed to the internet
+Pattern: Use of public AWS load balancer
 
 Issue: -
 

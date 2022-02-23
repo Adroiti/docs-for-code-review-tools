@@ -1,4 +1,4 @@
-Pattern: Unencrypted SQS queue
+Pattern: Unencrypted AWS SQS queue
 
 Issue: -
 

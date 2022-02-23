@@ -1,4 +1,4 @@
-Pattern: EBS volume encryption should use Customer Managed Keys
+Pattern: Missing use of Customer Managed Keys for AWS EBS volume
 
 Issue: -
 

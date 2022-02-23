@@ -1,4 +1,4 @@
-Pattern: IAM Password policy should have requirement for at least one symbol in the password
+Pattern: Allowed non-symbol passwords for AWS IAM policy
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 IAM account password policies should ensure that passwords content including a symbol.
 
-**Resolution**: import (.
+**Resolution**: Enforce longer, more complex passwords in the policy.
 
 ## Examples
 

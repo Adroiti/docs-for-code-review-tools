@@ -1,14 +1,12 @@
-Pattern: Encryption for RDS Perfomance Insights should be enabled
+Pattern: Disabled Performance Insights for AWS RDS
 
 Issue: -
 
 ## Description
 
-When enabling Performance Insights on an RDS cluster or RDS DB Instance, and encryption key should be provided.
+When enabling Performance Insights on an RDS cluster or RDS DB Instance, and encryption key should be provided. The encryption key specified in `performance_insights_kms_key_id` references a KMS ARN.
 
-The encryption key specified in
-
-**Resolution**: Enable encryption for RDS clusters and instances.
+**Resolution**: Enable Performance Insights for RDS clusters and instances.
 
 ## Examples
 

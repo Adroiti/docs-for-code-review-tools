@@ -1,4 +1,4 @@
-Pattern: Load balancers should drop invalid headers
+Pattern: Missing use of `drop_invalid_header_fields` for AWS load balancer
 
 Issue: -
 
@@ -6,9 +6,9 @@ Issue: -
 
 Passing unknown or invalid headers through to the target poses a potential risk of compromise. 
 
-By setting drop_invalid_header_fields to true, anything that doe not conform to well known, defined headers will be removed by the load balancer.
+By setting `drop_invalid_header_fields` to true, anything that doe not conform to well known, defined headers will be removed by the load balancer.
 
-**Resolution**: Set drop_invalid_header_fields to true.
+**Resolution**: Set `drop_invalid_header_fields` to true.
 
 ## Examples
 

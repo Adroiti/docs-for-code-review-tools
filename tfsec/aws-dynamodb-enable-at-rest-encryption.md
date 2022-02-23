@@ -1,4 +1,4 @@
-Pattern: DAX Cluster should always encrypt data at rest
+Pattern: Disabled encryption for AWS DAX Cluster
 
 Issue: -
 

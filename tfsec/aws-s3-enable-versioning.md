@@ -1,4 +1,4 @@
-Pattern: S3 Data should be versioned
+Pattern: Disabled versioning for AWS S3
 
 Issue: -
 

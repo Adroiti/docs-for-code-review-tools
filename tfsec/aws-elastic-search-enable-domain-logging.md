@@ -1,4 +1,4 @@
-Pattern: Domain logging should be enabled for Elastic Search domains
+Pattern: Disabled domain logging for AWS Elasticsearch
 
 Issue: -
 
@@ -12,7 +12,7 @@ Audit logs track user activity for compliance purposes.
 
 All the logs are disabled by default.
 
-**Resolution**: Enable logging for ElasticSearch domains.
+**Resolution**: Enable logging for Elasticsearch domains.
 
 ## Examples
 

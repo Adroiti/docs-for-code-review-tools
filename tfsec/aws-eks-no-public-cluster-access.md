@@ -1,10 +1,10 @@
-Pattern: EKS Clusters should have the public access disabled
+Pattern: Use of public cluster access for AWS EKS
 
 Issue: -
 
 ## Description
 
-EKS clusters are available publicly by default, this should be explicitly disabled in the vpc_config of the EKS cluster resource.
+EKS clusters are available publicly by default, this should be explicitly disabled in the `vpc_config` of the EKS cluster resource.
 
 **Resolution**: Don't enable public access to EKS Clusters.
 

@@ -1,12 +1,10 @@
-Pattern: Point in time recovery should be enabled to protect DynamoDB table
+Pattern: Missing use of point in time recovery for AWS DynamoDB
 
 Issue: -
 
 ## Description
 
-DynamoDB tables should be protected against accidently or malicious write/delete actions by ensuring that there is adaquate protection.
-
-By enabling point-in-time-recovery you can restore to a known point in the event of loss of data.
+DynamoDB tables should be protected against accidentally or malicious write/delete actions by ensuring that there is adequate protection. By enabling point-in-time-recovery you can restore to a known point in the event of loss of data.
 
 **Resolution**: Enable point in time recovery.
 

@@ -1,10 +1,10 @@
-Pattern: Cloudtrail should be encrypted at rest to secure access to sensitive trail data
+Pattern: Disabled encryption for AWS CloudTrail
 
 Issue: -
 
 ## Description
 
-Cloudtrail logs should be encrypted at rest to secure the sensitive data. Cloudtrail logs record all activity that occurs in the the account through API calls and would be one of the first places to look when reacting to a breach.
+CloudTrail logs should be encrypted at rest to secure the sensitive data. CloudTrail logs record all activity that occurs in the the account through API calls and would be one of the first places to look when reacting to a breach.
 
 **Resolution**: Enable encryption at rest.
 

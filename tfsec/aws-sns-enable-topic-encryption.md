@@ -1,4 +1,4 @@
-Pattern: Unencrypted SNS topic
+Pattern: Unencrypted AWS SNS topic
 
 Issue: -
 

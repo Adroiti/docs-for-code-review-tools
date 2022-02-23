@@ -1,4 +1,4 @@
-Pattern: CloudFront distribution allows unencrypted (HTTP) communications
+Pattern: Use of HTTP for AWS CloudFront
 
 Issue: -
 

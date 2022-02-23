@@ -1,12 +1,10 @@
-Pattern: Missing description for security group/rule
+Pattern: Missing description for AWS ElastiCache security group/rule
 
 Issue: -
 
 ## Description
 
-Security groups and security group rules should include a description for auditing purposes.
-
-Simplifies auditing, debugging, and managing security groups.
+Security groups and security group rules should include a description for auditing purposes. This simplifies auditing, debugging, and managing security groups.
 
 **Resolution**: Add descriptions for all security groups and rules.
 

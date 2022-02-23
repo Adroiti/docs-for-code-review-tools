@@ -1,4 +1,4 @@
-Pattern: Enabled public access for MQ Broker
+Pattern: Use of public access for AWS MQ
 
 Issue: -
 

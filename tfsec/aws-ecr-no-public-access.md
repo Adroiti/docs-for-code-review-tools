@@ -1,4 +1,4 @@
-Pattern: Use of public access for ECR repository policy
+Pattern: Use of public access for AWS ECR repository
 
 Issue: -
 

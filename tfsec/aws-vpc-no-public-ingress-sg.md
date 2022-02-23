@@ -1,4 +1,4 @@
-Pattern: An inline ingress security group rule allows traffic from /0
+Pattern: Use of public AWS ingress security group
 
 Issue: -
 

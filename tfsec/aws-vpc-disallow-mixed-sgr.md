@@ -1,4 +1,4 @@
-Pattern: Use of mixed security group rules
+Pattern: Use of mixed AWS security group rules
 
 Issue: -
 

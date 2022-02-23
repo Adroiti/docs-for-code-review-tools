@@ -1,4 +1,4 @@
-Pattern: CloudFront distribution uses outdated SSL/TLS protocols
+Pattern: Use of insecure TLS/SSL policy for AWS CloudFront
 
 Issue: -
 

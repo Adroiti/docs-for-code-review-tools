@@ -1,4 +1,4 @@
-Pattern: Kinesis stream is unencrypted
+Pattern: Disabled in-transit encryption for AWS Kinesis stream
 
 Issue: -
 

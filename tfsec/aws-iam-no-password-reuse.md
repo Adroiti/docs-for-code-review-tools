@@ -1,14 +1,12 @@
-Pattern: IAM Password policy should prevent password reuse
+Pattern: Allowed reuse of passwords for AWS IAM
 
 Issue: -
 
 ## Description
 
-IAM account password policies should prevent the reuse of passwords. 
+IAM account password policies should prevent the reuse of passwords. The account password policy should be set to prevent using any of the last five used passwords.
 
-The account password policy should be set to prevent using any of the last five used passwords.
-
-**Resolution**: import (.
+**Resolution**: Prevent password reuse in the policy.
 
 ## Examples
 

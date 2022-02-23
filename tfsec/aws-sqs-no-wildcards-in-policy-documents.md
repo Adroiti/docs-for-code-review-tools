@@ -1,4 +1,4 @@
-Pattern: AWS SQS policy document has wildcard action statement
+Pattern: Use of `*` for AWS SQS policy document
 
 Issue: -
 

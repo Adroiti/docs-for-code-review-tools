@@ -1,12 +1,12 @@
-Pattern: Elasticsearch domain isn't encrypted at rest
+Pattern: Disabled domain encryption for AWS Elasticsearch
 
 Issue: -
 
 ## Description
 
-You should ensure your Elasticsearch data is encrypted at rest to help prevent sensitive information from being read by unauthorised users.
+You should ensure your Elasticsearch data is encrypted at rest to help prevent sensitive information from being read by unauthorized users.
 
-**Resolution**: Enable ElasticSearch domain encryption.
+**Resolution**: Enable Elasticsearch domain encryption.
 
 ## Examples
 

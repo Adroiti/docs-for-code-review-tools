@@ -1,4 +1,4 @@
-Pattern: S3 Bucket has an ACL defined which allows public access
+Pattern: Use of public access ACL for AWS S3 bucket
 
 Issue: -
 
@@ -8,7 +8,7 @@ S3 bucket permissions should be set to deny public access unless explicitly requ
 
 Granting write access publicly with `public-read-write` is especially dangerous as you will be billed for any uploaded files.
 
-Additionally, you should not use the `authenticated-read` canned ACL, as this provides read access to any authenticated AWS user, not just AWS users within your organisation.
+Additionally, you should not use the `authenticated-read` canned ACL, as this provides read access to any authenticated AWS user, not just AWS users within your organization.
 
 **Resolution**: Apply a more restrictive bucket ACL.
 

@@ -1,4 +1,4 @@
-Pattern: DynamoDB tables should use at rest encyption with a Customer Managed Key
+Pattern: Missing use of Customer Managed Key for AWS DynamoDB table
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 DynamoDB tables are encrypted by default using AWS managed encryption keys. To increase control of the encryption and control the management of factors like key rotation, use a Customer Managed Key.
 
-**Resolution**: Enable server side encrytion with a customer managed key.
+**Resolution**: Enable server side encryption with a customer managed key.
 
 ## Examples
 

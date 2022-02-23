@@ -1,10 +1,10 @@
-Pattern: User data for EC2 instances must not contain sensitive AWS keys
+Pattern: Use sensitive data in AWS EC2 instance
 
 Issue: -
 
 ## Description
 
-EC2 instance data is used to pass start up information into the EC2 instance. This userdata must not contain access key credentials. Instead use an IAM Instance Profile assigned to the instance to grant access to other AWS Services.
+EC2 instance data is used to pass start up information into the EC2 instance. This user-data must not contain access key credentials. Instead use an IAM Instance Profile assigned to the instance to grant access to other AWS Services.
 
 **Resolution**: Remove sensitive data from the EC2 instance user-data.
 

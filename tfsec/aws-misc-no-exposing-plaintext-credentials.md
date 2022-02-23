@@ -1,12 +1,12 @@
-Pattern: AWS provider has access credentials specified
+Pattern: Use of plain-text AWS credentials
 
 Issue: -
 
 ## Description
 
-The AWS provider block should not contain hardcoded credentials. These can be passed in securely as runtime using environment variables.
+The AWS provider block should not contain hard-coded credentials. These can be passed in securely as runtime using environment variables.
 
-**Resolution**: Don't include access credentials in plain text.
+**Resolution**: Don't include access credentials in plain-text.
 
 ## Examples
 

@@ -1,4 +1,4 @@
-Pattern: Redis cluster should be backup retention turned on
+Pattern: Disabled backup retention for AWS ElastiCache
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Redis clusters should have a snapshot retention time to ensure that they are backed up and can be restored if required.
 
-**Resolution**: Configure snapshot retention for redis cluster.
+**Resolution**: Configure snapshot retention for Redis cluster.
 
 ## Examples
 

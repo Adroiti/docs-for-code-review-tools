@@ -1,4 +1,4 @@
-Pattern: API Gateway must have X-Ray tracing enabled
+Pattern: Disabled tracing for AWS API Gateway
 
 Issue: -
 

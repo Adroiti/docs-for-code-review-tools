@@ -1,10 +1,10 @@
-Pattern: ECS clusters should have container insights enabled
+Pattern: Disabled Container Insights for AWS ECS cluster
 
 Issue: -
 
 ## Description
 
-Cloudwatch Container Insights provide more metrics and logs for container based applications and micro services.
+CloudWatch Container Insights provide more metrics and logs for container based applications and micro services.
 
 **Resolution**: Enable Container Insights.
 

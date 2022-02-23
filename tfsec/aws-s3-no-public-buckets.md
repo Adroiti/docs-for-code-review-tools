@@ -1,12 +1,12 @@
-Pattern: S3 Access block should restrict public bucket to limit access
+Pattern: Use of public bucket for AWS S3
 
 Issue: -
 
 ## Description
 
-S3 buckets should restrict public policies for the bucket. By enabling, the restrict_public_buckets, only the bucket owner and AWS Services can access if it has a public policy.
+S3 buckets should restrict public policies for the bucket. By enabling the `restrict_public_buckets` only the bucket owner and AWS Services can access if it has a public policy.
 
-**Resolution**: Limit the access to public buckets to only the owner or AWS Services (eg; CloudFront).
+**Resolution**: Limit the access to public buckets to only the owner or AWS Services (e.g. CloudFront).
 
 ## Examples
 

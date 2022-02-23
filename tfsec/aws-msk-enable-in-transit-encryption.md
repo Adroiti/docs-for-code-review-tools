@@ -1,4 +1,4 @@
-Pattern: A MSK cluster allows unencrypted data in transit
+Pattern: Disabled in-transit encryption for AWS MSK cluster
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Redshift clusters should use at rest encryption
+Pattern: Missing use of encryption via CMK for AWS Redshift
 
 Issue: -
 

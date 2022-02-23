@@ -1,12 +1,12 @@
-Pattern: Elasticache Replication Group uses unencrypted traffic
+Pattern: Disabled encryption for AWS ElastiCache replication group
 
 Issue: -
 
 ## Description
 
-Traffic flowing between Elasticache replication nodes should be encrypted to ensure sensitive data is kept private.
+Traffic flowing between ElastiCache replication nodes should be encrypted to ensure sensitive data is kept private.
 
-**Resolution**: Enable in transit encryptuon for replication group.
+**Resolution**: Enable in transit encryption for replication group.
 
 ## Examples
 

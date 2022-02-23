@@ -1,12 +1,10 @@
-Pattern: There is no encryption specified or encryption is disabled on the RDS Cluster
+Pattern: Disabled encryption for AWS RDS cluster storage
 
 Issue: -
 
 ## Description
 
-Encryption should be enabled for an RDS Aurora cluster. 
-
-When enabling encryption by setting the kms_key_id, the storage_encrypted must also be set to true.
+Encryption should be enabled for an RDS Aurora cluster. When enabling encryption by setting the `kms_key_id` and `storage_encrypted` must also be set to true.
 
 **Resolution**: Enable encryption for RDS clusters and instances.
 

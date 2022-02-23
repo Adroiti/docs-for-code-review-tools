@@ -1,10 +1,10 @@
-Pattern: CodeBuild Project artifacts encryption should not be disabled
+Pattern: Disabled encryption for AWS CodeBuild
 
 Issue: -
 
 ## Description
 
-All artifacts produced by your CodeBuild project pipeline should always be encrypted
+All artifacts produced by your CodeBuild project pipeline should always be encrypted.
 
 **Resolution**: Enable encryption for CodeBuild project artifacts.
 

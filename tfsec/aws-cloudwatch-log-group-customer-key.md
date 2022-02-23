@@ -1,4 +1,4 @@
-Pattern: CloudWatch log groups should be encrypted using CMK
+Pattern: Missing use of CMK encryption for AWS CloudWatch log group
 
 Issue: -
 

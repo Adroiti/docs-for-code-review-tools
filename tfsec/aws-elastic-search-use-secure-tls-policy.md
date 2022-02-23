@@ -1,4 +1,4 @@
-Pattern: Elasticsearch domain endpoint is using outdated TLS policy
+Pattern: Use of insecure TLS/SSL policy for AWS Elasticsearch
 
 Issue: -
 

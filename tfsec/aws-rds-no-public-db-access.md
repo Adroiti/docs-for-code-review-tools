@@ -1,4 +1,4 @@
-Pattern: A database resource is marked as publicly accessible
+Pattern: Use of public access for AWS RDS
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Database resources should not publicly available. You should limit all access to the minimum that is required for your application to function.
 
-**Resolution**: Set the database to not be publically accessible.
+**Resolution**: Set the database to not be publicly accessible.
 
 ## Examples
 

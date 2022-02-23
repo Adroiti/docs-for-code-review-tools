@@ -1,10 +1,10 @@
-Pattern: Root and user volumes on Workspaces should be encrypted
+Pattern: Disabled disk encryption for AWS WorkSpace
 
 Issue: -
 
 ## Description
 
-Workspace volumes for both user and root should be encrypted to protect the data stored on them.
+WorkSpace volumes for both user and root should be encrypted to protect the data stored on them.
 
 **Resolution**: Root and user volume encryption should be enabled.
 

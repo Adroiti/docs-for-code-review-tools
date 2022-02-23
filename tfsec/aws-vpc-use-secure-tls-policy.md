@@ -1,4 +1,4 @@
-Pattern: An outdated SSL policy is in use by a load balancer
+Pattern: Use of outdated SSL policy for AWS load balancer
 
 Issue: -
 

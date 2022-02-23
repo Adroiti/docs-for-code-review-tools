@@ -1,10 +1,10 @@
-Pattern: IAM customer managed policies should not allow decryption actions on all KMS keys
+Pattern: Use of `*` for AWS IAM KMS policy
 
 Issue: -
 
 ## Description
 
-IAM policies define which actions an identity (user, group, or role) can perform on which resources. Following security best practices, AWS recommends that you allow least privilege. In other words, you should grant to identities only the kms:Decrypt or kms:ReEncryptFrom permissions and only for the keys that are required to perform a task.
+IAM policies define which actions an identity (user, group, or role) can perform on which resources. Following security best practices, AWS recommends that you allow least privilege. In other words, you should grant to identities only the `kms:Decrypt` or `kms:ReEncryptFrom` permissions and only for the keys that are required to perform a task.
 
 **Resolution**: Scope down the resources of the IAM policy to specific keys.
 

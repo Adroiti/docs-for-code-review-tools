@@ -1,4 +1,4 @@
-Pattern: ECS Task Definitions with EFS volumes should use in-transit encryption
+Pattern: Disabled in-transit encryption for AWS ECS
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 ECS task definitions that have volumes using EFS configuration should explicitly enable in transit encryption to prevent the risk of data loss due to interception.
 
-**Resolution**: Enable in transit encryption when using efs.
+**Resolution**: Enable in-transit encryption when using EFS.
 
 ## Examples
 

@@ -1,10 +1,10 @@
-Pattern: S3 Access block should block public ACL
+Pattern: Disabled `block_public_acls` for AWS S3 bucket
 
 Issue: -
 
 ## Description
 
-S3 buckets should block public ACLs on buckets and any objects they contain. By blocking, PUTs with fail if the object has any public ACL a.
+S3 buckets should block public ACLs on buckets and any objects they contain. By blocking, PUTs with fail if the object has any public ACL.
 
 **Resolution**: Enable blocking any PUT calls with a public ACL specified.
 

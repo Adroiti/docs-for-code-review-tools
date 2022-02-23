@@ -1,10 +1,10 @@
-Pattern: No public access to API Gateway methods
+Pattern: Use of public AWS API Gateway method
 
 Issue: -
 
 ## Description
 
-API Gateway methods should be protected by authorization or api key. OPTION verb calls can be used without authorization
+API Gateway methods should be protected by authorization or API Key. OPTION verb calls can be used without authorization
 
 **Resolution**: Use and authorization method or require API Key.
 

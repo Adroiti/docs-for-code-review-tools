@@ -1,4 +1,4 @@
-Pattern: IAM Password policy should have requirement for at least one lowercase character
+Pattern: Allowed non-lowercase passwords for AWS IAM policy
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 IAM account password policies should ensure that passwords content including at least one lowercase character.
 
-**Resolution**: import (.
+**Resolution**: Enforce longer, more complex passwords in the policy.
 
 ## Examples
 

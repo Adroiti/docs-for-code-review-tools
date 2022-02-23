@@ -1,10 +1,10 @@
-Pattern: API Gateway stages for V1 and V2 should have access logging enabled
+Pattern: Disabled access logging for AWS API Gateway
 
 Issue: -
 
 ## Description
 
-API Gateway stages should have access log settings block configured to track all access to a particular stage. This should be applied to both v1 and v2 gateway stages.
+API Gateway stages should have access log settings block configured to track all access to a particular stage. This should be applied to both v1 and v2 Gateway stages.
 
 **Resolution**: Enable logging for API Gateway stages.
 

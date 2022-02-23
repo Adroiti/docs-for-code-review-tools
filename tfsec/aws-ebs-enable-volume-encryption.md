@@ -1,4 +1,4 @@
-Pattern: Disabled encryption for EBS volumes
+Pattern: Disabled encryption for AWS EBS volume
 
 Issue: -
 

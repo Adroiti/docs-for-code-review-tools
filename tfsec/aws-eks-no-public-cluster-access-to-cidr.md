@@ -1,10 +1,10 @@
-Pattern: EKS cluster should not have open CIDR range for public access
+Pattern: Open CIDR range for AWS EKS cluster
 
 Issue: -
 
 ## Description
 
-EKS Clusters have public access cidrs set to 0.0.0.0/0 by default which is wide open to the internet. This should be explicitly set to a more specific CIDR range
+EKS Clusters have public access cidrs set to `0.0.0.0/0` by default which is wide open to the internet. This should be explicitly set to a more specific CIDR range
 
 **Resolution**: Don't enable public access to EKS Clusters.
 

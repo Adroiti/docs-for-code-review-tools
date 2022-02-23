@@ -1,4 +1,4 @@
-Pattern: Disabled storage encryption for DocumentDB
+Pattern: Disabled storage encryption for AWS DocumentDB
 
 Issue: -
 

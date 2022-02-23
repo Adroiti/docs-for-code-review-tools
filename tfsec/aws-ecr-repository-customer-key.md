@@ -1,4 +1,4 @@
-Pattern: ECR Repository should use customer managed keys to allow more control
+Pattern: Missing use of Customer Managed Keys for AWS ECR
 
 Issue: -
 

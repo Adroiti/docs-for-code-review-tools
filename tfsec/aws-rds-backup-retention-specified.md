@@ -1,10 +1,10 @@
-Pattern: RDS Cluster and RDS instance should have backup retention longer than default 1 day
+Pattern: Use of default backup retention for AWS RDS
 
 Issue: -
 
 ## Description
 
-RDS backup retention for clusters defaults to 1 day, this may not be enough to identify and respond to an issue. Backup retention periods should be set to a period that is a balance on cost and limiting risk.
+RDS backup retention for clusters defaults to `1` day, this may not be enough to identify and respond to an issue. Backup retention periods should be set to a period that is a balance on cost and limiting risk.
 
 **Resolution**: Explicitly set the retention period to greater than the default.
 

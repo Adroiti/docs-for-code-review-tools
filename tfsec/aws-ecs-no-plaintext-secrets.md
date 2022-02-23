@@ -1,10 +1,10 @@
-Pattern: Task definition defines sensitive environment variable(s)
+Pattern: Use of plain-text secret for AWS ECS task definition
 
 Issue: -
 
 ## Description
 
-You should not make secrets available to a user in plaintext in any scenario. Secrets can instead be pulled from a secure secret storage system by the service requiring them.
+You should not make secrets available to a user in plain-text in any scenario. Secrets can instead be pulled from a secure secret storage system by the service requiring them.
 
 **Resolution**: Use secrets for the task definition.
 
