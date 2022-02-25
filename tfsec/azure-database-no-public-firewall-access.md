@@ -1,12 +1,12 @@
-Pattern: Enabled public access for database firewall
+Pattern: Enabled public access for Azure database firewall
 
 Issue: -
 
 ## Description
 
-Azure services can be allowed access through the firewall using a start and end IP address of 0.0.0.0. No other end ip address should be combined with a start of 0.0.0.0
+Azure services can be allowed access through the firewall using a start and end IP address of `0.0.0.0`. No other end IP address should be combined with a start of `0.0.0.0`.
 
-**Resolution**: Don't use wide ip ranges for the sql firewall.
+**Resolution**: Don't use wide IP ranges for the SQL firewall.
 
 ## Examples
 

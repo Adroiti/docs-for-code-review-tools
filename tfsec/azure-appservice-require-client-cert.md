@@ -1,4 +1,4 @@
-Pattern: Disabled incoming certificates for Web App
+Pattern: Disabled incoming certificates for Azure App Service
 
 Issue: -
 

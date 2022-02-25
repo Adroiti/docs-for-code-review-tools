@@ -1,4 +1,4 @@
-Pattern: Disabled alert notifications
+Pattern: Disabled alert notifications for Azure Security Center
 
 Issue: -
 

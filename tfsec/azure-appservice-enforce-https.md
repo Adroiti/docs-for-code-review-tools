@@ -1,4 +1,4 @@
-Pattern: Ensure the Function App can only be accessed via HTTPS. The default is false
+Pattern: Use of HTTP for Azure App Service
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 By default, clients can connect to function endpoints by using both HTTP or HTTPS. You should redirect HTTP to HTTPs because HTTPS uses the SSL/TLS protocol to provide a secure connection, which is both encrypted and authenticated.
 
-**Resolution**: You can redirect all HTTP requests to the HTTPS port..
+**Resolution**: You can redirect all HTTP requests to the HTTPS port.
 
 ## Examples
 

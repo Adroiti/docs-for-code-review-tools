@@ -6,7 +6,7 @@ Issue: -
 
 Access to virtual machines should be authenticated using SSH keys. Removing the option of password authentication enforces more secure methods while removing the risks inherent with passwords.
 
-**Resolution**: Use ssh authentication for virtual machines.
+**Resolution**: Use SSH authentication for virtual machines.
 
 ## Examples
 

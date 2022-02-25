@@ -1,4 +1,4 @@
-Pattern: Use of possibly sensitive credentials in the VM `custom_data`
+Pattern: Use of sensitive credentials for Azure virtual machine
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 When creating Azure Virtual Machines, `custom_data` is used to pass start up information into the EC2 instance. This `custom_data` must not contain access key credentials.
 
-**Resolution**: Don't use sensitive credentials in the VM custom_data.
+**Resolution**: Don't use sensitive credentials in the VM `custom_data`.
 
 ## Examples
 

@@ -1,4 +1,4 @@
-Pattern: Ensure RBAC is enabled on AKS clusters
+Pattern: Disabled RBAC for AKS cluster
 
 Issue: -
 

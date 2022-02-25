@@ -1,4 +1,4 @@
-Pattern: Ensure email is enabled for SQL Server subscription owners
+Pattern: Disabled email for MSSQL security alerts to Azure owner(s)
 
 Issue: -
 

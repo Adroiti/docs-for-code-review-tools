@@ -1,4 +1,4 @@
-Pattern: Disabled Function App authentication
+Pattern: Disabled Azure Function App authentication
 
 Issue: -
 

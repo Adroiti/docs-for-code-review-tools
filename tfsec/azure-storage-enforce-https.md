@@ -1,4 +1,4 @@
-Pattern: Storage accounts should be configured to only accept transfers that are over secure connections
+Pattern: Use of HTTP for Azure storage
 
 Issue: -
 
@@ -10,7 +10,7 @@ When you require secure transfer, any requests originating from an insecure conn
 
 Microsoft recommends that you always require secure transfer for all of your storage accounts.
 
-**Resolution**: Only allow secure connection for transfering data into storage accounts.
+**Resolution**: Only allow secure connection for transferring data into storage accounts.
 
 ## Examples
 

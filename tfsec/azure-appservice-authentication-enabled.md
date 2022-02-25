@@ -1,4 +1,4 @@
-Pattern: Disabled App Service authentication
+Pattern: Disabled Azure App Service authentication
 
 Issue: -
 

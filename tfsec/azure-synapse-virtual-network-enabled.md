@@ -1,4 +1,4 @@
-Pattern: Synapse Workspace should have managed virtual network enabled, the default is disabled
+Pattern: Disabled managed virtual network for Azure Synapse workspace
 
 Issue: -
 

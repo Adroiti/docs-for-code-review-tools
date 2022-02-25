@@ -1,4 +1,4 @@
-Pattern: Use of outdated/insecure TLS version
+Pattern: Use of insecure TLS policy for Azure database
 
 Issue: -
 

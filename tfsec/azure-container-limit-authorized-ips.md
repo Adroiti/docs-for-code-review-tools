@@ -1,4 +1,4 @@
-Pattern: Ensure AKS has an API Server Authorized IP Ranges enabled
+Pattern: Unlimited IP range for Azure API server
 
 Issue: -
 

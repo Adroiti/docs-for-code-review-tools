@@ -1,4 +1,4 @@
-Pattern: Enabled Azure public access to storage container
+Pattern: Enabled public access for Azure storage container
 
 Issue: -
 

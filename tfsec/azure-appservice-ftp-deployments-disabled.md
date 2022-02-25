@@ -1,4 +1,4 @@
-Pattern: Enabled Azure FTP deployments
+Pattern: Enabled Azure App Service FTP deployments
 
 Issue: -
 

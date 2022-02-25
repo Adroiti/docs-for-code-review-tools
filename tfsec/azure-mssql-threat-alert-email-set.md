@@ -1,4 +1,4 @@
-Pattern: Missing email address for SQL Server threat alert
+Pattern: Missing email for Azure SQL Server threat alert
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Ensure AKS cluster has Network Policy configured
+Pattern: Unconfigured network policy for AKS
 
 Issue: -
 
 ## Description
 
-The Kubernetes object type NetworkPolicy should be defined to have opportunity allow or block traffic to pods, as in a Kubernetes cluster configured with default settings, all pods can discover and communicate with each other without any restrictions.
+The Kubernetes object type `NetworkPolicy` should be defined to have opportunity allow or block traffic to pods, as in a Kubernetes cluster configured with default settings, all pods can discover and communicate with each other without any restrictions.
 
 **Resolution**: Configure a network policy.
 

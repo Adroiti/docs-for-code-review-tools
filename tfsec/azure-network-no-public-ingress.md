@@ -1,4 +1,4 @@
-Pattern: An inbound network security rule allows traffic from /0
+Pattern: Use of public ingress for Azure network
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Network security rules should not use very broad subnets.
 
-Where possible, segements should be broken into smaller subnets.
+Where possible, segments should be broken into smaller subnets.
 
 **Resolution**: Set a more restrictive cidr range.
 

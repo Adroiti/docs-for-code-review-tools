@@ -1,4 +1,4 @@
-Pattern: Missing PHP version for App Service Web app
+Pattern: Missing PHP version for Azure App Service application
 
 Issue: -
 

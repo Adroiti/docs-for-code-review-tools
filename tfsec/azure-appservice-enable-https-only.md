@@ -1,4 +1,4 @@
-Pattern: Use of HTTP for App Service
+Pattern: Use of HTTP for Azure App Service
 
 Issue: -
 

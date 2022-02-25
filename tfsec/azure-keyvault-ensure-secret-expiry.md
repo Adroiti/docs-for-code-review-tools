@@ -1,4 +1,4 @@
-Pattern: Key Vault Secret should have an expiration date set
+Pattern: Missing expiration for Azure Key Vault secret
 
 Issue: -
 

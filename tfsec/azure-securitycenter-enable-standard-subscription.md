@@ -1,4 +1,4 @@
-Pattern: Disabled Standard security center subscription tier
+Pattern: Disabled Standard subscription tier for Azure security center
 
 Issue: -
 

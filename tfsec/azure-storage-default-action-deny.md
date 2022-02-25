@@ -1,10 +1,10 @@
-Pattern: The default action on Storage account network rules should be set to deny
+Pattern: Missing use of deny for Azure storage default action
 
 Issue: -
 
 ## Description
 
-The default_action for network rules should come into effect when no other rules are matched.
+The `default_action` for network rules should come into effect when no other rules are matched.
 
 The default action should be set to Deny.
 

@@ -1,4 +1,4 @@
-Pattern: Ensure log profile captures all activities
+Pattern: Missing capture of all Azure Monitor activities
 
 Issue: -
 

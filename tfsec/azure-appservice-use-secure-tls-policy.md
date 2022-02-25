@@ -1,4 +1,4 @@
-Pattern: Use of outdated TLS version for Web App
+Pattern: Use of insecure TLS/SSL policy for Azure App Service
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 The TLS version being outdated and has known vulnerabilities.
 
-**Resolution**: Use a more recent TLS/SSL policy for the App Service
+**Resolution**: Use a more recent TLS/SSL policy for the App Service.
 
 ## Examples
 

@@ -1,4 +1,4 @@
-Pattern: Ensure AKS logging to Azure Monitoring is Configured
+Pattern: Disabled logging for AKS
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Data Factory should have public access disabled, the default is enabled
+Pattern: Enabled public access for Azure Data Factory
 
 Issue: -
 

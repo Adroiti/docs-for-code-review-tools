@@ -1,4 +1,4 @@
-Pattern: The minimum TLS version for Storage Accounts should be TLS1_2
+Pattern: Use of insecure TLS/SSL policy for Azure storage
 
 Issue: -
 

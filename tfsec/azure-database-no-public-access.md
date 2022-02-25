@@ -1,4 +1,4 @@
-Pattern: Enabled public access for database
+Pattern: Enabled public access for Azure database
 
 Issue: -
 

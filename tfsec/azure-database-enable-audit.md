@@ -1,4 +1,4 @@
-Pattern: Auditing should be enabled on Azure SQL Databases
+Pattern: Disabled audit for Azure SQL database
 
 Issue: -
 

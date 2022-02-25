@@ -1,4 +1,4 @@
-Pattern: Disabled SSL for database connection
+Pattern: Disabled SSL for Azure database connection
 
 Issue: -
 

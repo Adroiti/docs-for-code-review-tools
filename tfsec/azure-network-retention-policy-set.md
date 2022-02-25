@@ -1,4 +1,4 @@
-Pattern: Ensure flow log retention has expiry of `>90` days
+Pattern: Unset log retention for Azure Flow
 
 Issue: -
 
@@ -9,7 +9,7 @@ To enable analysis in security event that was detected late, you need to have th
 
 Setting an retention policy will help ensure as much information is available for review.
 
-**Resolution**: Ensure flow log retention is turned on with an expiry of >90 days.
+**Resolution**: Ensure flow log retention is turned on with an expiry of >`90` days.
 
 ## Examples
 

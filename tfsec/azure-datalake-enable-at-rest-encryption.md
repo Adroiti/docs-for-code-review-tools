@@ -1,10 +1,10 @@
-Pattern: Unencrypted data lake storage
+Pattern: Unencrypted Azure Data Lake storage
 
 Issue: -
 
 ## Description
 
-Datalake storage encryption defaults to Enabled, it shouldn't be overridden to Disabled.
+Data Lake storage encryption defaults to Enabled, it shouldn't be overridden to Disabled.
 
 **Resolution**: Enable encryption of data lake storage.
 

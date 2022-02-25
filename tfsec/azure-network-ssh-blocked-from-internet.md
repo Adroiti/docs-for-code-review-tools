@@ -1,4 +1,4 @@
-Pattern: SSH access should not be accessible from the Internet, should be blocked on port 22
+Pattern: Unblocked port `22` for Azure network
 
 Issue: -
 
@@ -6,9 +6,9 @@ Issue: -
 
 SSH access can be configured on either the network security group or in the network security group rule. 
 
-SSH access should not be permitted from the internet (*, 0.0.0.0, /0, internet, any)
+SSH access should not be permitted from the internet (`*`, `0.0.0.0`, `/0`, internet, any)
 
-**Resolution**: Block port 22 access from the internet.
+**Resolution**: Block port `22` access from the internet.
 
 ## Examples
 

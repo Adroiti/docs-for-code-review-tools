@@ -1,4 +1,4 @@
-Pattern: Use of old HTTP version for Web App
+Pattern: Use of old HTTP version for Azure App Service
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Disabled App service detailed error messages
+Pattern: Disabled Azure App Service detailed error messages
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Copies of the `.htm` error pages that would have been sent to the client browser. For security reasons, detailed error pages shouldn't be sent to clients in production, but App Service can save the error page each time an application error occurs that has HTTP code 400 or greater. The page may contain information that can help determine why the server returns the error code.
 
-**Resolution**: enable detailed_error_messages_enabled.
+**Resolution**: enable `detailed_error_messages_enabled`.
 
 ## Examples
 

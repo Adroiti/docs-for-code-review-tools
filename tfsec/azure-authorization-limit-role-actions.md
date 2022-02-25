@@ -1,4 +1,4 @@
-Pattern: Missing use of targeted permissions for roles
+Pattern: Missing use of targeted permissions for Azure roles
 
 Issue: -
 

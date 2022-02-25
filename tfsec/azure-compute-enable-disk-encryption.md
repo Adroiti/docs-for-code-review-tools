@@ -1,4 +1,4 @@
-Pattern: Unencrypted managed disk
+Pattern: Unencrypted Azure managed disk
 
 Issue: -
 

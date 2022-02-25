@@ -1,4 +1,4 @@
-Pattern: Disabled checkpoint logging for PostgreSQL database
+Pattern: Disabled checkpoint logging for Azure PostgreSQL database
 
 Issue: -
 

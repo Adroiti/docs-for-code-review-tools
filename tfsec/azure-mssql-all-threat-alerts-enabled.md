@@ -1,10 +1,10 @@
-Pattern: No threat detections are set for SQL server
+Pattern: Disabled threat alerts for Azure SQL server
 
 Issue: -
 
 ## Description
 
-SQL Server can alert for security issues including SQL Injection, vulnerabilities, access anomalies and data exfiltration. Ensure none of these are disabled to benefit from the best protection
+SQL Server can alert for security issues including SQL Injection, vulnerabilities, access anomalies and data ex-filtration. Ensure none of these are disabled to benefit from the best protection
 
 **Resolution**: Use all provided threat alerts.
 

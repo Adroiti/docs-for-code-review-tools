@@ -1,4 +1,4 @@
-Pattern: Missing Python version for App Service Web app
+Pattern: Missing Python version for Azure App Service application
 
 Issue: -
 

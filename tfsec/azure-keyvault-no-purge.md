@@ -1,4 +1,4 @@
-Pattern: Key vault should have purge protection enabled
+Pattern: Disabled purge protection for Azure Key Vault
 
 Issue: -
 

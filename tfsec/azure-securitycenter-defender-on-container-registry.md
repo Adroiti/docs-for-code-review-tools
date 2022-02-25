@@ -1,4 +1,4 @@
-Pattern: Disabled ContainerRegistry in Azure Defender
+Pattern: Disabled `ContainerRegistry` in Azure Defender
 
 Issue: -
 
@@ -8,7 +8,7 @@ Azure Defender is a cloud workload protection service that utilizes and agent-ba
 
 Azure Defender for container registries includes a vulnerability scanner to scan the images in Azure Resource Manager-based Azure Container Registry registries and provide deeper visibility image vulnerabilities.
 
-**Resolution**: enable ContainerRegistry in Azure Defender.
+**Resolution**: enable `ContainerRegistry` in Azure Defender.
 
 ## Examples
 

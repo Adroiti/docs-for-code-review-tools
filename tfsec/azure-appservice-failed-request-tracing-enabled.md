@@ -1,4 +1,4 @@
-Pattern: Disabled failed request tracing for App service
+Pattern: Disabled failed request tracing for Azure App Service
 
 Issue: -
 

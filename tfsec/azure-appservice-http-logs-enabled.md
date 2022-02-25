@@ -1,4 +1,4 @@
-Pattern: Disabled HTTP logging for App service
+Pattern: Disabled HTTP logging for Azure App Service
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: An outbound network security rule allows traffic to /0
+Pattern: Use of public egress for Azure network
 
 Issue: -
 

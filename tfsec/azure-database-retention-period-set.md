@@ -1,4 +1,4 @@
-Pattern: Database auditing rentention period should be longer than 90 days
+Pattern: Unset retention period for Azure database
 
 Issue: -
 
@@ -6,9 +6,9 @@ Issue: -
 
 When Auditing is configured for a SQL database, if the retention period is not set, the retention will be unlimited.
 
-If the retention period is to be explicitly set, it should be set for no less than 90 days.
+If the retention period is to be explicitly set, it should be set for no less than `90` days.
 
-**Resolution**: Set retention periods of database auditing to greater than 90 days.
+**Resolution**: Set retention periods of database auditing to greater than `90` days.
 
 ## Examples
 

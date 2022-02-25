@@ -1,4 +1,4 @@
-Pattern: Missing .NET version for App Service Web app
+Pattern: Missing .NET version for Azure App Service application
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Ensure the activity retention log is set to at least a year
+Pattern: Unset activity log retention for Azure Monitor
 
 Issue: -
 
 ## Description
 
-The average time to detect a breach is up to 210 days, to ensure that all the information required for an effective investigation is available, the retention period should allow for delayed starts to investigating.
+The average time to detect a breach is up to `210` days, to ensure that all the information required for an effective investigation is available, the retention period should allow for delayed starts to investigating.
 
 **Resolution**: Set a retention period that will allow for delayed investigation.
 

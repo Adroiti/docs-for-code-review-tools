@@ -1,4 +1,4 @@
-Pattern: Disabled KubernetesService in Azure Defender
+Pattern: Disabled `KubernetesService` in Azure Defender
 
 Issue: -
 
@@ -8,7 +8,7 @@ Azure Defender is a cloud workload protection service that utilizes and agent-ba
 
 Azure Defender for Kubernetes provides cluster-level threat protection by monitoring your AKS-managed services through the logs retrieved by Azure Kubernetes Service (AKS).
 
-**Resolution**: enable KubernetesService in Azure Defender.
+**Resolution**: enable `KubernetesService` in Azure Defender.
 
 ## Examples
 

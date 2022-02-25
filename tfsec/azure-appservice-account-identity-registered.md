@@ -1,4 +1,4 @@
-Pattern: Disabled AD for Web App registration
+Pattern: Disabled AD for Azure app identity registration
 
 Issue: -
 

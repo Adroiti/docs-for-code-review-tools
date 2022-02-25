@@ -1,4 +1,4 @@
-Pattern: Storage containers in blob storage mode should not have public access
+Pattern: Enabled public access for Azure storage container
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Storage container public access should be off. It can be configured for blobs only, containers and blobs or off entirely. The default is off, with no public access.
 
-Explicitly overriding publicAccess to anything other than off should be avoided.
+Explicitly overriding `publicAccess` to anything other than off should be avoided.
 
 **Resolution**: Disable public access to storage containers.
 

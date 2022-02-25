@@ -1,4 +1,4 @@
-Pattern: Disabled Threat Detection policy for MySQL database
+Pattern: Disabled threat detection for Azure MySQL database
 
 Issue: -
 

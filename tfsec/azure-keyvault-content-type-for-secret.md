@@ -1,4 +1,4 @@
-Pattern: Key vault Secret should have a content type set
+Pattern: Missing content type for Azure Key Vault
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Content Type is an optional Key Vault Secret behavior and is not enabled by default.
 
-Clients may specify the content type of a secret to assist in interpreting the secret data when it's retrieved. The maximum length of this field is 255 characters. There are no pre-defined values. The suggested usage is as a hint for interpreting the secret data.
+Clients may specify the content type of a secret to assist in interpreting the secret data when it's retrieved. The maximum length of this field is `255` characters. There are no pre-defined values. The suggested usage is as a hint for interpreting the secret data.
 
 **Resolution**: Provide content type for secrets to aid interpretation on retrieval.
 

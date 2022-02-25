@@ -1,4 +1,4 @@
-Pattern: Ensure activitys are captured for all locations
+Pattern: Missing capture of all Azure Monitor regions
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Disabled connection logging for PostgreSQL database
+Pattern: Disabled connection logging for Azure PostgreSQL database
 
 Issue: -
 

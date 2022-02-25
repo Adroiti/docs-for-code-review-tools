@@ -1,4 +1,4 @@
-Pattern: Key vault should have the network acl block specified
+Pattern: Unset network ACL for Azure Key Vault
 
 Issue: -
 

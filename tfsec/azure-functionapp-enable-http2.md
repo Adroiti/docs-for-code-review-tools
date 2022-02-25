@@ -1,4 +1,4 @@
-Pattern: Missing use of HTTP2 for Web App
+Pattern: Missing use of HTTP2 for Azure Function App
 
 Issue: -
 

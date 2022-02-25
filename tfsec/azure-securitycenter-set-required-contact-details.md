@@ -1,4 +1,4 @@
-Pattern: Missing telephone number for security center contact
+Pattern: Missing telephone number for Azure security center
 
 Issue: -
 

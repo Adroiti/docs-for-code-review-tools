@@ -1,4 +1,4 @@
-Pattern: Ensure that the expiration date is set on all keys
+Pattern: Missing expiration for Azure Vault key
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Password authentication in use instead of SSH keys
+Pattern: Use of password authentication for Azure virtual machine
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Disabled KeyVaults in Azure Defender
+Pattern: Disabled `KeyVaults` in Azure Defender
 
 Issue: -
 
@@ -8,7 +8,7 @@ Azure Defender is a cloud workload protection service that utilizes and agent-ba
 
 Azure Defender detects unusual and potentially harmful attempts to access or exploit Key Vault accounts. Resource Manager-based Azure Container Registry registries and provide deeper visibility image vulnerabilities.
 
-**Resolution**: enable KeyVaults in Azure Defender.
+**Resolution**: enable `KeyVaults` in Azure Defender.
 
 ## Examples
 

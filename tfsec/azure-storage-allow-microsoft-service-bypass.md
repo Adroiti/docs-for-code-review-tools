@@ -1,4 +1,4 @@
-Pattern: Trusted Microsoft Services should have bypass access to Storage accounts
+Pattern: Missing Microsoft services bypass for Azure storage
 
 Issue: -
 

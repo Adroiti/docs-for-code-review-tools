@@ -1,4 +1,4 @@
-Pattern: When using Queue Services for a storage account, logging should be enabled
+Pattern: Disabled logging for Azure Queue Services
 
 Issue: -
 
