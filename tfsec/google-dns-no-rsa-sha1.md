@@ -1,10 +1,10 @@
-Pattern: Use of RSA SHA1 for Zone signing
+Pattern: Use of RSA SHA1 for Google DNS
 
 Issue: -
 
 ## Description
 
-RSA SHA1 is a weaker algorithm than SHA2-based algorithms such as RSA SHA256/512
+RSA SHA1 is a weaker algorithm than SHA2-based algorithms such as RSA SHA256/512.
 
 **Resolution**: Use RSA SHA512.
 

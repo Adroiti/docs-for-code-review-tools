@@ -1,10 +1,10 @@
-Pattern: Use of public access for BigQuery dataset
+Pattern: Use of public access for Google BigQuery dataset
 
 Issue: -
 
 ## Description
 
-Using 'allAuthenticatedUsers' provides any GCP user - even those outside of your organisation - access to your BigQuery dataset.
+Using `allAuthenticatedUsers` provides any GCP user - even those outside of your organisation - access to your BigQuery dataset.
 
 **Resolution**: Configure access permissions with higher granularity.
 

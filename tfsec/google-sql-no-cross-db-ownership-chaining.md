@@ -1,4 +1,4 @@
-Pattern: Use of cross-database ownership chaining
+Pattern: Use of cross-database ownership chaining for Google SQL
 
 Issue: -
 

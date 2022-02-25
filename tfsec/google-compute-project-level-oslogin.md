@@ -1,4 +1,4 @@
-Pattern: Disabled OS Login at project level
+Pattern: Disabled OS Login at project level for Google Compute
 
 Issue: -
 

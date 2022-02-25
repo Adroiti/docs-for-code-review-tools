@@ -1,4 +1,4 @@
-Pattern: Legacy ABAC permissions are enabled
+Pattern: Enabled legacy ABAC permissions for GKE
 
 Issue: -
 

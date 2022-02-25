@@ -1,4 +1,4 @@
-Pattern: Use of outdated/insecure TLS for SSL policy
+Pattern: Use of insecure TLS policy for Google Compute
 
 Issue: -
 

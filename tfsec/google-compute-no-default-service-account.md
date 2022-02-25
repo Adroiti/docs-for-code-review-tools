@@ -1,4 +1,4 @@
-Pattern: Use of default service account
+Pattern: Use of default service account for Google Compute
 
 Issue: -
 

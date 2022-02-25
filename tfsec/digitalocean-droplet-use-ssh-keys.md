@@ -1,4 +1,4 @@
-Pattern: Missing use of SSH Keys for login
+Pattern: Missing use of SSH Keys for DigitalOcean droplet
 
 Issue: -
 

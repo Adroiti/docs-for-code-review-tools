@@ -1,4 +1,4 @@
-Pattern: Enabled force destroy on Spaces bucket
+Pattern: Enabled force destroy on DigitalOcean Spaces bucket
 
 Issue: -
 

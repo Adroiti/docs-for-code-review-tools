@@ -1,4 +1,4 @@
-Pattern: Missing use of managed keys for VM disk
+Pattern: Missing use of managed keys for Google Compute VM disk
 
 Issue: -
 

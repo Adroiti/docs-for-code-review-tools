@@ -1,4 +1,4 @@
-Pattern: Use of insecure protocol for load balancer
+Pattern: Use of HTTP for DigitalOcean load balancer
 
 Issue: -
 

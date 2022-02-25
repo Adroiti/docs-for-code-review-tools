@@ -1,4 +1,4 @@
-Pattern: Use of possibly sensitive data in `user_data`
+Pattern: Use of sensitive data in `user_data` for `cloudstack_instance`
 
 Issue: -
 

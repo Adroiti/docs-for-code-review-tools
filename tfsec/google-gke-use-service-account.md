@@ -1,4 +1,4 @@
-Pattern: Checks for service account defined for GKE nodes
+Pattern: Missing service account for GKE node
 
 Issue: -
 

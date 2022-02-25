@@ -1,4 +1,4 @@
-Pattern: Firewall has inbound rule with open access
+Pattern: Use of public ingress for DigitalOcean Compute
 
 Issue: -
 

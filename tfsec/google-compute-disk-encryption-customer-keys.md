@@ -1,4 +1,4 @@
-Pattern: Unencrypted compute disk
+Pattern: Unencrypted Google Compute disk
 
 Issue: -
 
@@ -10,7 +10,7 @@ If the `disk_encryption_key` block is included in the resource declaration then 
 
 To use the default offering of Google managed keys, do not include a `disk_encryption_key` block at all.
 
-**Resolution**: Enable encrytion for compute disks.
+**Resolution**: Enable encryption for compute disks.
 
 ## Examples
 

@@ -1,4 +1,4 @@
-Pattern: Users granted service account access at the project level
+Pattern: Use of project-level service account access for Google IAM
 
 Issue: -
 

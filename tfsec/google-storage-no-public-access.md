@@ -1,10 +1,10 @@
-Pattern: Enabled public access for Cloud Storage bucket
+Pattern: Enabled public access for Google Cloud Storage bucket
 
 Issue: -
 
 ## Description
 
-Using 'allUsers' or 'allAuthenticatedUsers' as members in an IAM member/binding causes data to be exposed outside of the organisation.
+Using `allUsers` or `allAuthenticatedUsers` as members in an IAM member/binding causes data to be exposed outside of the organisation.
 
 **Resolution**: Restrict public access to the bucket.
 

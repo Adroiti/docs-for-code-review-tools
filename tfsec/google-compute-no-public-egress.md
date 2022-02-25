@@ -1,4 +1,4 @@
-Pattern: An outbound firewall rule allows traffic to /0
+Pattern: Use of public egress for Google Compute firewall
 
 Issue: -
 

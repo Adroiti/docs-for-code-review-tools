@@ -1,4 +1,4 @@
-Pattern: Spaces bucket has public read ACL set
+Pattern: Use of public ACL for DigitalOcean Spaces bucket
 
 Issue: -
 

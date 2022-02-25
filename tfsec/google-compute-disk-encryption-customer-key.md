@@ -1,4 +1,4 @@
-Pattern: Missing use of managed keys for disk encryption
+Pattern: Missing use of managed keys for Google disk encryption
 
 Issue: -
 

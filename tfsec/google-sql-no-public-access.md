@@ -1,4 +1,4 @@
-Pattern: Use of public access for SQL DB
+Pattern: Use of public access for Google SQL
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Enabled IP forwarding
+Pattern: Enabled IP forwarding for Google Compute
 
 Issue: -
 
 ## Description
 
-Disabling IP forwarding ensuresthe instance can only receive packets addressed to the instance and can only send packets with a source address of the instance.
+Disabling IP forwarding ensures the instance can only receive packets addressed to the instance and can only send packets with a source address of the instance.
 
 **Resolution**: Disable IP forwarding.
 

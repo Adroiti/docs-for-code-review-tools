@@ -1,4 +1,4 @@
-Pattern: Disabled lock wait logging for PostgreSQL
+Pattern: Disabled lock wait logging for Google PostgreSQL
 
 Issue: -
 

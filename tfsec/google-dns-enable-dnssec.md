@@ -1,4 +1,4 @@
-Pattern: Disabled DNSSEC for Cloud DNS
+Pattern: Disabled `DNSSEC` for Google Cloud DNS
 
 Issue: -
 

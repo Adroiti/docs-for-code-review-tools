@@ -1,4 +1,4 @@
-Pattern: Potentially sensitive data stored in \
+Pattern: Potentially sensitive data stored in variable
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Disabled connection logging for PostgreSQL
+Pattern: Disabled connection logging for Google PostgreSQL
 
 Issue: -
 

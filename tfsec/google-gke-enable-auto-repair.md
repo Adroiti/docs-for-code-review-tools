@@ -1,4 +1,4 @@
-Pattern: Disabled Automatic repair for Kubernetes
+Pattern: Disabled automatic repair for GKE
 
 Issue: -
 

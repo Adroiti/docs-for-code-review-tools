@@ -1,4 +1,4 @@
-Pattern: Service accounts have roles assigned with excessive privileges
+Pattern: Privileged service account for Google IAM
 
 Issue: -
 

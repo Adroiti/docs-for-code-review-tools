@@ -1,4 +1,4 @@
-Pattern: Disabled signed commits requirement
+Pattern: Disabled signed commits for GitHub
 
 Issue: -
 

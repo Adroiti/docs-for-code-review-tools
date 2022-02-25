@@ -1,4 +1,4 @@
-Pattern: Firewall has outbound rule with open access
+Pattern: Use of public egress for DigitalOcean Compute
 
 Issue: -
 

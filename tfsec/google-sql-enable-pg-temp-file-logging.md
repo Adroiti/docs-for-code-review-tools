@@ -1,4 +1,4 @@
-Pattern: Disabled temporary file logging for SQL DB
+Pattern: Disabled temporary file logging for Google SQL
 
 Issue: -
 

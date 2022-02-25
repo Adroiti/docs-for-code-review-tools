@@ -1,4 +1,4 @@
-Pattern: Use of project-wide SSH keys
+Pattern: Use of project-wide SSH keys for Google Compute
 
 Issue: -
 

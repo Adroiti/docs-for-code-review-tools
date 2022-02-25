@@ -1,10 +1,10 @@
-Pattern: Disabled SSL enforcement for SQL DB
+Pattern: Disabled SSL enforcement for Google SQL
 
 Issue: -
 
 ## Description
 
-In-transit data should be encrypted so that if traffic is intercepted data will not be exposed in plaintext to attackers.
+In-transit data should be encrypted so that if traffic is intercepted data will not be exposed in plain-text to attackers.
 
 **Resolution**: Enforce SSL for all connections.
 

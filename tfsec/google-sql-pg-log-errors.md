@@ -1,4 +1,4 @@
-Pattern: Missing error logging for PostgreSQL
+Pattern: Missing error logging for Google PostgreSQL
 
 Issue: -
 

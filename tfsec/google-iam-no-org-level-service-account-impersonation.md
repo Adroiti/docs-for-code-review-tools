@@ -1,4 +1,4 @@
-Pattern: Users granted service account access at the organization level
+Pattern: Use of org-level service account access for Google IAM
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Node metadata value disables metadata concealment
+Pattern: Insecure node metadata for GKE
 
 Issue: -
 
@@ -8,7 +8,7 @@ If the `workload_metadata_config` block within `node_config` is included, the `n
 
 The attribute should be set to `SECURE` to use metadata concealment, or `GKE_METADATA_SERVER` if workload identity is enabled. This ensures that the VM metadata is not unnecessarily exposed to pods.
 
-**Resolution**: Set node metadata to SECURE or GKE_METADATA_SERVER.
+**Resolution**: Set node metadata to `SECURE` or `GKE_METADATA_SERVER`.
 
 ## Examples
 

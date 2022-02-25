@@ -1,4 +1,4 @@
-Pattern: Disabled VPC flow logs
+Pattern: Disabled flow logs for Google VPC
 
 Issue: -
 

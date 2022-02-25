@@ -1,4 +1,4 @@
-Pattern: Use of plaintext key for compute disk encryption
+Pattern: Use of plain-text key for Google Compute disk encryption
 
 Issue: -
 

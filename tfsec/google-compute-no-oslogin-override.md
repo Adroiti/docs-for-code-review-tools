@@ -1,4 +1,4 @@
-Pattern: Instance overrides project setting for OS Login
+Pattern: OS Login override for Google Compute
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Enabled serial port access for instance
+Pattern: Enabled serial port access for Google Compute
 
 Issue: -
 

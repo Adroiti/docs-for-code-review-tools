@@ -1,4 +1,4 @@
-Pattern: Enabled `local_infile` setting in MySQL
+Pattern: Enabled `local_infile` setting in Google MySQL
 
 Issue: -
 

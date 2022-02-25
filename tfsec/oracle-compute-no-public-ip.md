@@ -1,4 +1,4 @@
-Pattern: Compute instance requests an IP reservation from a public pool
+Pattern: Use of public IP for Oracle
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Disabled automated backups for SQL DB
+Pattern: Disabled automated backups for Google SQL
 
 Issue: -
 

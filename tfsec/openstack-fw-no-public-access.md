@@ -1,4 +1,4 @@
-Pattern: Firewall rule allows traffic from/to the public internet
+Pattern: Use of public firewall rule for OpenStack
 
 Issue: -
 

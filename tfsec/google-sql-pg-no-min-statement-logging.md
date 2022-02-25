@@ -1,4 +1,4 @@
-Pattern: Enabled logging of long statements for PostgreSQL
+Pattern: Enabled logging of statements for Google PostgreSQL
 
 Issue: -
 

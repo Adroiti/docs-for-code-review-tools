@@ -1,10 +1,10 @@
-Pattern: Legacy client authentication methods utilized
+Pattern: Use of legacy authentication for GKE
 
 Issue: -
 
 ## Description
 
-It is recommended to use Serivce Accounts and OAuth as authentication methods for accessing the master in the container cluster. 
+It is recommended to use Service Accounts and OAuth as authentication methods for accessing the master in the container cluster. 
 
 Basic authentication should be disabled by explicitly unsetting the `username` and `password` on the `master_auth` block.
 

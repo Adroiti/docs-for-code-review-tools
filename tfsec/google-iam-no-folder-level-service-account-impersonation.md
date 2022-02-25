@@ -1,4 +1,4 @@
-Pattern: Users granted service account access at the folder level
+Pattern: Use of folder-level service account access for Google IAM
 
 Issue: -
 

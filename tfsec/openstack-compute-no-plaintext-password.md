@@ -1,12 +1,12 @@
-Pattern: Use of plaintext password in terraform file
+Pattern: Use of plain-text password for OpenStack Compute
 
 Issue: -
 
 ## Description
 
-Assigning a password to the compute instance using plaintext could lead to compromise; it would be preferable to use key-pairs as a login mechanism.
+Assigning a password to the compute instance using plain-text could lead to compromise; it would be preferable to use key-pairs as a login mechanism.
 
-**Resolution**: Do not use plaintext passwords in terraform files.
+**Resolution**: Do not use plain-text passwords in terraform files.
 
 ## Examples
 

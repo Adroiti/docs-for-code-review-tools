@@ -1,4 +1,4 @@
-Pattern: An inbound firewall rule allows traffic from /0
+Pattern: Use of public ingress for Google Compute firewall
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Default network created at project level
+Pattern: Use of `auto_create_network` Google Project
 
 Issue: -
 

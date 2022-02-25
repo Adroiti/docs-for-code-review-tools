@@ -1,4 +1,4 @@
-Pattern: Disabled uniform bucket-level access for Cloud Storage bucket
+Pattern: Disabled uniform bucket-level access for Google Cloud Storage bucket
 
 Issue: -
 

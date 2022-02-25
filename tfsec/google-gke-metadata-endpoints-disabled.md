@@ -1,4 +1,4 @@
-Pattern: Legacy metadata endpoints enabled
+Pattern: Enabled legacy metadata endpoints for GKE
 
 Issue: -
 

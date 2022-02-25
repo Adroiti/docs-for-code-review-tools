@@ -1,4 +1,4 @@
-Pattern: Disabled Automatic upgrade for Kubernetes
+Pattern: Disabled automatic upgrade for GKE
 
 Issue: -
 

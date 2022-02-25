@@ -1,10 +1,10 @@
-Pattern: Use of plaintext for VM Disk encryption key
+Pattern: Use of plain-text for Google Compute Disk encryption key
 
 Issue: -
 
 ## Description
 
-Providing your encryption key in plaintext format means anyone with access to the source code also has access to the key.
+Providing your encryption key in plain-text format means anyone with access to the source code also has access to the key.
 
 **Resolution**: Use managed keys or provide the raw key via a secrets manager.
 

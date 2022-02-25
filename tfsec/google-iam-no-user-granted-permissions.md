@@ -1,4 +1,4 @@
-Pattern: IAM granted directly to user
+Pattern: Use of user-granted permission for Google IAM
 
 Issue: -
 

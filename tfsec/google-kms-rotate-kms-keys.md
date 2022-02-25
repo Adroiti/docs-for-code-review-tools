@@ -1,4 +1,4 @@
-Pattern: Missing KS key rotation period of 90 days
+Pattern: Unset key rotation period for Google KMS
 
 Issue: -
 
@@ -6,7 +6,7 @@ Issue: -
 
 Keys should be rotated on a regular basis to limit exposure if a given key should become compromised.
 
-**Resolution**: Set key rotation period to 90 days.
+**Resolution**: Set key rotation period to `90` days.
 
 ## Examples
 

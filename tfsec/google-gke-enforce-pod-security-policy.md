@@ -1,4 +1,4 @@
-Pattern: Pod security policy enforcement not defined
+Pattern: Unset Pod security policy for GKE
 
 Issue: -
 

@@ -1,10 +1,10 @@
-Pattern: Missing use of labels for GKE cluster
+Pattern: Missing resource label for GKE cluster
 
 Issue: -
 
 ## Description
 
-Labels make it easier to manage assets and differentiate between clusters and environments, allowing the mapping of computational resources to the wider organisational structure.
+Labels make it easier to manage assets and differentiate between clusters and environments, allowing the mapping of computational resources to the wider organizational structure.
 
 **Resolution**: Set cluster resource labels.
 

@@ -1,4 +1,4 @@
-Pattern: Disabled shielded VM for instance
+Pattern: Disabled shielded VM for Google Compute
 
 Issue: -
 

@@ -1,4 +1,4 @@
-Pattern: Disabled versioning for Spaces bucket
+Pattern: Disabled versioning for DigitalOcean Spaces bucket
 
 Issue: -
 

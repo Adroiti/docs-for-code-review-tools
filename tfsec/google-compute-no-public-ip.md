@@ -1,4 +1,4 @@
-Pattern: Use of public IP address for instance
+Pattern: Use of public IP for Google Compute
 
 Issue: -
 

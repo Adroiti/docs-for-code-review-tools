@@ -1,4 +1,4 @@
-Pattern: Use of contained SQL database authentication
+Pattern: Use of contained Google SQL database authentication
 
 Issue: -
 

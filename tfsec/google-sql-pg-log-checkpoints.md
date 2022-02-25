@@ -1,4 +1,4 @@
-Pattern: Disabled checkpoints logging for PostgreSQL
+Pattern: Disabled checkpoints logging for Google PostgreSQL
 
 Issue: -
 
