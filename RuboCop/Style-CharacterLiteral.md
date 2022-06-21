@@ -1,4 +1,4 @@
-Pattern: Use of character literal
+Pattern: Use of `?` character literal
 
 Issue: -
 
