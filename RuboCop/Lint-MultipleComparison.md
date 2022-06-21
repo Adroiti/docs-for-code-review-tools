@@ -1,4 +1,4 @@
-Pattern: Invalid multiple compare
+Pattern: Invalid multiple comparison
 
 Issue: -
 
