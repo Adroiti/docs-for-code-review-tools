@@ -10,4 +10,4 @@ Note that using `check_exports=TRUE` or `check_nonexports=TRUE` will load packag
 
 ## Further Reading
 
-* [lintr - Available linters](https://github.com/jimhester/lintr#available-linters)
+* [lintr - Available linters](https://lintr.r-lib.org/reference/index.html)

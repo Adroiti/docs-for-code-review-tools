@@ -8,4 +8,4 @@ Checks that closed curly braces are always on their own line unless they are fol
 
 ## Further Reading
 
-* [lintr - Available linters](https://github.com/jimhester/lintr#available-linters)
+* [lintr - Available linters](https://lintr.r-lib.org/reference/index.html)

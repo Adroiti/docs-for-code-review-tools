@@ -8,4 +8,4 @@ Checks for `1:length(...)`, `1:nrow(...)`, `1:ncol(...)`, `1:NROW(...)`, and `1:
 
 ## Further Reading
 
-* [lintr - Available linters](https://github.com/jimhester/lintr#available-linters)
+* [lintr - Available linters](https://lintr.r-lib.org/reference/index.html)

@@ -8,4 +8,4 @@ Checks that function and variable names are not too long (default: `30` characte
 
 ## Further Reading
 
-* [lintr - Available linters](https://github.com/jimhester/lintr#available-linters)
+* [lintr - Available linters](https://lintr.r-lib.org/reference/index.html)
