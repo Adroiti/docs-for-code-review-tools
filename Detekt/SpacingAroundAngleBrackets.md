@@ -8,4 +8,4 @@ Reports spaces around angle brackets.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundAngleBrackets](https://detekt.github.io/detekt/formatting.html#spacingaroundanglebrackets)
+* [Detekt - SpacingAroundAngleBrackets](https://detekt.dev/docs/rules/formatting/#spacingaroundanglebrackets)

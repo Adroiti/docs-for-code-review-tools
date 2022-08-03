@@ -39,4 +39,4 @@ fun test() {
 
 ## Further Reading
 
-* [Detekt - UnreachableCatchBlock](https://detekt.github.io/detekt/potential-bugs.html#unreachablecatchblock)
+* [Detekt - UnreachableCatchBlock](https://detekt.dev/docs/rules/potential-bugs/#unreachablecatchblock)

@@ -24,4 +24,4 @@ suspend fun foo() {
 
 ## Further Reading
 
-* [Detekt - SleepInsteadOfDelay](https://detekt.github.io/detekt/coroutines.html#sleepinsteadofdelay)
+* [Detekt - SleepInsteadOfDelay](https://detekt.dev/docs/rules/coroutines/#sleepinsteadofdelay)

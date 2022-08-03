@@ -8,4 +8,4 @@ Reports spaces around parentheses.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundParens](https://detekt.github.io/detekt/formatting.html#spacingaroundparens)
+* [Detekt - SpacingAroundParens](https://detekt.dev/docs/rules/formatting/#spacingaroundparens)

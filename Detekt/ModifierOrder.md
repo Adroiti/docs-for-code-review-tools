@@ -20,4 +20,4 @@ private internal lateinit val str: String
 
 ## Further Reading
 
-* [Detekt - ModifierOrder](https://detekt.github.io/detekt/style.html#modifierorder)
+* [Detekt - ModifierOrder](https://detekt.dev/docs/rules/style/#modifierorder)

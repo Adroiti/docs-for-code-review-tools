@@ -8,4 +8,4 @@ _KDoc_ comment should end with proper punctuation or with a correct URL.
 
 ## Further Reading
 
-* [Detekt - EndOfSentenceFormat](https://detekt.github.io/detekt/comments.html#endofsentenceformat)
+* [Detekt - EndOfSentenceFormat](https://detekt.dev/docs/rules/comments/#endofsentenceformat)

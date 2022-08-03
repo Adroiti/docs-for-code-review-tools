@@ -8,4 +8,4 @@ Reports spaces around commas.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundComma](https://detekt.github.io/detekt/formatting.html#spacingaroundcomma)
+* [Detekt - SpacingAroundComma](https://detekt.dev/docs/rules/formatting/#spacingaroundcomma)

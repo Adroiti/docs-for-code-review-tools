@@ -27,4 +27,4 @@ val testString = ""?.isBlank()
 
 ## Further Reading
 
-* [Detekt - UselessCallOnNotNull](https://detekt.github.io/detekt/style.html#uselesscallonnotnull)
+* [Detekt - UselessCallOnNotNull](https://detekt.dev/docs/rules/style/#uselesscallonnotnull)

@@ -8,4 +8,4 @@ Reports empty `finally` blocks. Empty blocks of code serve no purpose and should
 
 ## Further Reading
 
-* [Detekt - EmptyFinallyBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyfinallyblock)
+* [Detekt - EmptyFinallyBlock](https://detekt.dev/docs/rules/empty-blocks/#emptyfinallyblock)

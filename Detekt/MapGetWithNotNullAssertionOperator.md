@@ -20,4 +20,4 @@ val map = emptyMap<String, String>()map.getOrElse("key", { "" })```
 
 ## Further Reading
 
-* [Detekt - MapGetWithNotNullAssertionOperator](https://detekt.github.io/detekt/potential-bugs.html#mapgetwithnotnullassertionoperator)
+* [Detekt - MapGetWithNotNullAssertionOperator](https://detekt.dev/docs/rules/potential-bugs/#mapgetwithnotnullassertionoperator)

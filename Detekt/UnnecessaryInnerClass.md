@@ -24,4 +24,4 @@ class A {
 
 ## Further Reading
 
-* [Detekt - UnnecessaryInnerClass](https://detekt.dev/style.html#unnecessaryinnerclass)
+* [Detekt - UnnecessaryInnerClass](https://detekt.dev/docs/rules/style/#unnecessaryinnerclass)

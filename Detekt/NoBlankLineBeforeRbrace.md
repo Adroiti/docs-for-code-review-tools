@@ -8,4 +8,4 @@ Detects blank lines before rbraces.
 
 ## Further Reading
 
-* [Detekt - NoBlankLineBeforeRbrace](https://detekt.github.io/detekt/formatting.html#noblanklinebeforerbrace)
+* [Detekt - NoBlankLineBeforeRbrace](https://detekt.dev/docs/rules/formatting/#noblanklinebeforerbrace)

@@ -14,4 +14,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - UseArrayLiteralsInAnnotations](https://detekt.github.io/detekt/style.html#usearrayliteralsinannotations)
+* [Detekt - UseArrayLiteralsInAnnotations](https://detekt.dev/docs/rules/style/#usearrayliteralsinannotations)

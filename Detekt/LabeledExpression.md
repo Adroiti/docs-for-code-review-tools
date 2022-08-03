@@ -47,4 +47,4 @@ class Outer {
 
 ## Further Reading
 
-* [Detekt - LabeledExpression](https://detekt.github.io/detekt/complexity.html#labeledexpression)
+* [Detekt - LabeledExpression](https://detekt.dev/docs/rules/complexity/#labeledexpression)

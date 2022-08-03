@@ -31,4 +31,4 @@ second.c = first.b
 
 ## Further Reading
 
-* [Detekt - NestedScopeFunctions](https://detekt.dev/complexity.html#nestedscopefunctions)
+* [Detekt - NestedScopeFunctions](https://detekt.dev/docs/rules/complexity/#nestedscopefunctions)

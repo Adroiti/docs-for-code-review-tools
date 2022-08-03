@@ -61,4 +61,4 @@ fun foo(a: Int) {
 
 ## Further Reading
 
-* [Detekt - CanBeNonNullable](https://detekt.dev/style.html#canbenonnullable)
+* [Detekt - CanBeNonNullable](https://detekt.dev/docs/rules/style/#canbenonnullable)

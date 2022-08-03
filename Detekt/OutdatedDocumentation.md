@@ -44,4 +44,4 @@ fun <T, S> myFun(someParam: String)
 
 ## Further Reading
 
-* [Detekt - OutdatedDocumentation](https://detekt.dev/comments.html#outdateddocumentation)
+* [Detekt - OutdatedDocumentation](https://detekt.dev/docs/rules/comments/#outdateddocumentation)

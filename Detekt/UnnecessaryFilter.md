@@ -33,4 +33,4 @@ val x = listOf(1, 2, 3)
 
 ## Further Reading
 
-* [Detekt - UnnecessaryFilter](https://detekt.github.io/detekt/style.html#unnecessaryfilter)
+* [Detekt - UnnecessaryFilter](https://detekt.dev/docs/rules/style/#unnecessaryfilter)

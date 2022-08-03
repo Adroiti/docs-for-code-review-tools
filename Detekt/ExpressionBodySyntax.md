@@ -29,4 +29,4 @@ fun stuff() {
 
 ## Further Reading
 
-* [Detekt - ExpressionBodySyntax](https://detekt.github.io/detekt/style.html#expressionbodysyntax)
+* [Detekt - ExpressionBodySyntax](https://detekt.dev/docs/rules/style/#expressionbodysyntax)

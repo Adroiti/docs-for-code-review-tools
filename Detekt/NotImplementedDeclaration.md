@@ -20,4 +20,4 @@ fun todo() {
 
 ## Further Reading
 
-* [Detekt - NotImplementedDeclaration](https://detekt.github.io/detekt/exceptions.html#notimplementeddeclaration)
+* [Detekt - NotImplementedDeclaration](https://detekt.dev/docs/rules/exceptions/#notimplementeddeclaration)

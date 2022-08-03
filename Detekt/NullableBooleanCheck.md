@@ -26,4 +26,4 @@ value == true
 
 ## Further Reading
 
-* [Detekt - NullableBooleanCheck](https://detekt.dev/style.html#nullablebooleancheck)
+* [Detekt - NullableBooleanCheck](https://detekt.dev/docs/rules/style/#nullablebooleancheck)

@@ -8,4 +8,4 @@ Reports when function names which do not follow the specified naming convention 
 
 ## Further Reading
 
-* [Detekt - FunctionNaming](https://detekt.github.io/detekt/naming.html#functionnaming)
+* [Detekt - FunctionNaming](https://detekt.dev/docs/rules/naming/#functionnaming)

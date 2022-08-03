@@ -31,4 +31,4 @@ val x = getenv()?.run {
 
 ## Further Reading
 
-* [Detekt - ReplaceSafeCallChainWithRun](https://detekt.github.io/detekt/complexity.html#replacesafecallchainwithrun)
+* [Detekt - ReplaceSafeCallChainWithRun](https://detekt.dev/docs/rules/complexity/#replacesafecallchainwithrun)

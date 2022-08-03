@@ -22,4 +22,4 @@ val (a, b, c) = TooManyElements(1, 2, 3)
 
 ## Further Reading
 
-* [Detekt - DestructuringDeclarationWithTooManyEntries](https://detekt.dev/style.html#destructuringdeclarationwithtoomanyentries)
+* [Detekt - DestructuringDeclarationWithTooManyEntries](https://detekt.dev/docs/rules/style/#destructuringdeclarationwithtoomanyentries)

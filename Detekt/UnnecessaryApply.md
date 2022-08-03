@@ -24,4 +24,4 @@ config.apply {
 
 ## Further Reading
 
-* [Detekt - UnnecessaryApply](https://detekt.github.io/detekt/style.html#unnecessaryapply)
+* [Detekt - UnnecessaryApply](https://detekt.dev/docs/rules/style/#unnecessaryapply)

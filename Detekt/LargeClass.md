@@ -11,4 +11,4 @@ things.
 
 ## Further Reading
 
-* [Detekt - LargeClass](https://detekt.github.io/detekt/complexity.html#largeclass)
+* [Detekt - LargeClass](https://detekt.dev/docs/rules/complexity/#largeclass)

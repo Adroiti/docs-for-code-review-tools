@@ -30,4 +30,4 @@ class Foo {
 
 ## Further Reading
 
-* [Detekt - WrongEqualsTypeParameter](https://detekt.github.io/detekt/potential-bugs.html#wrongequalstypeparameter)
+* [Detekt - WrongEqualsTypeParameter](https://detekt.dev/docs/rules/potential-bugs/#wrongequalstypeparameter)

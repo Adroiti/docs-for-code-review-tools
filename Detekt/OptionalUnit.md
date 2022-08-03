@@ -32,4 +32,4 @@ override fun foo() = Unit
 
 ## Further Reading
 
-* [Detekt - OptionalUnit](https://detekt.github.io/detekt/style.html#optionalunit)
+* [Detekt - OptionalUnit](https://detekt.dev/docs/rules/style/#optionalunit)

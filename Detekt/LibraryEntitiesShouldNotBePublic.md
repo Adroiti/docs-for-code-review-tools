@@ -22,4 +22,4 @@ internal class A
 
 ## Further Reading
 
-* [Detekt - LibraryEntitiesShouldNotBePublic](https://detekt.github.io/detekt/style.html#libraryentitiesshouldnotbepublic)
+* [Detekt - LibraryEntitiesShouldNotBePublic](https://detekt.dev/docs/rules/style/#libraryentitiesshouldnotbepublic)

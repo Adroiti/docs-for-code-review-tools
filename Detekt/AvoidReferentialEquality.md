@@ -22,4 +22,4 @@ val areNotEqual = "aString" != otherString
 
 ## Further Reading
 
-* [Detekt - AvoidReferentialEquality](https://detekt.github.io/detekt/potential-bugs.html#avoidreferentialequality)
+* [Detekt - AvoidReferentialEquality](https://detekt.dev/docs/rules/potential-bugs/#avoidreferentialequality)

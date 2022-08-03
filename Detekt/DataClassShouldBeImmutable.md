@@ -25,4 +25,4 @@ data class ImmutableDataClass(
 
 ## Further Reading
 
-* [Detekt - DataClassShouldBeImmutable](https://detekt.github.io/detekt/style.html#dataclassshouldbeimmutable)
+* [Detekt - DataClassShouldBeImmutable](https://detekt.dev/docs/rules/style/#dataclassshouldbeimmutable)

@@ -30,4 +30,4 @@ fun safeUnitReturn(): Unit = println("Hello Unit")
 
 ## Further Reading
 
-* [Detekt - ImplicitUnitReturnType](https://detekt.dev/potential-bugs.html#implicitunitreturntype)
+* [Detekt - ImplicitUnitReturnType](https://detekt.dev/docs/rules/potential-bugs/#implicitunitreturntype)

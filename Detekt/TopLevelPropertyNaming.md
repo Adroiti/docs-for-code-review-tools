@@ -8,4 +8,4 @@ Reports when top level constant names which do not follow the specified naming c
 
 ## Further Reading
 
-* [Detekt - TopLevelPropertyNaming](https://detekt.github.io/detekt/naming.html#toplevelpropertynaming)
+* [Detekt - TopLevelPropertyNaming](https://detekt.dev/docs/rules/naming/#toplevelpropertynaming)

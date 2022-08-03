@@ -56,4 +56,4 @@ listOf(explicit)
 
 ## Further Reading
 
-* [Detekt - MultilineLambdaItParameter](https://detekt.github.io/detekt/style.html#multilinelambdaitparameter)
+* [Detekt - MultilineLambdaItParameter](https://detekt.dev/docs/rules/style/#multilinelambdaitparameter)

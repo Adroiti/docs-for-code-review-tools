@@ -33,4 +33,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - TrimMultilineRawString](https://detekt.dev/style.html#trimmultilinerawstring)
+* [Detekt - TrimMultilineRawString](https://detekt.dev/docs/rules/style/#trimmultilinerawstring)

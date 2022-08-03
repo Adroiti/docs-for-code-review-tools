@@ -8,4 +8,4 @@ Checks if condition chaining is wrapped right.
 
 ## Further Reading
 
-* [Detekt - ChainWrapping](https://detekt.github.io/detekt/formatting.html#chainwrapping)
+* [Detekt - ChainWrapping](https://detekt.dev/docs/rules/formatting/#chainwrapping)

@@ -36,4 +36,4 @@ fun main() {
 
 ## Further Reading
 
-* [Detekt - ExitOutsideMain](https://detekt.dev/potential-bugs.html#exitoutsidemain)
+* [Detekt - ExitOutsideMain](https://detekt.dev/docs/rules/potential-bugs/#exitoutsidemain)

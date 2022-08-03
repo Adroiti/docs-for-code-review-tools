@@ -24,4 +24,4 @@ fun foo(a: Any?) {
 
 ## Further Reading
 
-* [Detekt - CastToNullableType](https://detekt.github.io/detekt/potential-bugs.html#casttonullabletype)
+* [Detekt - CastToNullableType](https://detekt.dev/docs/rules/potential-bugs/#casttonullabletype)

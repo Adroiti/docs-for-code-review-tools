@@ -8,4 +8,4 @@ Reports when the package declaration is missing or the file location does not ma
 
 ## Further Reading
 
-* [Detekt - InvalidPackageDeclaration](https://detekt.github.io/detekt/naming.html#invalidpackagedeclaration)
+* [Detekt - InvalidPackageDeclaration](https://detekt.dev/docs/rules/naming/#invalidpackagedeclaration)

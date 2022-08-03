@@ -8,4 +8,4 @@ Detects modifiers in non-default order.
 
 ## Further Reading
 
-* [Detekt - ModifierOrdering](https://detekt.github.io/detekt/formatting.html#modifierordering)
+* [Detekt - ModifierOrdering](https://detekt.dev/docs/rules/formatting/#modifierordering)

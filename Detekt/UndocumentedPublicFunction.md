@@ -8,4 +8,4 @@ If the codebase should have documentation on all public functions enable this ru
 
 ## Further Reading
 
-* [Detekt - UndocumentedPublicFunction](https://detekt.github.io/detekt/comments.html#undocumentedpublicfunction)
+* [Detekt - UndocumentedPublicFunction](https://detekt.dev/docs/rules/comments/#undocumentedpublicfunction)

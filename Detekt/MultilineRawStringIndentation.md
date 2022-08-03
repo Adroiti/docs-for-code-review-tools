@@ -39,4 +39,4 @@ val a = """
 
 ## Further Reading
 
-* [Detekt - MultilineRawStringIndentation](https://detekt.dev/style.html#multilinerawstringindentation)
+* [Detekt - MultilineRawStringIndentation](https://detekt.dev/docs/rules/style/#multilinerawstringindentation)

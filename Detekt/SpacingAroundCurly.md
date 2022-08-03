@@ -8,4 +8,4 @@ Reports spaces around curly braces.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundCurly](https://detekt.github.io/detekt/formatting.html#spacingaroundcurly)
+* [Detekt - SpacingAroundCurly](https://detekt.dev/docs/rules/formatting/#spacingaroundcurly)

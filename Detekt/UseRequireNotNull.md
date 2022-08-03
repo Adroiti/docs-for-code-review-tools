@@ -20,4 +20,4 @@ requireNotNull(x)
 
 ## Further Reading
 
-* [Detekt - UseRequireNotNull](https://detekt.github.io/detekt/style.html#UseRequireNotNull)
+* [Detekt - UseRequireNotNull](https://detekt.dev/docs/rules/style/#UseRequireNotNull)

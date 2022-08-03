@@ -20,5 +20,5 @@ fun bar(vararg strs: String) {
 
 ## Further Reading
 
-* [Detekt - SpreadOperator](https://detekt.github.io/detekt/performance.html#spreadoperator)
+* [Detekt - SpreadOperator](https://detekt.dev/docs/rules/performance/#spreadoperator)
 * [Kotlin's hidden costs - Benchmarks](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks)

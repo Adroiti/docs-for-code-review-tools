@@ -47,4 +47,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - SwallowedException](https://detekt.github.io/detekt/exceptions.html#swallowedexception)
+* [Detekt - SwallowedException](https://detekt.dev/docs/rules/exceptions/#swallowedexception)

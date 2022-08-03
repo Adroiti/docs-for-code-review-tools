@@ -8,4 +8,4 @@ Reports empty `init` expressions. Empty blocks of code serve no purpose and shou
 
 ## Further Reading
 
-* [Detekt - EmptyInitBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyinitblock)
+* [Detekt - EmptyInitBlock](https://detekt.dev/docs/rules/empty-blocks/#emptyinitblock)

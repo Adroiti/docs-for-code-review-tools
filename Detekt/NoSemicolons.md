@@ -8,4 +8,4 @@ Detects semicolons.
 
 ## Further Reading
 
-* [Detekt - NoSemicolons](https://detekt.github.io/detekt/formatting.html#nosemicolons)
+* [Detekt - NoSemicolons](https://detekt.dev/docs/rules/formatting/#nosemicolons)

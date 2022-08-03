@@ -20,4 +20,4 @@ val hasProgressBar: Boolean = true
 
 ## Further Reading
 
-* [Detekt - BooleanPropertyNaming](https://detekt.github.io/detekt/naming.html#booleanpropertynaming)
+* [Detekt - BooleanPropertyNaming](https://detekt.dev/docs/rules/naming/#booleanpropertynaming)

@@ -8,4 +8,4 @@ Detects mis-aligned parameter lists.
 
 ## Further Reading
 
-* [Detekt - ParameterListWrapping](https://detekt.github.io/detekt/formatting.html#parameterlistwrapping)
+* [Detekt - ParameterListWrapping](https://detekt.dev/docs/rules/formatting/#parameterlistwrapping)

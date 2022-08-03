@@ -8,4 +8,4 @@ Detects trailing spaces.
 
 ## Further Reading
 
-* [Detekt - NoTrailingSpaces](https://detekt.github.io/detekt/formatting.html#notrailingspaces)
+* [Detekt - NoTrailingSpaces](https://detekt.dev/docs/rules/formatting/#notrailingspaces)

@@ -54,4 +54,4 @@ fun whenOnEnumCompliant2(c: Color) {
 
 ## Further Reading
 
-* [Detekt - MissingWhenCase](https://detekt.github.io/detekt/potential-bugs.html#missingwhencase)
+* [Detekt - MissingWhenCase](https://detekt.dev/docs/rules/potential-bugs/#missingwhencase)

@@ -28,4 +28,4 @@ class AuthException : RuntimeException()
 
 ## Further Reading
 
-* [Detekt - ObjectExtendsThrowable](https://detekt.github.io/detekt/exceptions.html#objectextendsthrowable)
+* [Detekt - ObjectExtendsThrowable](https://detekt.dev/docs/rules/exceptions/#objectextendsthrowable)

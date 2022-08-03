@@ -36,4 +36,4 @@ class Test {
 
 ## Further Reading
 
-* [Detekt - KDocReferencesNonPublicProperty](https://detekt.dev/comments.html#kdocreferencesnonpublicproperty)
+* [Detekt - KDocReferencesNonPublicProperty](https://detekt.dev/docs/rules/comments/#kdocreferencesnonpublicproperty)

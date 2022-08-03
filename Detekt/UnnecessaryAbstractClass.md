@@ -24,4 +24,4 @@ abstract class OnlyConcreteMembersInAbstractClass { // violation: no abstract me
 
 ## Further Reading
 
-* [Detekt - UnnecessaryAbstractClass](https://detekt.github.io/detekt/style.html#unnecessaryabstractclass)
+* [Detekt - UnnecessaryAbstractClass](https://detekt.dev/docs/rules/style/#unnecessaryabstractclass)

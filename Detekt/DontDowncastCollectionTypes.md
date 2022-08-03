@@ -26,4 +26,4 @@ list.toMutableList().add(42)
 
 ## Further Reading
 
-* [Detekt - DontDowncastCollectionTypes](https://detekt.github.io/detekt/potential-bugs.html#dontdowncastcollectiontypes)
+* [Detekt - DontDowncastCollectionTypes](https://detekt.dev/docs/rules/potential-bugs/#dontdowncastcollectiontypes)

@@ -8,4 +8,4 @@ Detects imports in non-default order.
 
 ## Further Reading
 
-* [Detekt - ImportOrdering](https://detekt.github.io/detekt/formatting.html#importordering)
+* [Detekt - ImportOrdering](https://detekt.dev/docs/rules/formatting/#importordering)

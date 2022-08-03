@@ -8,4 +8,4 @@ Reports function parameter names which do not follow the specified naming conven
 
 ## Further Reading
 
-* [Detekt - FunctionParameterNaming](https://detekt.github.io/detekt/naming.html#functionparameternaming)
+* [Detekt - FunctionParameterNaming](https://detekt.dev/docs/rules/naming/#functionparameternaming)

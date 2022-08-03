@@ -38,4 +38,4 @@ suspend fun foo() = coroutineScope {
 
 ## Further Reading
 
-* [Detekt - SuspendFunWithCoroutineScopeReceiver](https://detekt.dev/coroutines.html#suspendfunwithcoroutinescopereceiver)
+* [Detekt - SuspendFunWithCoroutineScopeReceiver](https://detekt.dev/docs/rules/coroutines/#suspendfunwithcoroutinescopereceiver)

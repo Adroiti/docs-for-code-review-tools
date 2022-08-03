@@ -10,4 +10,4 @@ Instead of simply removing the comment to solve this issue prefer renaming the p
 
 ## Further Reading
 
-* [Detekt - CommentOverPrivateProperty](https://detekt.github.io/detekt/comments.html#commentoverprivateproperty)
+* [Detekt - CommentOverPrivateProperty](https://detekt.dev/docs/rules/comments/#commentoverprivateproperty)

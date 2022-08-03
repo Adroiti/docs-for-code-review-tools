@@ -8,4 +8,4 @@ Reports empty `when` expressions. Empty blocks of code serve no purpose and shou
 
 ## Further Reading
 
-* [Detekt - EmptyWhenBlock](https://detekt.github.io/detekt/empty-blocks.html#emptywhenblock)
+* [Detekt - EmptyWhenBlock](https://detekt.dev/docs/rules/empty-blocks/#emptywhenblock)

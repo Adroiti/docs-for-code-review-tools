@@ -26,4 +26,4 @@ fun example() {
 
 ## Further Reading
 
-* [Detekt - VarCouldBeVal](https://detekt.github.io/detekt/style.html#varcouldbeval)
+* [Detekt - VarCouldBeVal](https://detekt.dev/docs/rules/style/#varcouldbeval)

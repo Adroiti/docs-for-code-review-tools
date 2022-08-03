@@ -20,4 +20,4 @@ class HelloWorld
 
 ## Further Reading
 
-* [Detekt - UnnecessaryBackticks](https://detekt.dev/style.html#unnecessarybackticks)
+* [Detekt - UnnecessaryBackticks](https://detekt.dev/docs/rules/style/#unnecessarybackticks)

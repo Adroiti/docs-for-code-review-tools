@@ -8,4 +8,4 @@ Checks if comments have the right spacing.
 
 ## Further Reading
 
-* [Detekt - CommentSpacing](https://detekt.github.io/detekt/formatting.html#commentspacing)
+* [Detekt - CommentSpacing](https://detekt.dev/docs/rules/formatting/#commentspacing)

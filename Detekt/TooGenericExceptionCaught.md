@@ -28,4 +28,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - TooGenericExceptionCaught](https://detekt.github.io/detekt/exceptions.html#toogenericexceptioncaught)
+* [Detekt - TooGenericExceptionCaught](https://detekt.dev/docs/rules/exceptions/#toogenericexceptioncaught)

@@ -36,4 +36,4 @@ class Manager {
 
 ## Further Reading
 
-* [Detekt - MemberNameEqualsClassName](https://detekt.github.io/detekt/naming.html#membernameequalsclassname)
+* [Detekt - MemberNameEqualsClassName](https://detekt.dev/docs/rules/naming/#membernameequalsclassname)

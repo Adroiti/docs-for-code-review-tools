@@ -13,4 +13,4 @@ to understand and implement.
 
 ## Further Reading
 
-* [Detekt - ComplexInterface](https://detekt.github.io/detekt/complexity.html#complexinterface)
+* [Detekt - ComplexInterface](https://detekt.dev/docs/rules/complexity/#complexinterface)

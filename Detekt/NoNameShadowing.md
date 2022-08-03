@@ -36,4 +36,4 @@ fun test(i: Int, j: Int, k: Int) {
 
 ## Further Reading
 
-* [Detekt - NoNameShadowing](https://detekt.github.io/detekt/naming.html#nonameshadowing)
+* [Detekt - NoNameShadowing](https://detekt.dev/docs/rules/naming/#nonameshadowing)

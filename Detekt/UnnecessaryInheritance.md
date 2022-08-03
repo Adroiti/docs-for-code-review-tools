@@ -15,4 +15,4 @@ class B : Object()
 
 ## Further Reading
 
-* [Detekt - UnnecessaryInheritance](https://detekt.github.io/detekt/style.html#unnecessaryinheritance)
+* [Detekt - UnnecessaryInheritance](https://detekt.dev/docs/rules/style/#unnecessaryinheritance)

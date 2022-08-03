@@ -8,4 +8,4 @@ Reports lambda parameter names that do not follow the specified naming conventio
 
 ## Further Reading
 
-* [Detekt - LambdaParameterNaming](https://detekt.github.io/detekt/naming.html#lambdaparameternaming)
+* [Detekt - LambdaParameterNaming](https://detekt.dev/docs/rules/naming/#lambdaparameternaming)

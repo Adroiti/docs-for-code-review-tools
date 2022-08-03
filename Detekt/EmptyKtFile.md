@@ -8,4 +8,4 @@ Reports empty Kotlin (`.kt`) files. Empty blocks of code serve no purpose and sh
 
 ## Further Reading
 
-* [Detekt - EmptyKtFile](https://detekt.github.io/detekt/empty-blocks.html#emptyktfile)
+* [Detekt - EmptyKtFile](https://detekt.dev/docs/rules/empty-blocks/#emptyktfile)

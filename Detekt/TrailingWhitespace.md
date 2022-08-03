@@ -8,4 +8,4 @@ Adding trailing whitespace can cause extra work for others editing the same file
 
 ## Further Reading
 
-* [Detekt - TrailingWhitespace](https://detekt.github.io/detekt/style.html#trailingwhitespace)
+* [Detekt - TrailingWhitespace](https://detekt.dev/docs/rules/style/#trailingwhitespace)

@@ -44,4 +44,4 @@ when(c) {
 
 ## Further Reading
 
-* [Detekt - ElseCaseInsteadOfExhaustiveWhen](https://detekt.dev/potential-bugs.html#elsecaseinsteadofexhaustivewhen)
+* [Detekt - ElseCaseInsteadOfExhaustiveWhen](https://detekt.dev/docs/rules/potential-bugs/#elsecaseinsteadofexhaustivewhen)

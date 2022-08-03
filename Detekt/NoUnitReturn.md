@@ -8,4 +8,4 @@ Detects optional `Unit` return types.
 
 ## Further Reading
 
-* [Detekt - NoUnitReturn](https://detekt.github.io/detekt/formatting.html#nounitreturn)
+* [Detekt - NoUnitReturn](https://detekt.dev/docs/rules/formatting/#nounitreturn)

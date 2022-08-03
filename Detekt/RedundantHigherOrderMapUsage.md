@@ -52,4 +52,4 @@ fun baz(set: Set<Int>): List<Int> {
 
 ## Further Reading
 
-* [Detekt - RedundantHigherOrderMapUsage](https://detekt.github.io/detekt/style.html#redundanthigherordermapusage)
+* [Detekt - RedundantHigherOrderMapUsage](https://detekt.dev/docs/rules/style/#redundanthigherordermapusage)

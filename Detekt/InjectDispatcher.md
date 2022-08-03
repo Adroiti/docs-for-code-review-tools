@@ -26,5 +26,5 @@ class MyRepository(dispatchers: CoroutineDispatcher = Dispatchers.IO)
 
 ## Further Reading
 
-* [Detekt - InjectDispatcher](https://detekt.github.io/detekt/coroutines.html#injectdispatcher)
+* [Detekt - InjectDispatcher](https://detekt.dev/docs/rules/coroutines/#injectdispatcher)
 * [Google Developers - Best practices for coroutines in Android](https://developer.android.com/kotlin/coroutines/coroutines-best-practices#inject-dispatchers)

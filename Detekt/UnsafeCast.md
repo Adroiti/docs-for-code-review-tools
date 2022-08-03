@@ -24,4 +24,4 @@ fun foo(s: Any) {
 
 ## Further Reading
 
-* [Detekt - UnsafeCast](https://detekt.github.io/detekt/potential-bugs.html#unsafecast)
+* [Detekt - UnsafeCast](https://detekt.dev/docs/rules/potential-bugs/#unsafecast)

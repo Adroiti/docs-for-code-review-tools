@@ -8,4 +8,4 @@ Detects multi-line `if-else` statements without braces.
 
 ## Further Reading
 
-* [Detekt - MultiLineIfElse](https://detekt.github.io/detekt/formatting.html#multilineifelse)
+* [Detekt - MultiLineIfElse](https://detekt.dev/docs/rules/formatting/#multilineifelse)

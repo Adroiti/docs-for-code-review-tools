@@ -20,5 +20,5 @@ fun onDestroy() {   scope.cancel()}```
 
 ## Further Reading
 
-* [Detekt - GlobalCoroutineUsage](https://detekt.github.io/detekt/coroutines.html#globalcoroutineusage)
+* [Detekt - GlobalCoroutineUsage](https://detekt.dev/docs/rules/coroutines/#globalcoroutineusage)
 * [kotlinx.coroutines](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-global-scope)

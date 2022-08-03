@@ -8,4 +8,4 @@ Reports line breaks before assignment.
 
 ## Further Reading
 
-* [Detekt - NoLineBreakBeforeAssignment](https://detekt.github.io/detekt/formatting.html#nolinebreakbeforeassignment)
+* [Detekt - NoLineBreakBeforeAssignment](https://detekt.dev/docs/rules/formatting/#nolinebreakbeforeassignment)

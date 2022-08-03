@@ -14,4 +14,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - HasPlatformType](https://detekt.github.io/detekt/potential-bugs.html#hasplatformtype)
+* [Detekt - HasPlatformType](https://detekt.dev/docs/rules/potential-bugs/#hasplatformtype)

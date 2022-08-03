@@ -8,4 +8,4 @@ Reports spaces around range operator.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundRangeOperator](https://detekt.github.io/detekt/formatting.html#spacingaroundrangeoperator)
+* [Detekt - SpacingAroundRangeOperator](https://detekt.dev/docs/rules/formatting/#spacingaroundrangeoperator)

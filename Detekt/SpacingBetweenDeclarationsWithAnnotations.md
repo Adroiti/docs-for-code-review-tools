@@ -8,4 +8,4 @@ Declarations and declarations with annotations should have an empty space betwee
 
 ## Further Reading
 
-* [Detekt - SpacingBetweenDeclarationsWithAnnotations](https://detekt.github.io/detekt/formatting.html#spacingbetweendeclarationswithannotations)
+* [Detekt - SpacingBetweenDeclarationsWithAnnotations](https://detekt.dev/docs/rules/formatting/#spacingbetweendeclarationswithannotations)

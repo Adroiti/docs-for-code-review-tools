@@ -30,4 +30,4 @@ fun <V> foo(): Int where V : Int = 5
 
 ## Further Reading
 
-* [Detekt - EqualsOnSignatureLine](https://detekt.github.io/detekt/style.html#equalsonsignatureline)
+* [Detekt - EqualsOnSignatureLine](https://detekt.dev/docs/rules/style/#equalsonsignatureline)

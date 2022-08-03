@@ -22,4 +22,4 @@ Void::class
 
 ## Further Reading
 
-* [Detekt - ForbiddenVoid](https://detekt.github.io/detekt/style.html#forbiddenvoid)
+* [Detekt - ForbiddenVoid](https://detekt.dev/docs/rules/style/#forbiddenvoid)

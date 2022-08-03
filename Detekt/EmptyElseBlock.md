@@ -8,4 +8,4 @@ Reports empty `else` blocks. Empty blocks of code serve no purpose and should be
 
 ## Further Reading
 
-* [Detekt - EmptyElseBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyelseblock)
+* [Detekt - EmptyElseBlock](https://detekt.dev/docs/rules/empty-blocks/#emptyelseblock)

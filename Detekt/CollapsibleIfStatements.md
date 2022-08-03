@@ -28,4 +28,4 @@ if (i > 0 && i < 5) {
 
 ## Further Reading
 
-* [Detekt - CollapsibleIfStatements](https://detekt.github.io/detekt/style.html#collapsibleifstatements)
+* [Detekt - CollapsibleIfStatements](https://detekt.dev/docs/rules/style/#collapsibleifstatements)

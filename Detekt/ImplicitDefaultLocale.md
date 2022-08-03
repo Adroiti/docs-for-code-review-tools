@@ -16,4 +16,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - ImplicitDefaultLocale](https://detekt.github.io/detekt/potential-bugs.html#implicitdefaultlocale)
+* [Detekt - ImplicitDefaultLocale](https://detekt.dev/docs/rules/potential-bugs/#implicitdefaultlocale)

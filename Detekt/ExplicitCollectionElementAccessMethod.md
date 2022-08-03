@@ -24,5 +24,5 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - ExplicitCollectionElementAccessMethod](https://detekt.github.io/detekt/style.html#explicitcollectionelementaccessmethod)
+* [Detekt - ExplicitCollectionElementAccessMethod](https://detekt.dev/docs/rules/style/#explicitcollectionelementaccessmethod)
 * [Kotlin - Indexed access operator](https://kotlinlang.org/docs/reference/operator-overloading.html#indexed)

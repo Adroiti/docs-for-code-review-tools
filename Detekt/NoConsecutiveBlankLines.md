@@ -8,4 +8,4 @@ Reports consecutive blank lines.
 
 ## Further Reading
 
-* [Detekt - NoConsecutiveBlankLines](https://detekt.github.io/detekt/formatting.html#noconsecutiveblanklines)
+* [Detekt - NoConsecutiveBlankLines](https://detekt.dev/docs/rules/formatting/#noconsecutiveblanklines)

@@ -22,4 +22,4 @@ listOf(1, 2, 3).none { it == 4 }
 
 ## Further Reading
 
-* [Detekt - UseAnyOrNoneInsteadOfFind](https://detekt.dev/style.html#useanyornoneinsteadoffind)
+* [Detekt - UseAnyOrNoneInsteadOfFind](https://detekt.dev/docs/rules/style/#useanyornoneinsteadoffind)

@@ -46,4 +46,4 @@ class InOrder {
 
 ## Further Reading
 
-* [Detekt - ClassOrdering](https://detekt.github.io/detekt/style.html#classordering)
+* [Detekt - ClassOrdering](https://detekt.dev/docs/rules/style/#classordering)

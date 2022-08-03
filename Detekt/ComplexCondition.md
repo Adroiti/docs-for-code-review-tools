@@ -30,4 +30,4 @@ fun hasCorrectEnding() = return !str.endsWith("foo") && !str.endsWith("bar") && 
 
 ## Further Reading
 
-* [Detekt - ComplexCondition](https://detekt.github.io/detekt/complexity.html#complexcondition)
+* [Detekt - ComplexCondition](https://detekt.dev/docs/rules/complexity/#complexcondition)

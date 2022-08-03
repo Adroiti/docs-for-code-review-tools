@@ -10,4 +10,4 @@ Instead of simply removing this comment to solve this issue prefer to split up t
 
 ## Further Reading
 
-* [Detekt - CommentOverPrivateFunction](https://detekt.github.io/detekt/comments.html#commentoverprivatefunction)
+* [Detekt - CommentOverPrivateFunction](https://detekt.dev/docs/rules/comments/#commentoverprivatefunction)

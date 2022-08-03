@@ -8,4 +8,4 @@ Reports line breaks after `else`.
 
 ## Further Reading
 
-* [Detekt - NoLineBreakAfterElse](https://detekt.github.io/detekt/formatting.html#nolinebreakafterelse)
+* [Detekt - NoLineBreakAfterElse](https://detekt.dev/docs/rules/formatting/#nolinebreakafterelse)

@@ -39,4 +39,4 @@ fun foo(): Int {
 
 ## Further Reading
 
-* [Detekt - UselessPostfixExpression](https://detekt.github.io/detekt/potential-bugs.html#uselesspostfixexpression)
+* [Detekt - UselessPostfixExpression](https://detekt.dev/docs/rules/potential-bugs/#uselesspostfixexpression)

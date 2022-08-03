@@ -22,4 +22,4 @@ listOf(1, 2, 3, 4).map { it*2 }
 
 ## Further Reading
 
-* [Detekt - CouldBeSequence](https://detekt.dev/performance.html#couldbesequence)
+* [Detekt - CouldBeSequence](https://detekt.dev/docs/rules/performance/#couldbesequence)

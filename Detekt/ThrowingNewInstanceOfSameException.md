@@ -32,4 +32,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - ThrowingNewInstanceOfSameException](https://detekt.github.io/detekt/exceptions.html#throwingnewinstanceofsameexception)
+* [Detekt - ThrowingNewInstanceOfSameException](https://detekt.dev/docs/rules/exceptions/#throwingnewinstanceofsameexception)

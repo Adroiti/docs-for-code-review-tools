@@ -34,4 +34,4 @@ class Foo {
 
 ## Further Reading
 
-* [Detekt - StringLiteralDuplication](https://detekt.github.io/detekt/complexity.html#stringliteralduplication)
+* [Detekt - StringLiteralDuplication](https://detekt.dev/docs/rules/complexity/#stringliteralduplication)

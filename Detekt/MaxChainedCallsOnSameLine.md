@@ -21,4 +21,4 @@ a().b().c()
 
 ## Further Reading
 
-* [Detekt - MaxChainedCallsOnSameLine](https://detekt.dev/style.html#maxchainedcallsonsameline)
+* [Detekt - MaxChainedCallsOnSameLine](https://detekt.dev/docs/rules/style/#maxchainedcallsonsameline)

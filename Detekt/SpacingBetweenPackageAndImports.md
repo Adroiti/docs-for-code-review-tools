@@ -26,4 +26,4 @@ class Bar { }
 
 ## Further Reading
 
-* [Detekt - SpacingBetweenPackageAndImports](https://detekt.github.io/detekt/style.html#spacingbetweenpackageandimports)
+* [Detekt - SpacingBetweenPackageAndImports](https://detekt.dev/docs/rules/style/#spacingbetweenpackageandimports)

@@ -28,4 +28,4 @@ emptySet()
 
 ## Further Reading
 
-* [Detekt - UseEmptyCounterpart](https://detekt.dev/style.html#useemptycounterpart)
+* [Detekt - UseEmptyCounterpart](https://detekt.dev/docs/rules/style/#useemptycounterpart)

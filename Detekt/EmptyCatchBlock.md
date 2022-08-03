@@ -8,4 +8,4 @@ Reports empty `catch` blocks. Empty blocks of code serve no purpose and should b
 
 ## Further Reading
 
-* [Detekt - EmptyCatchBlock](https://detekt.github.io/detekt/empty-blocks.html#emptycatchblock)
+* [Detekt - EmptyCatchBlock](https://detekt.dev/docs/rules/empty-blocks/#emptycatchblock)

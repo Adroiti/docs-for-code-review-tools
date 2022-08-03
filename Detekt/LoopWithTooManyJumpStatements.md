@@ -21,4 +21,4 @@ for (str in strs) {
 
 ## Further Reading
 
-* [Detekt - LoopWithTooManyJumpStatements](https://detekt.github.io/detekt/style.html#loopwithtoomanyjumpstatements)
+* [Detekt - LoopWithTooManyJumpStatements](https://detekt.dev/docs/rules/style/#loopwithtoomanyjumpstatements)

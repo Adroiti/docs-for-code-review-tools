@@ -8,4 +8,4 @@ Multiple annotations should be placed on separate lines.
 
 ## Further Reading
 
-* [Detekt - AnnotationOnSeparateLine](https://detekt.github.io/detekt/formatting.html#annotationonseparateline)
+* [Detekt - AnnotationOnSeparateLine](https://detekt.dev/docs/rules/formatting/#annotationonseparateline)

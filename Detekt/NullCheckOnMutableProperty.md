@@ -33,4 +33,4 @@ class A(private val a: Int?) {
 
 ## Further Reading
 
-* [Detekt - NullCheckOnMutableProperty](https://detekt.dev/potential-bugs.html#nullcheckonmutableproperty)
+* [Detekt - NullCheckOnMutableProperty](https://detekt.dev/docs/rules/potential-bugs/#nullcheckonmutableproperty)

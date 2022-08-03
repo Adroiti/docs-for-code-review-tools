@@ -20,4 +20,4 @@ val pair = 1 to 2
 
 ## Further Reading
 
-* [Detekt - PreferToOverPairSyntax](https://detekt.github.io/detekt/style.html#prefertooverpairsyntax)
+* [Detekt - PreferToOverPairSyntax](https://detekt.dev/docs/rules/style/#prefertooverpairsyntax)

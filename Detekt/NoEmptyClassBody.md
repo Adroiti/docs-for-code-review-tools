@@ -8,4 +8,4 @@ Reports empty class bodies.
 
 ## Further Reading
 
-* [Detekt - NoEmptyClassBody](https://detekt.github.io/detekt/formatting.html#noemptyclassbody)
+* [Detekt - NoEmptyClassBody](https://detekt.dev/docs/rules/formatting/#noemptyclassbody)

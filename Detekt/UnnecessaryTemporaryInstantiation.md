@@ -20,4 +20,4 @@ val i = Integer.toString(1)
 
 ## Further Reading
 
-* [Detekt - UnnecessaryTemporaryInstantiation](https://detekt.github.io/detekt/performance.html#unnecessarytemporaryinstantiation)
+* [Detekt - UnnecessaryTemporaryInstantiation](https://detekt.dev/docs/rules/performance/#unnecessarytemporaryinstantiation)

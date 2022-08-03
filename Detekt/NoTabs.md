@@ -8,4 +8,4 @@ According to [Google's Kotlin style guide](https://android.github.io/kotlin-guid
 
 ## Further Reading
 
-* [Detekt - NoTabs](https://detekt.github.io/detekt/style.html#notabs)
+* [Detekt - NoTabs](https://detekt.dev/docs/rules/style/#notabs)

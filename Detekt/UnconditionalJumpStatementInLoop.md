@@ -22,4 +22,4 @@ for (i in 1..2) {
 
 ## Further Reading
 
-* [Detekt - UnconditionalJumpStatementInLoop](https://detekt.github.io/detekt/potential-bugs.html#unconditionaljumpstatementinloop)
+* [Detekt - UnconditionalJumpStatementInLoop](https://detekt.dev/docs/rules/potential-bugs/#unconditionaljumpstatementinloop)

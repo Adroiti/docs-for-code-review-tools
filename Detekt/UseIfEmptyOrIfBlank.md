@@ -30,4 +30,4 @@ fun test(list: List<Int>, s: String) {
 
 ## Further Reading
 
-* [Detekt - UseIfEmptyOrIfBlank](https://detekt.github.io/detekt/style.html#useifemptyorifblank)
+* [Detekt - UseIfEmptyOrIfBlank](https://detekt.dev/docs/rules/style/#useifemptyorifblank)

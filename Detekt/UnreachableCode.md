@@ -25,4 +25,4 @@ fun f() {
 
 ## Further Reading
 
-* [Detekt - UnreachableCode](https://detekt.github.io/detekt/potential-bugs.html#unreachablecode)
+* [Detekt - UnreachableCode](https://detekt.dev/docs/rules/potential-bugs/#unreachablecode)

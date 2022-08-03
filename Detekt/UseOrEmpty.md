@@ -28,4 +28,4 @@ fun test(x: List<Int>?, s: String?) {
 
 ## Further Reading
 
-* [Detekt - UseOrEmpty](https://detekt.github.io/detekt/style.html#useorempty)
+* [Detekt - UseOrEmpty](https://detekt.dev/docs/rules/style/#useorempty)

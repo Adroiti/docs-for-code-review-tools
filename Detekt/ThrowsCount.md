@@ -30,4 +30,4 @@ fun foo(i: Int) {
 
 ## Further Reading
 
-* [Detekt - ThrowsCount](https://detekt.github.io/detekt/style.html#throwscount)
+* [Detekt - ThrowsCount](https://detekt.dev/docs/rules/style/#throwscount)

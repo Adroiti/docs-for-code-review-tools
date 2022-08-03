@@ -8,4 +8,4 @@ Reports class names which are forbidden per configuration. By default this rule 
 
 ## Further Reading
 
-* [Detekt - ForbiddenClassName](https://detekt.github.io/detekt/naming.html#forbiddenclassname)
+* [Detekt - ForbiddenClassName](https://detekt.dev/docs/rules/naming/#forbiddenclassname)

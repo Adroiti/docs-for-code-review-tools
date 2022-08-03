@@ -11,4 +11,4 @@ Extract parts of the functionality of long methods into separate, smaller method
 
 ## Further Reading
 
-* [Detekt - LongMethod](https://detekt.github.io/detekt/complexity.html#longmethod)
+* [Detekt - LongMethod](https://detekt.dev/docs/rules/complexity/#longmethod)

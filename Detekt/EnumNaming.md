@@ -8,4 +8,4 @@ Reports when enum names which do not follow the specified naming convention are 
 
 ## Further Reading
 
-* [Detekt - EnumNaming](https://detekt.github.io/detekt/naming.html#enumnaming)
+* [Detekt - EnumNaming](https://detekt.dev/docs/rules/naming/#enumnaming)

@@ -20,4 +20,4 @@ val isEnabled: Boolean = false
 
 ## Further Reading
 
-* [Detekt - NonBooleanPropertyPrefixedWithIs](https://detekt.github.io/detekt/naming.html#nonbooleanpropertyprefixedwithis)
+* [Detekt - NonBooleanPropertyPrefixedWithIs](https://detekt.dev/docs/rules/naming/#nonbooleanpropertyprefixedwithis)

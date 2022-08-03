@@ -25,4 +25,4 @@ foo()
 
 ## Further Reading
 
-* [Detekt - CascadingCallWrapping](https://detekt.dev/style.html#cascadingcallwrapping)
+* [Detekt - CascadingCallWrapping](https://detekt.dev/docs/rules/style/#cascadingcallwrapping)

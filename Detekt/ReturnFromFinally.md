@@ -20,4 +20,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - ReturnFromFinally](https://detekt.github.io/detekt/exceptions.html#returnfromfinally)
+* [Detekt - ReturnFromFinally](https://detekt.dev/docs/rules/exceptions/#returnfromfinally)

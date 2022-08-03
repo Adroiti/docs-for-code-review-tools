@@ -30,4 +30,4 @@ fun foo(bar: Int) {
 
 ## Further Reading
 
-* [Detekt - TooGenericExceptionThrown](https://detekt.github.io/detekt/exceptions.html#toogenericexceptionthrown)
+* [Detekt - TooGenericExceptionThrown](https://detekt.dev/docs/rules/exceptions/#toogenericexceptionthrown)

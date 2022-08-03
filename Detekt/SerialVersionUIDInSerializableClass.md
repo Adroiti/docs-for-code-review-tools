@@ -30,4 +30,4 @@ class CorrectSerializable : Serializable {
 
 ## Further Reading
 
-* [Detekt - SerialVersionUIDInSerializableClass](https://detekt.github.io/detekt/style.html#serialversionuidinserializableclass)
+* [Detekt - SerialVersionUIDInSerializableClass](https://detekt.dev/docs/rules/style/#serialversionuidinserializableclass)

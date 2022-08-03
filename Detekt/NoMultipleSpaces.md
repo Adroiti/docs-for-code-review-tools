@@ -8,4 +8,4 @@ Reports multiple space usages.
 
 ## Further Reading
 
-* [Detekt - NoMultipleSpaces](https://detekt.github.io/detekt/formatting.html#nomultiplespaces)
+* [Detekt - NoMultipleSpaces](https://detekt.dev/docs/rules/formatting/#nomultiplespaces)

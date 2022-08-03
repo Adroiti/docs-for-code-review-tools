@@ -25,4 +25,4 @@ println(x) // 10
 
 ## Further Reading
 
-* [Detekt - UnusedUnaryOperator](https://detekt.github.io/detekt/potential-bugs.html#unusedunaryoperator)
+* [Detekt - UnusedUnaryOperator](https://detekt.dev/docs/rules/potential-bugs/#unusedunaryoperator)

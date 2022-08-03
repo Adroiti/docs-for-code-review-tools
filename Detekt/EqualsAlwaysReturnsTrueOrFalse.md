@@ -24,4 +24,4 @@ override fun equals(other: Any?): Boolean {
 
 ## Further Reading
 
-* [Detekt - EqualsAlwaysReturnsTrueOrFalse](https://detekt.github.io/detekt/potential-bugs.html#equalsalwaysreturnstrueorfalse)
+* [Detekt - EqualsAlwaysReturnsTrueOrFalse](https://detekt.dev/docs/rules/potential-bugs/#equalsalwaysreturnstrueorfalse)

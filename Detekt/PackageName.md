@@ -8,4 +8,4 @@ Checks if package name is formatted correctly.
 
 ## Further Reading
 
-* [Detekt - PackageName](https://detekt.github.io/detekt/formatting.html#packagename)
+* [Detekt - PackageName](https://detekt.dev/docs/rules/formatting/#packagename)

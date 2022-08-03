@@ -8,4 +8,4 @@ Detects missing final newlines.
 
 ## Further Reading
 
-* [Detekt - FinalNewline](https://detekt.github.io/detekt/formatting.html#finalnewline)
+* [Detekt - FinalNewline](https://detekt.dev/docs/rules/formatting/#finalnewline)

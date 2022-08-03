@@ -31,4 +31,4 @@ class Bar
 
 ## Further Reading
 
-* [Detekt - ForbiddenSuppress](https://detekt.dev/style.html#forbiddensuppress)
+* [Detekt - ForbiddenSuppress](https://detekt.dev/docs/rules/style/#forbiddensuppress)

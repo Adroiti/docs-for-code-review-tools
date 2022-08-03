@@ -37,4 +37,4 @@ fun printThenNewline(what: String) {
 
 ## Further Reading
 
-* [Detekt - DeprecatedBlockTag](https://detekt.dev/comments.html#deprecatedblocktag)
+* [Detekt - DeprecatedBlockTag](https://detekt.dev/docs/rules/comments/#deprecatedblocktag)

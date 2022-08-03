@@ -24,4 +24,4 @@ class ProtectedMemberInFinalClass {
 
 ## Further Reading
 
-* [Detekt - ProtectedMemberInFinalClass](https://detekt.github.io/detekt/style.html#protectedmemberinfinalclass)
+* [Detekt - ProtectedMemberInFinalClass](https://detekt.dev/docs/rules/style/#protectedmemberinfinalclass)

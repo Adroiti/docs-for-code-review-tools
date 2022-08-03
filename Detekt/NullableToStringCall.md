@@ -32,4 +32,4 @@ fun bar(a: Any?): String {
 
 ## Further Reading
 
-* [Detekt - NullableToStringCall](https://detekt.dev/potential-bugs.html#nullabletostringcall)
+* [Detekt - NullableToStringCall](https://detekt.dev/docs/rules/potential-bugs/#nullabletostringcall)

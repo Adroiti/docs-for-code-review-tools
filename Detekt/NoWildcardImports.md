@@ -8,4 +8,4 @@ Detects wildcard import usages.
 
 ## Further Reading
 
-* [Detekt - NoWildcardImports](https://detekt.github.io/detekt/formatting.html#nowildcardimports)
+* [Detekt - NoWildcardImports](https://detekt.dev/docs/rules/formatting/#nowildcardimports)

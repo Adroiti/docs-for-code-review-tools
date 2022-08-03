@@ -24,4 +24,4 @@ sum(a = 1, b = 2, c = 3, d = 4)
 
 ## Further Reading
 
-* [Detekt - NamedArguments](https://detekt.dev/complexity.html#namedarguments)
+* [Detekt - NamedArguments](https://detekt.dev/docs/rules/complexity/#namedarguments)

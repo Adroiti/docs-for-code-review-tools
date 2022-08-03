@@ -8,4 +8,4 @@ Reports spaces around colons.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundColon](https://detekt.github.io/detekt/formatting.html#spacingaroundcolon)
+* [Detekt - SpacingAroundColon](https://detekt.dev/docs/rules/formatting/#spacingaroundcolon)

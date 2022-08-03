@@ -8,4 +8,4 @@ Reports empty classes. Empty blocks of code serve no purpose and should be remov
 
 ## Further Reading
 
-* [Detekt - EmptyClassBlock](https://detekt.github.io/detekt/empty-blocks.html#emptyclassblock)
+* [Detekt - EmptyClassBlock](https://detekt.dev/docs/rules/empty-blocks/#emptyclassblock)

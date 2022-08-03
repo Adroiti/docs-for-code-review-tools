@@ -9,4 +9,4 @@ Flags `check` calls for not-null check that can be replaced with a `checkNotNull
 
 ## Further Reading
 
-* [Detekt - UseCheckNotNull](https://detekt.github.io/detekt/style.html#UseCheckNotNull)
+* [Detekt - UseCheckNotNull](https://detekt.dev/docs/rules/style/#UseCheckNotNull)

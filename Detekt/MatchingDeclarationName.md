@@ -38,4 +38,4 @@ fun Bar.toFoo(): Foo = ...
 
 ## Further Reading
 
-* [Detekt - MatchingDeclarationName](https://detekt.github.io/detekt/naming.html#matchingdeclarationname)
+* [Detekt - MatchingDeclarationName](https://detekt.dev/docs/rules/naming/#matchingdeclarationname)

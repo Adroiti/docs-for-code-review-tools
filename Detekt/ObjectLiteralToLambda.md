@@ -25,4 +25,4 @@ Foo {
 
 ## Further Reading
 
-* [Detekt - ObjectLiteralToLambda](https://detekt.github.io/detekt/style.html#objectliteraltolambda)
+* [Detekt - ObjectLiteralToLambda](https://detekt.dev/docs/rules/style/#objectliteraltolambda)

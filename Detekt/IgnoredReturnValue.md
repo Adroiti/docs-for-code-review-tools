@@ -20,4 +20,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Detekt - IgnoredReturnValue](https://detekt.github.io/detekt/potential-bugs.html#ignoredreturnvalue)
+* [Detekt - IgnoredReturnValue](https://detekt.dev/docs/rules/potential-bugs/#ignoredreturnvalue)

@@ -17,4 +17,4 @@ val b = a```
 
 ## Further Reading
 
-* [Detekt - UnnecessaryNotNullOperator](https://detekt.github.io/detekt/potential-bugs.html#unnecessarynotnulloperator)
+* [Detekt - UnnecessaryNotNullOperator](https://detekt.dev/docs/rules/potential-bugs/#unnecessarynotnulloperator)

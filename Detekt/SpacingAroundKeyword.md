@@ -8,4 +8,4 @@ Reports spaces around keywords.
 
 ## Further Reading
 
-* [Detekt - SpacingAroundKeyword](https://detekt.github.io/detekt/formatting.html#spacingaroundkeyword)
+* [Detekt - SpacingAroundKeyword](https://detekt.dev/docs/rules/formatting/#spacingaroundkeyword)

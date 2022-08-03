@@ -8,4 +8,4 @@ Declarations and declarations with comments should have an empty space between.
 
 ## Further Reading
 
-* [Detekt - SpacingBetweenDeclarationsWithComments](https://detekt.github.io/detekt/formatting.html#spacingbetweendeclarationswithcomments)
+* [Detekt - SpacingBetweenDeclarationsWithComments](https://detekt.dev/docs/rules/formatting/#spacingbetweendeclarationswithcomments)

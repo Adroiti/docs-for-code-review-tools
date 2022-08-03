@@ -30,4 +30,4 @@ var myMap = mapOf("answer" to 42)
 
 ## Further Reading
 
-* [Detekt - DoubleMutabilityForCollection](https://detekt.github.io/detekt/potential-bugs.html#doublemutabilityforcollection)
+* [Detekt - DoubleMutabilityForCollection](https://detekt.dev/docs/rules/potential-bugs/#doublemutabilityforcollection)

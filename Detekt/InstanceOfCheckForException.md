@@ -32,4 +32,4 @@ fun foo() {
 
 ## Further Reading
 
-* [Detekt - InstanceOfCheckForException](https://detekt.github.io/detekt/exceptions.html#instanceofcheckforexception)
+* [Detekt - InstanceOfCheckForException](https://detekt.dev/docs/rules/exceptions/#instanceofcheckforexception)

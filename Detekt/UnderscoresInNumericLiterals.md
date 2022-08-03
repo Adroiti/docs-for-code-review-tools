@@ -24,4 +24,4 @@ object Money {
 
 ## Further Reading
 
-* [Detekt - UnderscoresInNumericLiterals](https://detekt.github.io/detekt/style.html#underscoresinnumericliterals)
+* [Detekt - UnderscoresInNumericLiterals](https://detekt.dev/docs/rules/style/#underscoresinnumericliterals)

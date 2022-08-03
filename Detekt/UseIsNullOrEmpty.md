@@ -28,4 +28,4 @@ if (x.isNullOrEmpty()) return
 
 ## Further Reading
 
-* [Detekt - UseIsNullOrEmpty](https://detekt.github.io/detekt/style.html#useisnullorempty)
+* [Detekt - UseIsNullOrEmpty](https://detekt.dev/docs/rules/style/#useisnullorempty)
