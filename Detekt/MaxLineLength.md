@@ -1,4 +1,4 @@
-Pattern: Too many lines
+Pattern: Line is too long
 
 Issue: -
 
