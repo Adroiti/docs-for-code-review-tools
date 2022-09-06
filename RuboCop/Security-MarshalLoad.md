@@ -1,4 +1,4 @@
-Pattern: Use of `Marshal.`
+Pattern: Use of `Marshal.*`
 
 Issue: -
 
