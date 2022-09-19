@@ -28,14 +28,14 @@ You should not make code less readable simply out of fear that some programs mig
 Example of **incorrect** code:
 
 ```java
-String unitAbbrev = "μs"; //Best: perfectly clear even without a comment.
+//Poor: the reader has no idea what this is.
+String unitAbbrev = "\u03bcs";
 ```
 
 Example of **correct** code:
 
 ```java
-//Poor: the reader has no idea what this is.
-String unitAbbrev = "\u03bcs";
+String unitAbbrev = "μs"; //Best: perfectly clear even without a comment.
 ```
 
 ## Further Reading
