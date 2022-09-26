@@ -1,4 +1,4 @@
-Pattern: Use sensitive data in AWS EC2 instance
+Pattern: Use of sensitive data in AWS EC2 instance
 
 Issue: -
 
