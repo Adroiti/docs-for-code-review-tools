@@ -48,4 +48,4 @@ Function Invoke-MyLocalCommand ()
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingComputerNameHardcoded](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingComputerNameHardcoded.md)
+* [PSScriptAnalyzer - AvoidUsingComputerNameHardcoded](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingComputerNameHardcoded.md)

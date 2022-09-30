@@ -26,4 +26,4 @@ New-Alias -Name Name1 -Value Value
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidGlobalAliases](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidGlobalAliases.md)
+* [PSScriptAnalyzer - AvoidGlobalAliases](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidGlobalAliases.md)

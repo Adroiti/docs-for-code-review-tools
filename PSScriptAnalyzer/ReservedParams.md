@@ -40,4 +40,4 @@ function Test
 
 ## Further Reading
 
-* [PSScriptAnalyzer - ReservedParams](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/ReservedParams.md)
+* [PSScriptAnalyzer - ReservedParams](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/ReservedParams.md)

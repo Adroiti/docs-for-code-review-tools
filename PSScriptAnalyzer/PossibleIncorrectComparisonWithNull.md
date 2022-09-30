@@ -38,4 +38,4 @@ function Test-CompareWithNull
 
 ## Further Reading
 
-* [PSScriptAnalyzer - PossibleIncorrectComparisonWithNull](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/PossibleIncorrectComparisonWithNull.md)
+* [PSScriptAnalyzer - PossibleIncorrectComparisonWithNull](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/PossibleIncorrectComparisonWithNull.md)

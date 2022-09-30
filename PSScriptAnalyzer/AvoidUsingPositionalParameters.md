@@ -28,4 +28,4 @@ Get-Command -Noun Get-ChildItem -Module Microsoft.PowerShell.Management -Paramet
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingPositionalParameters](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingPositionalParameters.md)
+* [PSScriptAnalyzer - AvoidUsingPositionalParameters](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingPositionalParameters.md)

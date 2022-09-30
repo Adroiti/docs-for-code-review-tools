@@ -54,4 +54,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [PSScriptAnalyzer - ShouldProcess](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/ShouldProcess.md)
+* [PSScriptAnalyzer - ShouldProcess](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/ShouldProcess.md)

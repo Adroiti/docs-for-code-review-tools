@@ -42,4 +42,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [PSScriptAnalyzer - MissingModuleManifestField](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/MissingModuleManifestField.md)
+* [PSScriptAnalyzer - MissingModuleManifestField](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/MissingModuleManifestField.md)

@@ -37,4 +37,4 @@ function Test
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidDefaultValueForMandatoryParameter](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidDefaultValueForMandatoryParameter.md)
+* [PSScriptAnalyzer - AvoidDefaultValueForMandatoryParameter](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidDefaultValueForMandatoryParameter.md)

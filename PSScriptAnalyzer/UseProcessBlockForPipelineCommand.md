@@ -63,4 +63,4 @@ PS C:\> 1..5 | Get-Number
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseProcessBlockForPipelineCommand](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseProcessBlockForPipelineCommand.md)
+* [PSScriptAnalyzer - UseProcessBlockForPipelineCommand](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseProcessBlockForPipelineCommand.md)

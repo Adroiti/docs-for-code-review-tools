@@ -44,4 +44,4 @@ function Show-Something
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingWriteHost](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingWriteHost.md)
+* [PSScriptAnalyzer - AvoidUsingWriteHost](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingWriteHost.md)

@@ -66,4 +66,4 @@ Function GoodFuncHelpMessage
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidNullOrEmptyHelpMessageAttribute](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidNullOrEmptyHelpMessageAttribute.md)
+* [PSScriptAnalyzer - AvoidNullOrEmptyHelpMessageAttribute](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidNullOrEmptyHelpMessageAttribute.md)

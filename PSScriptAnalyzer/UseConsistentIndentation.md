@@ -61,4 +61,4 @@ Represents the kind of indentation to be used. Possible values are: `space`, `ta
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseConsistentIndentation](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseConsistentIndentation.md)
+* [PSScriptAnalyzer - UseConsistentIndentation](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseConsistentIndentation.md)

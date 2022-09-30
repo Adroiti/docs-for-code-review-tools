@@ -46,4 +46,4 @@ Get-Process | Where-Object {$_.WorkingSet -gt 20000000}
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingCmdletAliases](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingCmdletAliases.md)
+* [PSScriptAnalyzer - AvoidUsingCmdletAliases](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingCmdletAliases.md)

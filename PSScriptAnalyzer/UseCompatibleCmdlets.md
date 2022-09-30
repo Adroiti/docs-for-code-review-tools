@@ -33,4 +33,4 @@ Usually, patched versions of PowerShell have the same cmdlet data, therefore onl
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseCompatibleCmdlets](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseCompatibleCmdlets.md)
+* [PSScriptAnalyzer - UseCompatibleCmdlets](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseCompatibleCmdlets.md)

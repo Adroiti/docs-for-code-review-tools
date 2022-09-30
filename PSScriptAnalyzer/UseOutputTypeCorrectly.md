@@ -41,4 +41,4 @@ function Get-Foo
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseOutputTypeCorrectly](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseOutputTypeCorrectly.md)
+* [PSScriptAnalyzer - UseOutputTypeCorrectly](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseOutputTypeCorrectly.md)

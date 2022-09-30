@@ -48,4 +48,4 @@ In this case, to fix this warning, we should add tests in a following way:
 
 ## Further Reading
 
-* [PSScriptAnalyzer - DSCDscTestsPresent](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/DSCDscTestsPresent.md)
+* [PSScriptAnalyzer - DSCDscTestsPresent](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/DSCDscTestsPresent.md)

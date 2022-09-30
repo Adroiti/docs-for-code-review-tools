@@ -67,4 +67,4 @@ Start-Job -ScriptBlock {$using:foo }
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseUsingScopeModifierInNewRunspaces](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseUsingScopeModifierInNewRunspaces.md)
+* [PSScriptAnalyzer - UseUsingScopeModifierInNewRunspaces](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseUsingScopeModifierInNewRunspaces.md)

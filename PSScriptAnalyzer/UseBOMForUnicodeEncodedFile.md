@@ -12,4 +12,4 @@ Ensure that the file is encoded with BOM present.
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseBOMForUnicodeEncodedFile](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseBOMForUnicodeEncodedFile.md)
+* [PSScriptAnalyzer - UseBOMForUnicodeEncodedFile](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseBOMForUnicodeEncodedFile.md)

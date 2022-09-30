@@ -54,4 +54,4 @@ Checks if a pipe is surrounded on both sides by a space. E.g. `foo | bar` instea
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseConsistentWhitespace](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseConsistentWhitespace.md)
+* [PSScriptAnalyzer - UseConsistentWhitespace](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseConsistentWhitespace.md)

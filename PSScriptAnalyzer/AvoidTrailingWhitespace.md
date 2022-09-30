@@ -8,4 +8,4 @@ Lines should not end with whitespace characters.  This can cause problems with t
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidTrailingWhitespace](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidTrailingWhitespace.md)
+* [PSScriptAnalyzer - AvoidTrailingWhitespace](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidTrailingWhitespace.md)

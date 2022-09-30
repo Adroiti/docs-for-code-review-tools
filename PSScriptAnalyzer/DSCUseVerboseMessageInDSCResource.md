@@ -35,4 +35,4 @@ Function Test-Function
 
 ## Further Reading
 
-* [PSScriptAnalyzer - DSCUseVerboseMessageInDSCResource](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/DSCUseVerboseMessageInDSCResource.md)
+* [PSScriptAnalyzer - DSCUseVerboseMessageInDSCResource](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/DSCUseVerboseMessageInDSCResource.md)

@@ -65,4 +65,4 @@ An example configuration might look like:
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseCompatibleCommands](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseCompatibleCommands.md)
+* [PSScriptAnalyzer - UseCompatibleCommands](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseCompatibleCommands.md)

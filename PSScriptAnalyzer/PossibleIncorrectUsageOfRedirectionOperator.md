@@ -28,4 +28,4 @@ if ($a -gt $b)
 
 ## Further Reading
 
-* [PSScriptAnalyzer - PossibleIncorrectUsageOfRedirectionOperator](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/PossibleIncorrectUsageOfRedirectionOperator.md)
+* [PSScriptAnalyzer - PossibleIncorrectUsageOfRedirectionOperator](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/PossibleIncorrectUsageOfRedirectionOperator.md)

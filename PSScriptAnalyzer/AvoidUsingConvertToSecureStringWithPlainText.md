@@ -31,4 +31,4 @@ $SecureString = Convertto-SecureString -String $EncryptedInput
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingConvertToSecureStringWithPlainText](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingConvertToSecureStringWithPlainText.md)
+* [PSScriptAnalyzer - AvoidUsingConvertToSecureStringWithPlainText](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingConvertToSecureStringWithPlainText.md)

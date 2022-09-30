@@ -53,4 +53,4 @@ if (($shortVariableName = $SuperLongVariableName['SpecialItem']['AnotherItem']))
 
 ## Further Reading
 
-* [PSScriptAnalyzer - PossibleIncorrectUsageOfAssignmentOperator](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/PossibleIncorrectUsageOfAssignmentOperator.md)
+* [PSScriptAnalyzer - PossibleIncorrectUsageOfAssignmentOperator](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/PossibleIncorrectUsageOfAssignmentOperator.md)

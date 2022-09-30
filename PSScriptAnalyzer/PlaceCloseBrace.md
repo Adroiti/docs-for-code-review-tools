@@ -41,4 +41,4 @@ Indicates if a new line should follow a close brace. If set to true a close brac
 
 ## Further Reading
 
-* [PSScriptAnalyzer - PlaceCloseBrace](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/PlaceCloseBrace.md)
+* [PSScriptAnalyzer - PlaceCloseBrace](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/PlaceCloseBrace.md)

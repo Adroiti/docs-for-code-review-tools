@@ -85,4 +85,4 @@ PSUseCompatibleTypes                Warning                 1     The type 'Syst
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseCompatibleTypes](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseCompatibleTypes.md)
+* [PSScriptAnalyzer - UseCompatibleTypes](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseCompatibleTypes.md)

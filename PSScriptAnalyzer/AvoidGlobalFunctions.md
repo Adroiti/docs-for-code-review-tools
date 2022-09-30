@@ -26,4 +26,4 @@ function functionName {}
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidGlobalFunctions](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidGlobalFunctions.md)
+* [PSScriptAnalyzer - AvoidGlobalFunctions](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidGlobalFunctions.md)

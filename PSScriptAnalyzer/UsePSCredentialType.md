@@ -30,4 +30,4 @@ function Credential([PSCredential]$Credential)
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UsePSCredentialType](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UsePSCredentialType.md)
+* [PSScriptAnalyzer - UsePSCredentialType](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UsePSCredentialType.md)

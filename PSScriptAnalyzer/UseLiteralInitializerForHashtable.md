@@ -30,4 +30,4 @@ $hashtable = @{}
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseLiteralInitializerForHashtable](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseLiteralInitializerForHashtable.md)
+* [PSScriptAnalyzer - UseLiteralInitializerForHashtable](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseLiteralInitializerForHashtable.md)

@@ -50,4 +50,4 @@ In this case, to fix this warning, we should add examples in a following way:
 
 ## Further Reading
 
-* [PSScriptAnalyzer - DSCDscExamplesPresent](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/DSCDscExamplesPresent.md)
+* [PSScriptAnalyzer - DSCDscExamplesPresent](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/DSCDscExamplesPresent.md)

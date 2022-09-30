@@ -34,4 +34,4 @@ function test {
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseSupportsShouldProcess](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseSupportsShouldProcess.md)
+* [PSScriptAnalyzer - UseSupportsShouldProcess](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseSupportsShouldProcess.md)

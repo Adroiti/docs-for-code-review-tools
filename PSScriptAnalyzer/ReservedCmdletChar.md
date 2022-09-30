@@ -31,4 +31,4 @@ function CustomFunction
 
 ## Further Reading
 
-* [PSScriptAnalyzer - ReservedCmdletChar](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/ReservedCmdletChar.md)
+* [PSScriptAnalyzer - ReservedCmdletChar](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/ReservedCmdletChar.md)

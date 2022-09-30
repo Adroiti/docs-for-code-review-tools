@@ -130,4 +130,4 @@ function Test-TargetResource
 
 ## Further Reading
 
-* [PSScriptAnalyzer - DSCUseIdenticalMandatoryParametersForDSC](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/DSCUseIdenticalMandatoryParametersForDSC.md)
+* [PSScriptAnalyzer - DSCUseIdenticalMandatoryParametersForDSC](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/DSCUseIdenticalMandatoryParametersForDSC.md)

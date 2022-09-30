@@ -33,4 +33,4 @@ Function Set-TodaysDate ()
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseCmdletCorrectly](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseCmdletCorrectly.md)
+* [PSScriptAnalyzer - UseCmdletCorrectly](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseCmdletCorrectly.md)

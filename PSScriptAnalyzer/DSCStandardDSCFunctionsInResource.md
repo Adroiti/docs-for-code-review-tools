@@ -133,4 +133,4 @@ class MyDSCResource
 
 ## Further Reading
 
-* [PSScriptAnalyzer - DSCStandardDSCFunctionsInResource](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/DSCStandardDSCFunctionsInResource.md)
+* [PSScriptAnalyzer - DSCStandardDSCFunctionsInResource](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/DSCStandardDSCFunctionsInResource.md)

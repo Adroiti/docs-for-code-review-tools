@@ -26,4 +26,4 @@ due to those PowerShell versions not being able to parse the incompatible syntax
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseCompatibleSyntax](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseCompatibleSyntax.md)
+* [PSScriptAnalyzer - UseCompatibleSyntax](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseCompatibleSyntax.md)

@@ -45,4 +45,4 @@ function Test-Script
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingUsernameAndPasswordParams](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingUsernameAndPasswordParams.md)
+* [PSScriptAnalyzer - AvoidUsingUsernameAndPasswordParams](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingUsernameAndPasswordParams.md)

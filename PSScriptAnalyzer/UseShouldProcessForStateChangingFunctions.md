@@ -52,4 +52,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseShouldProcessForStateChangingFunctions](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseShouldProcessForStateChangingFunctions.md)
+* [PSScriptAnalyzer - UseShouldProcessForStateChangingFunctions](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseShouldProcessForStateChangingFunctions.md)

@@ -46,4 +46,4 @@ FunctionToExport = @(Get-Foo, Set-Foo)
 
 ## Further Reading
 
-* [PSScriptAnalyzer - UseToExportFieldsInManifest](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseToExportFieldsInManifest.md)
+* [PSScriptAnalyzer - UseToExportFieldsInManifest](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseToExportFieldsInManifest.md)

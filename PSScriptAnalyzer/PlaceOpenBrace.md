@@ -41,4 +41,4 @@ In the above example, if the property is set to true then the rule will not fire
 
 ## Further Reading
 
-* [PSScriptAnalyzer - PlaceOpenBrace](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/PlaceOpenBrace.md)
+* [PSScriptAnalyzer - PlaceOpenBrace](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/PlaceOpenBrace.md)

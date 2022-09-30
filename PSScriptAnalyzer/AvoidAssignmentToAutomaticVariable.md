@@ -28,4 +28,4 @@ function Get-CustomErrorMessage($ErrorMessage){ $FinalErrorMessage = "Error occu
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidAssignmentToAutomaticVariable](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidAssignmentToAutomaticVariable.md)
+* [PSScriptAnalyzer - AvoidAssignmentToAutomaticVariable](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidAssignmentToAutomaticVariable.md)

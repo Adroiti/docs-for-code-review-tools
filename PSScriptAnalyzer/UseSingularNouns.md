@@ -31,4 +31,4 @@ function Get-File
 ## Further Reading
 
 * [PowerShell Best Practices](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/PowerShellBestPractices.md)
-* [PSScriptAnalyzer - UseSingularNouns](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/UseSingularNouns.md)
+* [PSScriptAnalyzer - UseSingularNouns](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseSingularNouns.md)

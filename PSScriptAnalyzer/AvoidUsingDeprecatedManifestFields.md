@@ -30,4 +30,4 @@ ModuleVersion = '1.0'
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingDeprecatedManifestFields](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingDeprecatedManifestFields.md)
+* [PSScriptAnalyzer - AvoidUsingDeprecatedManifestFields](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingDeprecatedManifestFields.md)

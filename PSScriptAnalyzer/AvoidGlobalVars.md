@@ -39,4 +39,4 @@ function Test-NotGlobal ($var1, $var2)
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidGlobalVars](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidGlobalVars.md)
+* [PSScriptAnalyzer - AvoidGlobalVars](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidGlobalVars.md)

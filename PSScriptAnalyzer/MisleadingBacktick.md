@@ -8,4 +8,4 @@ Ending a line with an escaped whitespace character is misleading. A trailing bac
 
 ## Further Reading
 
-* [PSScriptAnalyzer - MisleadingBacktick](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/MisleadingBacktick.md)
+* [PSScriptAnalyzer - MisleadingBacktick](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/MisleadingBacktick.md)

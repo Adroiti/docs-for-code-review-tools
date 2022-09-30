@@ -105,4 +105,4 @@ function Get-File
 
 ## Further Reading
 
-* [PSScriptAnalyzer - ProvideCommentHelp](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/ProvideCommentHelp.md)
+* [PSScriptAnalyzer - ProvideCommentHelp](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/ProvideCommentHelp.md)

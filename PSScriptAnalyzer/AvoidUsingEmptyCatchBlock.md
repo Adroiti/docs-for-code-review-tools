@@ -48,4 +48,4 @@ catch [DivideByZeroException]
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingEmptyCatchBlock](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingEmptyCatchBlock.md)
+* [PSScriptAnalyzer - AvoidUsingEmptyCatchBlock](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingEmptyCatchBlock.md)

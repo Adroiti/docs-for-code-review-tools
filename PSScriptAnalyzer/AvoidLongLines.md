@@ -29,4 +29,4 @@ Optional parameter to override the default maximum line length.
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidLongLines](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidLongLines.md)
+* [PSScriptAnalyzer - AvoidLongLines](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidLongLines.md)

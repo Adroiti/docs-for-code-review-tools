@@ -47,4 +47,4 @@ Invoke-CimMethod ?ClassName Win32_Process ?MethodName "Create" ?Arguments @{ Com
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingWMICmdlet](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingWMICmdlet.md)
+* [PSScriptAnalyzer - AvoidUsingWMICmdlet](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingWMICmdlet.md)

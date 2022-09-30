@@ -24,4 +24,4 @@ $constantValue = 'I Love PowerShell'
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingDoubleQuotesForConstantString](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingDoubleQuotesForConstantString.md)
+* [PSScriptAnalyzer - AvoidUsingDoubleQuotesForConstantString](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingDoubleQuotesForConstantString.md)

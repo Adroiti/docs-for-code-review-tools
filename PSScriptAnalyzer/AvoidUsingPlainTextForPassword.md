@@ -52,4 +52,4 @@ function Test-Script
 
 ## Further Reading
 
-* [PSScriptAnalyzer - AvoidUsingPlainTextForPassword](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/AvoidUsingPlainTextForPassword.md)
+* [PSScriptAnalyzer - AvoidUsingPlainTextForPassword](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/AvoidUsingPlainTextForPassword.md)

@@ -150,4 +150,4 @@ class MyDSCResource
 
 ## Further Reading
 
-* [PSScriptAnalyzer - DSCReturnCorrectTypesForDSCFunctions](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/RuleDocumentation/DSCReturnCorrectTypesForDSCFunctions.md)
+* [PSScriptAnalyzer - DSCReturnCorrectTypesForDSCFunctions](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/DSCReturnCorrectTypesForDSCFunctions.md)
