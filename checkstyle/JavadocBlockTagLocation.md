@@ -18,4 +18,4 @@ To place a tag explicitly as text, escape the `@` symbol with HTML entity `&#64;
 
 ## Further Reading
 
-* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/config_javadoc.html#JavadocBlockTagLocation)
+* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/checks/javadoc/javadocblocktaglocation.html#JavadocBlockTagLocation)

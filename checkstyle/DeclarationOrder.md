@@ -74,4 +74,4 @@ With **ignoreConstructors** option and without a method definition in a source c
 
 ## Further Reading
 
-* [checkstyle - DeclarationOrder](http://checkstyle.sourceforge.net/config_coding.html#DeclarationOrder)
+* [checkstyle - DeclarationOrder](https://checkstyle.sourceforge.io/checks/coding/declarationorder.html#DeclarationOrder)

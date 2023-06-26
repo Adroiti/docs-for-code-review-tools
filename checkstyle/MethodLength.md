@@ -42,4 +42,4 @@ To configure the check so that it accepts methods with at most 60 lines, not cou
 
 ## Further Reading
 
-* [checkstyle - MethodLength](http://checkstyle.sourceforge.net/config_sizes.html#MethodLength)
+* [checkstyle - MethodLength](https://checkstyle.sourceforge.io/checks/sizes/methodlength.html#MethodLength)

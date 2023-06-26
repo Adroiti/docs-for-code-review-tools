@@ -33,4 +33,4 @@ import java.lang.ref.Cleaner; // standard replacement for sun.misc.Cleaner
 
 * [Oracle Technology Network - Why Developers Should Not Write Programs 
 That Call 'sun' Packages](http://www.oracle.com/technetwork/java/faq-sun-packages-142232.html)
-* [checkstyle - IllegalImport](http://checkstyle.sourceforge.net/config_imports.html#IllegalImport)
+* [checkstyle - IllegalImport](https://checkstyle.sourceforge.io/checks/imports/illegalimport.html#IllegalImport)

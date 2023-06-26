@@ -17,4 +17,4 @@ record MyRecord3(double myNumber) {} // violation, the record component name
 
 ## Further Reading
 
-* [checkstyle - RecordComponentNumber](http://checkstyle.sourceforge.net/config_sizes.html#RecordComponentNumber)
+* [checkstyle - RecordComponentNumber](https://checkstyle.sourceforge.io/checks/sizes/recordcomponentnumber.html#RecordComponentNumber)

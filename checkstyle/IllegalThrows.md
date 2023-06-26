@@ -47,4 +47,4 @@ To configure the check to warn on overridden methods:
 
 ## Further Reading
 
-* [checkstyle - IllegalThrows](http://checkstyle.sourceforge.net/config_coding.html#IllegalThrows)
+* [checkstyle - IllegalThrows](https://checkstyle.sourceforge.io/checks/coding/illegalthrows.html#IllegalThrows)

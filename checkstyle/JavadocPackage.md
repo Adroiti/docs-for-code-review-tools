@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - JavadocPackage](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocPackage)
+* [checkstyle - JavadocPackage](https://checkstyle.sourceforge.io/checks/javadoc/javadocpackage.html#JavadocPackage)

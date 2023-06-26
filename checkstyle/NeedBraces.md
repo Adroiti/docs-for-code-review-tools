@@ -90,4 +90,4 @@ for(int i = 0; i < 10; value.incrementValue()); // OK
 
 ## Further Reading
 
-* [checkstyle - NeedBraces](http://checkstyle.sourceforge.net/config_blocks.html#NeedBraces)
+* [checkstyle - NeedBraces](https://checkstyle.sourceforge.io/checks/blocks/needbraces.html#NeedBraces)

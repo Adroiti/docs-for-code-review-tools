@@ -48,4 +48,4 @@ switch (input) {
 ## Further Reading
 
 * [Google Java Style Guide - Switch statements](https://google.github.io/styleguide/javaguide.html#s4.8.4-switch)
-* [checkstyle - FallThrough](http://checkstyle.sourceforge.net/config_coding.html#FallThrough)
+* [checkstyle - FallThrough](https://checkstyle.sourceforge.io/checks/coding/fallthrough.html#FallThrough)

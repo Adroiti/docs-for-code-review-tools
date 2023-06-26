@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - UnnecessaryParentheses](http://checkstyle.sourceforge.net/config_coding.html#UnnecessaryParentheses)
+* [checkstyle - UnnecessaryParentheses](https://checkstyle.sourceforge.io/checks/coding/unnecessaryparentheses.html#UnnecessaryParentheses)

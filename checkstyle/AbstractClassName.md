@@ -19,4 +19,4 @@ The following example shows how to configure the `AbstractClassName` to checks n
 
 ## Further Reading
 
-* [checkstyle - AbstractClassName](http://checkstyle.sourceforge.net/config_naming.html#AbstractClassName)
+* [checkstyle - AbstractClassName](https://checkstyle.sourceforge.io/checks/naming/abstractclassname/abstractclassname.html#AbstractClassName)

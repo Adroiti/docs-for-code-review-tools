@@ -76,4 +76,4 @@ To configure the check so that it doesn't allow any return statements in constru
 
 ## Further Reading
 
-* [checkstyle - ReturnCount](http://checkstyle.sourceforge.net/config_coding.html#ReturnCount)
+* [checkstyle - ReturnCount](https://checkstyle.sourceforge.io/checks/coding/returncount.html#ReturnCount)

@@ -104,4 +104,4 @@ To configure the check to check only methods and not variables:
 
 ## Further Reading
 
-* [checkstyle - RedundantModifier](http://checkstyle.sourceforge.net/config_modifier.html#RedundantModifier)
+* [checkstyle - RedundantModifier](https://checkstyle.sourceforge.io/checks/modifier/redundantmodifier.html#RedundantModifier)

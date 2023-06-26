@@ -185,4 +185,4 @@ Example of usage:
 
 ## Further Reading
 
-* [checkstyle - ClassDataAbstractionCoupling](http://checkstyle.sourceforge.net/config_metrics.html#ClassDataAbstractionCoupling)
+* [checkstyle - ClassDataAbstractionCoupling](https://checkstyle.sourceforge.io/checks/metrics/classdataabstractioncoupling.html#ClassDataAbstractionCoupling)

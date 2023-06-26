@@ -19,4 +19,4 @@ This is an example of a configuration of the `MemberName` module to ensure that 
 
 ## Further Reading
 
-* [checkstyle - MemberName](http://checkstyle.sourceforge.net/config_naming.html#MemberName)
+* [checkstyle - MemberName](https://checkstyle.sourceforge.io/checks/naming/membername.html#MemberName)

@@ -53,4 +53,4 @@ switch(type)
 ## Further Reading
 
 * [Google Java Style Guide - Switch statements](https://google.github.io/styleguide/javaguide.html#s4.8.4-switch)
-* [checkstyle - MissingSwitchDefault](http://checkstyle.sourceforge.net/config_coding.html#MissingSwitchDefault)
+* [checkstyle - MissingSwitchDefault](https://checkstyle.sourceforge.io/checks/coding/missingswitchdefault.html#MissingSwitchDefault)

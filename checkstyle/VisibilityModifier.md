@@ -313,4 +313,4 @@ public class InputPublicImmutable {
 
 ## Further Reading
 
-* [checkstyle - VisibilityModifier](http://checkstyle.sourceforge.net/config_design.html#VisibilityModifier)
+* [checkstyle - VisibilityModifier](https://checkstyle.sourceforge.io/checks/design/visibilitymodifier.html#VisibilityModifier)

@@ -27,4 +27,4 @@ To configure the check to allow at most 30 methods per type:
 
 ## Further Reading
 
-* [checkstyle - MethodCount](http://checkstyle.sourceforge.net/config_sizes.html#MethodCount)
+* [checkstyle - MethodCount](https://checkstyle.sourceforge.io/checks/sizes/methodcount.html#MethodCount)

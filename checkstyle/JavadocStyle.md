@@ -56,4 +56,4 @@ To configure the check to turn off first sentence checking:
 
 ## Further Reading
 
-* [checkstyle - JavadocStyle](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocStyle)
+* [checkstyle - JavadocStyle](https://checkstyle.sourceforge.io/checks/javadoc/javadocstyle.html#JavadocStyle)

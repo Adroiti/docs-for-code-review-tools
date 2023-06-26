@@ -52,4 +52,4 @@ public void needsLotsOfParameters(int a, int b, int c, int d, int e, int f, int 
 
 ## Further Reading
 
-* [checkstyle - ParameterNumber](http://checkstyle.sourceforge.net/config_sizes.html#ParameterNumber)
+* [checkstyle - ParameterNumber](https://checkstyle.sourceforge.io/checks/sizes/parameternumber.html#ParameterNumber)

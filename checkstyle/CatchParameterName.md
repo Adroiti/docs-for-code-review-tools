@@ -36,4 +36,4 @@ An example of how to configure the check for names that begin with a lower case 
 
 ## Further Reading
 
-* [checkstyle - CatchParameterName](http://checkstyle.sourceforge.net/config_naming.html#CatchParameterName)
+* [checkstyle - CatchParameterName](https://checkstyle.sourceforge.io/checks/naming/catchparametername.html#CatchParameterName)

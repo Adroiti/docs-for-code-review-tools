@@ -53,4 +53,4 @@ switch (type) {
 
 ## Further Reading
 
-* [checkstyle - DefaultComesLast](http://checkstyle.sourceforge.net/config_coding.html#DefaultComesLast)
+* [checkstyle - DefaultComesLast](https://checkstyle.sourceforge.io/checks/coding/defaultcomeslast.html#DefaultComesLast)

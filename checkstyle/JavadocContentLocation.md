@@ -65,4 +65,4 @@ This setting produces a violation for each comment not starting on the same line
 
 ## Further Reading
 
-* [checkstyle - JavadocContentLocation](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocContentLocation)
+* [checkstyle - JavadocContentLocation](https://checkstyle.sourceforge.io/checks/javadoc/javadoccontentlocation.html#JavadocContentLocation)

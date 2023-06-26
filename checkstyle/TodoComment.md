@@ -36,4 +36,4 @@ doSomethingExperimental();
 
 ## Further Reading
 
-* [checkstyle - TodoComment](http://checkstyle.sourceforge.net/config_misc.html#TodoComment)
+* [checkstyle - TodoComment](https://checkstyle.sourceforge.io/checks/misc/todocomment.html#TodoComment)

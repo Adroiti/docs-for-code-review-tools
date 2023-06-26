@@ -39,4 +39,4 @@ while (condition)
 
 ## Further Reading
 
-* [checkstyle - EmptyStatement](http://checkstyle.sourceforge.net/config_coding.html#EmptyStatement)
+* [checkstyle - EmptyStatement](https://checkstyle.sourceforge.io/checks/coding/emptystatement.html#EmptyStatement)

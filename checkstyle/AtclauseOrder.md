@@ -23,4 +23,4 @@ Default configuration
 
 ## Further Reading
 
-* [checkstyle - AtclauseOrder](http://checkstyle.sourceforge.net/config_javadoc.html#AtclauseOrder)
+* [checkstyle - AtclauseOrder](https://checkstyle.sourceforge.io/checks/javadoc/atclauseorder/atclauseorder.html#AtclauseOrder)

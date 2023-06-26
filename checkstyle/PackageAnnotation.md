@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - PackageAnnotation](http://checkstyle.sourceforge.net/config_annotation.html#PackageAnnotation)
+* [checkstyle - PackageAnnotation](https://checkstyle.sourceforge.io/checks/annotation/packageannotation.html#PackageAnnotation)

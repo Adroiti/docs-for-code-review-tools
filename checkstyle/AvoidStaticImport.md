@@ -21,4 +21,4 @@ An example of how to configure the check so that the `java.lang.System.out` memb
 
 ## Further Reading
 
-* [checkstyle - AvoidStaticImport](http://checkstyle.sourceforge.net/config_imports.html#AvoidStaticImport)
+* [checkstyle - AvoidStaticImport](https://checkstyle.sourceforge.io/checks/imports/avoidstaticimport.html#AvoidStaticImport)

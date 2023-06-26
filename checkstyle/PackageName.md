@@ -19,4 +19,4 @@ The default value of `format` for module `PackageName` has been chosen to match 
 
 ## Further Reading
 
-* [checkstyle - PackageName](http://checkstyle.sourceforge.net/config_naming.html#PackageName)
+* [checkstyle - PackageName](https://checkstyle.sourceforge.io/checks/naming/packagename.html#PackageName)

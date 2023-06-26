@@ -31,4 +31,4 @@ To configure the check to require a space after the identifier of a method defin
 
 ## Further Reading
 
-* [checkstyle - MethodParamPad](http://checkstyle.sourceforge.net/config_whitespace.html#MethodParamPad)
+* [checkstyle - MethodParamPad](https://checkstyle.sourceforge.io/checks/whitespace/methodparampad.html#MethodParamPad)

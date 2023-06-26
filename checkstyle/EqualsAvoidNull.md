@@ -37,4 +37,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - EqualsAvoidNull](http://checkstyle.sourceforge.net/config_coding.html#EqualsAvoidNull)
+* [checkstyle - EqualsAvoidNull](https://checkstyle.sourceforge.io/checks/coding/equalsavoidnull.html#EqualsAvoidNull)

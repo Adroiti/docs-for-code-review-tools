@@ -26,4 +26,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - AvoidInlineConditionals](http://checkstyle.sourceforge.net/config_coding.html#AvoidInlineConditionals)
+* [checkstyle - AvoidInlineConditionals](https://checkstyle.sourceforge.io/checks/coding/avoidinlineconditionals.html#AvoidInlineConditionals)

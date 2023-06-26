@@ -27,4 +27,4 @@ To configure the check to require spaces:
 
 ## Further Reading
 
-* [checkstyle - TypecastParenPad](http://checkstyle.sourceforge.net/config_whitespace.html#TypecastParenPad)
+* [checkstyle - TypecastParenPad](https://checkstyle.sourceforge.io/checks/whitespace/typecastparenpad.html#TypecastParenPad)

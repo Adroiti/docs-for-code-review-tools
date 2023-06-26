@@ -38,4 +38,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - HideUtilityClassConstructor](http://checkstyle.sourceforge.net/config_design.html#HideUtilityClassConstructor)
+* [checkstyle - HideUtilityClassConstructor](https://checkstyle.sourceforge.io/checks/design/hideutilityclassconstructor.html#HideUtilityClassConstructor)

@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - StaticVariableName](http://checkstyle.sourceforge.net/config_naming.html#StaticVariableName)
+* [checkstyle - StaticVariableName](https://checkstyle.sourceforge.io/checks/naming/staticvariablename.html#StaticVariableName)

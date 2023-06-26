@@ -33,4 +33,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - StringLiteralEquality](http://checkstyle.sourceforge.net/config_coding.html#StringLiteralEquality)
+* [checkstyle - StringLiteralEquality](https://checkstyle.sourceforge.io/checks/coding/stringliteralequality.html#StringLiteralEquality)

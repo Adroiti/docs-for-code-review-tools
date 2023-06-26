@@ -41,4 +41,4 @@ public static final int COUNTER = 10; // violation as Javadoc exists
 
 ## Further Reading
 
-* [checkstyle - MissingDeprecated](http://checkstyle.sourceforge.net/config_annotation.html#MissingDeprecated)
+* [checkstyle - MissingDeprecated](https://checkstyle.sourceforge.io/checks/annotation/missingdeprecated.html#MissingDeprecated)

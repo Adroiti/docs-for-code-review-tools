@@ -27,4 +27,4 @@ To configure the check to allow nesting depth 3:
 
 ## Further Reading
 
-* [checkstyle - NestedForDepth](http://checkstyle.sourceforge.net/config_coding.html#NestedForDepth)
+* [checkstyle - NestedForDepth](https://checkstyle.sourceforge.io/checks/coding/nestedfordepth.html#NestedForDepth)

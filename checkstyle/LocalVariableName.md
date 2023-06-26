@@ -27,4 +27,4 @@ An example of how to configure the check to allow one character variable name in
 
 ## Further Reading
 
-* [checkstyle - LocalVariableName](http://checkstyle.sourceforge.net/config_naming.html#LocalVariableName)
+* [checkstyle - LocalVariableName](https://checkstyle.sourceforge.io/checks/naming/localvariablename.html#LocalVariableName)

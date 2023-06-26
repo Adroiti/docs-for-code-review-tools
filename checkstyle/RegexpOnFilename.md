@@ -92,4 +92,4 @@ To configure the check to only allow file names to be camel case:
 
 ## Further Reading
 
-* [checkstyle - RegexpOnFilename](http://checkstyle.sourceforge.net/config_regexp.html#RegexpOnFilename)
+* [checkstyle - RegexpOnFilename](https://checkstyle.sourceforge.io/checks/regexp/regexponfilename.html#RegexpOnFilename)

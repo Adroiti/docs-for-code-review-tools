@@ -57,4 +57,4 @@ To configure the check to suppress empty `catch` block if single-line comment in
 ## Further Reading
 
 * [Google Java Style Guide - Caught exceptions: not ignored](https://google.github.io/styleguide/javaguide.html#s6.2-caught-exceptions)
-* [checkstyle - EmptyCatchBlock](http://checkstyle.sourceforge.net/config_blocks.html#EmptyCatchBlock)
+* [checkstyle - EmptyCatchBlock](https://checkstyle.sourceforge.io/checks/blocks/emptycatchblock.html#EmptyCatchBlock)

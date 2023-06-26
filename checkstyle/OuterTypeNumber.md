@@ -29,4 +29,4 @@ To configure the check to accept 2 outer types per file:
 
 ## Further Reading
 
-* [checkstyle - OuterTypeNumber](http://checkstyle.sourceforge.net/config_sizes.html#OuterTypeNumber)
+* [checkstyle - OuterTypeNumber](https://checkstyle.sourceforge.io/checks/sizes/outertypenumber.html#OuterTypeNumber)

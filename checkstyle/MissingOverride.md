@@ -28,4 +28,4 @@ To configure the check for the `javaFiveCompatibility` mode:
 
 ## Further Reading
 
-* [checkstyle - MissingOverride](http://checkstyle.sourceforge.net/config_annotation.html#MissingOverride)
+* [checkstyle - MissingOverride](https://checkstyle.sourceforge.io/checks/annotation/missingoverride.html#MissingOverride)

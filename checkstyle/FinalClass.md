@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - FinalClass](http://checkstyle.sourceforge.net/config_design.html#FinalClass)
+* [checkstyle - FinalClass](https://checkstyle.sourceforge.io/checks/design/finalclass.html#FinalClass)

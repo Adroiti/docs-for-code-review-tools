@@ -35,4 +35,4 @@ To configure the check to require white space at an empty `for` iterator:
 
 ## Further Reading
 
-* [checkstyle - EmptyForIteratorPad](http://checkstyle.sourceforge.net/config_whitespace.html#EmptyForIteratorPad)
+* [checkstyle - EmptyForIteratorPad](https://checkstyle.sourceforge.io/checks/whitespace/emptyforiteratorpad.html#EmptyForIteratorPad)

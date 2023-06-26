@@ -21,4 +21,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - NoClone](http://checkstyle.sourceforge.net/config_coding.html#NoClone)
+* [checkstyle - NoClone](https://checkstyle.sourceforge.io/checks/coding/noclone.html#NoClone)

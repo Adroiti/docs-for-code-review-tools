@@ -53,4 +53,4 @@ public class AnnotationLocationCheck extends AbstractCheck {
 
 ## Further Reading
 
-* [checkstyle - PackageDeclaration](http://checkstyle.sourceforge.net/config_coding.html#PackageDeclaration)
+* [checkstyle - PackageDeclaration](https://checkstyle.sourceforge.io/checks/coding/packagedeclaration.html#PackageDeclaration)

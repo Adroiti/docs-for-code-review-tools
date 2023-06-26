@@ -84,4 +84,4 @@ list = new ArrayList<Object>() {
 
 ## Further Reading
 
-* [checkstyle - AvoidDoubleBraceInitialization](https://checkstyle.sourceforge.io/config_misc.html#AvoidDoubleBraceInitialization)
+* [checkstyle - AvoidDoubleBraceInitialization](https://checkstyle.sourceforge.io/checks/coding/avoiddoublebraceinitialization.html#AvoidDoubleBraceInitialization)

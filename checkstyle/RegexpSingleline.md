@@ -48,4 +48,4 @@ An example of how to configure the check to make sure a copyright statement is i
 
 ## Further Reading
 
-* [checkstyle - RegexpSingleline](http://checkstyle.sourceforge.net/config_regexp.html#RegexpSingleline)
+* [checkstyle - RegexpSingleline](https://checkstyle.sourceforge.io/checks/regexp/regexpsingleline.html#RegexpSingleline)

@@ -111,4 +111,4 @@ class Foo
 
 ## Further Reading
 
-* [checkstyle - EmptyLineSeparator](http://checkstyle.sourceforge.net/config_whitespace.html#EmptyLineSeparator)
+* [checkstyle - EmptyLineSeparator](https://checkstyle.sourceforge.io/checks/whitespace/emptylineseparator.html#EmptyLineSeparator)

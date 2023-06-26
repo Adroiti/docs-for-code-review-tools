@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - MethodTypeParameterName](http://checkstyle.sourceforge.net/config_naming.html#MethodTypeParameterName)
+* [checkstyle - MethodTypeParameterName](https://checkstyle.sourceforge.io/checks/naming/methodtypeparametername.html#MethodTypeParameterName)

@@ -37,4 +37,4 @@ If you must use finalizers, there are a few guidelines you can follow that will 
 * [Oracle Technology Network - How to Handle Java Finalization's Memory-Retention Issues](http://www.oracle.com/technetwork/java/javamail/finalization-137655.html)
 * [IBM developerWorks - Garbage collection and performance](https://www.ibm.com/developerworks/java/library/j-jtp01274/index.html)
 * [Google Java Style Guide - Finalizers: not used](https://google.github.io/styleguide/javaguide.html#s6.4-finalizers)
-* [checkstyle - NoFinalizer](http://checkstyle.sourceforge.net/config_coding.html#NoFinalizer)
+* [checkstyle - NoFinalizer](https://checkstyle.sourceforge.io/checks/coding/nofinalizer.html#NoFinalizer)

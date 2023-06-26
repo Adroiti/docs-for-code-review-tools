@@ -85,4 +85,4 @@ public class TestClass {
 
 ## Further Reading
 
-* [checkstyle - SummaryJavadoc](http://checkstyle.sourceforge.net/config_javadoc.html#SummaryJavadoc)
+* [checkstyle - SummaryJavadoc](https://checkstyle.sourceforge.io/checks/javadoc/summaryjavadoc.html#SummaryJavadoc)

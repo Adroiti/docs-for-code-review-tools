@@ -33,4 +33,4 @@ To configure the check to report on each line in each file:
 ## Further Reading
 
 * [Apache Commons - Coding Standards](https://commons.apache.org/proper/commons-net/code-standards.html)
-* [checkstyle - FileTabCharacter](http://checkstyle.sourceforge.net/config_whitespace.html#FileTabCharacter)
+* [checkstyle - FileTabCharacter](https://checkstyle.sourceforge.io/checks/whitespace/filetabcharacter.html#FileTabCharacter)

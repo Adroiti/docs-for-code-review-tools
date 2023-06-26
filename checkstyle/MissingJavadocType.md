@@ -104,4 +104,4 @@ Use following configuration:
 
 ## Further Reading
 
-* [checkstyle - MissingJavadocType](http://checkstyle.sourceforge.net/config_javadoc.html)
+* [checkstyle - MissingJavadocType](https://checkstyle.sourceforge.io/checks/javadoc/missingjavadoctype.html)

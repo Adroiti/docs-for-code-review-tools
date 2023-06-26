@@ -50,4 +50,4 @@ To configure the check so that the "unchecked" and "unused" warnings cannot be s
 
 ## Further Reading
 
-* [checkstyle - SuppressWarnings](http://checkstyle.sourceforge.net/config_annotation.html#SuppressWarnings)
+* [checkstyle - SuppressWarnings](https://checkstyle.sourceforge.io/checks/annotation/suppresswarnings.html#SuppressWarnings)

@@ -39,4 +39,4 @@ public class Foo{
 
 * [Google Java Style Guide - Exactly one top-level class declaration](https://google.github.io/styleguide/javaguide.html#s3.4.1-one-top-level-class)
 * [Java Language Specification - Top Level Type Declarations](http://docs.oracle.com/javase/specs/jls/se8/html/jls-7.html#jls-7.6)
-* [checkstyle - OneTopLevelClass](http://checkstyle.sourceforge.net/config_design.html#OneTopLevelClass)
+* [checkstyle - OneTopLevelClass](https://checkstyle.sourceforge.io/checks/design/onetoplevelclass.html#OneTopLevelClass)

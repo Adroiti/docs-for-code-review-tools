@@ -21,4 +21,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - MutableException](http://checkstyle.sourceforge.net/config_design.html#MutableException)
+* [checkstyle - MutableException](https://checkstyle.sourceforge.io/checks/design/mutableexception.html#MutableException)

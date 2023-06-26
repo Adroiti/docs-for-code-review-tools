@@ -35,4 +35,4 @@ This change will make the code more succinct and clear to the readers.
 
 ## Further Reading
 
-* [checkstyle - SimplifyBooleanReturn](http://checkstyle.sourceforge.net/config_coding.html#SimplifyBooleanReturn)
+* [checkstyle - SimplifyBooleanReturn](https://checkstyle.sourceforge.io/checks/coding/simplifybooleanreturn.html#SimplifyBooleanReturn)

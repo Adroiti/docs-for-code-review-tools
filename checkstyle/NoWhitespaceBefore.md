@@ -28,4 +28,4 @@ To configure the check to allow line breaks before a DOT token:
 
 ## Further Reading
 
-* [checkstyle - NoWhitespaceBefore](http://checkstyle.sourceforge.net/config_whitespace.html#NoWhitespaceBefore)
+* [checkstyle - NoWhitespaceBefore](https://checkstyle.sourceforge.io/checks/whitespace/nowhitespacebefore.html#NoWhitespaceBefore)

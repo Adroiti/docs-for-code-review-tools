@@ -92,4 +92,4 @@ Than the check will rise the following violation: "0: Properties file 'messages_
 
 ## Further Reading
 
-* [checkstyle - Translation](http://checkstyle.sourceforge.net/config_misc.html#Translation)
+* [checkstyle - Translation](https://checkstyle.sourceforge.io/checks/misc/translation.html#Translation)

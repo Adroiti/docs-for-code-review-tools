@@ -28,4 +28,4 @@ To configure the check for the assignment operator, `=`, at the end of a line:
 
 ## Further Reading
 
-* [checkstyle - OperatorWrap](http://checkstyle.sourceforge.net/config_whitespace.html#OperatorWrap)
+* [checkstyle - OperatorWrap](https://checkstyle.sourceforge.io/checks/whitespace/operatorwrap.html#OperatorWrap)

@@ -51,4 +51,4 @@ In case of tagImmediatelyBeforeFirstWord set to false the following example will
 
 ## Further Reading
 
-* [checkstyle - JavadocParagraph](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocParagraph)
+* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/checks/javadoc/javadocparagraph.html#JavadocParagraph)

@@ -52,4 +52,4 @@ class Code {}
 
 ## Further Reading
 
-* [checkstyle - JavadocMissingLeadingAsterisk](https://checkstyle.org/config_javadoc.html#JavadocMissingLeadingAsterisk)
+* [checkstyle - JavadocMissingLeadingAsterisk](https://checkstyle.org/checks/javadoc/javadocmissingleadingasterisk.html#JavadocMissingLeadingAsterisk)

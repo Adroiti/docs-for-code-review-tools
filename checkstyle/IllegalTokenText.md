@@ -44,4 +44,4 @@ To configure the check to forbid String literals containing `"a href"`:
 ## Further Reading
 
 * [Google Java Style Guide - Special escape sequences](https://google.github.io/styleguide/javaguide.html#s2.1-file-name)
-* [checkstyle - IllegalTokenText](http://checkstyle.sourceforge.net/config_coding.html#IllegalTokenText)
+* [checkstyle - IllegalTokenText](https://checkstyle.sourceforge.io/checks/coding/illegaltokentext.html#IllegalTokenText)

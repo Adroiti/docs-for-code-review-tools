@@ -173,4 +173,4 @@ public class InputEclipseStaticImportsOrder { }
 
 ## Further Reading
 
-* [checkstyle - ImportOrder](http://checkstyle.sourceforge.net/config_imports.html#ImportOrder)
+* [checkstyle - ImportOrder](https://checkstyle.sourceforge.io/checks/imports/importorder.html#ImportOrder)

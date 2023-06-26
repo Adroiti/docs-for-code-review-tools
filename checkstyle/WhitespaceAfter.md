@@ -27,4 +27,4 @@ To configure the check for whitespace only after COMMA and SEMI tokens:
 
 ## Further Reading
 
-* [checkstyle - WhitespaceAfter](http://checkstyle.sourceforge.net/config_whitespace.html#WhitespaceAfter)
+* [checkstyle - WhitespaceAfter](https://checkstyle.sourceforge.io/checks/whitespace/whitespaceafter.html#WhitespaceAfter)

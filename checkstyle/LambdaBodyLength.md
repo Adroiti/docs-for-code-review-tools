@@ -52,4 +52,4 @@ class Test {
 
 ## Further Reading
 
-* [checkstyle - LambdaBodyLength](https://checkstyle.org/config_sizes.html#LambdaBodyLength)
+* [checkstyle - LambdaBodyLength](https://checkstyle.org/checks/sizes/lambdabodylength.html#LambdaBodyLength)

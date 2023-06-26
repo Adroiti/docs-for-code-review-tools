@@ -43,4 +43,4 @@ double d = 3.14;
 ## Further Reading
 
 * [Google Java Style Guide - Block comment style](http://checkstyle.sourceforge.net/reports/google-java-style-20170228.html#s4.8.6.1-block-comment-style)
-* [checkstyle - CommentsIndentation](http://checkstyle.sourceforge.net/config_misc.html#CommentsIndentation)
+* [checkstyle - CommentsIndentation](https://checkstyle.sourceforge.io/checks/misc/commentsindentation.html#CommentsIndentation)

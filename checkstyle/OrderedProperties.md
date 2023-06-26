@@ -41,4 +41,4 @@ We check order of key's only. Here we would like to use an Locale independent or
 
 ## Further Reading
 
-* [checkstyle - OrderedProperties](http://checkstyle.sourceforge.net/config_misc.html)
+* [checkstyle - OrderedProperties](https://checkstyle.sourceforge.io/checks/misc/orderedproperties.html)

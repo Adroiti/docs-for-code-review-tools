@@ -19,4 +19,4 @@ Default configuration
 
 ## Further Reading
 
-* [checkstyle - JavadocTagContinuationIndentation](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocTagContinuationIndentation)
+* [checkstyle - JavadocTagContinuationIndentation](https://checkstyle.sourceforge.io/checks/javadoc/javadoctagcontinuationindentation.html#JavadocTagContinuationIndentation)

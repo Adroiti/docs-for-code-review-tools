@@ -59,4 +59,4 @@ enum Foo10 { FOO, BAR } // OK
 
 ## Further Reading
 
-* [checkstyle - NoEnumTrailingComma](http://checkstyle.sourceforge.net/config_coding.html#NoEnumTrailingComma)
+* [checkstyle - NoEnumTrailingComma](https://checkstyle.sourceforge.io/checks/coding/noenumtrailingcomma.html#NoEnumTrailingComma)

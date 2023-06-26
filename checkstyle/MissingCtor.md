@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - MissingCtor](http://checkstyle.sourceforge.net/config_coding.html#MissingCtor)
+* [checkstyle - MissingCtor](https://checkstyle.sourceforge.io/checks/coding/missingctor.html#MissingCtor)

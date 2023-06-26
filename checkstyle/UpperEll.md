@@ -30,4 +30,4 @@ long number = 1234567891L;
 
 * [Java Language Specification - Integer Literals](http://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.10.1)
 * [Google Java Style Guide - Numeric Literals](https://google.github.io/styleguide/javaguide.html#s4.8.8-numeric-literals)
-* [checkstyle - UpperEll](http://checkstyle.sourceforge.net/config_misc.html#UpperEll)
+* [checkstyle - UpperEll](https://checkstyle.sourceforge.io/checks/misc/upperell.html#UpperEll)

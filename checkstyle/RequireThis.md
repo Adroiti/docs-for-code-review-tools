@@ -164,4 +164,4 @@ class C {
 
 ## Further Reading
 
-* [checkstyle - RequireThis](http://checkstyle.sourceforge.net/config_coding.html#RequireThis)
+* [checkstyle - RequireThis](https://checkstyle.sourceforge.io/checks/coding/requirethis.html#RequireThis)

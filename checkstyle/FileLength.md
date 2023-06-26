@@ -21,4 +21,4 @@ To configure the check to accept files with up to 1500 lines:
 
 ## Further Reading
 
-* [checkstyle - FileLength](http://checkstyle.sourceforge.net/config_sizes.html#FileLength)
+* [checkstyle - FileLength](https://checkstyle.sourceforge.io/checks/sizes/filelength.html#FileLength)

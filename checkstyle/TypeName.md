@@ -20,4 +20,4 @@ The following configuration element ensures that interface names begin with `"I_
 
 ## Further Reading
 
-* [checkstyle - TypeName](http://checkstyle.sourceforge.net/config_naming.html#TypeName)
+* [checkstyle - TypeName](https://checkstyle.sourceforge.io/checks/naming/typename.html#TypeName)

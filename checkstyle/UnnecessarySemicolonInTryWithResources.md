@@ -75,4 +75,4 @@ Example of exclusion
 
 ## Further Reading
 
-* [checkstyle - UnnecessarySemicolonInTryWithResources](http://checkstyle.sourceforge.net/config_coding.html)
+* [checkstyle - UnnecessarySemicolonInTryWithResources](https://checkstyle.sourceforge.io/checks/coding/unnecessarysemicolonintrywithresources.html)

@@ -21,4 +21,4 @@ To configure the check to find token LITERAL_NATIVE:
 
 ## Further Reading
 
-* [checkstyle - IllegalToken](http://checkstyle.sourceforge.net/config_coding.html#IllegalToken)
+* [checkstyle - IllegalToken](https://checkstyle.sourceforge.io/checks/coding/illegaltoken.html#IllegalToken)

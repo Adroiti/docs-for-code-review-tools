@@ -25,4 +25,4 @@ To configure the check to find instantiations of `java.lang.Boolean`:
 
 ## Further Reading
 
-* [checkstyle - IllegalInstantiation](http://checkstyle.sourceforge.net/config_coding.html#IllegalInstantiation)
+* [checkstyle - IllegalInstantiation](https://checkstyle.sourceforge.io/checks/coding/illegalinstantiation.html#IllegalInstantiation)

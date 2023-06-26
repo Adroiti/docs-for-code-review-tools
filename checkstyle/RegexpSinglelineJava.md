@@ -33,4 +33,4 @@ To configure the check to find case-insensitive occurrences of "debug":
 
 ## Further Reading
 
-* [checkstyle - RegexpSinglelineJava](http://checkstyle.sourceforge.net/config_regexp.html#RegexpSinglelineJava)
+* [checkstyle - RegexpSinglelineJava](https://checkstyle.sourceforge.io/checks/regexp/regexpsinglelinejava.html#RegexpSinglelineJava)

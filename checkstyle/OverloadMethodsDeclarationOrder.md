@@ -37,4 +37,4 @@ public void notFoo() {}
 ## Further Reading
 
 * [Google Java Style Guide - Ordering of class contents](https://google.github.io/styleguide/javaguide.html#s3.4.2-ordering-class-contents)
-* [checkstyle - OverloadMethodsDeclarationOrder](http://checkstyle.sourceforge.net/config_coding.html#OverloadMethodsDeclarationOrder)
+* [checkstyle - OverloadMethodsDeclarationOrder](https://checkstyle.sourceforge.io/checks/coding/overloadmethodsdeclarationorder.html#OverloadMethodsDeclarationOrder)

@@ -98,4 +98,4 @@ Example of usage:
 
 ## Further Reading
 
-* [checkstyle - ClassFanOutComplexity](http://checkstyle.sourceforge.net/config_metrics.html#ClassFanOutComplexity)
+* [checkstyle - ClassFanOutComplexity](https://checkstyle.sourceforge.io/checks/metrics/classfanoutcomplexity.html#ClassFanOutComplexity)

@@ -43,4 +43,4 @@ To configure the check to ignore `&` and `|`:
 
 ## Further Reading
 
-* [checkstyle - BooleanExpressionComplexity](http://checkstyle.sourceforge.net/config_metrics.html#BooleanExpressionComplexity)
+* [checkstyle - BooleanExpressionComplexity](https://checkstyle.sourceforge.io/checks/metrics/booleanexpressioncomplexity.html#BooleanExpressionComplexity)

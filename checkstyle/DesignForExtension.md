@@ -150,4 +150,4 @@ public class FooTest {
 
 ## Further Reading
 
-* [checkstyle - DesignForExtension](http://checkstyle.sourceforge.net/config_design.html#DesignForExtension)
+* [checkstyle - DesignForExtension](https://checkstyle.sourceforge.io/checks/design/designforextension.html#DesignForExtension)

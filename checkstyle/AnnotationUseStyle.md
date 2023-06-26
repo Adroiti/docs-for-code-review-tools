@@ -29,4 +29,4 @@ To configure the check to enforce an `expanded` style, with a trailing array com
 
 ## Further Reading
 
-* [checkstyle - AnnotationUseStyle](http://checkstyle.sourceforge.net/config_annotation.html#AnnotationUseStyle)
+* [checkstyle - AnnotationUseStyle](https://checkstyle.sourceforge.io/checks/annotation/annotationusestyle/annotationusestyle.html#AnnotationUseStyle)

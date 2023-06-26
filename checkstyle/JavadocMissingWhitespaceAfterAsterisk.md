@@ -32,4 +32,4 @@ class TestClass {
 
 ## Further Reading
 
-* [checkstyle - JavadocMissingWhitespaceAfterAsterisk](https://checkstyle.sourceforge.io/config_javadoc.html#JavadocMissingWhitespaceAfterAsterisk)
+* [checkstyle - JavadocMissingWhitespaceAfterAsterisk](https://checkstyle.sourceforge.io/checks/javadoc/javadocmissingwhitespaceafterasterisk.html#JavadocMissingWhitespaceAfterAsterisk)

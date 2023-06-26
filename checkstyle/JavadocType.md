@@ -62,4 +62,4 @@ To configure the check for `private` classes only:
 
 ## Further Reading
 
-* [checkstyle - JavadocType](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocType)
+* [checkstyle - JavadocType](https://checkstyle.sourceforge.io/checks/javadoc/javadoctype.html#JavadocType)

@@ -79,4 +79,4 @@ To configure the check for ignoring methods named `foo(),foo1(),foo2()`, etc.:
 
 ## Further Reading
 
-* [checkstyle - JavadocMethod](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocMethod)
+* [checkstyle - JavadocMethod](https://checkstyle.sourceforge.io/checks/javadoc/javadocmethod.html#JavadocMethod)

@@ -43,4 +43,4 @@ import java.io.BufferedReader;
 ## Further Reading
 
 * [Google Java Style Guide - One statement per line](https://google.github.io/styleguide/javaguide.html#s4.3-one-statement-per-line)
-* [checkstyle - OneStatementPerLine](http://checkstyle.sourceforge.net/config_coding.html#OneStatementPerLine)
+* [checkstyle - OneStatementPerLine](https://checkstyle.sourceforge.io/checks/coding/onestatementperline.html#OneStatementPerLine)

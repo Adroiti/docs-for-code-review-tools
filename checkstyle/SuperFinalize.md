@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - SuperFinalize](http://checkstyle.sourceforge.net/config_coding.html#SuperFinalize)
+* [checkstyle - SuperFinalize](https://checkstyle.sourceforge.io/checks/coding/superfinalize.html#SuperFinalize)

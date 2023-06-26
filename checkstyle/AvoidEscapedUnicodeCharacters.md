@@ -41,4 +41,4 @@ String unitAbbrev = "μs"; //Best: perfectly clear even without a comment.
 ## Further Reading
 
 * [Google Java Style Guide - Non-ASCII characters](https://google.github.io/styleguide/javaguide.html#s2.3.3-non-ascii-characters)
-* [checkstyle - AvoidEscapedUnicodeCharacters](http://checkstyle.sourceforge.net/config_misc.html#AvoidEscapedUnicodeCharacters)
+* [checkstyle - AvoidEscapedUnicodeCharacters](https://checkstyle.sourceforge.io/checks/misc/avoidescapedunicodecharacters.html#AvoidEscapedUnicodeCharacters)

@@ -20,4 +20,4 @@ Property `format` in module `ConstantName` is used to specify names to be allowe
 
 ## Further Reading
 
-* [checkstyle - ConstantName](http://checkstyle.sourceforge.net/config_naming.html#ConstantName)
+* [checkstyle - ConstantName](https://checkstyle.sourceforge.io/checks/naming/constantname.html#ConstantName)

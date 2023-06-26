@@ -29,4 +29,4 @@ To configure the check to allow the `main` method for all classes with "Main" na
 
 ## Further Reading
 
-* [checkstyle - UncommentedMain](http://checkstyle.sourceforge.net/config_misc.html#UncommentedMain)
+* [checkstyle - UncommentedMain](https://checkstyle.sourceforge.io/checks/misc/uncommentedmain.html#UncommentedMain)

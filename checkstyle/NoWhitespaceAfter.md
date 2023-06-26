@@ -30,4 +30,4 @@ To configure the check to forbid line breaks after a DOT token:
 
 ## Further Reading
 
-* [checkstyle - NoWhitespaceAfter](http://checkstyle.sourceforge.net/config_whitespace.html#NoWhitespaceAfter)
+* [checkstyle - NoWhitespaceAfter](https://checkstyle.sourceforge.io/checks/whitespace/nowhitespaceafter.html#NoWhitespaceAfter)

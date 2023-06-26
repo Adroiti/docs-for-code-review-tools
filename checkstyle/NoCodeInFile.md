@@ -24,4 +24,4 @@ Checks whether file contains code. Files which are considered to have no code:
 
 ## Further Reading
 
-* [checkstyle - NoCodeInFile](https://checkstyle.sourceforge.io/config_misc.html#NoCodeInFile)
+* [checkstyle - NoCodeInFile](https://checkstyle.sourceforge.io/checks/misc/nocodeinfile.html#NoCodeInFile)

@@ -37,4 +37,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - UnusedImports](http://checkstyle.sourceforge.net/config_imports.html#UnusedImports)
+* [checkstyle - UnusedImports](https://checkstyle.sourceforge.io/checks/imports/unusedimports.html#UnusedImports)

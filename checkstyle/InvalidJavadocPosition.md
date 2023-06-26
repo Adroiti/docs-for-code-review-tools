@@ -22,4 +22,4 @@ public class TestClass {
 
 ## Further Reading
 
-* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/config_javadoc.html#InvalidJavadocPosition)
+* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/checks/javadoc/invalidjavadocposition.html#InvalidJavadocPosition)

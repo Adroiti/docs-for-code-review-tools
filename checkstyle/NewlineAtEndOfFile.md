@@ -43,4 +43,4 @@ To configure the check to work only on Java, XML and Python files:
 
 ## Further Reading
 
-* [checkstyle - NewlineAtEndOfFile](http://checkstyle.sourceforge.net/config_misc.html#NewlineAtEndOfFile)
+* [checkstyle - NewlineAtEndOfFile](https://checkstyle.sourceforge.io/checks/misc/newlineatendoffile.html#NewlineAtEndOfFile)

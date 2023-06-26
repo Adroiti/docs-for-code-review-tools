@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - SimplifyBooleanExpression](http://checkstyle.sourceforge.net/config_coding.html#SimplifyBooleanExpression)
+* [checkstyle - SimplifyBooleanExpression](https://checkstyle.sourceforge.io/checks/coding/simplifybooleanexpression.html#SimplifyBooleanExpression)

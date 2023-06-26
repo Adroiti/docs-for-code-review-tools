@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - InnerTypeLast](http://checkstyle.sourceforge.net/config_design.html#InnerTypeLast)
+* [checkstyle - InnerTypeLast](https://checkstyle.sourceforge.io/checks/design/innertypelast.html#InnerTypeLast)

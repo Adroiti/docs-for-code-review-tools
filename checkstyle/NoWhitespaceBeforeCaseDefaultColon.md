@@ -49,4 +49,4 @@ To configure the check to ignore `&` and `|`:
 
 ## Further Reading
 
-* [checkstyle - NoWhitespaceBeforeCaseDefaultColon](https://checkstyle.sourceforge.io/config_whitespace.html#NoWhitespaceBeforeCaseDefaultColon)
+* [checkstyle - NoWhitespaceBeforeCaseDefaultColon](https://checkstyle.sourceforge.io/checks/whitespace/nowhitespacebeforecasedefaultcolon.html#NoWhitespaceBeforeCaseDefaultColon)

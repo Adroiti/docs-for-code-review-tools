@@ -52,4 +52,4 @@ System.out.println(number);
 
 ## Further Reading
 
-* [checkstyle - FinalLocalVariable](http://checkstyle.sourceforge.net/config_coding.html#FinalLocalVariable)
+* [checkstyle - FinalLocalVariable](https://checkstyle.sourceforge.io/checks/coding/finallocalvariable.html#FinalLocalVariable)

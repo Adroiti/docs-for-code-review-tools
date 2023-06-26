@@ -42,4 +42,4 @@ public class TestClass {
 
 ## Further Reading
 
-* [checkstyle - LambdaParameterName](http://checkstyle.sourceforge.net/config_naming.html#LambdaParameterName)
+* [checkstyle - LambdaParameterName](https://checkstyle.sourceforge.io/checks/naming/lambdaparametername.html#LambdaParameterName)

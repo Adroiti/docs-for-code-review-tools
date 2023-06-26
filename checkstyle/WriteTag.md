@@ -33,4 +33,4 @@ An example of how to configure the check to print warnings if an "@incomplete" t
 
 ## Further Reading
 
-* [checkstyle - WriteTag](http://checkstyle.sourceforge.net/config_javadoc.html#WriteTag)
+* [checkstyle - WriteTag](https://checkstyle.sourceforge.io/checks/javadoc/writetag.html#WriteTag)

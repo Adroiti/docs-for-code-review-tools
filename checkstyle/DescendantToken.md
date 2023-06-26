@@ -230,4 +230,4 @@ Too many fields within a class:
 
 ## Further Reading
 
-* [checkstyle - DescendantToken](http://checkstyle.sourceforge.net/config_misc.html#DescendantToken)
+* [checkstyle - DescendantToken](https://checkstyle.sourceforge.io/checks/misc/descendanttoken.html#DescendantToken)

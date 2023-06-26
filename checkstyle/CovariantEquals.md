@@ -64,4 +64,4 @@ class Test {
 
 ## Further Reading
 
-* [checkstyle - CovariantEquals](http://checkstyle.sourceforge.net/config_coding.html#CovariantEquals)
+* [checkstyle - CovariantEquals](https://checkstyle.sourceforge.io/checks/coding/covariantequals.html#CovariantEquals)

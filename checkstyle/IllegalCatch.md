@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - IllegalCatch](http://checkstyle.sourceforge.net/config_coding.html#IllegalCatch)
+* [checkstyle - IllegalCatch](https://checkstyle.sourceforge.io/checks/coding/illegalcatch.html#IllegalCatch)

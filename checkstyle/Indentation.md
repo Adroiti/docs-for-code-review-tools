@@ -57,4 +57,4 @@ void foo(String aFooString,
 
 ## Further Reading
 
-* [checkstyle - Indentation](http://checkstyle.sourceforge.net/config_misc.html#Indentation)
+* [checkstyle - Indentation](https://checkstyle.sourceforge.io/checks/misc/indentation.html#Indentation)

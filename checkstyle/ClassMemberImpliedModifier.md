@@ -49,4 +49,4 @@ Code:
 
 ## Further Reading
 
-* [checkstyle - ClassMemberImpliedModifier](http://checkstyle.sourceforge.net/config_modifier.html#ClassMemberImpliedModifier)
+* [checkstyle - ClassMemberImpliedModifier](https://checkstyle.sourceforge.io/checks/modifier/classmemberimpliedmodifier.html#ClassMemberImpliedModifier)

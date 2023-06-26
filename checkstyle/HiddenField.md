@@ -90,4 +90,4 @@ To configure the check so that it ignores the parameter of setter methods recogn
 
 ## Further Reading
 
-* [checkstyle - HiddenField](http://checkstyle.sourceforge.net/config_coding.html#HiddenField)
+* [checkstyle - HiddenField](https://checkstyle.sourceforge.io/checks/coding/hiddenfield.html#HiddenField)

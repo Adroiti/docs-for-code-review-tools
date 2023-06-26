@@ -28,4 +28,4 @@ To specify a list of ignored at-clauses and make inline at-clauses not ignored:
 
 ## Further Reading
 
-* [checkstyle - SingleLineJavadoc](http://checkstyle.sourceforge.net/config_javadoc.html#SingleLineJavadoc)
+* [checkstyle - SingleLineJavadoc](https://checkstyle.sourceforge.io/checks/javadoc/singlelinejavadoc.html#SingleLineJavadoc)

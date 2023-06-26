@@ -30,5 +30,5 @@ To configure the check to require spaces for the parentheses of constructor, met
 
 ## Further Reading
 
-* [checkstyle - pad policy](http://checkstyle.sourceforge.net/property_types.html#parenPad)
+* [checkstyle - pad policy](https://checkstyle.sourceforge.io/property_types/parenpad.html#parenPad)
 * [checkstyle - ParenPad](http://checkstyle.sourceforge.net/config_whitespace.html#ParenPad)

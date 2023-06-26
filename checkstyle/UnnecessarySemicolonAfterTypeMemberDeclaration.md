@@ -22,4 +22,4 @@ class A {
 
 ## Further Reading
 
-* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/config_coding.html#UnnecessarySemicolonAfterTypeMemberDeclaration)
+* [checkstyle - JavadocParagraph](https://checkstyle.sourceforge.io/checks/coding/unnecessarysemicolonaftertypememberdeclaration.html#UnnecessarySemicolonAfterTypeMemberDeclaration)

@@ -101,4 +101,4 @@ Code:
 
 ## Further Reading
 
-* [checkstyle - InterfaceMemberImpliedModifier](http://checkstyle.sourceforge.net/config_modifier.html#InterfaceMemberImpliedModifier)
+* [checkstyle - InterfaceMemberImpliedModifier](https://checkstyle.sourceforge.io/checks/modifier/interfacememberimpliedmodifier.html#InterfaceMemberImpliedModifier)

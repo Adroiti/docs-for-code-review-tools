@@ -48,4 +48,4 @@ To ignore absence of Javadoc comments for variables with names `log` or `logger`
 
 ## Further Reading
 
-* [checkstyle - JavadocVariable](http://checkstyle.sourceforge.net/config_javadoc.html#JavadocVariable)
+* [checkstyle - JavadocVariable](https://checkstyle.sourceforge.io/checks/javadoc/javadocvariable.html#JavadocVariable)

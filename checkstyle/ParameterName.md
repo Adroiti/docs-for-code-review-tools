@@ -54,4 +54,4 @@ The following configuration checks that the parameters always start with two low
 
 ## Further Reading
 
-* [checkstyle - ParameterName](http://checkstyle.sourceforge.net/config_naming.html#ParameterName)
+* [checkstyle - ParameterName](https://checkstyle.sourceforge.io/checks/naming/parametername.html#ParameterName)

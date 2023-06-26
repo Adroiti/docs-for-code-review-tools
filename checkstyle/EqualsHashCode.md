@@ -63,4 +63,4 @@ public class User {
 
 * [Stack Overflow - What issues should be considered when overriding equals and hashCode in Java?
 ](https://stackoverflow.com/questions/27581/what-issues-should-be-considered-when-overriding-equals-and-hashcode-in-java)
-* [checkstyle - EqualsHashCode](http://checkstyle.sourceforge.net/config_coding.html#EqualsHashCode)
+* [checkstyle - EqualsHashCode](https://checkstyle.sourceforge.io/checks/coding/equalshashcode.html#EqualsHashCode)

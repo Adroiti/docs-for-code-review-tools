@@ -67,4 +67,4 @@ To configure the check for whitespace around the assignment operator, `=`:
 
 ## Further Reading
 
-* [checkstyle - WhitespaceAround](http://checkstyle.sourceforge.net/config_whitespace.html#WhitespaceAround)
+* [checkstyle - WhitespaceAround](https://checkstyle.sourceforge.io/checks/whitespace/whitespacearound.html#WhitespaceAround)

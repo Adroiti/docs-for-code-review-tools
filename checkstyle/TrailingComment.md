@@ -46,4 +46,4 @@ To configure the check so it enforces only comment on a line:
 
 ## Further Reading
 
-* [checkstyle - TrailingComment](http://checkstyle.sourceforge.net/config_misc.html#TrailingComment)
+* [checkstyle - TrailingComment](https://checkstyle.sourceforge.io/checks/misc/trailingcomment.html#TrailingComment)

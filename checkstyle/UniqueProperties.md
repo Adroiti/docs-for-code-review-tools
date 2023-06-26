@@ -21,4 +21,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - UniqueProperties](http://checkstyle.sourceforge.net/config_misc.html#UniqueProperties)
+* [checkstyle - UniqueProperties](https://checkstyle.sourceforge.io/checks/misc/uniqueproperties.html#UniqueProperties)

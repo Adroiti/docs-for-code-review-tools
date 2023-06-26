@@ -104,4 +104,4 @@ class SwitchExample {
 
 ## Further Reading
 
-* [checkstyle - CyclomaticComplexity](http://checkstyle.sourceforge.net/config_metrics.html#CyclomaticComplexity)
+* [checkstyle - CyclomaticComplexity](https://checkstyle.sourceforge.io/checks/metrics/cyclomaticcomplexity.html#CyclomaticComplexity)

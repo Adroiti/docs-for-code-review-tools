@@ -23,4 +23,4 @@ class MyClass {
 
 ## Further Reading
 
-* [checkstyle - PatternVariableName](http://checkstyle.sourceforge.net/config_naming.html#PatternVariableName)
+* [checkstyle - PatternVariableName](https://checkstyle.sourceforge.io/checks/naming/patternvariablename.html#PatternVariableName)

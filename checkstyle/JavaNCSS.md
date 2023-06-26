@@ -32,4 +32,4 @@ To configure the check with 40 allowed non commenting lines for a method:
 
 ## Further Reading
 
-* [checkstyle - JavaNCSS](http://checkstyle.sourceforge.net/config_metrics.html#JavaNCSS)
+* [checkstyle - JavaNCSS](https://checkstyle.sourceforge.io/checks/metrics/javancss.html#JavaNCSS)

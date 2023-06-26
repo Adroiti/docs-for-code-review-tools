@@ -67,4 +67,4 @@ It is possible to suppress all the checkstyle warnings with the argument `"all"`
 
 ## Further Reading
 
-* [checkstyle - SuppressWarningsHolder](http://checkstyle.sourceforge.net/config_annotation.html#SuppressWarningsHolder)
+* [checkstyle - SuppressWarningsHolder](https://checkstyle.sourceforge.io/checks/annotation/suppresswarningsholder.html#SuppressWarningsHolder)

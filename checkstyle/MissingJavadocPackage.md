@@ -39,4 +39,4 @@ Example:
 
 ## Further Reading
 
-* [checkstyle - MissingJavadocPackage](http://checkstyle.sourceforge.net/config_javadoc.html)
+* [checkstyle - MissingJavadocPackage](https://checkstyle.sourceforge.io/checks/javadoc/missingjavadocpackage.html)

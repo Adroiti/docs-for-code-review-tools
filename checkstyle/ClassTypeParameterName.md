@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - ClassTypeParameterName](http://checkstyle.sourceforge.net/config_naming.html#ClassTypeParameterName)
+* [checkstyle - ClassTypeParameterName](https://checkstyle.sourceforge.io/checks/naming/classtypeparametername.html#ClassTypeParameterName)

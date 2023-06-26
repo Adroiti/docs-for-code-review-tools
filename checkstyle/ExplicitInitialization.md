@@ -65,4 +65,4 @@ Example:
 
 ## Further Reading
 
-* [checkstyle - ExplicitInitialization](http://checkstyle.sourceforge.net/config_coding.html#ExplicitInitialization)
+* [checkstyle - ExplicitInitialization](https://checkstyle.sourceforge.io/checks/coding/explicitinitialization.html#ExplicitInitialization)

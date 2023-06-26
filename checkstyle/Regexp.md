@@ -218,4 +218,4 @@ A more complex example. Note how the import and Javadoc multi-lines are handled,
 
 ## Further Reading
 
-* [checkstyle - Regexp](http://checkstyle.sourceforge.net/config_regexp.html#Regexp)
+* [checkstyle - Regexp](https://checkstyle.sourceforge.io/checks/regexp/regexp.html#Regexp)

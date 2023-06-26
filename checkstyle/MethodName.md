@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - MethodName](http://checkstyle.sourceforge.net/config_naming.html#MethodName)
+* [checkstyle - MethodName](https://checkstyle.sourceforge.io/checks/naming/methodname.html#MethodName)

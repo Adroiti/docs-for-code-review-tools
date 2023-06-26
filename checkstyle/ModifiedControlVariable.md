@@ -62,4 +62,4 @@ line = line.trim();   // it will skip this violation
 
 ## Further Reading
 
-* [checkstyle - ModifiedControlVariable](http://checkstyle.sourceforge.net/config_coding.html#ModifiedControlVariable)
+* [checkstyle - ModifiedControlVariable](https://checkstyle.sourceforge.io/checks/coding/modifiedcontrolvariable.html#ModifiedControlVariable)

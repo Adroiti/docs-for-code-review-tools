@@ -42,4 +42,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - UnusedLocalVariable](https://checkstyle.sourceforge.io/config_coding.html#UnusedLocalVariable)
+* [checkstyle - UnusedLocalVariable](https://checkstyle.sourceforge.io/checks/coding/unusedlocalvariable.html#UnusedLocalVariable)

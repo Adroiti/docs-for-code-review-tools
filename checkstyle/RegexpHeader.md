@@ -92,4 +92,4 @@ _Note_: `ignoreLines` property has been removed from this check to simplify it. 
 
 ## Further Reading
 
-* [checkstyle - RegexpHeader](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader)
+* [checkstyle - RegexpHeader](https://checkstyle.sourceforge.io/checks/header/regexpheader.html#RegexpHeader)

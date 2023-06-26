@@ -28,4 +28,4 @@ To configure the check with a threshold of 20 for constructor and method definit
 
 ## Further Reading
 
-* [checkstyle - ExecutableStatementCount](http://checkstyle.sourceforge.net/config_sizes.html#ExecutableStatementCount)
+* [checkstyle - ExecutableStatementCount](https://checkstyle.sourceforge.io/checks/sizes/executablestatementcount.html#ExecutableStatementCount)

@@ -46,4 +46,4 @@ To configure the check so that it validates comments:
 
 ## Further Reading
 
-* [checkstyle - SingleSpaceSeparator](http://checkstyle.sourceforge.net/config_whitespace.html#SingleSpaceSeparator)
+* [checkstyle - SingleSpaceSeparator](https://checkstyle.sourceforge.io/checks/whitespace/singlespaceseparator.html#SingleSpaceSeparator)

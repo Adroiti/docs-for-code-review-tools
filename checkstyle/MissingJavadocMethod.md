@@ -62,4 +62,4 @@ To configure the check for ignoring methods named `foo(),foo1(),foo2()`, etc.:
 
 ## Further Reading
 
-* [checkstyle - MissingJavadocMethod](http://checkstyle.sourceforge.net/config_javadoc.html)
+* [checkstyle - MissingJavadocMethod](https://checkstyle.sourceforge.io/checks/javadoc/missingjavadocmethod.html)

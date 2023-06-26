@@ -63,4 +63,4 @@ without the need for an external header file:
 
 ## Further Reading
 
-* [checkstyle - Header](http://checkstyle.sourceforge.net/config_header.html#Header)
+* [checkstyle - Header](https://checkstyle.sourceforge.io/checks/header/header.html#Header)

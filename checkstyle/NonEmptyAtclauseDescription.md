@@ -17,4 +17,4 @@ Default configuration that will check `@param`, `@return`, `@throws`, `@deprecat
 
 ## Further Reading
 
-* [checkstyle - NonEmptyAtclauseDescription](http://checkstyle.sourceforge.net/config_javadoc.html#NonEmptyAtclauseDescription)
+* [checkstyle - NonEmptyAtclauseDescription](https://checkstyle.sourceforge.io/checks/javadoc/nonemptyatclausedescription.html#NonEmptyAtclauseDescription)

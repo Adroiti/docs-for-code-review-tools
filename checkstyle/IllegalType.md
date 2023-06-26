@@ -32,4 +32,4 @@ To configure the check so that it verifies only public, protected and static met
 
 ## Further Reading
 
-* [checkstyle - IllegalType](http://checkstyle.sourceforge.net/config_coding.html#IllegalType)
+* [checkstyle - IllegalType](https://checkstyle.sourceforge.io/checks/coding/illegaltype.html#IllegalType)

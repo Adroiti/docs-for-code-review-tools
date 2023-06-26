@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - InterfaceTypeParameterName](http://checkstyle.sourceforge.net/config_naming.html#InterfaceTypeParameterName)
+* [checkstyle - InterfaceTypeParameterName](https://checkstyle.sourceforge.io/checks/naming/interfacetypeparametername.html#InterfaceTypeParameterName)

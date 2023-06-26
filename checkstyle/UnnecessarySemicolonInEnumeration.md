@@ -80,4 +80,4 @@ Example of good cases
 
 ## Further Reading
 
-* [checkstyle - UnnecessarySemicolonInEnumeration](http://checkstyle.sourceforge.net/config_coding.html)
+* [checkstyle - UnnecessarySemicolonInEnumeration](https://checkstyle.sourceforge.io/checks/coding/unnecessarysemicoloninenumeration.html)

@@ -32,4 +32,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - ModifierOrder](http://checkstyle.sourceforge.net/config_modifier.html#ModifierOrder)
+* [checkstyle - ModifierOrder](https://checkstyle.sourceforge.io/checks/modifier/modifierorder.html#ModifierOrder)

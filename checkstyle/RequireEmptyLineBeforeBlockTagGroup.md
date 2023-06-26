@@ -23,4 +23,4 @@ public boolean testMethod() {
 
 ## Further Reading
 
-* [checkstyle - RequireEmptyLineBeforeBlockTagGroup](http://checkstyle.sourceforge.net/config_javadoc.html#RequireEmptyLineBeforeBlockTagGroup)
+* [checkstyle - RequireEmptyLineBeforeBlockTagGroup](https://checkstyle.sourceforge.io/checks/javadoc/requireemptylinebeforeblocktaggroup.html#RequireEmptyLineBeforeBlockTagGroup)

@@ -33,4 +33,4 @@ To configure the check to ignore lines that begin with ` * `, followed by just o
 ## Further Reading
 
 * [Google Java Style Guide - Formatting](https://google.github.io/styleguide/javaguide.html#s4.4-column-limit)
-* [checkstyle - LineLength](http://checkstyle.sourceforge.net/config_sizes.html#LineLength)
+* [checkstyle - LineLength](https://checkstyle.sourceforge.io/checks/sizes/linelength.html#LineLength)

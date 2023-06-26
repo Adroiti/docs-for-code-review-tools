@@ -39,4 +39,4 @@ String[] foo4 = { "FOO", "BAR" }; // OK
 
 ## Further Reading
 
-* [checkstyle - NoArrayTrailingComma](http://checkstyle.sourceforge.net/config_coding.html#NoArrayTrailingComma)
+* [checkstyle - NoArrayTrailingComma](https://checkstyle.sourceforge.io/checks/coding/noarraytrailingcomma.html#NoArrayTrailingComma)

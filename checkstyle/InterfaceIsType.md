@@ -21,4 +21,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - InterfaceIsType](http://checkstyle.sourceforge.net/config_design.html#InterfaceIsType)
+* [checkstyle - InterfaceIsType](https://checkstyle.sourceforge.io/checks/design/interfaceistype.html#InterfaceIsType)

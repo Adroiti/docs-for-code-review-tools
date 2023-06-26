@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - SuperClone](http://checkstyle.sourceforge.net/config_coding.html#SuperClone)
+* [checkstyle - SuperClone](https://checkstyle.sourceforge.io/checks/coding/superclone.html#SuperClone)

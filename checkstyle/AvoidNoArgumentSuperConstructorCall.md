@@ -29,4 +29,4 @@ class MyClass extends SomeOtherClass {
 
 ## Further Reading
 
-* [checkstyle - AvoidNoArgumentSuperConstructorCall](http://checkstyle.sourceforge.net/config_coding.html#AvoidNoArgumentSuperConstructorCall)
+* [checkstyle - AvoidNoArgumentSuperConstructorCall](https://checkstyle.sourceforge.io/checks/coding/avoidnoargumentsuperconstructorcall.html#AvoidNoArgumentSuperConstructorCall)

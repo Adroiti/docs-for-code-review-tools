@@ -49,4 +49,4 @@ To configure the check so that it flags duplicate strings in all syntactical con
 
 ## Further Reading
 
-* [checkstyle - MultipleStringLiterals](http://checkstyle.sourceforge.net/config_coding.html#MultipleStringLiterals)
+* [checkstyle - MultipleStringLiterals](https://checkstyle.sourceforge.io/checks/coding/multiplestringliterals.html#MultipleStringLiterals)

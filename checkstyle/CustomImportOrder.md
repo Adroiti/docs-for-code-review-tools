@@ -158,4 +158,4 @@ configure as follows:
 
 ## Further Reading
 
-* [checkstyle - CustomImportOrder](http://checkstyle.sourceforge.net/config_imports.html#CustomImportOrder)
+* [checkstyle - CustomImportOrder](https://checkstyle.sourceforge.io/checks/imports/customimportorder.html#CustomImportOrder)

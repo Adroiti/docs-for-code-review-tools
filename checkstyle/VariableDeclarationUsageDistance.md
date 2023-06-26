@@ -56,4 +56,4 @@ An example of how to configure this check:
 ## Further Reading
 
 * [Google Java Style Guide - Variable declarations](https://google.github.io/styleguide/javaguide.html#s4.8.2-variable-declarations)
-* [checkstyle - VariableDeclarationUsageDistance](http://checkstyle.sourceforge.net/config_coding.html#VariableDeclarationUsageDistance)
+* [checkstyle - VariableDeclarationUsageDistance](https://checkstyle.sourceforge.io/checks/coding/variabledeclarationusagedistance.html#VariableDeclarationUsageDistance)

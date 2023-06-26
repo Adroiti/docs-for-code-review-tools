@@ -19,4 +19,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - ParameterAssignment](http://checkstyle.sourceforge.net/config_coding.html#ParameterAssignment)
+* [checkstyle - ParameterAssignment](https://checkstyle.sourceforge.io/checks/coding/parameterassignment.html#ParameterAssignment)

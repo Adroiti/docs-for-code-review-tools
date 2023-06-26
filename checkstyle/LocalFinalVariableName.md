@@ -17,4 +17,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - LocalFinalVariableName](http://checkstyle.sourceforge.net/config_naming.html#LocalFinalVariableName)
+* [checkstyle - LocalFinalVariableName](https://checkstyle.sourceforge.io/checks/naming/localfinalvariablename.html#LocalFinalVariableName)

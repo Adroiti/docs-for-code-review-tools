@@ -22,4 +22,4 @@ To configure the check to find calls to print to the console:
 
 ## Further Reading
 
-* [checkstyle - RegexpMultiline](http://checkstyle.sourceforge.net/config_regexp.html#RegexpMultiline)
+* [checkstyle - RegexpMultiline](https://checkstyle.sourceforge.io/checks/regexp/regexpmultiline.html#RegexpMultiline)

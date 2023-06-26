@@ -15,4 +15,4 @@ Outer type name and the file name should match to avoid any confusion or misunde
 ## Further Reading
 
 * [Google Java Style Guide - File name](https://google.github.io/styleguide/javaguide.html#s2.1-file-name)
-* [checkstyle - OuterTypeFilename](http://checkstyle.sourceforge.net/config_misc.html#OuterTypeFilename)
+* [checkstyle - OuterTypeFilename](https://checkstyle.sourceforge.io/checks/misc/outertypefilename.html#OuterTypeFilename)

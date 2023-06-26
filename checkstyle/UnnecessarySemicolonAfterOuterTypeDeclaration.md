@@ -18,4 +18,4 @@ class A {
 
 ## Further Reading
 
-* [checkstyle - UnnecessarySemicolonAfterOuterTypeDeclaration](http://checkstyle.sourceforge.net/config_coding.html#UnnecessarySemicolonAfterOuterTypeDeclaration)
+* [checkstyle - UnnecessarySemicolonAfterOuterTypeDeclaration](https://checkstyle.sourceforge.io/checks/coding/unnecessarysemicolonafteroutertypedeclaration.html#UnnecessarySemicolonAfterOuterTypeDeclaration)

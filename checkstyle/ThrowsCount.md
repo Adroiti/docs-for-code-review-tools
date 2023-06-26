@@ -33,4 +33,4 @@ To configure the check so that it doesn't skip private methods:
 
 ## Further Reading
 
-* [checkstyle - ThrowsCount](http://checkstyle.sourceforge.net/config_design.html#ThrowsCount)
+* [checkstyle - ThrowsCount](https://checkstyle.sourceforge.io/checks/design/throwscount.html#ThrowsCount)

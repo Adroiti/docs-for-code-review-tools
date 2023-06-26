@@ -21,4 +21,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - RedundantImport](http://checkstyle.sourceforge.net/config_imports.html#RedundantImport)
+* [checkstyle - RedundantImport](https://checkstyle.sourceforge.io/checks/imports/redundantimport.html#RedundantImport)

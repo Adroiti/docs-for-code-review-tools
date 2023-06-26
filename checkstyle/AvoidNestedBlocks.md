@@ -75,4 +75,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - AvoidNestedBlocks](http://checkstyle.sourceforge.net/config_blocks.html#AvoidNestedBlocks)
+* [checkstyle - AvoidNestedBlocks](https://checkstyle.sourceforge.io/checks/blocks/avoidnestedblocks.html#AvoidNestedBlocks)

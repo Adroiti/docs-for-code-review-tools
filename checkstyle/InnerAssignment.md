@@ -42,4 +42,4 @@ To configure the check for only `=`, `+=`, and `-=` operators:
 
 ## Further Reading
 
-* [checkstyle - InnerAssignment](http://checkstyle.sourceforge.net/config_coding.html#InnerAssignment)
+* [checkstyle - InnerAssignment](https://checkstyle.sourceforge.io/checks/coding/innerassignment.html#InnerAssignment)

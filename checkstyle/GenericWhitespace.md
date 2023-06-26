@@ -42,4 +42,4 @@ To configure the check:
 
 ## Further Reading
 
-* [checkstyle - GenericWhitespace](http://checkstyle.sourceforge.net/config_whitespace.html#GenericWhitespace)
+* [checkstyle - GenericWhitespace](https://checkstyle.sourceforge.io/checks/whitespace/genericwhitespace.html#GenericWhitespace)

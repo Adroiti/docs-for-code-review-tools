@@ -110,4 +110,4 @@ result is following violation:
 
 ## Further Reading
 
-* [checkstyle - MagicNumber](http://checkstyle.sourceforge.net/config_coding.html#MagicNumber)
+* [checkstyle - MagicNumber](https://checkstyle.sourceforge.io/checks/coding/magicnumber.html#MagicNumber)

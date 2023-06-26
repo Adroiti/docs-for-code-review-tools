@@ -20,4 +20,4 @@ To configure the check:
 ## Further Reading
 
 * [Google Java Style Guide - Variable declarations](https://google.github.io/styleguide/javaguide.html#s4.8.2-variable-declarations)
-* [checkstyle - MultipleVariableDeclarations](http://checkstyle.sourceforge.net/config_coding.html#MultipleVariableDeclarations)
+* [checkstyle - MultipleVariableDeclarations](https://checkstyle.sourceforge.io/checks/coding/multiplevariabledeclarations.html#MultipleVariableDeclarations)

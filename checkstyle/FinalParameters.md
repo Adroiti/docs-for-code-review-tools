@@ -39,4 +39,4 @@ To configure the check to allow ignoring [primitive datatypes](http://docs.oracl
 
 ## Further Reading
 
-* [checkstyle - FinalParameters](http://checkstyle.sourceforge.net/config_misc.html#FinalParameters)
+* [checkstyle - FinalParameters](https://checkstyle.sourceforge.io/checks/misc/finalparameters.html#FinalParameters)

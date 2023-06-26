@@ -42,4 +42,4 @@ To configure the check with a threshold of 1000:
 
 ## Further Reading
 
-* [checkstyle - NPathComplexity](http://checkstyle.sourceforge.net/config_metrics.html#NPathComplexity)
+* [checkstyle - NPathComplexity](https://checkstyle.sourceforge.io/checks/metrics/npathcomplexity.html#NPathComplexity)

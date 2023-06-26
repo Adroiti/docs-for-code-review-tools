@@ -231,4 +231,4 @@ For example, to allow importing both `java.util.Map` and `java.util.Map.Entry` u
 
 ## Further Reading
 
-* [checkstyle - ImportControl](http://checkstyle.sourceforge.net/config_imports.html#ImportControl)
+* [checkstyle - ImportControl](https://checkstyle.sourceforge.io/checks/imports/importcontrol.html#ImportControl)
