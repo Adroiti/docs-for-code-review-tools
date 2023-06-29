@@ -30,4 +30,4 @@ flagged for unnecessary library directives.
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_library_directive](https://dart-lang.github.io/linter/lints/unnecessary_library_directive.html)
+* [Linter for Dart - unnecessary_library_directive](https://dart.dev/tools/linter-rules/unnecessary_library_directive)

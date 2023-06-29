@@ -38,4 +38,4 @@ for any type of map or list:
 
 ## Further Reading
 
-* [Linter for Dart - prefer_void_to_null](https://dart-lang.github.io/linter/lints/prefer_void_to_null.html)
+* [Linter for Dart - prefer_void_to_null](https://dart.dev/tools/linter-rules/prefer_void_to_null)

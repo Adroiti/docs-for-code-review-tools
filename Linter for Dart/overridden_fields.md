@@ -54,4 +54,4 @@ class LogPrintHandler implements BaseLoggingHandler {
 
 ## Further Reading
 
-* [Linter for Dart - overridden_fields](https://dart-lang.github.io/linter/lints/overridden_fields.html)
+* [Linter for Dart - overridden_fields](https://dart.dev/tools/linter-rules/overridden_fields)

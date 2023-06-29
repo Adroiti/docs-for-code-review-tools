@@ -18,4 +18,4 @@ var s = "It's not fun";
 
 ## Further Reading
 
-* [Linter for Dart - avoid_escaping_inner_quotes](https://dart-lang.github.io/linter/lints/avoid_escaping_inner_quotes.html)
+* [Linter for Dart - avoid_escaping_inner_quotes](https://dart.dev/tools/linter-rules/avoid_escaping_inner_quotes)

@@ -76,4 +76,4 @@ void functionTypeWithParameters(Function() function) {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_dynamic_calls](https://dart-lang.github.io/linter/lints/avoid_dynamic_calls.html)
+* [Linter for Dart - avoid_dynamic_calls](https://dart.dev/tools/linter-rules/avoid_dynamic_calls)

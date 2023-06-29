@@ -31,4 +31,4 @@ class C {}
 
 ## Further Reading
 
-* [Linter for Dart - dangling_library_doc_comments](https://dart-lang.github.io/linter/lints/dangling_library_doc_comments.html)
+* [Linter for Dart - dangling_library_doc_comments](https://dart.dev/tools/linter-rules/dangling_library_doc_comments)

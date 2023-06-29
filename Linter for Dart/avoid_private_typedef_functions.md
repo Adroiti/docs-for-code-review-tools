@@ -19,4 +19,4 @@ m(void Function() f);
 
 ## Further Reading
 
-* [Linter for Dart - avoid_private_typedef_functions](https://dart-lang.github.io/linter/lints/avoid_private_typedef_functions.html)
+* [Linter for Dart - avoid_private_typedef_functions](https://dart.dev/tools/linter-rules/avoid_private_typedef_functions)

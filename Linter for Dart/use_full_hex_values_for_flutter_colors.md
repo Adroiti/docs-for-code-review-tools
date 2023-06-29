@@ -19,4 +19,4 @@ Color(0x00000001);
 
 ## Further Reading
 
-* [Linter for Dart - use_full_hex_values_for_flutter_colors](https://dart-lang.github.io/linter/lints/use_full_hex_values_for_flutter_colors.html)
+* [Linter for Dart - use_full_hex_values_for_flutter_colors](https://dart.dev/tools/linter-rules/use_full_hex_values_for_flutter_colors)

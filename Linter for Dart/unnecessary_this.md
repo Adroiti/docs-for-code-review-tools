@@ -38,4 +38,4 @@ class Box {
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_this](https://dart-lang.github.io/linter/lints/unnecessary_this.html)
+* [Linter for Dart - unnecessary_this](https://dart.dev/tools/linter-rules/unnecessary_this)

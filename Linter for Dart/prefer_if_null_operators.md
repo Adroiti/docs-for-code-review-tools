@@ -18,4 +18,4 @@ v = a ?? b;
 
 ## Further Reading
 
-* [Linter for Dart - prefer_if_null_operators](https://dart-lang.github.io/linter/lints/prefer_if_null_operators.html)
+* [Linter for Dart - prefer_if_null_operators](https://dart.dev/tools/linter-rules/prefer_if_null_operators)

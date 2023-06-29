@@ -26,4 +26,4 @@ List<String> list = <String>[
 
 ## Further Reading
 
-* [Linter for Dart - no_adjacent_strings_in_list](https://dart-lang.github.io/linter/lints/no_adjacent_strings_in_list.html)
+* [Linter for Dart - no_adjacent_strings_in_list](https://dart.dev/tools/linter-rules/no_adjacent_strings_in_list)

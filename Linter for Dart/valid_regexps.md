@@ -18,4 +18,4 @@ print(RegExp('[(]').hasMatch('foo()'));
 
 ## Further Reading
 
-* [Linter for Dart - valid_regexps](https://dart-lang.github.io/linter/lints/valid_regexps.html)
+* [Linter for Dart - valid_regexps](https://dart.dev/tools/linter-rules/valid_regexps)

@@ -23,4 +23,4 @@ typedef F = void Function();
 
 ## Further Reading
 
-* [Linter for Dart - prefer_generic_function_type_aliases](https://dart-lang.github.io/linter/lints/prefer_generic_function_type_aliases.html)
+* [Linter for Dart - prefer_generic_function_type_aliases](https://dart.dev/tools/linter-rules/prefer_generic_function_type_aliases)

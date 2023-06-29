@@ -49,4 +49,4 @@ setters inherit the docs from the getters.
 
 ## Further Reading
 
-* [Linter for Dart - public_member_api_docs](https://dart-lang.github.io/linter/lints/public_member_api_docs.html)
+* [Linter for Dart - public_member_api_docs](https://dart.dev/tools/linter-rules/public_member_api_docs)

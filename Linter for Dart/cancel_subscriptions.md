@@ -47,4 +47,4 @@ void someFunctionOK() {
 
 ## Further Reading
 
-* [Linter for Dart - cancel_subscriptions](https://dart-lang.github.io/linter/lints/cancel_subscriptions.html)
+* [Linter for Dart - cancel_subscriptions](https://dart.dev/tools/linter-rules/cancel_subscriptions)

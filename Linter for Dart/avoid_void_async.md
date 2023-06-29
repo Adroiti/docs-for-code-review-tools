@@ -21,4 +21,4 @@ Future<void> f2() async => null;
 
 ## Further Reading
 
-* [Linter for Dart - avoid_void_async](https://dart-lang.github.io/linter/lints/avoid_void_async.html)
+* [Linter for Dart - avoid_void_async](https://dart.dev/tools/linter-rules/avoid_void_async)

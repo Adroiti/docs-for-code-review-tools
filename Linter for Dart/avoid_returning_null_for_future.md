@@ -9,4 +9,4 @@ developer simply forgot to put an `async` keyword on the function.
 
 ## Further Reading
 
-* [Linter for Dart - avoid_returning_null_for_future](https://dart-lang.github.io/linter/lints/avoid_returning_null_for_future.html)
+* [Linter for Dart - avoid_returning_null_for_future](https://dart.dev/tools/linter-rules/avoid_returning_null_for_future)

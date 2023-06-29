@@ -22,4 +22,4 @@ part of '../../my_library.dart';
 
 ## Further Reading
 
-* [Linter for Dart - use_string_in_part_of_directives](https://dart-lang.github.io/linter/lints/use_string_in_part_of_directives.html)
+* [Linter for Dart - use_string_in_part_of_directives](https://dart.dev/tools/linter-rules/use_string_in_part_of_directives)

@@ -50,4 +50,4 @@ enum LogPriority {
 
 ## Further Reading
 
-* [Linter for Dart - use_enums](https://dart-lang.github.io/linter/lints/use_enums.html)
+* [Linter for Dart - use_enums](https://dart.dev/tools/linter-rules/use_enums)

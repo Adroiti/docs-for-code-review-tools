@@ -31,4 +31,4 @@ The rule will be removed in a future Linter release.
 
 ## Further Reading
 
-* [Linter for Dart - prefer_bool_in_asserts](https://dart-lang.github.io/linter/lints/prefer_bool_in_asserts.html)
+* [Linter for Dart - prefer_bool_in_asserts](https://dart.dev/tools/linter-rules/prefer_bool_in_asserts)

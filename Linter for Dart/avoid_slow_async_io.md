@@ -41,4 +41,4 @@ Future<Null> someFunction() async {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_slow_async_io](https://dart-lang.github.io/linter/lints/avoid_slow_async_io.html)
+* [Linter for Dart - avoid_slow_async_io](https://dart.dev/tools/linter-rules/avoid_slow_async_io)

@@ -28,4 +28,4 @@ void throwArgumentError() {
 
 ## Further Reading
 
-* [Linter for Dart - only_throw_errors](https://dart-lang.github.io/linter/lints/only_throw_errors.html)
+* [Linter for Dart - only_throw_errors](https://dart.dev/tools/linter-rules/only_throw_errors)

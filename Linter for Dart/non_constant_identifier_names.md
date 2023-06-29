@@ -21,4 +21,4 @@ align(clearItems) {
 
 ## Further Reading
 
-* [Linter for Dart - non_constant_identifier_names](https://dart-lang.github.io/linter/lints/non_constant_identifier_names.html)
+* [Linter for Dart - non_constant_identifier_names](https://dart.dev/tools/linter-rules/non_constant_identifier_names)

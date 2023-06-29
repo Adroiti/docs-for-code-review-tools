@@ -70,4 +70,4 @@ class NotAssignedInAllConstructors {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_final_fields](https://dart-lang.github.io/linter/lints/prefer_final_fields.html)
+* [Linter for Dart - prefer_final_fields](https://dart.dev/tools/linter-rules/prefer_final_fields)

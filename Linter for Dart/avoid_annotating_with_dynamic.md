@@ -27,4 +27,4 @@ lookUpOrDefault(String name, Map map, defaultValue) {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_annotating_with_dynamic](https://dart-lang.github.io/linter/lints/avoid_annotating_with_dynamic.html)
+* [Linter for Dart - avoid_annotating_with_dynamic](https://dart.dev/tools/linter-rules/avoid_annotating_with_dynamic)

@@ -32,4 +32,4 @@ for (var element in elements) {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_final_in_for_each](https://dart-lang.github.io/linter/lints/prefer_final_in_for_each.html)
+* [Linter for Dart - prefer_final_in_for_each](https://dart.dev/tools/linter-rules/prefer_final_in_for_each)

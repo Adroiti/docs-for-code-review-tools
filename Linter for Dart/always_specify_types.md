@@ -45,5 +45,5 @@ main() {
 
 ## Further Reading
 
-* [Linter for Dart - always_specify_types](https://dart-lang.github.io/linter/lints/always_specify_types.html)
+* [Linter for Dart - always_specify_types](https://dart.dev/tools/linter-rules/always_specify_types)
 * [Flutter style guide](https://flutter.dev/style-guide/)

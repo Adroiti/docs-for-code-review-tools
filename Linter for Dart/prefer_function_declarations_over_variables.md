@@ -26,4 +26,4 @@ void main() {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_function_declarations_over_variables](https://dart-lang.github.io/linter/lints/prefer_function_declarations_over_variables.html)
+* [Linter for Dart - prefer_function_declarations_over_variables](https://dart.dev/tools/linter-rules/prefer_function_declarations_over_variables)

@@ -47,4 +47,4 @@ class _MyWidgetState extends State<MyWidget> {
 
 ## Further Reading
 
-* [Linter for Dart - use_build_context_synchronously](https://dart-lang.github.io/linter/lints/use_build_context_synchronously.html)
+* [Linter for Dart - use_build_context_synchronously](https://dart.dev/tools/linter-rules/use_build_context_synchronously)

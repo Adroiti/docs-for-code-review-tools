@@ -60,4 +60,4 @@ void mutableParameter(String label) { // OK
 
 ## Further Reading
 
-* [Linter for Dart - prefer_final_parameters](https://dart-lang.github.io/linter/lints/prefer_final_parameters.html)
+* [Linter for Dart - prefer_final_parameters](https://dart.dev/tools/linter-rules/prefer_final_parameters)

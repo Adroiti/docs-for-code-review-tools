@@ -50,4 +50,4 @@ class ColoredRectangle extends Rectangle {
 
 ## Further Reading
 
-* [Linter for Dart - matching_super_parameters](https://dart-lang.github.io/linter/lints/matching_super_parameters.html)
+* [Linter for Dart - matching_super_parameters](https://dart.dev/tools/linter-rules/matching_super_parameters)

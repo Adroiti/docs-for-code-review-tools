@@ -31,4 +31,4 @@ void f() {}
 
 ## Further Reading
 
-* [Linter for Dart - unreachable_from_main](https://dart-lang.github.io/linter/lints/unreachable_from_main.html)
+* [Linter for Dart - unreachable_from_main](https://dart.dev/tools/linter-rules/unreachable_from_main)

@@ -28,4 +28,4 @@ try {
 
 ## Further Reading
 
-* [Linter for Dart - use_rethrow_when_possible](https://dart-lang.github.io/linter/lints/use_rethrow_when_possible.html)
+* [Linter for Dart - use_rethrow_when_possible](https://dart.dev/tools/linter-rules/use_rethrow_when_possible)

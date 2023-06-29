@@ -32,4 +32,4 @@ f(dynamic x) {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_double_and_int_checks](https://dart-lang.github.io/linter/lints/avoid_double_and_int_checks.html)
+* [Linter for Dart - avoid_double_and_int_checks](https://dart.dev/tools/linter-rules/avoid_double_and_int_checks)

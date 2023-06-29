@@ -39,4 +39,4 @@ try {
 
 ## Further Reading
 
-* [Linter for Dart - empty_catches](https://dart-lang.github.io/linter/lints/empty_catches.html)
+* [Linter for Dart - empty_catches](https://dart.dev/tools/linter-rules/empty_catches)

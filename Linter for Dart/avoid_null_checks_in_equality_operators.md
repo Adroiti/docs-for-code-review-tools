@@ -30,4 +30,4 @@ class Person {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_null_checks_in_equality_operators](https://dart-lang.github.io/linter/lints/avoid_null_checks_in_equality_operators.html)
+* [Linter for Dart - avoid_null_checks_in_equality_operators](https://dart.dev/tools/linter-rules/avoid_null_checks_in_equality_operators)

@@ -53,4 +53,4 @@ class Absorber extends Widget {
 
 ## Further Reading
 
-* [Linter for Dart - diagnostic_describe_all_properties](https://dart-lang.github.io/linter/lints/diagnostic_describe_all_properties.html)
+* [Linter for Dart - diagnostic_describe_all_properties](https://dart.dev/tools/linter-rules/diagnostic_describe_all_properties)

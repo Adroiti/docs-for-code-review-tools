@@ -34,4 +34,4 @@ Widget build(BuildContext context) {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_if_elements_to_conditional_expressions](https://dart-lang.github.io/linter/lints/prefer_if_elements_to_conditional_expressions.html)
+* [Linter for Dart - prefer_if_elements_to_conditional_expressions](https://dart.dev/tools/linter-rules/prefer_if_elements_to_conditional_expressions)

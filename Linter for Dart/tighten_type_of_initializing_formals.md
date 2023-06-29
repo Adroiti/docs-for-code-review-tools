@@ -29,4 +29,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - tighten_type_of_initializing_formals](https://dart-lang.github.io/linter/lints/tighten_type_of_initializing_formals.html)
+* [Linter for Dart - tighten_type_of_initializing_formals](https://dart.dev/tools/linter-rules/tighten_type_of_initializing_formals)

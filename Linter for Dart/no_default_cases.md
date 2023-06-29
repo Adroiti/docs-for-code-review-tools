@@ -41,4 +41,4 @@ Example of **incorrect** code:
 
 ## Further Reading
 
-* [Linter for Dart - no_default_cases](https://dart-lang.github.io/linter/lints/no_default_cases.html)
+* [Linter for Dart - no_default_cases](https://dart.dev/tools/linter-rules/no_default_cases)

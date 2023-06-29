@@ -38,4 +38,4 @@ class BadThrow {
 
 ## Further Reading
 
-* [Linter for Dart - throw_in_finally](https://dart-lang.github.io/linter/lints/throw_in_finally.html)
+* [Linter for Dart - throw_in_finally](https://dart.dev/tools/linter-rules/throw_in_finally)

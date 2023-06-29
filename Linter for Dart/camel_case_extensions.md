@@ -19,4 +19,4 @@ extension SmartIterable<T> on Iterable<T> {
 
 ## Further Reading
 
-* [Linter for Dart - camel_case_extensions](https://dart-lang.github.io/linter/lints/camel_case_extensions.html)
+* [Linter for Dart - camel_case_extensions](https://dart.dev/tools/linter-rules/camel_case_extensions)

@@ -31,4 +31,4 @@ class Point {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_constructors_over_static_methods](https://dart-lang.github.io/linter/lints/prefer_constructors_over_static_methods.html)
+* [Linter for Dart - prefer_constructors_over_static_methods](https://dart.dev/tools/linter-rules/prefer_constructors_over_static_methods)

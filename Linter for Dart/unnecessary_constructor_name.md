@@ -32,4 +32,4 @@ var makeA = A.new;
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_constructor_name](https://dart-lang.github.io/linter/lints/unnecessary_constructor_name.html)
+* [Linter for Dart - unnecessary_constructor_name](https://dart.dev/tools/linter-rules/unnecessary_constructor_name)

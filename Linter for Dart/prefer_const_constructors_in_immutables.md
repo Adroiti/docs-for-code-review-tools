@@ -26,4 +26,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_const_constructors_in_immutables](https://dart-lang.github.io/linter/lints/prefer_const_constructors_in_immutables.html)
+* [Linter for Dart - prefer_const_constructors_in_immutables](https://dart.dev/tools/linter-rules/prefer_const_constructors_in_immutables)

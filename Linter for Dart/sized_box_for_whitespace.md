@@ -43,4 +43,4 @@ Widget buildRow() {
 
 ## Further Reading
 
-* [Linter for Dart - sized_box_for_whitespace](https://dart-lang.github.io/linter/lints/sized_box_for_whitespace.html)
+* [Linter for Dart - sized_box_for_whitespace](https://dart.dev/tools/linter-rules/sized_box_for_whitespace)

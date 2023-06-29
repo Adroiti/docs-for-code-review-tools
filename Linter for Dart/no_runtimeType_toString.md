@@ -34,4 +34,4 @@ type information is more important than performance:
 
 ## Further Reading
 
-* [Linter for Dart - no_runtimeType_toString](https://dart-lang.github.io/linter/lints/no_runtimeType_toString.html)
+* [Linter for Dart - no_runtimeType_toString](https://dart.dev/tools/linter-rules/no_runtimeType_toString)

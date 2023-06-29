@@ -26,4 +26,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_field_initializers_in_const_classes](https://dart-lang.github.io/linter/lints/avoid_field_initializers_in_const_classes.html)
+* [Linter for Dart - avoid_field_initializers_in_const_classes](https://dart.dev/tools/linter-rules/avoid_field_initializers_in_const_classes)

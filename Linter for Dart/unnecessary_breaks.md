@@ -50,4 +50,4 @@ switch (1) {
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_breaks](https://dart-lang.github.io/linter/lints/unnecessary_breaks.html)
+* [Linter for Dart - unnecessary_breaks](https://dart.dev/tools/linter-rules/unnecessary_breaks)

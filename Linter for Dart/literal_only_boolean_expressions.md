@@ -71,4 +71,4 @@ void bad() {
 
 ## Further Reading
 
-* [Linter for Dart - literal_only_boolean_expressions](https://dart-lang.github.io/linter/lints/literal_only_boolean_expressions.html)
+* [Linter for Dart - literal_only_boolean_expressions](https://dart.dev/tools/linter-rules/literal_only_boolean_expressions)

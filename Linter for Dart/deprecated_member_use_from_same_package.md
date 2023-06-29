@@ -61,4 +61,4 @@ void m(Foo foo) {
 
 ## Further Reading
 
-* [Linter for Dart - deprecated_member_use_from_same_package](https://dart-lang.github.io/linter/lints/deprecated_member_use_from_same_package.html)
+* [Linter for Dart - deprecated_member_use_from_same_package](https://dart.dev/tools/linter-rules/deprecated_member_use_from_same_package)

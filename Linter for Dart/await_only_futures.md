@@ -22,4 +22,4 @@ main() async {
 
 ## Further Reading
 
-* [Linter for Dart - await_only_futures](https://dart-lang.github.io/linter/lints/await_only_futures.html)
+* [Linter for Dart - await_only_futures](https://dart.dev/tools/linter-rules/await_only_futures)

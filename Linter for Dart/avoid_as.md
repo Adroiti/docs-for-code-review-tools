@@ -48,4 +48,4 @@ HasScrollDirection scrollable = renderObject as dynamic;
 
 ## Further Reading
 
-* [Linter for Dart - avoid_as](https://dart-lang.github.io/linter/lints/avoid_as.html)
+* [Linter for Dart - avoid_as](https://dart.dev/tools/linter-rules/avoid_as)

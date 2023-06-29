@@ -20,4 +20,4 @@ f?.call();
 
 ## Further Reading
 
-* [Linter for Dart - prefer_null_aware_method_calls](https://dart-lang.github.io/linter/lints/prefer_null_aware_method_calls.html)
+* [Linter for Dart - prefer_null_aware_method_calls](https://dart.dev/tools/linter-rules/prefer_null_aware_method_calls)

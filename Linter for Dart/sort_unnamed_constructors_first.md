@@ -26,4 +26,4 @@ class _PriorityItem {
 
 ## Further Reading
 
-* [Linter for Dart - sort_unnamed_constructors_first](https://dart-lang.github.io/linter/lints/sort_unnamed_constructors_first.html)
+* [Linter for Dart - sort_unnamed_constructors_first](https://dart.dev/tools/linter-rules/sort_unnamed_constructors_first)

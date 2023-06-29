@@ -36,4 +36,4 @@ library my_package.src.private;
 
 ## Further Reading
 
-* [Linter for Dart - package_prefixed_library_names](https://dart-lang.github.io/linter/lints/package_prefixed_library_names.html)
+* [Linter for Dart - package_prefixed_library_names](https://dart.dev/tools/linter-rules/package_prefixed_library_names)

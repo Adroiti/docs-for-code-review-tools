@@ -26,4 +26,4 @@ main() {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_int_literals](https://dart-lang.github.io/linter/lints/prefer_int_literals.html)
+* [Linter for Dart - prefer_int_literals](https://dart.dev/tools/linter-rules/prefer_int_literals)

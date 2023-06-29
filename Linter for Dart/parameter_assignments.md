@@ -70,4 +70,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - parameter_assignments](https://dart-lang.github.io/linter/lints/parameter_assignments.html)
+* [Linter for Dart - parameter_assignments](https://dart.dev/tools/linter-rules/parameter_assignments)

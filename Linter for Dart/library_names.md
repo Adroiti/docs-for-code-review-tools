@@ -22,4 +22,4 @@ Example of **incorrect** code:
 
 ## Further Reading
 
-* [Linter for Dart - library_names](https://dart-lang.github.io/linter/lints/library_names.html)
+* [Linter for Dart - library_names](https://dart.dev/tools/linter-rules/library_names)

@@ -24,4 +24,4 @@ m(){
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_new](https://dart-lang.github.io/linter/lints/unnecessary_new.html)
+* [Linter for Dart - unnecessary_new](https://dart.dev/tools/linter-rules/unnecessary_new)

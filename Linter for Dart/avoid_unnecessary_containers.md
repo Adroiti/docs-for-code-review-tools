@@ -38,4 +38,4 @@ Widget buildRow() {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_unnecessary_containers](https://dart-lang.github.io/linter/lints/avoid_unnecessary_containers.html)
+* [Linter for Dart - avoid_unnecessary_containers](https://dart.dev/tools/linter-rules/avoid_unnecessary_containers)

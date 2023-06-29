@@ -51,4 +51,4 @@ class MyStateful extends StatefulWidget {
 
 ## Further Reading
 
-* [Linter for Dart - no_logic_in_create_state](https://dart-lang.github.io/linter/lints/no_logic_in_create_state.html)
+* [Linter for Dart - no_logic_in_create_state](https://dart.dev/tools/linter-rules/no_logic_in_create_state)

@@ -43,4 +43,4 @@ The rule will be removed in a future Linter release.
 
 ## Further Reading
 
-* [Linter for Dart - super_goes_last](https://dart-lang.github.io/linter/lints/super_goes_last.html)
+* [Linter for Dart - super_goes_last](https://dart.dev/tools/linter-rules/super_goes_last)

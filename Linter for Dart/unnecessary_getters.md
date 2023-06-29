@@ -28,4 +28,4 @@ class Box {
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_getters](https://dart-lang.github.io/linter/lints/unnecessary_getters.html)
+* [Linter for Dart - unnecessary_getters_setters](https://dart.dev/tools/linter-rules/unnecessary_getters_setters)

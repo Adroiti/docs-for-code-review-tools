@@ -38,4 +38,4 @@ produce false positives until that has happened.
 
 ## Further Reading
 
-* [Linter for Dart - require_trailing_commas](https://dart-lang.github.io/linter/lints/require_trailing_commas.html)
+* [Linter for Dart - require_trailing_commas](https://dart.dev/tools/linter-rules/require_trailing_commas)

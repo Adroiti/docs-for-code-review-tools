@@ -23,4 +23,4 @@ import 'dart:core' as core;
 
 ## Further Reading
 
-* [Linter for Dart - no_leading_underscores_for_library_prefixes](https://dart-lang.github.io/linter/lints/no_leading_underscores_for_library_prefixes.html)
+* [Linter for Dart - no_leading_underscores_for_library_prefixes](https://dart.dev/tools/linter-rules/no_leading_underscores_for_library_prefixes)

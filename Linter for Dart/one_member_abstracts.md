@@ -24,5 +24,5 @@ abstract class Predicate {
 
 ## Further Reading
 
-* [Linter for Dart - one_member_abstracts](https://dart-lang.github.io/linter/lints/one_member_abstracts.html)
+* [Linter for Dart - one_member_abstracts](https://dart.dev/tools/linter-rules/one_member_abstracts)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart/style/)

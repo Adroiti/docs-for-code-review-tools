@@ -48,4 +48,4 @@ Advice for writing good doc comments can be found in the
 
 ## Further Reading
 
-* [Linter for Dart - package_api_docs](https://dart-lang.github.io/linter/lints/package_api_docs.html)
+* [Linter for Dart - package_api_docs](https://dart.dev/tools/linter-rules/package_api_docs)

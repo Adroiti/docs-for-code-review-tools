@@ -18,4 +18,4 @@ void set speed(int ms);
 
 ## Further Reading
 
-* [Linter for Dart - avoid_return_types_on_setters](https://dart-lang.github.io/linter/lints/avoid_return_types_on_setters.html)
+* [Linter for Dart - avoid_return_types_on_setters](https://dart.dev/tools/linter-rules/avoid_return_types_on_setters)

@@ -27,4 +27,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_const_declarations](https://dart-lang.github.io/linter/lints/prefer_const_declarations.html)
+* [Linter for Dart - prefer_const_declarations](https://dart.dev/tools/linter-rules/prefer_const_declarations)

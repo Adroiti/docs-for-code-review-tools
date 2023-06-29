@@ -23,4 +23,4 @@ class MyPublicWidget extends StatelessWidget {
 
 ## Further Reading
 
-* [Linter for Dart - use_key_in_widget_constructors](https://dart-lang.github.io/linter/lints/use_key_in_widget_constructors.html)
+* [Linter for Dart - use_key_in_widget_constructors](https://dart.dev/tools/linter-rules/use_key_in_widget_constructors)

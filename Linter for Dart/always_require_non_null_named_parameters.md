@@ -29,4 +29,4 @@ NOTE: Only asserts at the start of the bodies will be taken into account.
 
 ## Further Reading
 
-* [Linter for Dart - always_require_non_null_named_parameters](https://dart-lang.github.io/linter/lints/always_require_non_null_named_parameters.html)
+* [Linter for Dart - always_require_non_null_named_parameters](https://dart.dev/tools/linter-rules/always_require_non_null_named_parameters)

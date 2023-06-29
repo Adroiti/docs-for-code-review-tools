@@ -21,4 +21,4 @@ b() {
 
 ## Further Reading
 
-* [Linter for Dart - enable_null_safety](https://dart-lang.github.io/linter/lints/enable_null_safety.html)
+* [Linter for Dart - enable_null_safety](https://dart.dev/tools/linter-rules/enable_null_safety)

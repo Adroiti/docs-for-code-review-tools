@@ -18,4 +18,4 @@ if (lunchBox.indexOf('sandwich') == -1 return 'so hungry...';
 
 ## Further Reading
 
-* [Linter for Dart - prefer_contains](https://dart-lang.github.io/linter/lints/prefer_contains.html)
+* [Linter for Dart - prefer_contains](https://dart.dev/tools/linter-rules/prefer_contains)

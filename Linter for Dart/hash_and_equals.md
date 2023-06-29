@@ -37,4 +37,4 @@ class Better {
 
 ## Further Reading
 
-* [Linter for Dart - hash_and_equals](https://dart-lang.github.io/linter/lints/hash_and_equals.html)
+* [Linter for Dart - hash_and_equals](https://dart.dev/tools/linter-rules/hash_and_equals)

@@ -34,4 +34,4 @@ class _Private {}
 
 ## Further Reading
 
-* [Linter for Dart - library_private_types_in_public_api](https://dart-lang.github.io/linter/lints/library_private_types_in_public_api.html)
+* [Linter for Dart - library_private_types_in_public_api](https://dart.dev/tools/linter-rules/library_private_types_in_public_api)

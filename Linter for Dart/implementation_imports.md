@@ -24,4 +24,4 @@ import 'package:acme/lib/src/internals.dart;
 
 ## Further Reading
 
-* [Linter for Dart - implementation_imports](https://dart-lang.github.io/linter/lints/implementation_imports.html)
+* [Linter for Dart - implementation_imports](https://dart.dev/tools/linter-rules/implementation_imports)

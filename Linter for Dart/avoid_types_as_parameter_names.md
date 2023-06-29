@@ -18,4 +18,4 @@ m(f(int v));
 
 ## Further Reading
 
-* [Linter for Dart - avoid_types_as_parameter_names](https://dart-lang.github.io/linter/lints/avoid_types_as_parameter_names.html)
+* [Linter for Dart - avoid_types_as_parameter_names](https://dart.dev/tools/linter-rules/avoid_types_as_parameter_names)

@@ -26,4 +26,4 @@ if (nullableBool ?? true) {
 
 ## Further Reading
 
-* [Linter for Dart - use_if_null_to_convert_nulls_to_bools](https://dart-lang.github.io/linter/lints/use_if_null_to_convert_nulls_to_bools.html)
+* [Linter for Dart - use_if_null_to_convert_nulls_to_bools](https://dart.dev/tools/linter-rules/use_if_null_to_convert_nulls_to_bools)

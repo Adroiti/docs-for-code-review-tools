@@ -110,4 +110,4 @@ class DerivedClass3 extends ClassBase implements Mixin {}
 
 ## Further Reading
 
-* [Linter for Dart - list_remove_unrelated_type](https://dart-lang.github.io/linter/lints/list_remove_unrelated_type.html)
+* [Linter for Dart - list_remove_unrelated_type](https://dart.dev/tools/linter-rules/list_remove_unrelated_type)

@@ -34,4 +34,4 @@ class Lucky extends Cat {
 
 ## Further Reading
 
-* [Linter for Dart - annotate_overrides](https://dart-lang.github.io/linter/lints/annotate_overrides.html)
+* [Linter for Dart - annotate_overrides](https://dart.dev/tools/linter-rules/annotate_overrides)

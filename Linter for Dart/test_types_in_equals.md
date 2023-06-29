@@ -58,4 +58,4 @@ class Bad {
 
 ## Further Reading
 
-* [Linter for Dart - test_types_in_equals](https://dart-lang.github.io/linter/lints/test_types_in_equals.html)
+* [Linter for Dart - test_types_in_equals](https://dart.dev/tools/linter-rules/test_types_in_equals)

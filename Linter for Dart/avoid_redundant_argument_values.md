@@ -34,4 +34,4 @@ void main() {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_redundant_argument_values](https://dart-lang.github.io/linter/lints/avoid_redundant_argument_values.html)
+* [Linter for Dart - avoid_redundant_argument_values](https://dart.dev/tools/linter-rules/avoid_redundant_argument_values)

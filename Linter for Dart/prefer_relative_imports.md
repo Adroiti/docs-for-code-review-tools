@@ -23,4 +23,4 @@ import 'package:my_package/bar.dart';
 
 ## Further Reading
 
-* [Linter for Dart - prefer_relative_imports](https://dart-lang.github.io/linter/lints/prefer_relative_imports.html)
+* [Linter for Dart - prefer_relative_imports](https://dart.dev/tools/linter-rules/prefer_relative_imports)

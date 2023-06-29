@@ -74,4 +74,4 @@ class BadBreak {
 
 ## Further Reading
 
-* [Linter for Dart - control_flow_in_finally](https://dart-lang.github.io/linter/lints/control_flow_in_finally.html)
+* [Linter for Dart - control_flow_in_finally](https://dart.dev/tools/linter-rules/control_flow_in_finally)

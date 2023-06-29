@@ -41,4 +41,4 @@ Widget buildArea() {
 
 ## Further Reading
 
-* [Linter for Dart - use_decorated_box](https://dart-lang.github.io/linter/lints/use_decorated_box.html)
+* [Linter for Dart - use_decorated_box](https://dart.dev/tools/linter-rules/use_decorated_box)

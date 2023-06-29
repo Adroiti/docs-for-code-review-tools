@@ -22,4 +22,4 @@ bool isOdd = 13.isOdd;
 
 ## Further Reading
 
-* [Linter for Dart - use_is_even_rather_than_modulo](https://dart-lang.github.io/linter/lints/use_is_even_rather_than_modulo.html)
+* [Linter for Dart - use_is_even_rather_than_modulo](https://dart.dev/tools/linter-rules/use_is_even_rather_than_modulo)

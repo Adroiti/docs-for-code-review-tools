@@ -16,4 +16,4 @@ const loggingLevel =
 
 ## Further Reading
 
-* [Linter for Dart - do_not_use_environment](https://dart-lang.github.io/linter/lints/do_not_use_environment.html)
+* [Linter for Dart - do_not_use_environment](https://dart.dev/tools/linter-rules/do_not_use_environment)

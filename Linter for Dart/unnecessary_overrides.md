@@ -38,4 +38,4 @@ super method,
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_overrides](https://dart-lang.github.io/linter/lints/unnecessary_overrides.html)
+* [Linter for Dart - unnecessary_overrides](https://dart.dev/tools/linter-rules/unnecessary_overrides)

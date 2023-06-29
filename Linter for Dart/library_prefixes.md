@@ -24,4 +24,4 @@ import 'package:javascript_utils/javascript_utils.dart' as jsUtils;
 
 ## Further Reading
 
-* [Linter for Dart - library_prefixes](https://dart-lang.github.io/linter/lints/library_prefixes.html)
+* [Linter for Dart - library_prefixes](https://dart.dev/tools/linter-rules/library_prefixes)

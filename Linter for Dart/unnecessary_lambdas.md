@@ -20,4 +20,4 @@ names.forEach(print);
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_lambdas](https://dart-lang.github.io/linter/lints/unnecessary_lambdas.html)
+* [Linter for Dart - unnecessary_lambdas](https://dart.dev/tools/linter-rules/unnecessary_lambdas)

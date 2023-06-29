@@ -36,4 +36,4 @@ useStrings(
 
 ## Further Reading
 
-* [Linter for Dart - prefer_double_quotes](https://dart-lang.github.io/linter/lints/prefer_double_quotes.html)
+* [Linter for Dart - prefer_double_quotes](https://dart.dev/tools/linter-rules/prefer_double_quotes)

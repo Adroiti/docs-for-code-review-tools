@@ -33,4 +33,4 @@ T run<T>(T callback()) {
 
 ## Further Reading
 
-* [Linter for Dart - null_check_on_nullable_type_parameter](https://dart-lang.github.io/linter/lints/null_check_on_nullable_type_parameter.html)
+* [Linter for Dart - null_check_on_nullable_type_parameter](https://dart.dev/tools/linter-rules/null_check_on_nullable_type_parameter)

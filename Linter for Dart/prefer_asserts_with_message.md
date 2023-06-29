@@ -31,4 +31,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_asserts_with_message](https://dart-lang.github.io/linter/lints/prefer_asserts_with_message.html)
+* [Linter for Dart - prefer_asserts_with_message](https://dart.dev/tools/linter-rules/prefer_asserts_with_message)

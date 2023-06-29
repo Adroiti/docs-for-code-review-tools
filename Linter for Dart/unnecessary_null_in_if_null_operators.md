@@ -19,4 +19,4 @@ var y = null ?? 1;
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_null_in_if_null_operators](https://dart-lang.github.io/linter/lints/unnecessary_null_in_if_null_operators.html)
+* [Linter for Dart - unnecessary_null_in_if_null_operators](https://dart.dev/tools/linter-rules/unnecessary_null_in_if_null_operators)

@@ -26,4 +26,4 @@ f(int? i) => i.m();
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_null_aware_operator_on_extension_on_nullable](https://dart-lang.github.io/linter/lints/unnecessary_null_aware_operator_on_extension_on_nullable.html)
+* [Linter for Dart - unnecessary_null_aware_operator_on_extension_on_nullable](https://dart.dev/tools/linter-rules/unnecessary_null_aware_operator_on_extension_on_nullable)

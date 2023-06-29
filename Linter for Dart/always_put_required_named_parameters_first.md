@@ -18,4 +18,4 @@ m({b, c, @required a}) ;
 
 ## Further Reading
 
-* [Linter for Dart - always_put_required_named_parameters_first](https://dart-lang.github.io/linter/lints/always_put_required_named_parameters_first.html)
+* [Linter for Dart - always_put_required_named_parameters_first](https://dart.dev/tools/linter-rules/always_put_required_named_parameters_first)

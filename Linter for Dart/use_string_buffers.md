@@ -30,4 +30,4 @@ String foo() {
 
 ## Further Reading
 
-* [Linter for Dart - use_string_buffers](https://dart-lang.github.io/linter/lints/use_string_buffers.html)
+* [Linter for Dart - use_string_buffers](https://dart.dev/tools/linter-rules/use_string_buffers)

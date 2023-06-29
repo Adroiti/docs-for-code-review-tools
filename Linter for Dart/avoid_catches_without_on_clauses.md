@@ -29,4 +29,4 @@ on Exception catch(e) {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_catches_without_on_clauses](https://dart-lang.github.io/linter/lints/avoid_catches_without_on_clauses.html)
+* [Linter for Dart - avoid_catches_without_on_clauses](https://dart.dev/tools/linter-rules/avoid_catches_without_on_clauses)

@@ -32,4 +32,4 @@ if (complicated.expression.foo())
 
 ## Further Reading
 
-* [Linter for Dart - empty_statements](https://dart-lang.github.io/linter/lints/empty_statements.html)
+* [Linter for Dart - empty_statements](https://dart.dev/tools/linter-rules/empty_statements)

@@ -26,4 +26,4 @@ return {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_for_elements_to_map_fromIterable](https://dart-lang.github.io/linter/lints/prefer_for_elements_to_map_fromIterable.html)
+* [Linter for Dart - prefer_for_elements_to_map_fromIterable](https://dart.dev/tools/linter-rules/prefer_for_elements_to_map_fromIterable)

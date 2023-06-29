@@ -28,4 +28,4 @@ void goodMethod() {
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_final](https://dart-lang.github.io/linter/lints/unnecessary_final.html)
+* [Linter for Dart - unnecessary_final](https://dart.dev/tools/linter-rules/unnecessary_final)

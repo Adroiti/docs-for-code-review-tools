@@ -112,4 +112,4 @@ class DerivedClass3 extends ClassBase implements Mixin {}
 
 ## Further Reading
 
-* [Linter for Dart - iterable_contains_unrelated_type](https://dart-lang.github.io/linter/lints/iterable_contains_unrelated_type.html)
+* [Linter for Dart - iterable_contains_unrelated_type](https://dart.dev/tools/linter-rules/iterable_contains_unrelated_type)

@@ -69,4 +69,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Linter for Dart - null_closures](https://dart-lang.github.io/linter/lints/null_closures.html)
+* [Linter for Dart - null_closures](https://dart.dev/tools/linter-rules/null_closures)

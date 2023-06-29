@@ -67,4 +67,4 @@ void ok(E e) {
 
 ## Further Reading
 
-* [Linter for Dart - exhaustive_cases](https://dart-lang.github.io/linter/lints/exhaustive_cases.html)
+* [Linter for Dart - exhaustive_cases](https://dart.dev/tools/linter-rules/exhaustive_cases)

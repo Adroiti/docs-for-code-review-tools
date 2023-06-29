@@ -43,4 +43,4 @@ if (overflowChars != other.overflowChars)
 
 ## Further Reading
 
-* [Linter for Dart - curly_braces_in_flow_control_structures](https://dart-lang.github.io/linter/lints/curly_braces_in_flow_control_structures.html)
+* [Linter for Dart - curly_braces_in_flow_control_structures](https://dart.dev/tools/linter-rules/curly_braces_in_flow_control_structures)

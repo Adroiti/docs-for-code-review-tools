@@ -13,4 +13,4 @@ var script = ScriptElement()..src = 'foo.js';
 
 ## Further Reading
 
-* [Linter for Dart - unsafe_html](https://dart-lang.github.io/linter/lints/unsafe_html.html)
+* [Linter for Dart - unsafe_html](https://dart.dev/tools/linter-rules/unsafe_html)

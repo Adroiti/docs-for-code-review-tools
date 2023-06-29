@@ -18,4 +18,4 @@ otherwise, imports of `dart:html`, `dart:js` and `dart:js_util` are disallowed.
 
 ## Further Reading
 
-* [Linter for Dart - avoid_web_libraries_in_flutter](https://dart-lang.github.io/linter/lints/avoid_web_libraries_in_flutter.html)
+* [Linter for Dart - avoid_web_libraries_in_flutter](https://dart.dev/tools/linter-rules/avoid_web_libraries_in_flutter)

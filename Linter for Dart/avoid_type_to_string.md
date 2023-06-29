@@ -43,4 +43,4 @@ Object baz(Thing myThing) {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_type_to_string](https://dart-lang.github.io/linter/lints/avoid_type_to_string.html)
+* [Linter for Dart - avoid_type_to_string](https://dart.dev/tools/linter-rules/avoid_type_to_string)

@@ -22,4 +22,4 @@ export 'a.dart' show A, B hide C, D;
 
 ## Further Reading
 
-* [Linter for Dart - combinators_ordering](https://dart-lang.github.io/linter/lints/combinators_ordering.html)
+* [Linter for Dart - combinators_ordering](https://dart.dev/tools/linter-rules/combinators_ordering)

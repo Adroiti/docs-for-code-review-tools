@@ -32,4 +32,4 @@ const _favoriteMammal = 'weasel';
 
 ## Further Reading
 
-* [Linter for Dart - avoid_classes_with_only_static_members](https://dart-lang.github.io/linter/lints/avoid_classes_with_only_static_members.html)
+* [Linter for Dart - avoid_classes_with_only_static_members](https://dart.dev/tools/linter-rules/avoid_classes_with_only_static_members)

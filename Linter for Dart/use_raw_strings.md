@@ -18,4 +18,4 @@ var s = r'A string with only \ and $';
 
 ## Further Reading
 
-* [Linter for Dart - use_raw_strings](https://dart-lang.github.io/linter/lints/use_raw_strings.html)
+* [Linter for Dart - use_raw_strings](https://dart.dev/tools/linter-rules/use_raw_strings)

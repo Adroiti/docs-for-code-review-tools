@@ -43,5 +43,5 @@ class LazyId {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_init_to_null](https://dart-lang.github.io/linter/lints/avoid_init_to_null.html)
+* [Linter for Dart - avoid_init_to_null](https://dart.dev/tools/linter-rules/avoid_init_to_null)
 * [Effective dart](https://dart.dev/guides/language/effective-dart/usage#dont-explicitly-initialize-variables-to-null)

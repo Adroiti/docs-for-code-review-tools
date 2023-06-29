@@ -22,4 +22,4 @@ Within a doc comment, you can use markdown for formatting.
 
 ## Further Reading
 
-* [Linter for Dart - slash_for_doc_comments](https://dart-lang.github.io/linter/lints/slash_for_doc_comments.html)
+* [Linter for Dart - slash_for_doc_comments](https://dart.dev/tools/linter-rules/slash_for_doc_comments)

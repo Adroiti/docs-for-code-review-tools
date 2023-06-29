@@ -32,4 +32,4 @@ var buffer = StringBuffer()
 
 ## Further Reading
 
-* [Linter for Dart - avoid_returning_this](https://dart-lang.github.io/linter/lints/avoid_returning_this.html)
+* [Linter for Dart - avoid_returning_this](https://dart.dev/tools/linter-rules/avoid_returning_this)

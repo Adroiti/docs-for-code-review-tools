@@ -22,4 +22,4 @@ if (!sources.isEmpty) {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_is_not_empty](https://dart-lang.github.io/linter/lints/prefer_is_not_empty.html)
+* [Linter for Dart - prefer_is_not_empty](https://dart.dev/tools/linter-rules/prefer_is_not_empty)

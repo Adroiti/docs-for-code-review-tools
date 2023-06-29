@@ -25,4 +25,4 @@ a given path.
 
 ## Further Reading
 
-* [Linter for Dart - lines_longer_than_80_chars](https://dart-lang.github.io/linter/lints/lines_longer_than_80_chars.html)
+* [Linter for Dart - lines_longer_than_80_chars](https://dart.dev/tools/linter-rules/lines_longer_than_80_chars)

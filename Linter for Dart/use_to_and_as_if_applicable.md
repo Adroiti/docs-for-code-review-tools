@@ -37,4 +37,4 @@ class Bar {
 
 ## Further Reading
 
-* [Linter for Dart - use_to_and_as_if_applicable](https://dart-lang.github.io/linter/lints/use_to_and_as_if_applicable.html)
+* [Linter for Dart - use_to_and_as_if_applicable](https://dart.dev/tools/linter-rules/use_to_and_as_if_applicable)

@@ -23,4 +23,4 @@ class C with M {}
 
 ## Further Reading
 
-* [Linter for Dart - prefer_mixin](https://dart-lang.github.io/linter/lints/prefer_mixin.html)
+* [Linter for Dart - prefer_mixin](https://dart.dev/tools/linter-rules/prefer_mixin)

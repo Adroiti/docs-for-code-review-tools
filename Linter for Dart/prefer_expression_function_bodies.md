@@ -44,4 +44,4 @@ containsValue(String value) => getValues().contains(value);
 
 ## Further Reading
 
-* [Linter for Dart - prefer_expression_function_bodies](https://dart-lang.github.io/linter/lints/prefer_expression_function_bodies.html)
+* [Linter for Dart - prefer_expression_function_bodies](https://dart.dev/tools/linter-rules/prefer_expression_function_bodies)

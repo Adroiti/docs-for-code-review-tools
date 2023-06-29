@@ -31,4 +31,4 @@ import '../lib/baz.dart';
 
 ## Further Reading
 
-* [Linter for Dart - avoid_relative_lib_imports](https://dart-lang.github.io/linter/lints/avoid_relative_lib_imports.html)
+* [Linter for Dart - avoid_relative_lib_imports](https://dart.dev/tools/linter-rules/avoid_relative_lib_imports)

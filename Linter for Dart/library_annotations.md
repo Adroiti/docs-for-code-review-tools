@@ -27,4 +27,4 @@ void main() {}
 
 ## Further Reading
 
-* [Linter for Dart - library_annotations](https://dart-lang.github.io/linter/lints/library_annotations.html)
+* [Linter for Dart - library_annotations](https://dart.dev/tools/linter-rules/library_annotations)

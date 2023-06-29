@@ -22,4 +22,4 @@ import 'file_that_does_exist.dart'
 
 ## Further Reading
 
-* [Linter for Dart - conditional_uri_does_not_exist](https://dart-lang.github.io/linter/lints/conditional_uri_does_not_exist.html)
+* [Linter for Dart - conditional_uri_does_not_exist](https://dart.dev/tools/linter-rules/conditional_uri_does_not_exist)

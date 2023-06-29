@@ -45,4 +45,4 @@ await expectLater(
 
 ## Further Reading
 
-* [Linter for Dart - use_test_throws_matchers](https://dart-lang.github.io/linter/lints/use_test_throws_matchers.html)
+* [Linter for Dart - use_test_throws_matchers](https://dart.dev/tools/linter-rules/use_test_throws_matchers)

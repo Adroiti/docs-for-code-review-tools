@@ -35,5 +35,5 @@ while (condition) i += 1;
 
 ## Further Reading
 
-* [Linter for Dart - always_put_control_body_on_new_line](https://dart-lang.github.io/linter/lints/always_put_control_body_on_new_line.html)
+* [Linter for Dart - always_put_control_body_on_new_line](https://dart.dev/tools/linter-rules/always_put_control_body_on_new_line)
 * [Flutter style guide](https://flutter.dev/style-guide/)

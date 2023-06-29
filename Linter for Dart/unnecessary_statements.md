@@ -32,4 +32,4 @@ return myvar;
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_statements](https://dart-lang.github.io/linter/lints/unnecessary_statements.html)
+* [Linter for Dart - unnecessary_statements](https://dart.dev/tools/linter-rules/unnecessary_statements)

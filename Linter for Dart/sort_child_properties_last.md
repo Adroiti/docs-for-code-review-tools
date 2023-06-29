@@ -68,4 +68,4 @@ return Scaffold(
 
 ## Further Reading
 
-* [Linter for Dart - sort_child_properties_last](https://dart-lang.github.io/linter/lints/sort_child_properties_last.html)
+* [Linter for Dart - sort_child_properties_last](https://dart.dev/tools/linter-rules/sort_child_properties_last)

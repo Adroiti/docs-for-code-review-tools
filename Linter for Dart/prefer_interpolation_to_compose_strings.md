@@ -18,4 +18,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Linter for Dart - prefer_interpolation_to_compose_strings](https://dart-lang.github.io/linter/lints/prefer_interpolation_to_compose_strings.html)
+* [Linter for Dart - prefer_interpolation_to_compose_strings](https://dart.dev/tools/linter-rules/prefer_interpolation_to_compose_strings)

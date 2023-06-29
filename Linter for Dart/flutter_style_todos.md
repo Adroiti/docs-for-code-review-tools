@@ -14,4 +14,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Linter for Dart - flutter_style_todos](https://dart-lang.github.io/linter/lints/flutter_style_todos.html)
+* [Linter for Dart - flutter_style_todos](https://dart.dev/tools/linter-rules/flutter_style_todos)

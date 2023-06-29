@@ -38,4 +38,4 @@ references within square brackets can consist of either
 
 ## Further Reading
 
-* [Linter for Dart - comment_references](https://dart-lang.github.io/linter/lints/comment_references.html)
+* [Linter for Dart - comment_references](https://dart.dev/tools/linter-rules/comment_references)

@@ -32,4 +32,4 @@ Map<int, List<Person>> groupByZip(Iterable<Person> people) {
 
 ## Further Reading
 
-* [Linter for Dart - omit_local_variable_types](https://dart-lang.github.io/linter/lints/omit_local_variable_types.html)
+* [Linter for Dart - omit_local_variable_types](https://dart.dev/tools/linter-rules/omit_local_variable_types)

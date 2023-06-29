@@ -18,5 +18,5 @@ m({a = 1})
 
 ## Further Reading
 
-* [Linter for Dart - prefer_equal_for_default_values](https://dart-lang.github.io/linter/lints/prefer_equal_for_default_values.html)
+* [Linter for Dart - prefer_equal_for_default_values](https://dart.dev/tools/linter-rules/prefer_equal_for_default_values)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart/usage)

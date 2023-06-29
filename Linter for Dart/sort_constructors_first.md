@@ -26,4 +26,4 @@ abstract class Visitor {
 
 ## Further Reading
 
-* [Linter for Dart - sort_constructors_first](https://dart-lang.github.io/linter/lints/sort_constructors_first.html)
+* [Linter for Dart - sort_constructors_first](https://dart.dev/tools/linter-rules/sort_constructors_first)

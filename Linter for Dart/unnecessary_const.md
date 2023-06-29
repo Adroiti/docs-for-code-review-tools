@@ -26,4 +26,4 @@ m(){
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_const](https://dart-lang.github.io/linter/lints/unnecessary_const.html)
+* [Linter for Dart - unnecessary_const](https://dart.dev/tools/linter-rules/unnecessary_const)

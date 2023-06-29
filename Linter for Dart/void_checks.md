@@ -22,4 +22,4 @@ void main() {
 
 ## Further Reading
 
-* [Linter for Dart - void_checks](https://dart-lang.github.io/linter/lints/void_checks.html)
+* [Linter for Dart - void_checks](https://dart.dev/tools/linter-rules/void_checks)

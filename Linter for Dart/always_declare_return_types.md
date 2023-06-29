@@ -35,4 +35,4 @@ typedef bool predicate(Object o);
 
 ## Further Reading
 
-* [Linter for Dart - always_declare_return_types](https://dart-lang.github.io/linter/lints/always_declare_return_types.html)
+* [Linter for Dart - always_declare_return_types](https://dart.dev/tools/linter-rules/always_declare_return_types)

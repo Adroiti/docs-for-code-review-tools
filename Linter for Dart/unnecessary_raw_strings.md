@@ -22,4 +22,4 @@ var s3 = r'\a';
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_raw_strings](https://dart-lang.github.io/linter/lints/unnecessary_raw_strings.html)
+* [Linter for Dart - unnecessary_raw_strings](https://dart.dev/tools/linter-rules/unnecessary_raw_strings)

@@ -26,4 +26,4 @@ double getDouble() => -1.0;
 
 ## Further Reading
 
-* [Linter for Dart - avoid_returning_null](https://dart-lang.github.io/linter/lints/avoid_returning_null.html)
+* [Linter for Dart - avoid_returning_null](https://dart.dev/tools/linter-rules/avoid_returning_null)

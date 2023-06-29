@@ -38,4 +38,4 @@ Future<void> createDir(String path) async {}
 
 ## Further Reading
 
-* [Linter for Dart - discarded_futures](https://dart-lang.github.io/linter/lints/discarded_futures.html)
+* [Linter for Dart - discarded_futures](https://dart.dev/tools/linter-rules/discarded_futures)

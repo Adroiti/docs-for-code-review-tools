@@ -229,4 +229,4 @@ switch (n) {
 
 ## Further Reading
 
-* [Linter for Dart - invalid_case_patterns](https://dart-lang.github.io/linter/lints/invalid_case_patterns.html)
+* [Linter for Dart - invalid_case_patterns](https://dart.dev/tools/linter-rules/invalid_case_patterns)

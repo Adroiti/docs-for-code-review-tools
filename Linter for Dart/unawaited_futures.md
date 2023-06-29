@@ -33,4 +33,4 @@ void main() async {
 
 ## Further Reading
 
-* [Linter for Dart - unawaited_futures](https://dart-lang.github.io/linter/lints/unawaited_futures.html)
+* [Linter for Dart - unawaited_futures](https://dart.dev/tools/linter-rules/unawaited_futures)

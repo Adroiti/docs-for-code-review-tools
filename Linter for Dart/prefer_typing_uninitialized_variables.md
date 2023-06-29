@@ -47,4 +47,4 @@ class GoodClass {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_typing_uninitialized_variables](https://dart-lang.github.io/linter/lints/prefer_typing_uninitialized_variables.html)
+* [Linter for Dart - prefer_typing_uninitialized_variables](https://dart.dev/tools/linter-rules/prefer_typing_uninitialized_variables)

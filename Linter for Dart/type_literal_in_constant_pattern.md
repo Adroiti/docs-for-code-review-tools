@@ -26,4 +26,4 @@ void f(Type x) {
 
 ## Further Reading
 
-* [Linter for Dart - type_literal_in_constant_pattern](https://dart-lang.github.io/linter/lints/type_literal_in_constant_pattern.html)
+* [Linter for Dart - type_literal_in_constant_pattern](https://dart.dev/tools/linter-rules/type_literal_in_constant_pattern)

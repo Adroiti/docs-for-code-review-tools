@@ -120,5 +120,5 @@ import 'a/b.dart'; // OK
 
 ## Further Reading
 
-* [Linter for Dart - directives_ordering](https://dart-lang.github.io/linter/lints/directives_ordering.html)
+* [Linter for Dart - directives_ordering](https://dart.dev/tools/linter-rules/directives_ordering)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart/style#ordering)

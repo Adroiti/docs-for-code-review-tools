@@ -26,4 +26,4 @@ var s =
 
 ## Further Reading
 
-* [Linter for Dart - missing_whitespace_between_adjacent_strings](https://dart-lang.github.io/linter/lints/missing_whitespace_between_adjacent_strings.html)
+* [Linter for Dart - missing_whitespace_between_adjacent_strings](https://dart.dev/tools/linter-rules/missing_whitespace_between_adjacent_strings)

@@ -25,4 +25,4 @@ string = 'hello\n'
 
 ## Further Reading
 
-* [Linter for Dart - noop_primitive_operations](https://dart-lang.github.io/linter/lints/noop_primitive_operations.html)
+* [Linter for Dart - noop_primitive_operations](https://dart.dev/tools/linter-rules/noop_primitive_operations)

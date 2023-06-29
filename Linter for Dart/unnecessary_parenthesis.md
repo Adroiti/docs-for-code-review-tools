@@ -18,4 +18,4 @@ a = (b);
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_parenthesis](https://dart-lang.github.io/linter/lints/unnecessary_parenthesis.html)
+* [Linter for Dart - unnecessary_parenthesis](https://dart.dev/tools/linter-rules/unnecessary_parenthesis)

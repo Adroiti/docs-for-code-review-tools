@@ -21,4 +21,4 @@ repository: http://github.com/dart-lang/example
 
 ## Further Reading
 
-* [Linter for Dart - secure_pubspec_urls](https://dart-lang.github.io/linter/lints/secure_pubspec_urls.html)
+* [Linter for Dart - secure_pubspec_urls](https://dart.dev/tools/linter-rules/secure_pubspec_urls)

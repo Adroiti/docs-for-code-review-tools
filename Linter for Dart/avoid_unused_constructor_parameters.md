@@ -23,4 +23,4 @@ class BadTwo {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_unused_constructor_parameters](https://dart-lang.github.io/linter/lints/avoid_unused_constructor_parameters.html)
+* [Linter for Dart - avoid_unused_constructor_parameters](https://dart.dev/tools/linter-rules/avoid_unused_constructor_parameters)

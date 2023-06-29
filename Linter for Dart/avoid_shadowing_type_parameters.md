@@ -22,4 +22,4 @@ class A<T> {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_shadowing_type_parameters](https://dart-lang.github.io/linter/lints/avoid_shadowing_type_parameters.html)
+* [Linter for Dart - avoid_shadowing_type_parameters](https://dart.dev/tools/linter-rules/avoid_shadowing_type_parameters)

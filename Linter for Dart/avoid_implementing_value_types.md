@@ -78,4 +78,4 @@ void main() {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_implementing_value_types](https://dart-lang.github.io/linter/lints/avoid_implementing_value_types.html)
+* [Linter for Dart - avoid_implementing_value_types](https://dart.dev/tools/linter-rules/avoid_implementing_value_types)

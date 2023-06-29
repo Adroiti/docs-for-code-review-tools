@@ -41,4 +41,4 @@ void accessA() {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_const_constructors](https://dart-lang.github.io/linter/lints/prefer_const_constructors.html)
+* [Linter for Dart - prefer_const_constructors](https://dart.dev/tools/linter-rules/prefer_const_constructors)

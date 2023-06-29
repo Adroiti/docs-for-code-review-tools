@@ -18,4 +18,4 @@ v = a?.b;
 
 ## Further Reading
 
-* [Linter for Dart - prefer_null_aware_operators](https://dart-lang.github.io/linter/lints/prefer_null_aware_operators.html)
+* [Linter for Dart - prefer_null_aware_operators](https://dart.dev/tools/linter-rules/prefer_null_aware_operators)

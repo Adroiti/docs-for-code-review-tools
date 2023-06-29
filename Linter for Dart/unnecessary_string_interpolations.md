@@ -20,4 +20,4 @@ String o = message;
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_string_interpolations](https://dart-lang.github.io/linter/lints/unnecessary_string_interpolations.html)
+* [Linter for Dart - unnecessary_string_interpolations](https://dart.dev/tools/linter-rules/unnecessary_string_interpolations)

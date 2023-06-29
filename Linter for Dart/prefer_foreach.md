@@ -32,4 +32,4 @@ myList.forEach(foo().f); // But this one invokes foo() just once.
 
 ## Further Reading
 
-* [Linter for Dart - prefer_foreach](https://dart-lang.github.io/linter/lints/prefer_foreach.html)
+* [Linter for Dart - prefer_foreach](https://dart.dev/tools/linter-rules/prefer_foreach)

@@ -34,4 +34,4 @@ callIt(Callable().call);
 
 ## Further Reading
 
-* [Linter for Dart - implicit_call_tearoffs](https://dart-lang.github.io/linter/lints/implicit_call_tearoffs.html)
+* [Linter for Dart - implicit_call_tearoffs](https://dart.dev/tools/linter-rules/implicit_call_tearoffs)

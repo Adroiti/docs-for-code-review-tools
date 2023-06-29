@@ -25,4 +25,4 @@ int get field => _field;
 
 ## Further Reading
 
-* [Linter for Dart - recursive_getters](https://dart-lang.github.io/linter/lints/recursive_getters.html)
+* [Linter for Dart - recursive_getters](https://dart.dev/tools/linter-rules/recursive_getters)

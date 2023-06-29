@@ -36,5 +36,5 @@ With types, all of this is clarified.
 
 ## Further Reading
 
-* [Linter for Dart - type_annotate_public_apis](https://dart-lang.github.io/linter/lints/type_annotate_public_apis.html)
+* [Linter for Dart - type_annotate_public_apis](https://dart.dev/tools/linter-rules/type_annotate_public_apis)
 * [Effective dart](https://dart.dev/guides/language/effective-dart/design#prefer-type-annotating-public-fields-and-top-level-variables-if-the-type-isnt-obvious)

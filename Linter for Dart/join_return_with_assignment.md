@@ -27,4 +27,4 @@ class A {
 
 ## Further Reading
 
-* [Linter for Dart - join_return_with_assignment](https://dart-lang.github.io/linter/lints/join_return_with_assignment.html)
+* [Linter for Dart - join_return_with_assignment](https://dart.dev/tools/linter-rules/join_return_with_assignment)

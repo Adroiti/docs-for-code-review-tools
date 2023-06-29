@@ -117,4 +117,4 @@ class DerivedClass2 extends ClassBase with Mixin {}
 
 ## Further Reading
 
-* [Linter for Dart - unrelated_type_equality_checks](https://dart-lang.github.io/linter/lints/unrelated_type_equality_checks.html)
+* [Linter for Dart - unrelated_type_equality_checks](https://dart.dev/tools/linter-rules/unrelated_type_equality_checks)

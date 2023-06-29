@@ -47,4 +47,4 @@ class C extends I {}
 
 ## Further Reading
 
-* [Linter for Dart - implicit_reopen](https://dart-lang.github.io/linter/lints/implicit_reopen.html)
+* [Linter for Dart - implicit_reopen](https://dart.dev/tools/linter-rules/implicit_reopen)

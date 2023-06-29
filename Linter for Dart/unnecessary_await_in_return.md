@@ -26,4 +26,4 @@ Future<int> f2() {
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_await_in_return](https://dart-lang.github.io/linter/lints/unnecessary_await_in_return.html)
+* [Linter for Dart - unnecessary_await_in_return](https://dart.dev/tools/linter-rules/unnecessary_await_in_return)

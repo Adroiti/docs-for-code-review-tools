@@ -11,5 +11,5 @@ with digits and isn't a reserved word.
 
 ## Further Reading
 
-* [Linter for Dart - package_names](https://dart-lang.github.io/linter/lints/package_names.html)
+* [Linter for Dart - package_names](https://dart.dev/tools/linter-rules/package_names)
 * [Pubspec format description](https://www.dartlang.org/tools/pub/pubspec.html)

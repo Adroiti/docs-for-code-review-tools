@@ -42,4 +42,4 @@ someReference
 
 ## Further Reading
 
-* [Linter for Dart - cascade_invocations](https://dart-lang.github.io/linter/lints/cascade_invocations.html)
+* [Linter for Dart - cascade_invocations](https://dart.dev/tools/linter-rules/cascade_invocations)

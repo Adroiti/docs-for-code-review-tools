@@ -20,4 +20,4 @@ button.visible = false;
 
 ## Further Reading
 
-* [Linter for Dart - use_setters_to_change_properties](https://dart-lang.github.io/linter/lints/use_setters_to_change_properties.html)
+* [Linter for Dart - use_setters_to_change_properties](https://dart.dev/tools/linter-rules/use_setters_to_change_properties)

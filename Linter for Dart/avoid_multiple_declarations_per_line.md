@@ -22,4 +22,4 @@ String? baz;
 
 ## Further Reading
 
-* [Linter for Dart - avoid_multiple_declarations_per_line](https://dart-lang.github.io/linter/lints/avoid_multiple_declarations_per_line.html)
+* [Linter for Dart - avoid_multiple_declarations_per_line](https://dart.dev/tools/linter-rules/avoid_multiple_declarations_per_line)

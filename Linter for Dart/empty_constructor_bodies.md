@@ -26,5 +26,5 @@ class Point {
 
 ## Further Reading
 
-* [Linter for Dart - empty_constructor_bodies](https://dart-lang.github.io/linter/lints/empty_constructor_bodies.html)
+* [Linter for Dart - empty_constructor_bodies](https://dart.dev/tools/linter-rules/empty_constructor_bodies)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart/style)

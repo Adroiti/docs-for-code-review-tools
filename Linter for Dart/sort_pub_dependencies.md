@@ -10,4 +10,4 @@ Sorting list of pub dependencies makes maintenance easier.
 
 ## Further Reading
 
-* [Linter for Dart - sort_pub_dependencies](https://dart-lang.github.io/linter/lints/sort_pub_dependencies.html)
+* [Linter for Dart - sort_pub_dependencies](https://dart.dev/tools/linter-rules/sort_pub_dependencies)

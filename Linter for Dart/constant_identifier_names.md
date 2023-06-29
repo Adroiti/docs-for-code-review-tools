@@ -34,4 +34,4 @@ class Dice {
 
 ## Further Reading
 
-* [Linter for Dart - constant_identifier_names](https://dart-lang.github.io/linter/lints/constant_identifier_names.html)
+* [Linter for Dart - constant_identifier_names](https://dart.dev/tools/linter-rules/constant_identifier_names)

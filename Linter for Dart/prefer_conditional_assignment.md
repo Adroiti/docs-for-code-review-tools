@@ -25,4 +25,4 @@ String get fullName {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_conditional_assignment](https://dart-lang.github.io/linter/lints/prefer_conditional_assignment.html)
+* [Linter for Dart - prefer_conditional_assignment](https://dart.dev/tools/linter-rules/prefer_conditional_assignment)

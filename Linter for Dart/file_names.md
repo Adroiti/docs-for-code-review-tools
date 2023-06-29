@@ -25,4 +25,4 @@ Example of **incorrect** code:
 
 ## Further Reading
 
-* [Linter for Dart - file_names](https://dart-lang.github.io/linter/lints/file_names.html)
+* [Linter for Dart - file_names](https://dart.dev/tools/linter-rules/file_names)

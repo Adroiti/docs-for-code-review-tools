@@ -26,4 +26,4 @@ while (!someBool) {
 
 ## Further Reading
 
-* [Linter for Dart - no_literal_bool_comparisons](https://dart-lang.github.io/linter/lints/no_literal_bool_comparisons.html)
+* [Linter for Dart - no_literal_bool_comparisons](https://dart.dev/tools/linter-rules/no_literal_bool_comparisons)

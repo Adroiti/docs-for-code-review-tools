@@ -34,4 +34,4 @@ class Good {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_setters_without_getters](https://dart-lang.github.io/linter/lints/avoid_setters_without_getters.html)
+* [Linter for Dart - avoid_setters_without_getters](https://dart.dev/tools/linter-rules/avoid_setters_without_getters)

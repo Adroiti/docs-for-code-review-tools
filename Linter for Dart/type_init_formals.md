@@ -25,4 +25,4 @@ class Point {
 
 ## Further Reading
 
-* [Linter for Dart - type_init_formals](https://dart-lang.github.io/linter/lints/type_init_formals.html)
+* [Linter for Dart - type_init_formals](https://dart.dev/tools/linter-rules/type_init_formals)

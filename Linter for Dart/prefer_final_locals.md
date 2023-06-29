@@ -35,4 +35,4 @@ void mutableCase() {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_final_locals](https://dart-lang.github.io/linter/lints/prefer_final_locals.html)
+* [Linter for Dart - prefer_final_locals](https://dart.dev/tools/linter-rules/prefer_final_locals)

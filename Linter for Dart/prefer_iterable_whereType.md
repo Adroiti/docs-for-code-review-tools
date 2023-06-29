@@ -18,4 +18,4 @@ iterable.whereType<MyClass>()
 
 ## Further Reading
 
-* [Linter for Dart - prefer_iterable_whereType](https://dart-lang.github.io/linter/lints/prefer_iterable_whereType.html)
+* [Linter for Dart - prefer_iterable_whereType](https://dart.dev/tools/linter-rules/prefer_iterable_whereType)

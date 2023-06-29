@@ -28,4 +28,4 @@ m() {
 
 ## Further Reading
 
-* [Linter for Dart - use_late_for_private_fields_and_variables](https://dart-lang.github.io/linter/lints/use_late_for_private_fields_and_variables.html)
+* [Linter for Dart - use_late_for_private_fields_and_variables](https://dart.dev/tools/linter-rules/use_late_for_private_fields_and_variables)

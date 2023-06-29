@@ -32,4 +32,4 @@ Future<void> f2() async {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_returning_null_for_void](https://dart-lang.github.io/linter/lints/avoid_returning_null_for_void.html)
+* [Linter for Dart - avoid_returning_null_for_void](https://dart.dev/tools/linter-rules/avoid_returning_null_for_void)

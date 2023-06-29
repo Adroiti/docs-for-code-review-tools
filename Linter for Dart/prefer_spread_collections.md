@@ -60,4 +60,4 @@ var l = ['a', ...?things];
 
 ## Further Reading
 
-* [Linter for Dart - prefer_spread_collections](https://dart-lang.github.io/linter/lints/prefer_spread_collections.html)
+* [Linter for Dart - prefer_spread_collections](https://dart.dev/tools/linter-rules/prefer_spread_collections)

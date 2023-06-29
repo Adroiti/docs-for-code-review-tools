@@ -24,4 +24,4 @@ condition && boolExpression
 
 ## Further Reading
 
-* [Linter for Dart - avoid_bool_literals_in_conditional_expressions](https://dart-lang.github.io/linter/lints/avoid_bool_literals_in_conditional_expressions.html)
+* [Linter for Dart - avoid_bool_literals_in_conditional_expressions](https://dart.dev/tools/linter-rules/avoid_bool_literals_in_conditional_expressions)

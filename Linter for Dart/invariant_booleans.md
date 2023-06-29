@@ -83,4 +83,4 @@ void nestedOk5() {
 
 ## Further Reading
 
-* [Linter for Dart - invariant_booleans](https://dart-lang.github.io/linter/lints/invariant_booleans.html)
+* [Linter for Dart - invariant_booleans](https://dart.dev/tools/linter-rules/invariant_booleans)

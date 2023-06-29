@@ -36,4 +36,4 @@ useStrings(
 
 ## Further Reading
 
-* [Linter for Dart - prefer_single_quotes](https://dart-lang.github.io/linter/lints/prefer_single_quotes.html)
+* [Linter for Dart - prefer_single_quotes](https://dart.dev/tools/linter-rules/prefer_single_quotes)

@@ -18,4 +18,4 @@ o.m();
 
 ## Further Reading
 
-* [Linter for Dart - avoid_single_cascade_in_expression_statements](https://dart-lang.github.io/linter/lints/avoid_single_cascade_in_expression_statements.html)
+* [Linter for Dart - avoid_single_cascade_in_expression_statements](https://dart.dev/tools/linter-rules/avoid_single_cascade_in_expression_statements)

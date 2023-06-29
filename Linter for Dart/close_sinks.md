@@ -47,4 +47,4 @@ void someFunctionOK() {
 
 ## Further Reading
 
-* [Linter for Dart - close_sinks](https://dart-lang.github.io/linter/lints/close_sinks.html)
+* [Linter for Dart - close_sinks](https://dart.dev/tools/linter-rules/close_sinks)

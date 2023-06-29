@@ -31,4 +31,4 @@ var v = a!;
 
 ## Further Reading
 
-* [Linter for Dart - cast_nullable_to_non_nullable](https://dart-lang.github.io/linter/lints/cast_nullable_to_non_nullable.html)
+* [Linter for Dart - cast_nullable_to_non_nullable](https://dart.dev/tools/linter-rules/cast_nullable_to_non_nullable)

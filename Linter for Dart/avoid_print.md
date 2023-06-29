@@ -16,4 +16,4 @@ void f(int x) {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_print](https://dart-lang.github.io/linter/lints/avoid_print.html)
+* [Linter for Dart - avoid_print](https://dart.dev/tools/linter-rules/avoid_print)

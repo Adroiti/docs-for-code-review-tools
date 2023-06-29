@@ -29,4 +29,4 @@ var s2 = '''This onliner multiline string is ok. It usually allows to escape bot
 
 ## Further Reading
 
-* [Linter for Dart - leading_newlines_in_multiline_strings](https://dart-lang.github.io/linter/lints/leading_newlines_in_multiline_strings.html)
+* [Linter for Dart - leading_newlines_in_multiline_strings](https://dart.dev/tools/linter-rules/leading_newlines_in_multiline_strings)

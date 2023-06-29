@@ -22,4 +22,4 @@ raiseAlarm(
 
 ## Further Reading
 
-* [Linter for Dart - prefer_adjacent_string_concatenation](https://dart-lang.github.io/linter/lints/prefer_adjacent_string_concatenation.html)
+* [Linter for Dart - prefer_adjacent_string_concatenation](https://dart.dev/tools/linter-rules/prefer_adjacent_string_concatenation)

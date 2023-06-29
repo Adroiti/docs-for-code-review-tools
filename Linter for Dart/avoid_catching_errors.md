@@ -27,4 +27,4 @@ try {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_catching_errors](https://dart-lang.github.io/linter/lints/avoid_catching_errors.html)
+* [Linter for Dart - avoid_catching_errors](https://dart.dev/tools/linter-rules/avoid_catching_errors)

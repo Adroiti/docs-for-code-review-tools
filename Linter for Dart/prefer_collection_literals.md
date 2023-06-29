@@ -49,4 +49,4 @@ void printHashMap(LinkedHashMap map) => printMap(map);
 
 ## Further Reading
 
-* [Linter for Dart - prefer_collection_literals](https://dart-lang.github.io/linter/lints/prefer_collection_literals.html)
+* [Linter for Dart - prefer_collection_literals](https://dart.dev/tools/linter-rules/prefer_collection_literals)

@@ -39,4 +39,4 @@ dependencies:
 
 ## Further Reading
 
-* [Linter for Dart - depend_on_referenced_packages](https://dart-lang.github.io/linter/lints/depend_on_referenced_packages.html)
+* [Linter for Dart - depend_on_referenced_packages](https://dart.dev/tools/linter-rules/depend_on_referenced_packages)

@@ -57,4 +57,4 @@ void someFunction() {
 
 ## Further Reading
 
-* [Linter for Dart - collection_methods_unrelated_type](https://dart-lang.github.io/linter/lints/collection_methods_unrelated_type.html)
+* [Linter for Dart - collection_methods_unrelated_type](https://dart.dev/tools/linter-rules/collection_methods_unrelated_type)

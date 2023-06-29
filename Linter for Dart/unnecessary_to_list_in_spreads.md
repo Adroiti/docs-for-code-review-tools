@@ -22,4 +22,4 @@ children: <Widget>[
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_to_list_in_spreads](https://dart-lang.github.io/linter/lints/unnecessary_to_list_in_spreads.html)
+* [Linter for Dart - unnecessary_to_list_in_spreads](https://dart.dev/tools/linter-rules/unnecessary_to_list_in_spreads)

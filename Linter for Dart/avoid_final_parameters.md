@@ -45,4 +45,4 @@ Example of **incorrect** code:
 
 ## Further Reading
 
-* [Linter for Dart - avoid_final_parameters](https://dart-lang.github.io/linter/lints/avoid_final_parameters.html)
+* [Linter for Dart - avoid_final_parameters](https://dart.dev/tools/linter-rules/avoid_final_parameters)

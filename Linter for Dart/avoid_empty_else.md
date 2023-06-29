@@ -16,4 +16,4 @@ else ;
 
 ## Further Reading
 
-* [Linter for Dart - avoid_empty_else](https://dart-lang.github.io/linter/lints/avoid_empty_else.html)
+* [Linter for Dart - avoid_empty_else](https://dart.dev/tools/linter-rules/avoid_empty_else)

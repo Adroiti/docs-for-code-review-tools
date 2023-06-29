@@ -24,4 +24,4 @@ void oldFunction(arg1, arg2) {}
 
 ## Further Reading
 
-* [Linter for Dart - provide_deprecation_message](https://dart-lang.github.io/linter/lints/provide_deprecation_message.html)
+* [Linter for Dart - provide_deprecation_message](https://dart.dev/tools/linter-rules/provide_deprecation_message)

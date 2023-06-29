@@ -20,4 +20,4 @@ Duration.zero;
 
 ## Further Reading
 
-* [Linter for Dart - use_named_constants](https://dart-lang.github.io/linter/lints/use_named_constants.html)
+* [Linter for Dart - use_named_constants](https://dart.dev/tools/linter-rules/use_named_constants)

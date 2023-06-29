@@ -28,4 +28,4 @@ switch (v) {
 
 ## Further Reading
 
-* [Linter for Dart - no_duplicate_case_values](https://dart-lang.github.io/linter/lints/no_duplicate_case_values.html)
+* [Linter for Dart - no_duplicate_case_values](https://dart.dev/tools/linter-rules/no_duplicate_case_values)

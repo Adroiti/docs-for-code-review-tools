@@ -50,5 +50,5 @@ class C {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_equals_and_hash_code_on_mutable_classes](https://dart-lang.github.io/linter/lints/avoid_equals_and_hash_code_on_mutable_classes.html)
+* [Linter for Dart - avoid_equals_and_hash_code_on_mutable_classes](https://dart.dev/tools/linter-rules/avoid_equals_and_hash_code_on_mutable_classes)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart/design#avoid-defining-custom-equality-for-mutable-classes)

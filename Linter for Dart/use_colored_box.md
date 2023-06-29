@@ -31,4 +31,4 @@ Widget buildArea() {
 
 ## Further Reading
 
-* [Linter for Dart - use_colored_box](https://dart-lang.github.io/linter/lints/use_colored_box.html)
+* [Linter for Dart - use_colored_box](https://dart.dev/tools/linter-rules/use_colored_box)

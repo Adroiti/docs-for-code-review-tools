@@ -20,4 +20,4 @@ var 2 = ['a', 'b', 'c'];
 
 ## Further Reading
 
-* [Linter for Dart - prefer_inlined_adds](https://dart-lang.github.io/linter/lints/prefer_inlined_adds.html)
+* [Linter for Dart - prefer_inlined_adds](https://dart.dev/tools/linter-rules/prefer_inlined_adds)

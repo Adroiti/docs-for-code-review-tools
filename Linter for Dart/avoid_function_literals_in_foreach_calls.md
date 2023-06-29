@@ -24,4 +24,4 @@ people.forEach(print);
 
 ## Further Reading
 
-* [Linter for Dart - avoid_function_literals_in_foreach_calls](https://dart-lang.github.io/linter/lints/avoid_function_literals_in_foreach_calls.html)
+* [Linter for Dart - avoid_function_literals_in_foreach_calls](https://dart.dev/tools/linter-rules/avoid_function_literals_in_foreach_calls)

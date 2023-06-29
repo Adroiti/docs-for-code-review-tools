@@ -33,4 +33,4 @@ abstract class B extends A {
 
 ## Further Reading
 
-* [Linter for Dart - avoid_renaming_method_parameters](https://dart-lang.github.io/linter/lints/avoid_renaming_method_parameters.html)
+* [Linter for Dart - avoid_renaming_method_parameters](https://dart.dev/tools/linter-rules/avoid_renaming_method_parameters)

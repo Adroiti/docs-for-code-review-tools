@@ -26,4 +26,4 @@ BigInt value = BigInt.parse('9007199254740995');
 
 ## Further Reading
 
-* [Linter for Dart - avoid_js_rounded_ints](https://dart-lang.github.io/linter/lints/avoid_js_rounded_ints.html)
+* [Linter for Dart - avoid_js_rounded_ints](https://dart.dev/tools/linter-rules/avoid_js_rounded_ints)

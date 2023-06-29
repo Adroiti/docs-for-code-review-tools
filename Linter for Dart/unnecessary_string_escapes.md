@@ -22,4 +22,4 @@ Example of **correct** code:
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_string_escapes](https://dart-lang.github.io/linter/lints/unnecessary_string_escapes.html)
+* [Linter for Dart - unnecessary_string_escapes](https://dart.dev/tools/linter-rules/unnecessary_string_escapes)

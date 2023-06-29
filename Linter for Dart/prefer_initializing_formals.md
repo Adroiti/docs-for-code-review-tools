@@ -62,4 +62,4 @@ class Point {
 
 ## Further Reading
 
-* [Linter for Dart - prefer_initializing_formals](https://dart-lang.github.io/linter/lints/prefer_initializing_formals.html)
+* [Linter for Dart - prefer_initializing_formals](https://dart.dev/tools/linter-rules/prefer_initializing_formals)

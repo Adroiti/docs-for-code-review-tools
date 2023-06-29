@@ -48,4 +48,4 @@ Widget buildLogo() {
 
 ## Further Reading
 
-* [Linter for Dart - sized_box_shrink_expand](https://dart-lang.github.io/linter/lints/sized_box_shrink_expand.html)
+* [Linter for Dart - sized_box_shrink_expand](https://dart.dev/tools/linter-rules/sized_box_shrink_expand)

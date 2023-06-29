@@ -40,4 +40,4 @@ import '../lib/baz.dart';
 
 ## Further Reading
 
-* [Linter for Dart - always_use_package_imports](https://dart-lang.github.io/linter/lints/always_use_package_imports.html)
+* [Linter for Dart - always_use_package_imports](https://dart.dev/tools/linter-rules/always_use_package_imports)

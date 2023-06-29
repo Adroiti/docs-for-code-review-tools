@@ -34,4 +34,4 @@ class B extends A {
 
 ## Further Reading
 
-* [Linter for Dart - use_super_parameters](https://dart-lang.github.io/linter/lints/use_super_parameters.html)
+* [Linter for Dart - use_super_parameters](https://dart.dev/tools/linter-rules/use_super_parameters)

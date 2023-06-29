@@ -20,4 +20,4 @@ final int i = 1;
 
 ## Further Reading
 
-* [Linter for Dart - unnecessary_nullable_for_final_variable_declarations](https://dart-lang.github.io/linter/lints/unnecessary_nullable_for_final_variable_declarations.html)
+* [Linter for Dart - unnecessary_nullable_for_final_variable_declarations](https://dart.dev/tools/linter-rules/unnecessary_nullable_for_final_variable_declarations)

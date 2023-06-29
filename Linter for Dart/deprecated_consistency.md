@@ -43,4 +43,4 @@ class B {
 
 ## Further Reading
 
-* [Linter for Dart - deprecated_consistency](https://dart-lang.github.io/linter/lints/deprecated_consistency.html)
+* [Linter for Dart - deprecated_consistency](https://dart.dev/tools/linter-rules/deprecated_consistency)
