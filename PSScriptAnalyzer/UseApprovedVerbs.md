@@ -32,6 +32,4 @@ function Update-Item
 
 ## Further Reading
 
-* [PowerShell Best Practices](https://github.com/PowerShell/PSScriptAnalyzer/blob/master/PowerShellBestPractices.md)
-* [Approved Verbs for PowerShell Commands](https://docs.microsoft.com/powershell/developer/cmdlet/approved-verbs-for-windows-powershell-commands)
 * [PSScriptAnalyzer - UseApprovedVerbs](https://github.com/PowerShell/PSScriptAnalyzer/tree/master/docs/Rules/UseApprovedVerbs.md)
