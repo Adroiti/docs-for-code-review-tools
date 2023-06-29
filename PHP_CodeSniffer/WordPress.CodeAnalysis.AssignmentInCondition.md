@@ -10,4 +10,4 @@ Note: this rule does not detect variable assignments in ternaries without parent
 
 ## Further Reading
 
-* [WordPress.CodeAnalysis.AssignmentInCondition](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/CodeAnalysis/AssignmentInConditionSniff.php)
+* [WordPress.CodeAnalysis.AssignmentInTernaryCondition](https://github.com/WordPress/WordPress-Coding-Standards/blob/develop/WordPress/Sniffs/CodeAnalysis/AssignmentInTernaryConditionSniff.php)

@@ -18,4 +18,4 @@ PHP version 5.4+
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PHPCompatibility.Miscellaneous.ValidIntegers](https://github.com/PHPCompatibility/PHPCompatibility/tree/develop/PHPCompatibility/Sniffs/Miscellaneous/ValidIntegersSniff.php)
+* [PHP_CodeSniffer - PHPCompatibility.Miscellaneous.ValidIntegers](https://github.com/PHPCompatibility/PHPCompatibility/blob/develop/PHPCompatibility/Sniffs/Numbers/ValidIntegersSniff.phpp)

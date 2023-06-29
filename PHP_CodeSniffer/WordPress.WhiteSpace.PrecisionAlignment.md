@@ -12,4 +12,3 @@ intentional and acceptable, but more often than not, this is a typo.
 ## Further Reading
 
 * [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#indentation)
-* [WordPress.WhiteSpace.PrecisionAlignment](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/WhiteSpace/PrecisionAlignmentSniff.php)

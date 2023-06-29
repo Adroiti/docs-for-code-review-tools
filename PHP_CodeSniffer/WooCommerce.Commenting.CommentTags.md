@@ -8,4 +8,4 @@ Prohibits some file comment tags on WooCommerce.
 
 ## Further Reading
 
-* [WooCommerce.Core.Commenting.CommentTags](https://github.com/woocommerce/woocommerce-sniffs/blob/master/src/WooCommerce-Core/Sniffs/Commenting/CommentTagsSniff.php)
+* [WooCommerce.Core.Commenting.CommentTags](https://github.com/woocommerce/woocommerce-sniffs/blob/master/src/WooCommerce/Sniffs/Commenting/CommentTagsSniff.php)

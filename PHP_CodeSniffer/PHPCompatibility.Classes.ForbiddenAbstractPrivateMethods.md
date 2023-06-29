@@ -11,7 +11,3 @@ were then disallowed on the grounds that the behaviors of `private` and `abstrac
 are mutually exclusive.
 
 PHP version 5.1
-
-## Further Reading
-
-* [PHP_CodeSniffer - PHPCompatibility.Classes.ForbiddenAbstractPrivateMethods](https://github.com/PHPCompatibility/PHPCompatibility/tree/develop/PHPCompatibility/Sniffs/Classes/ForbiddenAbstractPrivateMethodsSniff.php)

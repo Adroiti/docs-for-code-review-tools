@@ -9,4 +9,3 @@ Using `date_default_timezone_set()` and similar isn’t allowed because it confl
 ## Further Reading
 
 * [VIP Go](https://vip.wordpress.com/documentation/vip-go/code-review-blockers-warnings-notices/#manipulating-the-timezone-server-side)
-* [WordPress.WP.TimezoneChange](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/WP/TimezoneChangeSniff.php)

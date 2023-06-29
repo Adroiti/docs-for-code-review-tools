@@ -12,7 +12,3 @@ for users of lower PHPCS versions, but will give less accurate results
 and may throw notices and warnings (or even fatal out). This sniff adds
 an explicit error/warning for users of the standard using a PHPCS
 version below the recommended version.
-
-## Further Reading
-
-* [PHP_CodeSniffer - PHPCompatibility.Upgrade.LowPHPCS](https://github.com/PHPCompatibility/PHPCompatibility/tree/develop/PHPCompatibility/Sniffs/Upgrade/LowPHPCSSniff.php)
