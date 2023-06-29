@@ -6,8 +6,6 @@ Issue: -
 
 A check that makes sure that a specified pattern exists, exists less than a set number of times, or does not exist in the file. 
 
-This check combines all the functionality provided by [RegexpHeader](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader) except supplying the regular expression from a file. 
-
 It differs from them in that it works in multi-line mode. Its regular expression can span multiple lines and it checks this against the whole file at once. The others work in single-line mode. Their single or multiple regular expressions can only span one line. They check each of these against each line in the file in turn. 
 
 **Note:** Because of the different mode of operation there may be some changes in the regular expressions used to achieve a particular end. 

@@ -46,5 +46,4 @@ else
 
 ## Further Reading
 
-* [checkstyle - block policy](https://checkstyle.sourceforge.io/property_types/emptyblock.html#block)
-* [checkstyle - EmptyBlock](http://checkstyle.sourceforge.net/config_blocks.html#EmptyBlock)
+* [checkstyle - EmptyBlock](https://checkstyle.sourceforge.io/checks/blocks/emptyblock.html#EmptyBlock)

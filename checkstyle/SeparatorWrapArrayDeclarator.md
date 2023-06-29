@@ -10,25 +10,20 @@ Checks line wrapping with separators.
 
 Code example for comma and dot at the new line: 
 
-
 ```java
 s
     .isEmpty();
 foo(i
     ,s);
 ```
-        
 
 Configuration example: 
-
 
 ```xml
 <module name="SeparatorWrap"/>
 ```
         
-
 Code example for comma and dot at the previous line: 
-
 
 ```java
 s.
@@ -37,9 +32,7 @@ foo(i,
     s);
 ```
         
-
 Example for checking method reference at new line (good case and bad case): 
-
 
 ```java
 Arrays.sort(stringArray, String:: // violation
@@ -47,10 +40,8 @@ Arrays.sort(stringArray, String:: // violation
 Arrays.sort(stringArray, String
     ::compareToIgnoreCase); // good
 ```
-        
 
 An example of how to configure the check for [METHOD_REF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_REF) at new line: 
-
 
 ```xml
 <module name="SeparatorWrap">
@@ -59,9 +50,7 @@ An example of how to configure the check for [METHOD_REF](http://checkstyle.sour
 </module>
 ```
         
-
 An example of how to configure the check for comma at the new line is: 
-
 
 ```xml
 <module name="SeparatorWrap">
@@ -72,5 +61,4 @@ An example of how to configure the check for comma at the new line is:
 
 ## Further Reading
 
-* [checkstyle - wrap operator policy](https://checkstyle.sourceforge.io/property_types/separatorwraparraydeclarator.html#wrapOp)
-* [checkstyle - SeparatorWrap](http://checkstyle.sourceforge.net/config_whitespace.html#SeparatorWrap)
+* [checkstyle - SeparatorWrap](https://checkstyle.sourceforge.io/checks/whitespace/separatorwrap.html#SeparatorWrap)

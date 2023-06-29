@@ -22,4 +22,4 @@ Example of Checkstyle check configuration:
 
 ## Further Reading
 
-* [checkstyle - Filters](https://checkstyle.sourceforge.io/checks/filters/systemout.html#SuppressWarningsFilter)
+* [checkstyle - Filters](https://checkstyle.sourceforge.io/filters/suppresswarningsfilter.html)

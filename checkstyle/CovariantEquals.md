@@ -8,7 +8,7 @@ Checks that classes which define a covariant `equals()` method also override met
 Covariant `equals()` \- method that is similar to `equals(Object)`, but with a covariant parameter type (any subtype of Object).  
 **Notice**: the enums are also checked, even though they cannot override `equals(Object)`. The reason is to point out that implementing `equals()` in enums is considered an awful practice: it may cause having two different enum values that are equal using covariant enum method, and not equal when compared normally. 
 
-Inspired by [Finding Bugs is Easy, chapter '2.3.1 Bad Covariant Definition of Equals (Eq)'](http://www.cs.nyu.edu/~lharris/papers/findbugsPaper.pdf): 
+Inspired by [Finding Bugs is Easy, chapter '4.5 Bad Covariant Definition of Equals (Eq)'](https://www.cs.jhu.edu/~daveho/pubs/oopsla2004.pdf): 
 
 Java classes may override the `equals(Object)` method to define a predicate for object equality. This method is used by many of the Java runtime library classes; for example, to implement generic containers. 
 

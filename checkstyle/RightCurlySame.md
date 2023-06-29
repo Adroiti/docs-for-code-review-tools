@@ -10,14 +10,11 @@ Checks the placement of right curly braces (`'}'`) for if-else, try-catch-finall
 
 To configure the check: 
 
-
 ```xml
 <module name="RightCurly"/>
 ```
-        
-
-To configure the check with policy `alone` for `else` and [METHOD_DEF](http://checkstyle.sourceforge.net/apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#METHOD_DEF) tokens: 
-
+       
+To configure the check with policy `alone` for `else` and `METHOD_DEF` tokens: 
 
 ```xml
 <module name="RightCurly">
@@ -28,5 +25,4 @@ To configure the check with policy `alone` for `else` and [METHOD_DEF](http://ch
 
 ## Further Reading
 
-* [checkstyle - Rcurly property](https://checkstyle.sourceforge.io/property_types/rightcurlysame.html#rcurly)
-* [checkstyle - RightCurly](http://checkstyle.sourceforge.net/config_blocks.html#RightCurly)
+* [checkstyle - RightCurly](https://checkstyle.sourceforge.io/checks/blocks/rightcurly.html#RightCurly)

@@ -25,4 +25,4 @@ To configure the check to enforce C style:
 ## Further Reading
 
 * [Google Java Style Guide - Arrays](https://google.github.io/styleguide/javaguide.html#s4.8.3-arrays)
-* [checkstyle - ArrayTypeStyle](https://checkstyle.sourceforge.io/checks/misc/arraytypestyle/arraytypestyle.html#ArrayTypeStyle)
+* [checkstyle - ArrayTypeStyle](https://checkstyle.sourceforge.io/checks/misc/arraytypestyle.html#ArrayTypeStyle)

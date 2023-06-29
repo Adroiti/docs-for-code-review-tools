@@ -21,4 +21,4 @@ To configure the check to accept files with up to `60` lines:
 
 ## Further Reading
 
-* [checkstyle - AnonInnerLength](https://checkstyle.sourceforge.io/checks/sizes/anoninnerlength/anoninnerlength.html#AnonInnerLength)
+* [checkstyle - AnonInnerLength](https://checkstyle.sourceforge.io/checks/sizes/anoninnerlength.html#AnonInnerLength)

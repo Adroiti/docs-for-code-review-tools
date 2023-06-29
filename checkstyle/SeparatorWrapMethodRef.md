@@ -72,5 +72,4 @@ An example of how to configure the check for comma at the new line is:
 
 ## Further Reading
 
-* [checkstyle - wrap operator policy](https://checkstyle.sourceforge.io/property_types/separatorwrapmethodref.html#wrapOp)
-* [checkstyle - SeparatorWrap](http://checkstyle.sourceforge.net/config_whitespace.html#SeparatorWrap)
+* [checkstyle - SeparatorWrap](https://checkstyle.sourceforge.io/checks/whitespace/separatorwrap.html#SeparatorWrap)

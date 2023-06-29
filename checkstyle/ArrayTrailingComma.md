@@ -130,4 +130,4 @@ Which results in the following violations:
 
 ## Further Reading
 
-* [checkstyle - ArrayTrailingComma](https://checkstyle.sourceforge.io/checks/coding/arraytrailingcomma/arraytrailingcomma.html#ArrayTrailingComma)
+* [checkstyle - ArrayTrailingComma](https://checkstyle.sourceforge.io/checks/coding/arraytrailingcomma.html#ArrayTrailingComma)

@@ -32,4 +32,4 @@ To configure to check variables and classes identifiers, do not ignore variables
 
 ## Further Reading
 
-* [checkstyle - AbbreviationAsWordInName](https://checkstyle.sourceforge.io/checks/naming/abbreviationaswordinname/abbreviationaswordinname.html#AbbreviationAsWordInName)
+* [checkstyle - AbbreviationAsWordInName](https://checkstyle.sourceforge.io/checks/naming/abbreviationaswordinname.html#AbbreviationAsWordInName)

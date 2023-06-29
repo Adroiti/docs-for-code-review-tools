@@ -124,4 +124,4 @@ public void test(@MyAnnotation String s) { // OK
 
 ## Further Reading
 
-* [checkstyle - AnnotationLocation](https://checkstyle.sourceforge.io/checks/annotation/annotationlocationmostcases/annotationlocationmostcases.html#AnnotationLocation)
+* [checkstyle - AnnotationLocation](https://checkstyle.sourceforge.io/checks/annotation/annotationlocationmostcases.html#AnnotationLocation)
