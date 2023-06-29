@@ -9,4 +9,3 @@ C++ offers four different kinds of casts as replacements: `static_cast`, `const_
 ## Further Reading
 
 * [Common Weakness Enumeration (CWE) - 398](https://cwe.mitre.org/data/definitions/398.html)
-* [SEI - EXP05-CPP. Do not use C-style casts](https://www.securecoding.cert.org/confluence/display/cplusplus/EXP05-CPP.+Do+not+use+C-style+casts)
