@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Passing strings to the `ref` prop of React elements is considered a legacy feature and will soon be deprecated. Instead, [use a callback](https://facebook.github.io/react/docs/more-about-refs.html#the-ref-callback-attribute).
+Passing strings to the `ref` prop of React elements is considered a legacy feature and will soon be deprecated. Instead, use a callback.
 
 Example of **incorrect** code:
 

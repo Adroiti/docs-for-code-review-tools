@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-This rule finds usages of React's [dangerouslySetInnerHTML](https://facebook.github.io/react/tips/dangerously-set-inner-html.html). One should not use this API because it possible opens your system up to an XSS attack. 
+This rule finds usages of React's `dangerouslySetInnerHTML`. One should not use this API because it possible opens your system up to an XSS attack. 
 
 ## Suppressions
 

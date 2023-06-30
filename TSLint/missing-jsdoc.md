@@ -6,7 +6,7 @@ Issue: -
 
 Deprecated - This rule can be replaced with TSLint's `file-header` rule.
 
-All files must have a top level [JSDoc](http://usejsdoc.org/) comment.
+All files must have a top level [JSDoc](https://jsdoc.app/) comment.
 A JSDoc comment starts with `**` (not one more or one less asterisk)
 and a JSDoc at the 'top-level' appears without leading spaces. Trailing
 spaces are acceptable but not recommended
