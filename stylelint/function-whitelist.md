@@ -61,7 +61,3 @@ a {
     -moz-linear-gradient(45deg, blue, red);
 }
 ```
-
-## Further Reading
-
-* [stylelint - function-whitelist](https://stylelint.io/user-guide/rules/function-whitelist)

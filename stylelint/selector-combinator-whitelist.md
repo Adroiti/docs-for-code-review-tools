@@ -40,7 +40,3 @@ a b {}
 a
 b {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-combinator-whitelist](https://stylelint.io/user-guide/rules/selector-combinator-whitelist)

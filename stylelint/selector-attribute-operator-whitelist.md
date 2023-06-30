@@ -43,7 +43,3 @@ The following patterns are *not* considered violations:
 ```css
 [class|="top"] {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-attribute-operator-whitelist](https://stylelint.io/user-guide/rules/selector-attribute-operator-whitelist)

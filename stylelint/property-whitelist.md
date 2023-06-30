@@ -60,7 +60,3 @@ a { background: pink; }
 ```css
 a { background-color: pink; }
 ```
-
-## Further Reading
-
-* [stylelint - property-whitelist](https://stylelint.io/user-guide/rules/property-whitelist)

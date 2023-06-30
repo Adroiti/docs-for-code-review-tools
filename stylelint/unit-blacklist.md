@@ -92,7 +92,3 @@ a { -moz-border-radius-topright: 40px; }
 ```css
 a { height: 100vmin; }
 ```
-
-## Further Reading
-
-* [stylelint - unit-blacklist](https://stylelint.io/user-guide/rules/unit-blacklist)

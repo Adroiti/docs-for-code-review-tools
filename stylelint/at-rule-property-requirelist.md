@@ -47,7 +47,3 @@ The following patterns are *not* considered violations:
     src: url('./fonts/foo.woff2') format('woff2'); 
 }
 ```
-
-## Further Reading
-
-* [stylelint - at-rule-property-requirelist](https://stylelint.io/user-guide/rules/at-rule-property-requirelist)

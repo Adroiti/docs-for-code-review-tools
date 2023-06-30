@@ -43,7 +43,3 @@ The following patterns are *not* considered violations:
 ```css
 a { background: red; }
 ```
-
-## Further Reading
-
-* [stylelint - function-blacklist](https://stylelint.io/user-guide/rules/function-blacklist)

@@ -43,7 +43,3 @@ a::after {}
 ```css
 a::not-my-pseudo-element {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-pseudo-element-blacklist](https://stylelint.io/user-guide/rules/selector-pseudo-element-blacklist)

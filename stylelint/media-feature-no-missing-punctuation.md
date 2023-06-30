@@ -35,7 +35,3 @@ The following patterns are *not* considered warnings:
 ```css
 @media (width  >=  20em) {}
 ```
-
-## Further Reading
-
-* [stylelint - media-feature-no-missing-punctuation](https://stylelint.io/user-guide/rules/media-feature-no-missing-punctuation)

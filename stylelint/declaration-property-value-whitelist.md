@@ -82,7 +82,3 @@ a { background-color: green; }
 ```css
 a { background: pink; }
 ```
-
-## Further Reading
-
-* [stylelint - declaration-property-value-whitelist](https://stylelint.io/user-guide/rules/declaration-property-value-whitelist)

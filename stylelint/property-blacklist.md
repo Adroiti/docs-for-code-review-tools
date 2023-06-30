@@ -52,7 +52,3 @@ a { color: pink; }
 ```css
 a { no-background: sure; }
 ```
-
-## Further Reading
-
-* [stylelint - property-blacklist](https://stylelint.io/user-guide/rules/property-blacklist)

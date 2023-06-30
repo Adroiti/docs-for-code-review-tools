@@ -35,7 +35,3 @@ The following patterns are *not* considered violations:
 ```css
 @media print and (min-resolution: 300dpi) {}
 ```
-
-## Further Reading
-
-* [stylelint - media-feature-name-blacklist](https://stylelint.io/user-guide/rules/media-feature-name-blacklist)

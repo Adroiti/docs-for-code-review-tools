@@ -89,7 +89,3 @@ a { animation-timing-function: linear; }
 ```css
 a { -webkit-animation-timing-function: linear; }
 ```
-
-## Further Reading
-
-* [stylelint - declaration-property-value-blacklist](https://stylelint.io/user-guide/rules/declaration-property-value-blacklist)

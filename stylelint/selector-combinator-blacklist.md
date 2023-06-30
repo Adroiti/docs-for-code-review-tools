@@ -40,7 +40,3 @@ a + b {}
 ```css
 a ~ b {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-combinator-blacklist](https://stylelint.io/user-guide/rules/selector-combinator-blacklist)

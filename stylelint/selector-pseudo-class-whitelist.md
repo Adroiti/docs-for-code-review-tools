@@ -41,7 +41,3 @@ a:nth-of-type(5) {}
 ```css
 a:nth-child(2) {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-pseudo-class-whitelist](https://stylelint.io/user-guide/rules/selector-pseudo-class-whitelist)

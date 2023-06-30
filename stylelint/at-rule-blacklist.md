@@ -41,7 +41,3 @@ The following patterns are *not* considered violations:
 ```css
 @import "path/to/file.css";
 ```
-
-## Further Reading
-
-* [stylelint - at-rule-blacklist](https://stylelint.io/user-guide/rules/at-rule-blacklist)

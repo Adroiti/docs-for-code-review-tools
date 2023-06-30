@@ -57,7 +57,3 @@ a { background-image: url('//example.com/file.jpg'); }
 ```css
 a { background-image: url('./path/to/file.jpg'); }
 ```
-
-## Further Reading
-
-* [stylelint - function-url-scheme-blacklist](https://stylelint.io/user-guide/rules/function-url-scheme-blacklist)

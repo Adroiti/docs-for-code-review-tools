@@ -62,7 +62,3 @@ The following patterns are *not* considered violations:
 ```css
 @media screen and (resolution: 10dpcm) {}
 ```
-
-## Further Reading
-
-* [stylelint - media-feature-name-value-whitelist](https://stylelint.io/user-guide/rules/media-feature-name-value-whitelist)

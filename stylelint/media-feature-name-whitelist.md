@@ -35,7 +35,3 @@ The following patterns are *not* considered violations:
 ```css
 @media (some-width: 50em) {}
 ```
-
-## Further Reading
-
-* [stylelint - media-feature-name-whitelist](https://stylelint.io/user-guide/rules/media-feature-name-whitelist)

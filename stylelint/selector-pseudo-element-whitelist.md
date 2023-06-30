@@ -42,7 +42,3 @@ a::my-pseudo-element {}
 ```css
 a::MY-OTHER-pseudo-element {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-pseudo-element-whitelist](https://stylelint.io/user-guide/rules/selector-pseudo-element-whitelist)

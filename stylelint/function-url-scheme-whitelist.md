@@ -65,7 +65,3 @@ a { background-image: url('HTTPS://www.example.com/file.jpg'); }
 ```css
 a { background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs='); }
 ```
-
-## Further Reading
-
-* [stylelint - function-url-scheme-whitelist](https://stylelint.io/user-guide/rules/function-url-scheme-whitelist)

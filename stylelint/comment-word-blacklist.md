@@ -37,7 +37,3 @@ The following patterns are *not* considered violations:
 ```css
 /* comment */
 ```
-
-## Further Reading
-
-* [stylelint - comment-word-blacklist](https://stylelint.io/user-guide/rules/comment-word-blacklist)

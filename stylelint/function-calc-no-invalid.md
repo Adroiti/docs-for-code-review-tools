@@ -48,7 +48,3 @@ The following patterns are considered violations:
 /**                 ↑ ↑   ↑
 /* the `resolved type` is invalid */
 ```
-
-## Further Reading
-
-* [stylelint - function-calc-no-invalid](https://stylelint.io/user-guide/rules/function-calc-no-invalid)

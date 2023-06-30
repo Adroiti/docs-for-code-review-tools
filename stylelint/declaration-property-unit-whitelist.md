@@ -71,7 +71,3 @@ a { animation-duration: 5s; }
 ```css
 a { line-height: 1; }
 ```
-
-## Further Reading
-
-* [stylelint - declaration-property-unit-whitelist](https://stylelint.io/user-guide/rules/declaration-property-unit-whitelist)

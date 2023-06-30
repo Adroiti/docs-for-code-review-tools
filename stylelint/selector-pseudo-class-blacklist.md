@@ -41,7 +41,3 @@ a:focus {}
 ```css
 a:first-of-type {}
 ```
-
-## Further Reading
-
-* [stylelint - selector-pseudo-class-blacklist](https://stylelint.io/user-guide/rules/selector-pseudo-class-blacklist)

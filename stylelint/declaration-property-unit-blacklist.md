@@ -62,7 +62,3 @@ a { -webkit-animation: animation-name 500ms ease; }
 ```css
 a { animation-duration: 500ms; }
 ```
-
-## Further Reading
-
-* [stylelint - declaration-property-unit-blacklist](https://stylelint.io/user-guide/rules/declaration-property-unit-blacklist)

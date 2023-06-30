@@ -96,7 +96,3 @@ a { -moz-border-radius-topright: 20rem; }
 ```css
 a { height: 100%; }
 ```
-
-## Further Reading
-
-* [stylelint - unit-whitelist](https://stylelint.io/user-guide/rules/unit-whitelist)
