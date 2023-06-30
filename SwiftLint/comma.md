@@ -55,7 +55,3 @@ let result = plus(
 )
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Comma Spacing](https://realm.github.io/SwiftLint/comma_spacing.html)

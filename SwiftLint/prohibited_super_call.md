@@ -56,7 +56,3 @@ class VC: NSView {
 }
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Prohibited calls to super](https://realm.github.io/SwiftLint/prohibited_calls_to_super.html)

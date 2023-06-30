@@ -59,7 +59,3 @@ let foo = ↓Bundle.init()
 let foo = bar(bundle: ↓Bundle.init(), device: ↓UIDevice.init())
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Discouraged Direct Initialization](https://realm.github.io/SwiftLint/discouraged_direct_initialization.html)

@@ -23,7 +23,3 @@ Examples of **incorrect** code:
 let foo = ↓bar.map { $0.array }.reduce([], +)
 
 ```
-
-## Further Reading
-
-* [SwiftLint - FlatMap over map and reduce](https://realm.github.io/SwiftLint/flatmap_over_map_and_reduce.html)

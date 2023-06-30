@@ -178,7 +178,3 @@ extension Foo {
 }
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Redundant @objc Attribute](https://realm.github.io/SwiftLint/redundant_@objc_attribute.html)

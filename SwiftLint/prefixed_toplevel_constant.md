@@ -87,7 +87,3 @@ let ↓foo = {
 }()
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Prefixed Top_Level Constant](https://realm.github.io/SwiftLint/prefixed_top_level_constant.html)

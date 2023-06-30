@@ -32,7 +32,3 @@ Examples of **incorrect** code:
 ↓myString.range(of: "Test") == nil
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Contains over range(of:) comparison to nil](https://realm.github.io/SwiftLint/contains_over_range(of:)_comparison_to_nil.html)

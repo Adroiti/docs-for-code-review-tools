@@ -124,7 +124,3 @@ struct Parent {
 }
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Opening Brace Spacing](https://realm.github.io/SwiftLint/opening_brace_spacing.html)

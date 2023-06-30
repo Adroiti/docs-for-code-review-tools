@@ -41,7 +41,3 @@ class Foo {
     }
 }
 ```
-
-## Further Reading
-
-* [SwiftLint - Unneeded NotificationCenter Removal](https://realm.github.io/SwiftLint/unneeded_notification_center_removal.html)

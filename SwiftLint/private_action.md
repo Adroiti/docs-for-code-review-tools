@@ -96,7 +96,3 @@ internal extension Foo {
 }
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Private Actions](https://realm.github.io/SwiftLint/private_actions.html)

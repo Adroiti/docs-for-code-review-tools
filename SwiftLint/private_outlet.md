@@ -46,7 +46,3 @@ class Foo {
 }
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Private Outlets](https://realm.github.io/SwiftLint/private_outlets.html)

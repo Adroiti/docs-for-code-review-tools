@@ -111,7 +111,3 @@ var x = 0
 ↓var x = 0
 
 ```
-
-## Further Reading
-
-* [SwiftLint - Variable Declaration Whitespace](https://realm.github.io/SwiftLint/variable_declaration_whitespace.html)
