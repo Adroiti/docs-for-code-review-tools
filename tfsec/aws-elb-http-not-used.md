@@ -31,4 +31,3 @@ The following example will pass the aws-elb-http-not-used check.
 ## Further reading
 
 - [https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb_listener](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb_listener)
-- [https://www.cloudflare.com/en-gb/learning/ssl/why-is-http-not-secure/](https://www.cloudflare.com/en-gb/learning/ssl/why-is-http-not-secure/)
