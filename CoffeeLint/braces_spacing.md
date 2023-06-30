@@ -40,4 +40,4 @@ The spacing amount is specified by `spaces` parameter. The spacing amount for em
 
 ## Further Reading
 
-* [CoffeeLint - braces_spacing](http://www.coffeelint.org/#options)
+* [CoffeeLint - braces_spacing](https://coffeelint.github.io/#options)

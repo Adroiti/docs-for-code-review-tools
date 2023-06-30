@@ -13,4 +13,4 @@ Rationale:
 
 ## Further Reading
 
-* [CoffeeLint - no_tabs](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_tabs](https://coffeelint.github.io/#options)

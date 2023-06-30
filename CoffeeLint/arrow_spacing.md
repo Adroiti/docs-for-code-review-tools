@@ -21,4 +21,4 @@ x((a,b)-> 3)
 
 ## Further Reading
 
-* [CoffeeLint - arrow_spacing](http://www.coffeelint.org/#options)
+* [CoffeeLint - arrow_spacing](https://coffeelint.github.io/#options)

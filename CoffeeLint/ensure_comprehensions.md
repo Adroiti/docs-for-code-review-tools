@@ -8,4 +8,4 @@ This rule makes sure that parentheses are around comprehensions.
 
 ## Further Reading
 
-* [CoffeeLint - ensure_comprehensions](http://www.coffeelint.org/#options)
+* [CoffeeLint - ensure_comprehensions](https://coffeelint.github.io/#options)

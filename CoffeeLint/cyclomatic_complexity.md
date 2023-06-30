@@ -8,4 +8,4 @@ Checks cyclomatic complexity against a specified limit.
 
 ## Further Reading
 
-* [CoffeeLint - cyclomatic_complexity](http://www.coffeelint.org/#options)
+* [CoffeeLint - cyclomatic_complexity](https://coffeelint.github.io/#options)

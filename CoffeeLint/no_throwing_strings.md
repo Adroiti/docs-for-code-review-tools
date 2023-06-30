@@ -21,4 +21,4 @@ throw getSomeString()
 
 ## Further Reading
 
-* [CoffeeLint - no_throwing_strings](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_throwing_strings](https://coffeelint.github.io/#options)

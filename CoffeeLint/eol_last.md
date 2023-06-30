@@ -8,4 +8,4 @@ Checks that the file ends with a single newline.
 
 ## Further Reading
 
-* [CoffeeLint - eol_last](http://www.coffeelint.org/#options)
+* [CoffeeLint - eol_last](https://coffeelint.github.io/#options)

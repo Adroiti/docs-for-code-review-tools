@@ -8,4 +8,4 @@ Warns when you use the fat arrow for a private function inside a class definitio
 
 ## Further Reading
 
-* [CoffeeLint - no_private_function_fat_arrows](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_private_function_fat_arrows](https://coffeelint.github.io/#options)

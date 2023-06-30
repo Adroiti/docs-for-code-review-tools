@@ -8,4 +8,4 @@ This rule prohibits `&&`, `||`, `==`, `!=` and `!`. Use `and`, `or`, `is`, `isnt
 
 ## Further Reading
 
-* [CoffeeLint - prefer_english_operator](http://www.coffeelint.org/#options)
+* [CoffeeLint - prefer_english_operator](https://coffeelint.github.io/#options)

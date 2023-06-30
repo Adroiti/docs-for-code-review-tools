@@ -21,4 +21,4 @@ doSomethingSignificant()
 
 ## Further Reading
 
-* [CoffeeLint - no_empty_functions](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_empty_functions](https://coffeelint.github.io/#options)

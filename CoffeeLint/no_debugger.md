@@ -8,4 +8,4 @@ Disallows `debugger` and/or `console` statements. In general, these statements a
 
 ## Further Reading
 
-* [CoffeeLint - no_debugger](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_debugger](https://coffeelint.github.io/#options)

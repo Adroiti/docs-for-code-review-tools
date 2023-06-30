@@ -8,4 +8,4 @@ This rule forbids the increment and decrement arithmetic operators. Some people 
 
 ## Further Reading
 
-* [CoffeeLint - no_plusplus](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_plusplus](https://coffeelint.github.io/#options)

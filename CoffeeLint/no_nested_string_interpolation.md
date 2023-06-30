@@ -19,4 +19,4 @@ str = "Book by #{"#{firstName} #{lastName}".toUpperCase()}"
 
 ## Further Reading
 
-* [CoffeeLint - no_nested_string_interpolation](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_nested_string_interpolation](https://coffeelint.github.io/#options)

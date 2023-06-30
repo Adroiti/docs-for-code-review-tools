@@ -19,4 +19,4 @@ someFunction = ->
 
 ## Further Reading
 
-* [CoffeeLint - no_empty_param_list](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_empty_param_list](https://coffeelint.github.io/#options)

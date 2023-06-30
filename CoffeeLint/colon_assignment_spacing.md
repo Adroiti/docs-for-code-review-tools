@@ -28,4 +28,4 @@ class Cat
 
 ## Further Reading
 
-* [CoffeeLint - colon_assignment_spacing](http://www.coffeelint.org/#options)
+* [CoffeeLint - colon_assignment_spacing](https://coffeelint.github.io/#options)

@@ -8,4 +8,4 @@ Backticks allow snippets of JavaScript to be embedded in CoffeeScript. While som
 
 ## Further Reading
 
-* [CoffeeLint - no_backticks](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_backticks](https://coffeelint.github.io/#options)

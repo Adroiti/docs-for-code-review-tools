@@ -8,4 +8,4 @@ Issue: -
 
 ## Further Reading
 
-* [CoffeeLint - coffeescript_error](http://www.coffeelint.org/#options)
+* [CoffeeLint - coffeescript_error](https://coffeelint.github.io/#options)

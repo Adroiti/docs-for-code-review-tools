@@ -8,4 +8,4 @@ Adding trailing whitespace can cause extra work for others editing the same file
 
 ## Further Reading
 
-* [CoffeeLint - no_trailing_whitespace](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_trailing_whitespace](https://coffeelint.github.io/#options)

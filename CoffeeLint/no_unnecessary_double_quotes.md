@@ -23,4 +23,4 @@ foo = "I'm just following the 'rules'"
 
 ## Further Reading
 
-* [CoffeeLint - no_unnecessary_double_quotes](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_unnecessary_double_quotes](https://coffeelint.github.io/#options)

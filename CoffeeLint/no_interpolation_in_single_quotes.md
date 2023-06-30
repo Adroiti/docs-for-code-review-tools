@@ -19,4 +19,4 @@ foo = "#{bar}"
 
 ## Further Reading
 
-* [CoffeeLint - no_interpolation_in_single_quotes](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_interpolation_in_single_quotes](https://coffeelint.github.io/#options)

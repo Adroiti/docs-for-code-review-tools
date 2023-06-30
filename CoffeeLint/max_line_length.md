@@ -8,4 +8,4 @@ Your source code should not contain very long lines. The default wrapping in mos
 
 ## Further Reading
 
-* [CoffeeLint - max_line_length](http://www.coffeelint.org/#options)
+* [CoffeeLint - max_line_length](https://coffeelint.github.io/#options)

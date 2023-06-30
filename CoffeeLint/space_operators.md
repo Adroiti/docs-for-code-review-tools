@@ -8,4 +8,4 @@ This rule enforces that operators have spaces around them.
 
 ## Further Reading
 
-* [CoffeeLint - space_operators](http://www.coffeelint.org/#options)
+* [CoffeeLint - space_operators](https://coffeelint.github.io/#options)

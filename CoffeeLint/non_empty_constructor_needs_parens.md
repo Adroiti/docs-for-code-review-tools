@@ -8,4 +8,4 @@ Requires constructors with parameters to include the parens.
 
 ## Further Reading
 
-* [CoffeeLint - non_empty_constructor_needs_parens](http://www.coffeelint.org/#options)
+* [CoffeeLint - non_empty_constructor_needs_parens](https://coffeelint.github.io/#options)

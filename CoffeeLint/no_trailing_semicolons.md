@@ -19,4 +19,4 @@ alert('end of line');
 
 ## Further Reading
 
-* [CoffeeLint - no_trailing_semicolons](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_trailing_semicolons](https://coffeelint.github.io/#options)

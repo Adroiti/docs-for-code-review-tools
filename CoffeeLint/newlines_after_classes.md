@@ -10,4 +10,4 @@ Options: `value`. The number of required newlines after class definitions. Defau
 
 ## Further Reading
 
-* [CoffeeLint - newlines_after_classes](http://www.coffeelint.org/#options)
+* [CoffeeLint - newlines_after_classes](https://coffeelint.github.io/#options)

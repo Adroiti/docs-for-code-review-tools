@@ -23,4 +23,4 @@ Two space indentation is enabled by default.
 
 ## Further Reading
 
-* [CoffeeLint - indentation](http://www.coffeelint.org/#options)
+* [CoffeeLint - indentation](https://coffeelint.github.io/#options)

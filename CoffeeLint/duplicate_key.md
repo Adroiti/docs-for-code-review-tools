@@ -8,4 +8,4 @@ Prevents defining duplicate keys in object literals and classes.
 
 ## Further Reading
 
-* [CoffeeLint - duplicate_key](http://www.coffeelint.org/#options)
+* [CoffeeLint - duplicate_key](https://coffeelint.github.io/#options)

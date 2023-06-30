@@ -8,4 +8,4 @@ This rule detects when changes are made by transform function, and warns that li
 
 ## Further Reading
 
-* [CoffeeLint - transform_messes_up_line_numbers](http://www.coffeelint.org/#options)
+* [CoffeeLint - transform_messes_up_line_numbers](https://coffeelint.github.io/#options)

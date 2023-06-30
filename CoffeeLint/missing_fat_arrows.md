@@ -10,4 +10,4 @@ The option `is_strict` is available for checking bindings of class methods. It i
 
 ## Further Reading
 
-* [CoffeeLint - missing_fat_arrows](http://www.coffeelint.org/#options)
+* [CoffeeLint - missing_fat_arrows](https://coffeelint.github.io/#options)

@@ -8,4 +8,4 @@ This rule prohibits `this`. Use `@` instead.
 
 ## Further Reading
 
-* [CoffeeLint - no_this](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_this](https://coffeelint.github.io/#options)

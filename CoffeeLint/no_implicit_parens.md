@@ -21,4 +21,4 @@ Implicit parens are permitted by default, since their use is idiomatic CoffeeScr
 
 ## Further Reading
 
-* [CoffeeLint - no_implicit_parens](http://www.coffeelint.org/#options)
+* [CoffeeLint - no_implicit_parens](https://coffeelint.github.io/#options)
