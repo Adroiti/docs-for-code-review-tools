@@ -20,4 +20,4 @@ enum status: { active: 0, archived: 1 }
 
 ## Further Reading
 
-* [RuboCop - Rails/EnumHash](https://github.com/rubocop-hq/rubocop-rails/blob/master/manual/cops_rails.md#railsenumhash)
+* [RuboCop - Rails/EnumHash](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsenumhash)

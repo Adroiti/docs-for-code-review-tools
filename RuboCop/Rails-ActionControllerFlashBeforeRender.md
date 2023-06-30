@@ -30,4 +30,3 @@ end
 
 * [Rails - Rails/ActionControllerFlashBeforeRender](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsactioncontrollerflashbeforerender)
 * https://rails.rubystyle.guide/#flash-before-render
-* https://api.rubyonrails.org/classes/ActionController/FlashBeforeRender.html

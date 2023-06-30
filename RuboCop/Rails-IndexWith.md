@@ -20,4 +20,4 @@ Hash[[1, 2, 3].collect { |el| [el, foo(el)] }]
 
 ## Further Reading
 
-* [RuboCop - Rails/IndexWith](https://docs.rubocop.org/projects/rails/en/stable/cops_rails/#railsindexwith)
+* [RuboCop - Rails/IndexWith](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsindexwith)

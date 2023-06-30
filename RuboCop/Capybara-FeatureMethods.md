@@ -52,5 +52,5 @@ EnabledMethods | `[]` | Array
 
 ## Further Reading
 
-* [RSpec - Capybara/FeatureMethods](https://rubocop-rspec.readthedocs.io/en/latest/cops_capybara/#capybarafeaturemethods)
+* [RSpec - Capybara/FeatureMethods](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybarafeaturemethods)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/FeatureMethods](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/FeatureMethods)

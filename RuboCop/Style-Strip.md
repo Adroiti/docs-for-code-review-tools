@@ -16,7 +16,3 @@ This rule identifies places where `lstrip.rstrip` can be replaced by `strip`.
 # good
 'abc'.strip
 ```
-
-## Further Reading
-
-* [RuboCop - Performance/LstripRstrip](https://github.com/rubocop-hq/rubocop-performance/blob/master/manual/cops_performance.md#performancelstriprstrip)

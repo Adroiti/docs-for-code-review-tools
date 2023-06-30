@@ -30,5 +30,5 @@ count { 1 }
 
 ## Further Reading
 
-* [RSpec - FactoryBot/AttributeDefinedStatically](https://rubocop-rspec.readthedocs.io/en/latest/cops_factorybot/#factorybotattributedefinedstatically)
+* [RSpec - FactoryBot/AttributeDefinedStatically](https://docs.rubocop.org/rubocop-rspec/cops_rspec_factorybot.html#rspecfactorybot/attributedefinedstatically)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FactoryBot/AttributeDefinedStatically](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FactoryBot/AttributeDefinedStatically)

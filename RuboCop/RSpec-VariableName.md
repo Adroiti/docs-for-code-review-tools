@@ -20,4 +20,4 @@ subject(:user_name) { 'Adam' }
 
 ## Further Reading
 
-* [RSpec - RSpec/VariableName](https://docs.rubocop.org/rubocop-rspec/cops_rspec.adoc#rspecvariablename)
+* [RSpec - RSpec/VariableName](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecvariablename)

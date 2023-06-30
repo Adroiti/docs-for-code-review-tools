@@ -50,4 +50,4 @@ attributes_for(:bar)
 
 ## Further Reading
 
-* [RSpec - RSpec/FactoryBot/SyntaxMethods](https://docs.rubocop.org/rubocop/cops_rspec_factorybot.html#rspecfactorybotsyntaxmethods)
+* [RSpec - RSpec/FactoryBot/SyntaxMethods](https://docs.rubocop.org/rubocop-rspec/cops_rspec_factorybot.html#rspecfactorybotsyntaxmethods)

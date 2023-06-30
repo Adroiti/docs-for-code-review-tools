@@ -20,4 +20,4 @@ subject(:user) { create_user }
 
 ## Further Reading
 
-* [RSpec - RSpec/VariableDefinition](https://docs.rubocop.org/rubocop-rspec/cops_rspec.adoc#rspecvariabledefinition)
+* [RSpec - RSpec/VariableDefinition](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecvariabledefinition)

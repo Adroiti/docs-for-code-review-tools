@@ -20,5 +20,4 @@ expect(foo).to be_something
 
 ## Further Reading
 
-* [RSpec - RSpec/InvalidPredicateMatcher](https://docs.rubocop.org/rubocop-rspec/cops_rspec.html#rspecinvalidpredicatematcher)
 * [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InvalidPredicateMatcher](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InvalidPredicateMatcher)

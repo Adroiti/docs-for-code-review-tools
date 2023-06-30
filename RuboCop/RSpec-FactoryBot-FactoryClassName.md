@@ -25,4 +25,4 @@ end
 
 ## Further Reading
 
-* [RSpec - FactoryBot/FactoryClassName](https://rubocop-rspec.readthedocs.io/en/latest/cops_factorybot/#factorybotfactoryclassname)
+* [RSpec - FactoryBot/FactoryClassName](https://docs.rubocop.org/rubocop-rspec/cops_rspec_factorybot.html#rspecfactorybotfactoryclassname)

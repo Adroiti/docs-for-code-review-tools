@@ -40,4 +40,4 @@ VersionAdded | `1.39` | String
 
 ## Further Reading
 
-* [RSpec - Capybara/VisibilityMatcher](https://rubocop-rspec.readthedocs.io/en/latest/cops_capybara/#capybaravisibilitymatcher)
+* [RSpec - Capybara/VisibilityMatcher](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybara/visibilitymatcher)

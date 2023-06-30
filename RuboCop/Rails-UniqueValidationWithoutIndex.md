@@ -23,4 +23,4 @@ validates :account, length: { minimum: MIN_LENGTH }
 
 ## Further Reading
 
-* [RuboCop - Rails/UniqueValidationWithoutIndex](https://docs.rubocop.org/projects/rails/en/stable/cops_rails/#railsuniquevalidationwithoutindex)
+* [RuboCop - Rails/UniqueValidationWithoutIndex](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railsuniquevalidationwithoutindex)
