@@ -48,7 +48,3 @@ class Child(Parent):
     def some_method(self, a=1):
         return a
 ```
-
-## Further Reading
-
-* [Pylint - W0222](http://pylint-messages.wikidot.com/messages:w0222)

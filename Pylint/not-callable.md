@@ -23,7 +23,3 @@ from random import random # more specific import statement
 print(random())
 print(random.random()) # fully qualified function
 ```
-
-## Further Reading
-
-* [Pylint - E1102](http://pylint-messages.wikidot.com/messages:e1102)

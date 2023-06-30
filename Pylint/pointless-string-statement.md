@@ -26,8 +26,3 @@ class Test(object):
         val = 0
         self.val = val
 ```
-
-## Further Reading
-
-* [Pylint - W0105](http://pylint-messages.wikidot.com/messages:w0105)
-* [Pylint - W0104](http://pylint-messages.wikidot.com/messages:w0104)

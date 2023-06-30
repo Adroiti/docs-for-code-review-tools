@@ -29,7 +29,3 @@ class Felinae:
         self.family = "Felidae"
     # removed family method
 ```
-
-## Further Reading
-
-* [Pylint - E0202](http://pylint-messages.wikidot.com/messages:e0202)

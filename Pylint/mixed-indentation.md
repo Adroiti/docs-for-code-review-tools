@@ -29,4 +29,3 @@ def spaces_func():
 ## Further Reading
 
 * [PEP 8 - Indentation](https://www.python.org/dev/peps/pep-0008/#indentation)
-* [Pylint - W0312](http://pylint-messages.wikidot.com/messages:w0312)

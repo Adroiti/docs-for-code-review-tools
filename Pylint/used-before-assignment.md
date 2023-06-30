@@ -20,7 +20,3 @@ Example of **correct** code:
 name = "test"
 print(name)
 ```
-
-## Further Reading
-
-* [Pylint - E0601](http://pylint-messages.wikidot.com/messages:e0601)

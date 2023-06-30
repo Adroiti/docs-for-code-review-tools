@@ -52,7 +52,3 @@ class Puma(Felinae):
 
 s = Puma("Mountain lion")
 ```
-
-## Further Reading
-
-* [Pylint - W0223](http://pylint-messages.wikidot.com/messages:w0223)

@@ -24,7 +24,3 @@ class Test:
         self.name = "test"
         print(self.name)
 ```
-
-## Further Reading
-
-* [Pylint - E0203](http://pylint-messages.wikidot.com/messages:e0203)

@@ -36,6 +36,3 @@ class Test(object):
         print "called add2"
 ```
 
-## Further Reading
-
-* [Pylint - W0211](http://pylint-messages.wikidot.com/messages:w0211)

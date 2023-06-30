@@ -24,4 +24,3 @@ By default this value is set to 159, although _PEP 8_ recommends a more strict r
 ## Further Reading
 
 * [PEP 8 - Maximum Line Length ](https://www.python.org/dev/peps/pep-0008/#maximum-line-length)
-* [Pylint - C0301](http://pylint-messages.wikidot.com/messages:c0301)

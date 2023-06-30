@@ -31,6 +31,3 @@ class A(object):
     def method1(self):
 ```
 
-## Further Reading
-
-* [Pylint - E0102](http://pylint-messages.wikidot.com/messages:e0102)

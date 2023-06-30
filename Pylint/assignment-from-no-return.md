@@ -30,7 +30,3 @@ def func():
     result = do_stuff()
     print(result)
 ```
-
-## Further Reading
-
-* [Pylint - E1111](http://pylint-messages.wikidot.com/messages:e1111)

@@ -25,8 +25,3 @@ class Self1(object):
         """ empty """
         return Self1
 ```
-
-
-## Further Reading
-
-* [Pylint - E0602](http://pylint-messages.wikidot.com/messages:e0602)

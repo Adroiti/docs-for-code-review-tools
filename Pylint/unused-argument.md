@@ -18,7 +18,3 @@ Example of **correct** code:
 def some_method(firstArg):
     return firstArg*2
 ```
-
-## Further Reading
-
-* [Pylint - W0613](http://pylint-messages.wikidot.com/messages:w0613)

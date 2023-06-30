@@ -28,7 +28,3 @@ class Felinae(object):
     def hunt(self):
         print("hunting") 
 ```
-
-## Further Reading
-
-* [Pylint - E0211](http://pylint-messages.wikidot.com/messages:e0211)

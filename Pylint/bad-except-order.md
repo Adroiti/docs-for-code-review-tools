@@ -29,7 +29,3 @@ except LookupError:
     __revision__ = -2
 ```
 
-
-## Further Reading
-
-* [Pylint - E0701](http://pylint-messages.wikidot.com/messages:e0701)

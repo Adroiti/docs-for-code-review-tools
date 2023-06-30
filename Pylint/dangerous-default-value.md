@@ -32,5 +32,4 @@ def foo(x=None): # the keyword None is sentinel value representing empty list
 
 ## Further Reading
 
-* [Pylint - W0102](http://pylint-messages.wikidot.com/messages:w0102)
 * [Stack Overflow - Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python#113198)

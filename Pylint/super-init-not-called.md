@@ -31,7 +31,3 @@ class Puma(Felinae):
         super(Puma, self).__init__(subfamily)
         self.genus = genus
 ```
-
-## Further Reading
-
-* [Pylint - W0231](http://pylint-messages.wikidot.com/messages:w0231)

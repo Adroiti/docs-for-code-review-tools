@@ -30,4 +30,3 @@ do_three()
 ## Further Reading
 
 * [PEP 8 - Whitespace in Expressions and Statements](https://www.python.org/dev/peps/pep-0008/#other-recommendations)
-* [Pylint - C0321](http://pylint-messages.wikidot.com/messages:c0321)

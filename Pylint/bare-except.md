@@ -47,4 +47,3 @@ def division(dividend, divisor):
 
 * [PEP 8 - Programming Recommendations](https://www.python.org/dev/peps/pep-0008/#programming-recommendations)
 * [The Python Tutorial » Errors and Exceptions](https://docs.python.org/2/tutorial/errors.html)
-* [Pylint - W0702](http://pylint-messages.wikidot.com/messages:w0702)

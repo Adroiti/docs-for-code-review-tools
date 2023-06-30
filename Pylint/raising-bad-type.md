@@ -20,7 +20,3 @@ Example of **correct** code:
 def good_case():
     raise ValidException('error details')
 ```
-
-## Further Reading
-
-* [Pylint - E0702](http://pylint-messages.wikidot.com/messages:e0702)

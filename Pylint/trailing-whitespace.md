@@ -20,4 +20,3 @@ print('no trailing whitespace')
 ## Further Reading
 
 * [Pylint - Other Recommendations](https://www.python.org/dev/peps/pep-0008/#other-recommendations)
-* [Pylint - C0303](http://pylint-messages.wikidot.com/messages:c0303)

@@ -25,4 +25,3 @@ class Felinae:
 ## Further Reading
 
 * [The Python Language Reference - `__init__`](https://docs.python.org/2/reference/datamodel.html#object.__init__)
-* [Pylint - E0101](http://pylint-messages.wikidot.com/messages:e0101)

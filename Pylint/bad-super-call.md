@@ -35,4 +35,3 @@ class Puma(Felinae):
 ## Further Reading
 
 * [Python Standard Library - super()](https://docs.python.org/2/library/functions.html#super)
-* [Pylint - E1003](http://pylint-messages.wikidot.com/messages:e1003)

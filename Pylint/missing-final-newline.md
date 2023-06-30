@@ -18,7 +18,3 @@ print(1)
 
 This would result in  **correct** code if newline is added after `print(1)`.
 
-
-## Further Reading
-
-* [Pylint - C0304](http://pylint-messages.wikidot.com/messages:c0304)

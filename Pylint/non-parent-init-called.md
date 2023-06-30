@@ -34,7 +34,3 @@ class Puma(Felinae):
         self.genus = genus
         Felinae.__init__(self, subfamily)  # calling __init__ of non-direct base class
 ```
-
-## Further Reading
-
-* [Pylint - W0233](http://pylint-messages.wikidot.com/messages:w0233)

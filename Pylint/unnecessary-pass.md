@@ -29,4 +29,3 @@ except ValueError:
 ## Further Reading
 
 * [The Python Tutorial - pass Statements](https://docs.python.org/2/tutorial/controlflow.html#pass-statements)
-* [Pylint - W0107](http://pylint-messages.wikidot.com/messages:w0107)

@@ -29,4 +29,3 @@ The guidelines provided by _PEP 8_ are intended to improve the readability of co
 ## Further Reading
 
 * [PEP 8 - Whitespace in Expressions and Statements](https://www.python.org/dev/peps/pep-0008/#whitespace-in-expressions-and-statements)
-* [Pylint - C0326](http://pylint-messages.wikidot.com/messages:c0326)

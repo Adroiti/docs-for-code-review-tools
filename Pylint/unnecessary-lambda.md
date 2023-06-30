@@ -18,6 +18,3 @@ Example of **correct** code:
 ```python
 results = " ".join(rdd.map(save_and_show).collect())
 ```
-## Further Reading
-
-* [Pylint - W0108](http://pylint-messages.wikidot.com/messages:w0108)

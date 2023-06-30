@@ -18,7 +18,3 @@ Example of **correct** code:
 ```python
 from time import sleep
 ```
-
-## Further Reading
-
-* [Pylint - W0108](http://pylint-messages.wikidot.com/messages:w0108)

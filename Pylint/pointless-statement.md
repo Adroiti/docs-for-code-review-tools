@@ -21,7 +21,3 @@ Example of **correct** code:
 def test_method():
     return "42"
 ```
-
-## Further Reading
-
-* [Pylint - W0104](http://pylint-messages.wikidot.com/messages:w0104)

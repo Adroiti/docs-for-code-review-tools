@@ -22,4 +22,3 @@ Example of **correct** code:
 ## Further Reading
 
 * [The Python Standard Library - format()](https://docs.python.org/2/library/functions.html#format)
-* [Pylint - E1305](http://pylint-messages.wikidot.com/messages:e1305)

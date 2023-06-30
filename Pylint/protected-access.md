@@ -38,4 +38,3 @@ print "Name: %s".format(cat.genus)
 ## Further Reading
 
 * [Wikipedia - Object-oriented programming - Encapsulation](https://en.wikipedia.org/wiki/Object-oriented_programming#Encapsulation)
-* [Pylint - W0212](http://pylint-messages.wikidot.com/messages:w0212)

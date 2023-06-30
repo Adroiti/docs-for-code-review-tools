@@ -26,4 +26,3 @@ foo()
 ## Further Reading
 
 * [The Python Standard Library - exec()](https://docs.python.org/3/library/functions.html#exec)
-* [Pylint - W0122](http://pylint-messages.wikidot.com/messages:w0122)
