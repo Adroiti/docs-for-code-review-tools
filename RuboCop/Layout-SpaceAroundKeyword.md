@@ -30,4 +30,4 @@ something = 123 if test
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAroundKeyword](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacearoundkeyword)
+* [RuboCop - Layout/SpaceAroundKeyword](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacearoundkeyword)

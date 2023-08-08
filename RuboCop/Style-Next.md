@@ -33,5 +33,5 @@ SupportedStyles | skip_modifier_ifs, always
 
 ## Further Reading
 
-* [RuboCop - Style/Next](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenext)
+* [RuboCop - Style/Next](https://docs.rubocop.org/rubocop/cops_style.html#stylenext)
 * [https://github.com/bbatsov/ruby-style-guide#no-nested-conditionals](https://github.com/bbatsov/ruby-style-guide#no-nested-conditionals)

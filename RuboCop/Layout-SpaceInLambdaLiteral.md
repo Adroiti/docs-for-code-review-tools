@@ -36,4 +36,4 @@ SupportedStyles | require_no_space, require_space
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInLambdaLiteral](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinlambdaliteral)
+* [RuboCop - Layout/SpaceInLambdaLiteral](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinlambdaliteral)

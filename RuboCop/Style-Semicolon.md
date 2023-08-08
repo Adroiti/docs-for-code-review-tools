@@ -32,5 +32,5 @@ AllowAsExpressionSeparator | false
 
 ## Further Reading
 
-* [RuboCop - Style/Semicolon](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesemicolon)
+* [RuboCop - Style/Semicolon](https://docs.rubocop.org/rubocop/cops_style.html#stylesemicolon)
 * [https://github.com/bbatsov/ruby-style-guide#no-semicolon](https://github.com/bbatsov/ruby-style-guide#no-semicolon)

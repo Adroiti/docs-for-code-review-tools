@@ -31,5 +31,5 @@ AllowSafeAssignment | true
 
 ## Further Reading
 
-* [RuboCop - Lint/AssignmentInCondition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintassignmentincondition)
+* [RuboCop - Lint/AssignmentInCondition](https://docs.rubocop.org/rubocop/cops_lint.html#lintassignmentincondition)
 * [https://github.com/bbatsov/ruby-style-guide#safe-assignment-in-condition](https://github.com/bbatsov/ruby-style-guide#safe-assignment-in-condition)

@@ -20,4 +20,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ToJSON](https://rubocop.readthedocs.io/en/latest/cops_lint/#linttojson)
+* [RuboCop - Lint/ToJSON](https://docs.rubocop.org/rubocop/cops_lint.html#linttojson)

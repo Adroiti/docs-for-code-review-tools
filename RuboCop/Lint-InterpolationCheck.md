@@ -21,4 +21,4 @@ foo = "something with #{interpolation} inside"
 
 ## Further Reading
 
-* [RuboCop - Lint/InterpolationCheck](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintinterpolationcheck)
+* [RuboCop - Lint/InterpolationCheck](https://docs.rubocop.org/rubocop/cops_lint.html#lintinterpolationcheck)

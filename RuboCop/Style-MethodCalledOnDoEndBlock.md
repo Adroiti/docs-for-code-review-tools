@@ -18,5 +18,5 @@ end.c
 
 ## Further Reading
 
-* [RuboCop - Style/MethodCalledOnDoEndBlock](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemethodcalledondoendblock)
+* [RuboCop - Style/MethodCalledOnDoEndBlock](https://docs.rubocop.org/rubocop/cops_style.html#stylemethodcalledondoendblock)
 * [https://github.com/bbatsov/ruby-style-guide#single-line-blocks](https://github.com/bbatsov/ruby-style-guide#single-line-blocks)

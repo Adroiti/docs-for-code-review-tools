@@ -64,5 +64,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLinesAroundExceptionHandlingKeywords](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinesaroundexceptionhandlingkeywords)
+* [RuboCop - Layout/EmptyLinesAroundExceptionHandlingKeywords](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinesaroundexceptionhandlingkeywords)
 * [https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies](https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies)

@@ -29,4 +29,4 @@ Include | \*\*/Gemfile, \*\*/gems.rb
 
 ## Further Reading
 
-* [RuboCop - Bundler/InsecureProtocolSource](https://rubocop.readthedocs.io/en/latest/cops_bundler/#bundlerinsecureprotocolsource)
+* [RuboCop - Bundler/InsecureProtocolSource](https://docs.rubocop.org/rubocop/cops_bundler.html#bundlerinsecureprotocolsource)

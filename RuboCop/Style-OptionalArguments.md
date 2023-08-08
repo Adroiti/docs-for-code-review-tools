@@ -23,5 +23,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/OptionalArguments](https://rubocop.readthedocs.io/en/latest/cops_style/#styleoptionalarguments)
+* [RuboCop - Style/OptionalArguments](https://docs.rubocop.org/rubocop/cops_style.html#styleoptionalarguments)
 * [https://github.com/bbatsov/ruby-style-guide#optional-arguments](https://github.com/bbatsov/ruby-style-guide#optional-arguments)

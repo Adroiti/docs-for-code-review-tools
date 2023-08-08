@@ -25,4 +25,4 @@ false
 
 ## Further Reading
 
-* [RuboCop - Lint/BooleanSymbol](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintbooleansymbol)
+* [RuboCop - Lint/BooleanSymbol](https://docs.rubocop.org/rubocop/cops_lint.html#lintbooleansymbol)

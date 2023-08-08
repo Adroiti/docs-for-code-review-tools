@@ -66,4 +66,4 @@ SupportedStylesAlignWith | either, start_of_block, start_of_line
 
 ## Further Reading
 
-* [RuboCop - Lint/BlockAlignment](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintblockalignment)
+* [RuboCop - Lint/BlockAlignment](https://docs.rubocop.org/rubocop/cops_lint.html#lintblockalignment)

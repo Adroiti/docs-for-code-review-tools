@@ -20,5 +20,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineIfThen](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilineifthen)
+* [RuboCop - Style/MultilineIfThen](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilineifthen)
 * [https://github.com/bbatsov/ruby-style-guide#no-then](https://github.com/bbatsov/ruby-style-guide#no-then)

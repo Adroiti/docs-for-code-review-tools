@@ -21,5 +21,5 @@ raise 'message'
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantException](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantexception)
+* [RuboCop - Style/RedundantException](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantexception)
 * [https://github.com/bbatsov/ruby-style-guide#no-explicit-runtimeerror](https://github.com/bbatsov/ruby-style-guide#no-explicit-runtimeerror)

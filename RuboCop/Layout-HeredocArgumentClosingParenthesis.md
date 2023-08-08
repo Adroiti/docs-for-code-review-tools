@@ -53,5 +53,5 @@ Checks for the placement of the closing parenthesis in a method call that passes
 
 ## Further Reading
 
-* [RuboCop - Layout/HeredocArgumentClosingParenthesis](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutheredocargumentclosingparenthesis)
+* [RuboCop - Layout/HeredocArgumentClosingParenthesis](https://docs.rubocop.org/rubocop/cops_layout.html#layoutheredocargumentclosingparenthesis)
 * [https://github.com/rubocop-hq/ruby-style-guide#heredoc-argument-closing-parentheses](https://github.com/rubocop-hq/ruby-style-guide#heredoc-argument-closing-parentheses)

@@ -47,4 +47,4 @@ IgnoreImplicitReferences | `false`
 
 ## Further Reading
 
-* [RuboCop - Lint/ShadowedArgument](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintshadowedargument)
+* [RuboCop - Lint/ShadowedArgument](https://docs.rubocop.org/rubocop/cops_lint.html#lintshadowedargument)

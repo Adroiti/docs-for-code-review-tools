@@ -37,5 +37,5 @@ SupportedStyles | empty_lines, no_empty_lines
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLinesAroundBlockBody](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinesaroundblockbody)
+* [RuboCop - Layout/EmptyLinesAroundBlockBody](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinesaroundblockbody)
 * [https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies](https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies)

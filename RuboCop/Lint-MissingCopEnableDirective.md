@@ -53,4 +53,4 @@ MaximumRangeSize | `Infinity`
 
 ## Further Reading
 
-* [RuboCop - Lint/MissingCopEnableDirective](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintmissingcopenabledirective)
+* [RuboCop - Lint/MissingCopEnableDirective](https://docs.rubocop.org/rubocop/cops_lint.html#lintmissingcopenabledirective)

@@ -35,5 +35,5 @@ Blacklist | END, (?-mix:EO[A-Z]{1})
 
 ## Further Reading
 
-* [RuboCop - Naming/HeredocDelimiterNaming](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingheredocdelimiternaming)
+* [RuboCop - Naming/HeredocDelimiterNaming](https://docs.rubocop.org/rubocop/cops_naming.html#namingheredocdelimiternaming)
 * [https://github.com/bbatsov/ruby-style-guide#heredoc-delimiters](https://github.com/bbatsov/ruby-style-guide#heredoc-delimiters)

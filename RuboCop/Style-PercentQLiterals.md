@@ -15,4 +15,4 @@ SupportedStyles | lower_case_q, upper_case_q
 
 ## Further Reading
 
-* [RuboCop - Style/PercentQLiterals](https://rubocop.readthedocs.io/en/latest/cops_style/#stylepercentqliterals)
+* [RuboCop - Style/PercentQLiterals](https://docs.rubocop.org/rubocop/cops_style.html#stylepercentqliterals)

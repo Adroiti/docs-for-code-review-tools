@@ -25,4 +25,4 @@ do_something(/pattern/i)
 
 ## Further Reading
 
-* [RuboCop - Lint/AmbiguousRegexpLiteral](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintambiguousregexpliteral)
+* [RuboCop - Lint/AmbiguousRegexpLiteral](https://docs.rubocop.org/rubocop/cops_lint.html#lintambiguousregexpliteral)

@@ -9,5 +9,5 @@ for certain the type of value that would be assigned to a constant.
 
 ## Further Reading
 
-* [RuboCop - Naming/ConstantName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingconstantname)
+* [RuboCop - Naming/ConstantName](https://docs.rubocop.org/rubocop/cops_naming.html#namingconstantname)
 * [https://github.com/bbatsov/ruby-style-guide#screaming-snake-case](https://github.com/bbatsov/ruby-style-guide#screaming-snake-case)

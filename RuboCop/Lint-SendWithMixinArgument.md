@@ -34,4 +34,4 @@ Foo.extend Bar
 
 ## Further Reading
 
-* [RuboCop - Lint/SendWithMixinArgument](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintsendwithmixinargument)
+* [RuboCop - Lint/SendWithMixinArgument](https://docs.rubocop.org/rubocop/cops_lint.html#lintsendwithmixinargument)

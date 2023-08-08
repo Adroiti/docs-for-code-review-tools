@@ -43,5 +43,5 @@ AllowInnerSlashes | false
 
 ## Further Reading
 
-* [RuboCop - Style/RegexpLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#styleregexpliteral)
+* [RuboCop - Style/RegexpLiteral](https://docs.rubocop.org/rubocop/cops_style.html#styleregexpliteral)
 * [https://github.com/bbatsov/ruby-style-guide#percent-r](https://github.com/bbatsov/ruby-style-guide#percent-r)

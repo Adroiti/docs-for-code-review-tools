@@ -40,5 +40,5 @@ SupportedStyles | auto_detection, squiggly, active_support, powerpack, unindent
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentHeredoc](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindentheredoc)
+* [RuboCop - Layout/IndentHeredoc](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindentheredoc)
 * [https://github.com/bbatsov/ruby-style-guide#squiggly-heredocs](https://github.com/bbatsov/ruby-style-guide#squiggly-heredocs)

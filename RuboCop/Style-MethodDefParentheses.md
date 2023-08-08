@@ -15,5 +15,5 @@ SupportedStyles | require_parentheses, require_no_parentheses, require_no_parent
 
 ## Further Reading
 
-* [RuboCop - Style/MethodDefParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemethoddefparentheses)
+* [RuboCop - Style/MethodDefParentheses](https://docs.rubocop.org/rubocop/cops_style.html#stylemethoddefparentheses)
 * [https://github.com/bbatsov/ruby-style-guide#method-parens](https://github.com/bbatsov/ruby-style-guide#method-parens)

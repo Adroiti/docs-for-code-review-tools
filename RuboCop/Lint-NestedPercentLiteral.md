@@ -21,4 +21,4 @@ attributes = {
 
 ## Further Reading
 
-* [RuboCop - Lint/NestedPercentLiteral](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintnestedpercentliteral)
+* [RuboCop - Lint/NestedPercentLiteral](https://docs.rubocop.org/rubocop/cops_lint.html#lintnestedpercentliteral)

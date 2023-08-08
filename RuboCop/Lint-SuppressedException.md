@@ -47,5 +47,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/SuppressedException](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintemptyexception)
+* [RuboCop - Lint/SuppressedException](https://docs.rubocop.org/rubocop/cops_lint.html#lintemptyexception)
 * [https://github.com/bbatsov/ruby-style-guide#dont-hide-exceptions](https://github.com/bbatsov/ruby-style-guide#dont-hide-exceptions)

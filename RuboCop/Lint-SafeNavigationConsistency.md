@@ -38,4 +38,4 @@ Whitelist | `present?`, `blank?`, `presence`, `try`, `try!`
 
 ## Further Reading
 
-* [RuboCop - Lint/SafeNavigationConsistency](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintsafenavigationconsistency)
+* [RuboCop - Lint/SafeNavigationConsistency](https://docs.rubocop.org/rubocop/cops_lint.html#lintsafenavigationconsistency)

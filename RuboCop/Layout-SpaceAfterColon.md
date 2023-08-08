@@ -18,5 +18,5 @@ def f(a:, b: 2); {a: 3}; end
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAfterColon](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceaftercolon)
+* [RuboCop - Layout/SpaceAfterColon](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceaftercolon)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-operators](https://github.com/bbatsov/ruby-style-guide#spaces-operators)

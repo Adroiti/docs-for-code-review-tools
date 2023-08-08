@@ -18,5 +18,5 @@ CountKeywordArgs | true
 
 ## Further Reading
 
-* [RuboCop - Metrics/ParameterLists](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsparameterlists)
+* [RuboCop - Metrics/ParameterLists](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsparameterlists)
 * [https://github.com/bbatsov/ruby-style-guide#too-many-params](https://github.com/bbatsov/ruby-style-guide#too-many-params)

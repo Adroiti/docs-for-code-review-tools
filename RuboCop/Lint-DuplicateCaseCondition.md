@@ -31,4 +31,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/DuplicateCaseCondition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintduplicatecasecondition)
+* [RuboCop - Lint/DuplicateCaseCondition](https://docs.rubocop.org/rubocop/cops_lint.html#lintduplicatecasecondition)

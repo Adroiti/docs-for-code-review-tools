@@ -22,5 +22,5 @@ some_string =~ /something/
 
 ## Further Reading
 
-* [RuboCop - Style/CaseEquality](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecaseequality)
+* [RuboCop - Style/CaseEquality](https://docs.rubocop.org/rubocop/cops_style.html#stylecaseequality)
 * [https://github.com/bbatsov/ruby-style-guide#no-case-equality](https://github.com/bbatsov/ruby-style-guide#no-case-equality)

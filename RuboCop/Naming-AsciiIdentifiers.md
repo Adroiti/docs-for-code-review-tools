@@ -8,5 +8,5 @@ This rule checks for non-ascii characters in identifier names.
 
 ## Further Reading
 
-* [RuboCop - Naming/AsciiIdentifiers](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingasciiidentifiers)
+* [RuboCop - Naming/AsciiIdentifiers](https://docs.rubocop.org/rubocop/cops_naming.html#namingasciiidentifiers)
 * [https://github.com/bbatsov/ruby-style-guide#english-identifiers](https://github.com/bbatsov/ruby-style-guide#english-identifiers)

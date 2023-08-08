@@ -84,5 +84,5 @@ SupportedStyles | both, prefix, postfix
 
 ## Further Reading
 
-* [RuboCop - Style/NegatedIf](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenegatedif)
+* [RuboCop - Style/NegatedIf](https://docs.rubocop.org/rubocop/cops_style.html#stylenegatedif)
 * [https://github.com/bbatsov/ruby-style-guide#unless-for-negatives](https://github.com/bbatsov/ruby-style-guide#unless-for-negatives)

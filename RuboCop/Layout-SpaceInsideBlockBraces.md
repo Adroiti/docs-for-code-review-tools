@@ -21,4 +21,4 @@ SpaceBeforeBlockParameters | true
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideBlockBraces](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsideblockbraces)
+* [RuboCop - Layout/SpaceInsideBlockBraces](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsideblockbraces)

@@ -21,4 +21,4 @@ Exclude | spec/\*\*/\*, test/\*\*/\*
 
 ## Further Reading
 
-* [RuboCop - Style/Documentation](https://rubocop.readthedocs.io/en/latest/cops_style/#styledocumentation)
+* [RuboCop - Style/Documentation](https://docs.rubocop.org/rubocop/cops_style.html#styledocumentation)

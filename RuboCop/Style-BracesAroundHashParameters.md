@@ -51,4 +51,4 @@ SupportedStyles | braces, no_braces, context_dependent
 
 ## Further Reading
 
-* [RuboCop - Style/BracesAroundHashParameters](https://rubocop.readthedocs.io/en/latest/cops_style/#stylebracesaroundhashparameters)
+* [RuboCop - Style/BracesAroundHashParameters](https://docs.rubocop.org/rubocop/cops_style.html#stylebracesaroundhashparameters)

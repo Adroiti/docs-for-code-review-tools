@@ -102,4 +102,4 @@ MethodCreatingMethods |
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantAccessModifier](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantaccessmodifier)
+* [RuboCop - Lint/RedundantAccessModifier](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantaccessmodifier)

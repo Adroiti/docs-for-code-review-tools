@@ -43,4 +43,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/NonLocalExitFromIterator](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintnonlocalexitfromiterator)
+* [RuboCop - Lint/NonLocalExitFromIterator](https://docs.rubocop.org/rubocop/cops_lint.html#lintnonlocalexitfromiterator)

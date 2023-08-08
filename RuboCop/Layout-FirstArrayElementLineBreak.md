@@ -21,4 +21,4 @@ This rule checks for a line break before the first element in a multi-line array
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstArrayElementLineBreak](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirstarrayelementlinebreak)
+* [RuboCop - Layout/FirstArrayElementLineBreak](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirstarrayelementlinebreak)

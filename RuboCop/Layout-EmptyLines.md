@@ -27,5 +27,5 @@ some_method
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLines](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylines)
+* [RuboCop - Layout/EmptyLines](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylines)
 * [https://github.com/bbatsov/ruby-style-guide#two-or-more-empty-lines](https://github.com/bbatsov/ruby-style-guide#two-or-more-empty-lines)

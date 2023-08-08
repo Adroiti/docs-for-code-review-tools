@@ -18,5 +18,5 @@ AllowedAcronyms | CLI, DSL, ACL, API, ASCII, CPU, CSS, DNS, EOF, GUID, HTML, HTT
 
 ## Further Reading
 
-* [RuboCop - Naming/FileName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingfilename)
+* [RuboCop - Naming/FileName](https://docs.rubocop.org/rubocop/cops_naming.html#namingfilename)
 * [https://github.com/bbatsov/ruby-style-guide#snake-case-files](https://github.com/bbatsov/ruby-style-guide#snake-case-files)

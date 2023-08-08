@@ -27,4 +27,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/EmptyExpression](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintemptyexpression)
+* [RuboCop - Lint/EmptyExpression](https://docs.rubocop.org/rubocop/cops_lint.html#lintemptyexpression)

@@ -78,5 +78,5 @@ PreferHashRocketsForNonAlnumEndingSymbols | false
 
 ## Further Reading
 
-* [RuboCop - Style/HashSyntax](https://rubocop.readthedocs.io/en/latest/cops_style/#stylehashsyntax)
+* [RuboCop - Style/HashSyntax](https://docs.rubocop.org/rubocop/cops_style.html#stylehashsyntax)
 * [https://github.com/bbatsov/ruby-style-guide#hash-literals](https://github.com/bbatsov/ruby-style-guide#hash-literals)

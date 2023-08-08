@@ -24,4 +24,4 @@ IgnoredMethods | respond_to, define_method
 
 ## Further Reading
 
-* [RuboCop - Style/SymbolProc](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesymbolproc)
+* [RuboCop - Style/SymbolProc](https://docs.rubocop.org/rubocop/cops_style.html#stylesymbolproc)

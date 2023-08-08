@@ -16,4 +16,4 @@ Methods | {"reduce"=>["acc", "elem"]}, {"inject"=>["acc", "elem"]}
 
 ## Further Reading
 
-* [RuboCop - Style/SingleLineBlockParams](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesinglelineblockparams)
+* [RuboCop - Style/SingleLineBlockParams](https://docs.rubocop.org/rubocop/cops_style.html#stylesinglelineblockparams)

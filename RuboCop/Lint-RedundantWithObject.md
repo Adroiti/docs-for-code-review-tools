@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantWithObject](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantwithobject)
+* [RuboCop - Lint/RedundantWithObject](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantwithobject)

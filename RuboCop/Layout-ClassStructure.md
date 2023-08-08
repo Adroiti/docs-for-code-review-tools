@@ -116,5 +116,5 @@ ExpectedOrder | `module_inclusion`, `constants`, `public_class_methods`, `initia
 
 ## Further Reading
 
-* [RuboCop - Layout/ClassStructure](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutclassstructure)
+* [RuboCop - Layout/ClassStructure](https://docs.rubocop.org/rubocop/cops_layout.html#layoutclassstructure)
 * [https://github.com/bbatsov/ruby-style-guide#consistent-classes](https://github.com/bbatsov/ruby-style-guide#consistent-classes)

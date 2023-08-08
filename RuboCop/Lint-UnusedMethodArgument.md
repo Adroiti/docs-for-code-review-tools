@@ -32,5 +32,5 @@ IgnoreEmptyMethods | true
 
 ## Further Reading
 
-* [RuboCop - Lint/UnusedMethodArgument](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunusedmethodargument)
+* [RuboCop - Lint/UnusedMethodArgument](https://docs.rubocop.org/rubocop/cops_lint.html#lintunusedmethodargument)
 * [https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars](https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars)

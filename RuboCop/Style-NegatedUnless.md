@@ -76,5 +76,5 @@ EnforcedStyle | `both` | `both`, `prefix`, `postfix`
 
 ## Further Reading
 
-* [RuboCop - Style/NegatedUnless](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenegatedunless)
+* [RuboCop - Style/NegatedUnless](https://docs.rubocop.org/rubocop/cops_style.html#stylenegatedunless)
 * [https://rubystyle.guide#if-for-negatives](https://rubystyle.guide#if-for-negatives)

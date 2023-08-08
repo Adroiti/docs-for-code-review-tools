@@ -9,4 +9,4 @@ removed without causing any offenses to be reported.
 
 ## Further Reading
 
-* [RuboCop - Lint/UnneededDisable](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunneededdisable)
+* [RuboCop - Lint/UnneededDisable](https://docs.rubocop.org/rubocop/cops_lint.html#lintunneededdisable)

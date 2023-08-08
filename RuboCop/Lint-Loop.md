@@ -43,5 +43,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/Loop](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintloop)
+* [RuboCop - Lint/Loop](https://docs.rubocop.org/rubocop/cops_lint.html#lintloop)
 * [https://github.com/bbatsov/ruby-style-guide#loop-with-break](https://github.com/bbatsov/ruby-style-guide#loop-with-break)

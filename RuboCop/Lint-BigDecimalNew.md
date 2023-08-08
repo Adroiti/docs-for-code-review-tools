@@ -18,4 +18,4 @@ BigDecimal(123.456, 3)
 
 ## Further Reading
 
-* [RuboCop - Lint/BigDecimalNew](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintbigdecimalnew)
+* [RuboCop - Lint/BigDecimalNew](https://docs.rubocop.org/rubocop/cops_lint.html#lintbigdecimalnew)

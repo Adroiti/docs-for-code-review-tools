@@ -27,4 +27,4 @@ of key-value-like pairs that isn't actually a hash, e.g.:
 
 ## Further Reading
 
-* [RuboCop - Style/HashTransformKeys](https://rubocop.readthedocs.io/en/latest/cops_style/#stylehashtransformkeys)
+* [RuboCop - Style/HashTransformKeys](https://docs.rubocop.org/rubocop/cops_style.html#stylehashtransformkeys)

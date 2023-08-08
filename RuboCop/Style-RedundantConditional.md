@@ -31,4 +31,4 @@ x != y
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantConditional](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantconditional)
+* [RuboCop - Style/RedundantConditional](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantconditional)

@@ -22,5 +22,5 @@ Not all cases can reliably checked, due to Ruby's dynamic types, so it considers
 
 ## Further Reading
 
-* [RuboCop - Style/ArrayJoin](https://rubocop.readthedocs.io/en/latest/cops_style/#stylearrayjoin)
+* [RuboCop - Style/ArrayJoin](https://docs.rubocop.org/rubocop/cops_style.html#stylearrayjoin)
 * [https://github.com/bbatsov/ruby-style-guide#array-join](https://github.com/bbatsov/ruby-style-guide#array-join)

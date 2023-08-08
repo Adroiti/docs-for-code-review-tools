@@ -114,4 +114,4 @@ IncludeTernaryExpressions | true
 
 ## Further Reading
 
-* [RuboCop - Style/ConditionalAssignment](https://rubocop.readthedocs.io/en/latest/cops_style/#styleconditionalassignment)
+* [RuboCop - Style/ConditionalAssignment](https://docs.rubocop.org/rubocop/cops_style.html#styleconditionalassignment)

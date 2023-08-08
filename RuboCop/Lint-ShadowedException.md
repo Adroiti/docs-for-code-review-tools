@@ -35,4 +35,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ShadowedException](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintshadowedexception)
+* [RuboCop - Lint/ShadowedException](https://docs.rubocop.org/rubocop/cops_lint.html#lintshadowedexception)

@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/DisjunctiveAssignmentInConstructor](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintdisjunctiveassignmentinconstructor)
+* [RuboCop - Lint/DisjunctiveAssignmentInConstructor](https://docs.rubocop.org/rubocop/cops_lint.html#lintdisjunctiveassignmentinconstructor)

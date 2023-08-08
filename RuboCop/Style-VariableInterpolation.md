@@ -38,5 +38,5 @@ puts "$global = #{$global}"
 
 ## Further Reading
 
-* [RuboCop - Style/VariableInterpolation](https://rubocop.readthedocs.io/en/latest/cops_style/#stylevariableinterpolation)
+* [RuboCop - Style/VariableInterpolation](https://docs.rubocop.org/rubocop/cops_style.html#stylevariableinterpolation)
 * [https://github.com/bbatsov/ruby-style-guide#curlies-interpolate](https://github.com/bbatsov/ruby-style-guide#curlies-interpolate)

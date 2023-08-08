@@ -30,4 +30,4 @@ SupportedStylesForEmptyBraces | space, no_space
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceBeforeBlockBraces](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacebeforeblockbraces)
+* [RuboCop - Layout/SpaceBeforeBlockBraces](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacebeforeblockbraces)

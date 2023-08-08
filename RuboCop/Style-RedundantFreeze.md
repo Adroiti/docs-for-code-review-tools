@@ -18,4 +18,4 @@ CONST = 1
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantFreeze](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantfreeze)
+* [RuboCop - Style/RedundantFreeze](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantfreeze)

@@ -20,4 +20,4 @@ return foo.minmax
 
 ## Further Reading
 
-* [RuboCop - Style/MinMax](https://rubocop.readthedocs.io/en/latest/cops_style/#styleminmax)
+* [RuboCop - Style/MinMax](https://docs.rubocop.org/rubocop/cops_style.html#styleminmax)

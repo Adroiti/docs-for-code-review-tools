@@ -36,5 +36,5 @@ WordRegex | (?-mix:\A[\p{Word}\n\t]+\z)
 
 ## Further Reading
 
-* [RuboCop - Style/WordArray](https://rubocop.readthedocs.io/en/latest/cops_style/#stylewordarray)
+* [RuboCop - Style/WordArray](https://docs.rubocop.org/rubocop/cops_style.html#stylewordarray)
 * [https://github.com/bbatsov/ruby-style-guide#percent-w](https://github.com/bbatsov/ruby-style-guide#percent-w)

@@ -20,5 +20,5 @@ warn('hello')
 
 ## Further Reading
 
-* [RuboCop - Style/StderrPuts](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestderrputs)
+* [RuboCop - Style/StderrPuts](https://docs.rubocop.org/rubocop/cops_style.html#stylestderrputs)
 * [https://github.com/bbatsov/ruby-style-guide#warn](https://github.com/bbatsov/ruby-style-guide#warn)

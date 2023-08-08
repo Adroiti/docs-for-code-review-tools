@@ -50,4 +50,4 @@ foo arg,
 
 ## Further Reading
 
-* [RuboCop - Layout/ClosingHeredocIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutclosingheredocindentation)
+* [RuboCop - Layout/ClosingHeredocIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutclosingheredocindentation)

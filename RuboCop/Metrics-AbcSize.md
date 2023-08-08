@@ -16,5 +16,5 @@ Max | 15
 
 ## Further Reading
 
-* [RuboCop - Metrics/AbcSize](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsabcsize)
+* [RuboCop - Metrics/AbcSize](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsabcsize)
 * [http://c2.com/cgi/wiki?AbcMetric](http://c2.com/cgi/wiki?AbcMetric)

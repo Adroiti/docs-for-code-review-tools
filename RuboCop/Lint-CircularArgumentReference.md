@@ -48,4 +48,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/CircularArgumentReference](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintcircularargumentreference)
+* [RuboCop - Lint/CircularArgumentReference](https://docs.rubocop.org/rubocop/cops_lint.html#lintcircularargumentreference)

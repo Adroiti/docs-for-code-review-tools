@@ -48,4 +48,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentHash](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindenthash)
+* [RuboCop - Layout/IndentHash](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindenthash)

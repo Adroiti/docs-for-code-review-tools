@@ -24,5 +24,5 @@ def attribute ...
 
 ## Further Reading
 
-* [RuboCop - Naming/AccessorMethodName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingaccessormethodname)
+* [RuboCop - Naming/AccessorMethodName](https://docs.rubocop.org/rubocop/cops_naming.html#namingaccessormethodname)
 * [https://github.com/bbatsov/ruby-style-guide#accessor_mutator_method_names](https://github.com/bbatsov/ruby-style-guide#accessor_mutator_method_names)

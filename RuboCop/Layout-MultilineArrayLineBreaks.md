@@ -25,4 +25,4 @@ Ensures that each item in a multi-line array starts on a separate line.
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineArrayLineBreaks](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilinearraylinebreaks)
+* [RuboCop - Layout/MultilineArrayLineBreaks](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilinearraylinebreaks)

@@ -25,4 +25,4 @@ method foo, bar,
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstMethodArgumentLineBreak](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirstmethodargumentlinebreak)
+* [RuboCop - Layout/FirstMethodArgumentLineBreak](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirstmethodargumentlinebreak)

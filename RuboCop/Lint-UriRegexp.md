@@ -18,4 +18,4 @@ URI::DEFAULT_PARSER.make_regexp('http://example.com')
 
 ## Further Reading
 
-* [RuboCop - Lint/UriRegexp](https://rubocop.readthedocs.io/en/latest/cops_lint/#linturiregexp)
+* [RuboCop - Lint/UriRegexp](https://docs.rubocop.org/rubocop/cops_lint.html#linturiregexp)

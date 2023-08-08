@@ -18,5 +18,5 @@ IgnoredMethods | lambda, proc, it
 
 ## Further Reading
 
-* [RuboCop - Style/BlockDelimiters](https://rubocop.readthedocs.io/en/latest/cops_style/#styleblockdelimiters)
+* [RuboCop - Style/BlockDelimiters](https://docs.rubocop.org/rubocop/cops_style.html#styleblockdelimiters)
 * [https://github.com/bbatsov/ruby-style-guide#single-line-blocks](https://github.com/bbatsov/ruby-style-guide#single-line-blocks)

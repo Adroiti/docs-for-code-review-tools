@@ -68,4 +68,4 @@ SupportedStyles | symmetrical, new_line, same_line
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineArrayBraceLayout](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilinearraybracelayout)
+* [RuboCop - Layout/MultilineArrayBraceLayout](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilinearraybracelayout)

@@ -24,4 +24,4 @@ p(? )
 
 ## Further Reading
 
-* [RuboCop - Lint/InvalidCharacterLiteral](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintinvalidcharacterliteral)
+* [RuboCop - Lint/InvalidCharacterLiteral](https://docs.rubocop.org/rubocop/cops_lint.html#lintinvalidcharacterliteral)

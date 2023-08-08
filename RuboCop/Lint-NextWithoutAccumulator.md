@@ -27,4 +27,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/NextWithoutAccumulator](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintnextwithoutaccumulator)
+* [RuboCop - Lint/NextWithoutAccumulator](https://docs.rubocop.org/rubocop/cops_lint.html#lintnextwithoutaccumulator)

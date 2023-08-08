@@ -22,5 +22,5 @@ names.each { |name| puts name }
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineBlockChain](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilineblockchain)
+* [RuboCop - Style/MultilineBlockChain](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilineblockchain)
 * [https://github.com/bbatsov/ruby-style-guide#single-line-blocks](https://github.com/bbatsov/ruby-style-guide#single-line-blocks)

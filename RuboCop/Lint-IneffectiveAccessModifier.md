@@ -49,4 +49,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/IneffectiveAccessModifier](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintineffectiveaccessmodifier)
+* [RuboCop - Lint/IneffectiveAccessModifier](https://docs.rubocop.org/rubocop/cops_lint.html#lintineffectiveaccessmodifier)

@@ -55,4 +55,4 @@ arr.max_by(&:foo)
 
 ## Further Reading
 
-* [RuboCop - Performance/UnneededSort](https://rubocop.readthedocs.io/en/latest/cops_style/#styleunneededsort)
+* [RuboCop - Performance/UnneededSort](https://docs.rubocop.org/rubocop/cops_style.html#styleunneededsort)

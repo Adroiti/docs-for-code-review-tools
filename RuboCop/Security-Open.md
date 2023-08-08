@@ -21,4 +21,4 @@ IO.popen(something)
 
 ## Further Reading
 
-* [RuboCop - Security/Open](https://rubocop.readthedocs.io/en/latest/cops_security/#securityopen)
+* [RuboCop - Security/Open](https://docs.rubocop.org/rubocop/cops_security.html#securityopen)

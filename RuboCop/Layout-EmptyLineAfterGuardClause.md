@@ -41,4 +41,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLineAfterGuardClause](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylineafterguardclause)
+* [RuboCop - Layout/EmptyLineAfterGuardClause](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylineafterguardclause)

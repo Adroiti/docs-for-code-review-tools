@@ -60,5 +60,5 @@ Exclude | spec/\*\*/\*
 
 ## Further Reading
 
-* [RuboCop - Style/NumericPredicate](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenumericpredicate)
+* [RuboCop - Style/NumericPredicate](https://docs.rubocop.org/rubocop/cops_style.html#stylenumericpredicate)
 * [https://github.com/bbatsov/ruby-style-guide#predicate-methods](https://github.com/bbatsov/ruby-style-guide#predicate-methods)

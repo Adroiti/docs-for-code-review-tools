@@ -59,5 +59,5 @@ EnforcedStyleForMultiline | `no_comma`
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingCommaInArrayLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingcommainarrayliteral)
+* [RuboCop - Style/TrailingCommaInArrayLiteral](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingcommainarrayliteral)
 * [https://github.com/bbatsov/ruby-style-guide#no-trailing-array-commas](https://github.com/bbatsov/ruby-style-guide#no-trailing-array-commas)

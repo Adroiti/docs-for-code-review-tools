@@ -36,4 +36,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/Redundant](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantcondition)
+* [RuboCop - Style/Redundant](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantcondition)

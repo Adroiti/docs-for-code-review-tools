@@ -31,4 +31,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstMethodParameterLineBreak](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirstmethodparameterlinebreak)
+* [RuboCop - Layout/FirstMethodParameterLineBreak](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirstmethodparameterlinebreak)

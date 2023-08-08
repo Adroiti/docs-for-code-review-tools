@@ -18,4 +18,4 @@ CONST = [1, 2, 3].freeze
 
 ## Further Reading
 
-* [RuboCop - Style/MutableConstant](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemutableconstant)
+* [RuboCop - Style/MutableConstant](https://docs.rubocop.org/rubocop/cops_style.html#stylemutableconstant)

@@ -8,4 +8,4 @@ This rule checks for usage of the `%W` syntax when interpolation is not needed o
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantCapitalW](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantcapitalw)
+* [RuboCop - Style/RedundantCapitalW](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantcapitalw)

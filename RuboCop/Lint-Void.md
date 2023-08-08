@@ -44,4 +44,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/Void](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintvoid)
+* [RuboCop - Lint/Void](https://docs.rubocop.org/rubocop/cops_lint.html#lintvoid)

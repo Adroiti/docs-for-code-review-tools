@@ -21,4 +21,4 @@ This rule checks for a line break before the first element in a multi-line hash.
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstHashElementLineBreak](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirsthashelementlinebreak)
+* [RuboCop - Layout/FirstHashElementLineBreak](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirsthashelementlinebreak)

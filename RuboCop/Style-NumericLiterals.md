@@ -34,5 +34,5 @@ Strict | false
 
 ## Further Reading
 
-* [RuboCop - Style/NumericLiterals](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenumericliterals)
+* [RuboCop - Style/NumericLiterals](https://docs.rubocop.org/rubocop/cops_style.html#stylenumericliterals)
 * [https://github.com/bbatsov/ruby-style-guide#underscores-in-numerics](https://github.com/bbatsov/ruby-style-guide#underscores-in-numerics)

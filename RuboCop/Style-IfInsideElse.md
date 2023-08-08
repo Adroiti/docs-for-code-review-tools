@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/IfInsideElse](https://rubocop.readthedocs.io/en/latest/cops_style/#styleifinsideelse)
+* [RuboCop - Style/IfInsideElse](https://docs.rubocop.org/rubocop/cops_style.html#styleifinsideelse)

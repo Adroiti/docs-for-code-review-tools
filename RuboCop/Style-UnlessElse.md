@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/UnlessElse](https://rubocop.readthedocs.io/en/latest/cops_style/#styleunlesselse)
+* [RuboCop - Style/UnlessElse](https://docs.rubocop.org/rubocop/cops_style.html#styleunlesselse)
 * [https://github.com/bbatsov/ruby-style-guide#no-else-with-unless](https://github.com/bbatsov/ruby-style-guide#no-else-with-unless)

@@ -18,4 +18,4 @@ This rule checks for missing space between a token and a comment on the same lin
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceBeforeComment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacebeforecomment)
+* [RuboCop - Layout/SpaceBeforeComment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacebeforecomment)

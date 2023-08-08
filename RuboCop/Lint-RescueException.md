@@ -29,5 +29,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RescueException](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintrescueexception)
+* [RuboCop - Lint/RescueException](https://docs.rubocop.org/rubocop/cops_lint.html#lintrescueexception)
 * [https://github.com/bbatsov/ruby-style-guide#no-blind-rescues](https://github.com/bbatsov/ruby-style-guide#no-blind-rescues)

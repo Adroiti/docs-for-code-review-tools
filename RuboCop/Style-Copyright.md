@@ -21,4 +21,4 @@ Notice | ^Copyright (\(c\) )?2[0-9]{3} .+
 
 ## Further Reading
 
-* [RuboCop - Style/Copyright](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecopyright)
+* [RuboCop - Style/Copyright](https://docs.rubocop.org/rubocop/cops_style.html#stylecopyright)

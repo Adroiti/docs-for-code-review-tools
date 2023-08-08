@@ -83,4 +83,4 @@ EnforcedStyleForEmptyBrackets | `no_space`
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideArrayLiteralBrackets](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsidearrayliteralbrackets)
+* [RuboCop - Layout/SpaceInsideArrayLiteralBrackets](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsidearrayliteralbrackets)

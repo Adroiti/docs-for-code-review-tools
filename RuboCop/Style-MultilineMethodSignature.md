@@ -23,4 +23,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineMethodSignature](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilinemethodsignature)
+* [RuboCop - Style/MultilineMethodSignature](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilinemethodsignature)

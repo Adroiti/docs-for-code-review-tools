@@ -34,5 +34,5 @@ Exclude | `spec/**/*`
 
 ## Further Reading
 
-* [RuboCop - Naming/PredicateName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingpredicatename)
+* [RuboCop - Naming/PredicateName](https://docs.rubocop.org/rubocop/cops_naming.html#namingpredicatename)
 * [https://github.com/bbatsov/ruby-style-guide#bool-methods-qmark](https://github.com/bbatsov/ruby-style-guide#bool-methods-qmark)

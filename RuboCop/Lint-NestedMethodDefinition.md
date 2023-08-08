@@ -57,5 +57,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/NestedMethodDefinition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintnestedmethoddefinition)
+* [RuboCop - Lint/NestedMethodDefinition](https://docs.rubocop.org/rubocop/cops_lint.html#lintnestedmethoddefinition)
 * [https://github.com/bbatsov/ruby-style-guide#no-nested-methods](https://github.com/bbatsov/ruby-style-guide#no-nested-methods)

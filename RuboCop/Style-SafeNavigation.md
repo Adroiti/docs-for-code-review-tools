@@ -56,4 +56,4 @@ ConvertCodeThatCanStartToReturnNil | false
 
 ## Further Reading
 
-* [RuboCop - Style/SafeNavigation](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesafenavigation)
+* [RuboCop - Style/SafeNavigation](https://docs.rubocop.org/rubocop/cops_style.html#stylesafenavigation)

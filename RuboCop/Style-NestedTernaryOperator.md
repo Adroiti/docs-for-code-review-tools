@@ -22,5 +22,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/NestedTernaryOperator](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenestedternaryoperator)
+* [RuboCop - Style/NestedTernaryOperator](https://docs.rubocop.org/rubocop/cops_style.html#stylenestedternaryoperator)
 * [https://github.com/bbatsov/ruby-style-guide#no-nested-ternary](https://github.com/bbatsov/ruby-style-guide#no-nested-ternary)

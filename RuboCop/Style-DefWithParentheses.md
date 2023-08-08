@@ -8,5 +8,5 @@ This rule checks for parentheses in the definition of a method, that does not ta
 
 ## Further Reading
 
-* [RuboCop - Style/DefWithParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#styledefwithparentheses)
+* [RuboCop - Style/DefWithParentheses](https://docs.rubocop.org/rubocop/cops_style.html#styledefwithparentheses)
 * [https://github.com/bbatsov/ruby-style-guide#method-parens](https://github.com/bbatsov/ruby-style-guide#method-parens)

@@ -21,4 +21,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingBodyOnClass](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingbodyonclass)
+* [RuboCop - Style/TrailingBodyOnClass](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingbodyonclass)

@@ -19,5 +19,5 @@ raise StandardError, 'Error message here'
 
 ## Further Reading
 
-* [RuboCop - Lint/RaiseException](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintraiseexception)
+* [RuboCop - Lint/RaiseException](https://docs.rubocop.org/rubocop/cops_lint.html#lintraiseexception)
 * [https://rubystyle.guide#raise-exception](https://rubystyle.guide#raise-exception)

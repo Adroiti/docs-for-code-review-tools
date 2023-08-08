@@ -42,4 +42,4 @@ SupportedStyles | annotated, template
 
 ## Further Reading
 
-* [RuboCop - Style/FormatStringToken](https://rubocop.readthedocs.io/en/latest/cops_style/#styleformatstringtoken)
+* [RuboCop - Style/FormatStringToken](https://docs.rubocop.org/rubocop/cops_style.html#styleformatstringtoken)

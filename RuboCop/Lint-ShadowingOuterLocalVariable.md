@@ -34,4 +34,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ShadowingOuterLocalVariable](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintshadowingouterlocalvariable)
+* [RuboCop - Lint/ShadowingOuterLocalVariable](https://docs.rubocop.org/rubocop/cops_lint.html#lintshadowingouterlocalvariable)

@@ -40,5 +40,5 @@ SupportedStyles | short, verbose
 
 ## Further Reading
 
-* [RuboCop - Style/PreferredHashMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#stylepreferredhashmethods)
+* [RuboCop - Style/PreferredHashMethods](https://docs.rubocop.org/rubocop/cops_style.html#stylepreferredhashmethods)
 * [https://github.com/bbatsov/ruby-style-guide#hash-key](https://github.com/bbatsov/ruby-style-guide#hash-key)

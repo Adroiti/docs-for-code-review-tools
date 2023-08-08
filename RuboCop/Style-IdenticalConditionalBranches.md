@@ -68,4 +68,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/IdenticalConditionalBranches](https://rubocop.readthedocs.io/en/latest/cops_style/#styleidenticalconditionalbranches)
+* [RuboCop - Style/IdenticalConditionalBranches](https://docs.rubocop.org/rubocop/cops_style.html#styleidenticalconditionalbranches)

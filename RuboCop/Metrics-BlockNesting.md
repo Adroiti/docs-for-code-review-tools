@@ -22,5 +22,5 @@ Max | 3
 
 ## Further Reading
 
-* [RuboCop - Metrics/BlockNesting](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsblocknesting)
+* [RuboCop - Metrics/BlockNesting](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsblocknesting)
 * [https://github.com/bbatsov/ruby-style-guide#three-is-the-number-thou-shalt-count](https://github.com/bbatsov/ruby-style-guide#three-is-the-number-thou-shalt-count)

@@ -25,4 +25,4 @@ rather than meant to be part of the resulting strings.
 
 ## Further Reading
 
-* [RuboCop - Lint/PercentStringArray](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintpercentstringarray)
+* [RuboCop - Lint/PercentStringArray](https://docs.rubocop.org/rubocop/cops_lint.html#lintpercentstringarray)

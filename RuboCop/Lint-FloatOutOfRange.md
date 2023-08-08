@@ -21,4 +21,4 @@ float = 42.9
 
 ## Further Reading
 
-* [RuboCop - Lint/FloatOutOfRange](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintfloatoutofrange)
+* [RuboCop - Lint/FloatOutOfRange](https://docs.rubocop.org/rubocop/cops_lint.html#lintfloatoutofrange)

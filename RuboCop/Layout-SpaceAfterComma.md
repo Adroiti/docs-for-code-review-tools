@@ -20,5 +20,5 @@ Checks for comma (`,`) not followed by some kind of space.
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAfterComma](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceaftercomma)
+* [RuboCop - Layout/SpaceAfterComma](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceaftercomma)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-operators](https://github.com/bbatsov/ruby-style-guide#spaces-operators)

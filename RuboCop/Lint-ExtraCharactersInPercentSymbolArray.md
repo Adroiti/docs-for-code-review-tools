@@ -25,4 +25,4 @@ rather than meant to be part of the resulting symbols.
 
 ## Further Reading
 
-* [RuboCop - Lint/ExtraCharactersInPercentSymbolArray](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintextracharactersinpercentsymbolarray)
+* [RuboCop - Lint/ExtraCharactersInPercentSymbolArray](https://docs.rubocop.org/rubocop/cops_lint.html#lintextracharactersinpercentsymbolarray)

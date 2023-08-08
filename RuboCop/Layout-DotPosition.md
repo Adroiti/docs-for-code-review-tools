@@ -27,5 +27,5 @@ SupportedStyles | leading, trailing
 
 ## Further Reading
 
-* [RuboCop - Layout/DotPosition](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutdotposition)
+* [RuboCop - Layout/DotPosition](https://docs.rubocop.org/rubocop/cops_layout.html#layoutdotposition)
 * [https://github.com/bbatsov/ruby-style-guide#consistent-multi-line-chains](https://github.com/bbatsov/ruby-style-guide#consistent-multi-line-chains)

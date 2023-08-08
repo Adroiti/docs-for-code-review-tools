@@ -27,5 +27,5 @@ c = 3
 
 ## Further Reading
 
-* [RuboCop - Style/ParallelAssignment](https://rubocop.readthedocs.io/en/latest/cops_style/#styleparallelassignment)
+* [RuboCop - Style/ParallelAssignment](https://docs.rubocop.org/rubocop/cops_style.html#styleparallelassignment)
 * [https://github.com/bbatsov/ruby-style-guide#parallel-assignment](https://github.com/bbatsov/ruby-style-guide#parallel-assignment)

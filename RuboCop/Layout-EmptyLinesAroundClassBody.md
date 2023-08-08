@@ -31,5 +31,5 @@ SupportedStyles | empty_lines, empty_lines_except_namespace, empty_lines_special
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLinesAroundClassBody](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinesaroundclassbody)
+* [RuboCop - Layout/EmptyLinesAroundClassBody](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinesaroundclassbody)
 * [https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies](https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies)

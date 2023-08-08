@@ -82,4 +82,4 @@ SupportedStyles | empty, nil, both
 
 ## Further Reading
 
-* [RuboCop - Style/EmptyElse](https://rubocop.readthedocs.io/en/latest/cops_style/#styleemptyelse)
+* [RuboCop - Style/EmptyElse](https://docs.rubocop.org/rubocop/cops_style.html#styleemptyelse)

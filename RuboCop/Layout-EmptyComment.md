@@ -81,4 +81,4 @@ AllowMarginComment | `true`
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyComment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptycomment)
+* [RuboCop - Layout/EmptyComment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptycomment)

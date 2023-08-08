@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/LiteralAsCondition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintliteralascondition)
+* [RuboCop - Lint/LiteralAsCondition](https://docs.rubocop.org/rubocop/cops_lint.html#lintliteralascondition)

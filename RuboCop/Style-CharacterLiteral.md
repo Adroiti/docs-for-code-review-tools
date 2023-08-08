@@ -18,5 +18,5 @@ char = 'c'
 
 ## Further Reading
 
-* [RuboCop - Style/CharacterLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecharacterliteral)
+* [RuboCop - Style/CharacterLiteral](https://docs.rubocop.org/rubocop/cops_style.html#stylecharacterliteral)
 * [https://github.com/bbatsov/ruby-style-guide#no-character-literals](https://github.com/bbatsov/ruby-style-guide#no-character-literals)

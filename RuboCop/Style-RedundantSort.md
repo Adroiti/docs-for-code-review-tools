@@ -55,4 +55,4 @@ arr.max_by(&:foo)
 
 ## Further Reading
 
-* [RuboCop - Performance/RedundantSort](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantsort)
+* [RuboCop - Performance/RedundantSort](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantsort)

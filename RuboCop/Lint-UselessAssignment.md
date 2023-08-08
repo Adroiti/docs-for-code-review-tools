@@ -32,5 +32,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/UselessAssignment](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintuselessassignment)
+* [RuboCop - Lint/UselessAssignment](https://docs.rubocop.org/rubocop/cops_lint.html#lintuselessassignment)
 * [https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars](https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars)

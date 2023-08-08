@@ -22,4 +22,4 @@ RUBY
 
 ## Further Reading
 
-* [RuboCop - Layout/HeredocIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutheredocindentation)
+* [RuboCop - Layout/HeredocIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutheredocindentation)

@@ -19,5 +19,5 @@ IgnoredPatterns |
 
 ## Further Reading
 
-* [RuboCop - Metrics/LineLength](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricslinelength)
+* [RuboCop - Metrics/LineLength](https://docs.rubocop.org/rubocop/cops_metrics.html#metricslinelength)
 * [https://github.com/bbatsov/ruby-style-guide#80-character-limits](https://github.com/bbatsov/ruby-style-guide#80-character-limits)

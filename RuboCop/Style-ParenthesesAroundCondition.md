@@ -28,5 +28,5 @@ AllowSafeAssignment | true
 
 ## Further Reading
 
-* [RuboCop - Style/ParenthesesAroundCondition](https://rubocop.readthedocs.io/en/latest/cops_style/#styleparenthesesaroundcondition)
+* [RuboCop - Style/ParenthesesAroundCondition](https://docs.rubocop.org/rubocop/cops_style.html#styleparenthesesaroundcondition)
 * [https://github.com/bbatsov/ruby-style-guide#no-parens-around-condition](https://github.com/bbatsov/ruby-style-guide#no-parens-around-condition)

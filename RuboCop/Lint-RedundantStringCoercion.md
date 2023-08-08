@@ -21,5 +21,5 @@ This rule checks for string conversion in string interpolation, which is redunda
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantStringCoercion](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantstringcoercion)
+* [RuboCop - Lint/RedundantStringCoercion](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantstringcoercion)
 * [https://github.com/bbatsov/ruby-style-guide#no-to-s](https://github.com/bbatsov/ruby-style-guide#no-to-s)

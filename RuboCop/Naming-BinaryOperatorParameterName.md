@@ -18,5 +18,5 @@ def +(other); end
 
 ## Further Reading
 
-* [RuboCop - Naming/BinaryOperatorParameterName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingbinaryoperatorparametername)
+* [RuboCop - Naming/BinaryOperatorParameterName](https://docs.rubocop.org/rubocop/cops_naming.html#namingbinaryoperatorparametername)
 * [https://github.com/bbatsov/ruby-style-guide#other-arg](https://github.com/bbatsov/ruby-style-guide#other-arg)

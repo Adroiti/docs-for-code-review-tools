@@ -16,5 +16,5 @@ ConsistentQuotesInMultiline | false
 
 ## Further Reading
 
-* [RuboCop - Style/StringLiterals](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestringliterals)
+* [RuboCop - Style/StringLiterals](https://docs.rubocop.org/rubocop/cops_style.html#stylestringliterals)
 * [https://github.com/bbatsov/ruby-style-guide#consistent-string-literals](https://github.com/bbatsov/ruby-style-guide#consistent-string-literals)

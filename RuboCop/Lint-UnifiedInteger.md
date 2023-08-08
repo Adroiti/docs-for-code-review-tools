@@ -22,4 +22,4 @@ This rule checks for using `Fixnum` or `Bignum` constant.
 
 ## Further Reading
 
-* [RuboCop - Lint/UnifiedInteger](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunifiedinteger)
+* [RuboCop - Lint/UnifiedInteger](https://docs.rubocop.org/rubocop/cops_lint.html#lintunifiedinteger)

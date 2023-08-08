@@ -31,4 +31,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/UselessElseWithoutRescue](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintuselesselsewithoutrescue)
+* [RuboCop - Lint/UselessElseWithoutRescue](https://docs.rubocop.org/rubocop/cops_lint.html#lintuselesselsewithoutrescue)

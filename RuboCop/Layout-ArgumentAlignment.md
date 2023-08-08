@@ -54,5 +54,5 @@ IndentationWidth | `<none>`
 
 ## Further Reading
 
-* [RuboCop - Layout/ArgumentAlignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutargumentalignment)
+* [RuboCop - Layout/ArgumentAlignment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutargumentalignment)
 * [https://github.com/rubocop-hq/ruby-style-guide#no-double-indent](https://github.com/rubocop-hq/ruby-style-guide#no-double-indent)

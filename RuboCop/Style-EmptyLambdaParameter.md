@@ -23,4 +23,4 @@ redundant.
 
 ## Further Reading
 
-* [RuboCop - Style/EmptyLambdaParameter](https://rubocop.readthedocs.io/en/latest/cops_style/#styleemptylambdaparameter)
+* [RuboCop - Style/EmptyLambdaParameter](https://docs.rubocop.org/rubocop/cops_style.html#styleemptylambdaparameter)

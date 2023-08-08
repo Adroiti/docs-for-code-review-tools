@@ -86,5 +86,5 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/CaseIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutcaseindentation)
+* [RuboCop - Layout/CaseIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutcaseindentation)
 * [https://github.com/bbatsov/ruby-style-guide#indent-when-to-case](https://github.com/bbatsov/ruby-style-guide#indent-when-to-case)

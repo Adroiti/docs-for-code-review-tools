@@ -30,4 +30,4 @@ blah { |i|
 
 ## Further Reading
 
-* [RuboCop - Layout/BlockEndNewline](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutblockendnewline)
+* [RuboCop - Layout/BlockEndNewline](https://docs.rubocop.org/rubocop/cops_layout.html#layoutblockendnewline)

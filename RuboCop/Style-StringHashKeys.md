@@ -18,5 +18,5 @@ This rule checks for the use of strings as keys in hashes. The use of symbols is
 
 ## Further Reading
 
-* [RuboCop - Style/StringHashKeys](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestringhashkeys)
+* [RuboCop - Style/StringHashKeys](https://docs.rubocop.org/rubocop/cops_style.html#stylestringhashkeys)
 * [https://github.com/bbatsov/ruby-style-guide#symbols-as-keys](https://github.com/bbatsov/ruby-style-guide#symbols-as-keys)

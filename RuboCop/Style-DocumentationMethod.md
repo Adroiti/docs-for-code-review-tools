@@ -60,4 +60,4 @@ RequireForNonPublicMethods | false
 
 ## Further Reading
 
-* [RuboCop - Style/DocumentationMethod](https://rubocop.readthedocs.io/en/latest/cops_style/#styledocumentationmethod)
+* [RuboCop - Style/DocumentationMethod](https://docs.rubocop.org/rubocop/cops_style.html#styledocumentationmethod)

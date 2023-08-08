@@ -24,5 +24,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/ColonMethodDefinition](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecolonmethoddefinition)
+* [RuboCop - Style/ColonMethodDefinition](https://docs.rubocop.org/rubocop/cops_style.html#stylecolonmethoddefinition)
 * [https://github.com/bbatsov/ruby-style-guide#colon-method-definition](https://github.com/bbatsov/ruby-style-guide#colon-method-definition)

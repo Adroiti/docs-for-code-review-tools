@@ -22,4 +22,4 @@ rand(-1.0)
 
 ## Further Reading
 
-* [RuboCop - Lint/RandOne](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintrandone)
+* [RuboCop - Lint/RandOne](https://docs.rubocop.org/rubocop/cops_lint.html#lintrandone)

@@ -26,5 +26,5 @@ a = ['run',
 
 ## Further Reading
 
-* [RuboCop - Layout/ArrayAlignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutarrayalignment)
+* [RuboCop - Layout/ArrayAlignment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutarrayalignment)
 * [https://github.com/bbatsov/ruby-style-guide#align-multiline-arrays](https://github.com/bbatsov/ruby-style-guide#align-multiline-arrays)

@@ -28,4 +28,4 @@ x += 1
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantCopDisableDirective](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantcopdisabledirective)
+* [RuboCop - Lint/RedundantCopDisableDirective](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantcopdisabledirective)

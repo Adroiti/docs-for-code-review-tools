@@ -15,5 +15,5 @@ SupportedStyles | final_newline, final_blank_line
 
 ## Further Reading
 
-* [RuboCop - Layout/TrailingEmptyLines](https://rubocop.readthedocs.io/en/latest/cops_layout/#layouttrailingemptylines)
+* [RuboCop - Layout/TrailingEmptyLines](https://docs.rubocop.org/rubocop/cops_layout.html#layouttrailingemptylines)
 * [https://github.com/bbatsov/ruby-style-guide#newline-eof](https://github.com/bbatsov/ruby-style-guide#newline-eof)

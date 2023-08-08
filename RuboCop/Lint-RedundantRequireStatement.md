@@ -19,4 +19,4 @@ require 'unloaded_feature'
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantRequireStatement](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantrequirestatement)
+* [RuboCop - Lint/RedundantRequireStatement](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantrequirestatement)

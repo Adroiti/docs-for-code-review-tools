@@ -21,4 +21,4 @@ This rule checks for accessing the first element of `String#unpack` which can be
 
 ## Further Reading
 
-* [RuboCop - Style/UnpackFirst](https://rubocop.readthedocs.io/en/latest/cops_style/#styleunpackfirst)
+* [RuboCop - Style/UnpackFirst](https://docs.rubocop.org/rubocop/cops_style.html#styleunpackfirst)

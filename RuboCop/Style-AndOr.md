@@ -41,5 +41,5 @@ SupportedStyles | always, conditionals
 
 ## Further Reading
 
-* [RuboCop - Style/AndOr](https://rubocop.readthedocs.io/en/latest/cops_style/#styleandor)
+* [RuboCop - Style/AndOr](https://docs.rubocop.org/rubocop/cops_style.html#styleandor)
 * [https://github.com/bbatsov/ruby-style-guide#no-and-or-or](https://github.com/bbatsov/ruby-style-guide#no-and-or-or)

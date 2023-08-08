@@ -39,4 +39,4 @@ SupportedStyles | if, case, both
 
 ## Further Reading
 
-* [RuboCop - Style/MissingElse](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemissingelse)
+* [RuboCop - Style/MissingElse](https://docs.rubocop.org/rubocop/cops_style.html#stylemissingelse)

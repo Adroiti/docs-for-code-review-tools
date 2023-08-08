@@ -40,5 +40,5 @@ SupportedStylesForMultiline | comma, consistent_comma, no_comma
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingCommaInArguments](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingcommainarguments)
+* [RuboCop - Style/TrailingCommaInArguments](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingcommainarguments)
 * [https://github.com/bbatsov/ruby-style-guide#no-trailing-params-comma](https://github.com/bbatsov/ruby-style-guide#no-trailing-params-comma)

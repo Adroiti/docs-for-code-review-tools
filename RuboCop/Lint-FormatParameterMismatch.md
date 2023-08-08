@@ -21,4 +21,4 @@ format('A value: %s and another: %i', a_value, another)
 
 ## Further Reading
 
-* [RuboCop - Lint/FormatParameterMismatch](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintformatparametermismatch)
+* [RuboCop - Lint/FormatParameterMismatch](https://docs.rubocop.org/rubocop/cops_lint.html#lintformatparametermismatch)

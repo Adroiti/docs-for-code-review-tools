@@ -27,4 +27,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/IfUnlessModifierOfIfUnless](https://rubocop.readthedocs.io/en/latest/cops_style/#styleifunlessmodifierofifunless)
+* [RuboCop - Style/IfUnlessModifierOfIfUnless](https://docs.rubocop.org/rubocop/cops_style.html#styleifunlessmodifierofifunless)

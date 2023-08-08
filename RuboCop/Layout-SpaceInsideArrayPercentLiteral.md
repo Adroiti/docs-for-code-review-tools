@@ -18,4 +18,4 @@ Checks for unnecessary additional spaces inside array percent literals (i.e. `%i
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideArrayPercentLiteral](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsidearraypercentliteral)
+* [RuboCop - Layout/SpaceInsideArrayPercentLiteral](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsidearraypercentliteral)

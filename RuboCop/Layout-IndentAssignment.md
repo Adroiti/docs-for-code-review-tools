@@ -30,4 +30,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentAssignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindentassignment)
+* [RuboCop - Layout/IndentAssignment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindentassignment)

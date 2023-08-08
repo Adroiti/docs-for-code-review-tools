@@ -55,5 +55,5 @@ IgnoredPatterns |
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentationWidth](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindentationwidth)
+* [RuboCop - Layout/IndentationWidth](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindentationwidth)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-indentation](https://github.com/bbatsov/ruby-style-guide#spaces-indentation)

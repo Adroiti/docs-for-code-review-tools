@@ -39,4 +39,4 @@ Include | \*\*/Gemfile, \*\*/gems.rb
 
 ## Further Reading
 
-* [RuboCop - Bundler/DuplicatedGem](https://rubocop.readthedocs.io/en/latest/cops_bundler/#bundlerduplicatedgem)
+* [RuboCop - Bundler/DuplicatedGem](https://docs.rubocop.org/rubocop/cops_bundler.html#bundlerduplicatedgem)

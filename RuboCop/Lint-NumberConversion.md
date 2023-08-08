@@ -24,4 +24,4 @@ Complex('10')
 
 ## Further Reading
 
-* [RuboCop - Lint/NumberConversion](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintnumberconversion)
+* [RuboCop - Lint/NumberConversion](https://docs.rubocop.org/rubocop/cops_lint.html#lintnumberconversion)

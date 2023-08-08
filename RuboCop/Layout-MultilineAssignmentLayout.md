@@ -44,5 +44,5 @@ SupportedStyles | same_line, new_line
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineAssignmentLayout](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilineassignmentlayout)
+* [RuboCop - Layout/MultilineAssignmentLayout](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilineassignmentlayout)
 * [https://github.com/bbatsov/ruby-style-guide#indent-conditional-assignment](https://github.com/bbatsov/ruby-style-guide#indent-conditional-assignment)

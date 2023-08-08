@@ -31,5 +31,5 @@ SupportedStyles | require_parentheses, require_no_parentheses
 
 ## Further Reading
 
-* [RuboCop - Style/StabbyLambdaParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestabbylambdaparentheses)
+* [RuboCop - Style/StabbyLambdaParentheses](https://docs.rubocop.org/rubocop/cops_style.html#stylestabbylambdaparentheses)
 * [https://github.com/bbatsov/ruby-style-guide#stabby-lambda-with-args](https://github.com/bbatsov/ruby-style-guide#stabby-lambda-with-args)

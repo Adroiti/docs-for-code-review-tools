@@ -59,4 +59,4 @@ EnforcedStyleForMultiline | `no_comma`
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingCommaInHashLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingcommainhashliteral)
+* [RuboCop - Style/TrailingCommaInHashLiteral](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingcommainhashliteral)

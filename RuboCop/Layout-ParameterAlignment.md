@@ -45,5 +45,5 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/ParameterAlignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutparameteralignment)
+* [RuboCop - Layout/ParameterAlignment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutparameteralignment)
 * [https://github.com/bbatsov/ruby-style-guide#no-double-indent](https://github.com/bbatsov/ruby-style-guide#no-double-indent)

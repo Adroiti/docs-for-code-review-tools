@@ -23,4 +23,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RegexpAsCondition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintregexpascondition)
+* [RuboCop - Lint/RegexpAsCondition](https://docs.rubocop.org/rubocop/cops_lint.html#lintregexpascondition)

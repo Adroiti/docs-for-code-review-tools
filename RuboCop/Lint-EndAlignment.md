@@ -60,4 +60,4 @@ SupportedStylesAlignWith | keyword, variable, start_of_line
 
 ## Further Reading
 
-* [RuboCop - Lint/EndAlignment](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintendalignment)
+* [RuboCop - Lint/EndAlignment](https://docs.rubocop.org/rubocop/cops_lint.html#lintendalignment)

@@ -42,4 +42,4 @@ blah { |i|
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineBlockLayout](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilineblocklayout)
+* [RuboCop - Layout/MultilineBlockLayout](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilineblocklayout)

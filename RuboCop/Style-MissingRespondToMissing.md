@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MissingRespondToMissing](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemissingrespondtomissing)
+* [RuboCop - Style/MissingRespondToMissing](https://docs.rubocop.org/rubocop/cops_style.html#stylemissingrespondtomissing)
 * [GitHub - rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide#no-method-missing)

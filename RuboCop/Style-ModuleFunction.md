@@ -31,5 +31,5 @@ SupportedStyles | module_function, extend_self
 
 ## Further Reading
 
-* [RuboCop - Style/ModuleFunction](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemodulefunction)
+* [RuboCop - Style/ModuleFunction](https://docs.rubocop.org/rubocop/cops_style.html#stylemodulefunction)
 * [https://github.com/bbatsov/ruby-style-guide#module-function](https://github.com/bbatsov/ruby-style-guide#module-function)

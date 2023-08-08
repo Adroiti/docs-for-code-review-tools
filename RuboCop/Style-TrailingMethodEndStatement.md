@@ -39,4 +39,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingMethodEndStatement](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingmethodendstatement)
+* [RuboCop - Style/TrailingMethodEndStatement](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingmethodendstatement)

@@ -46,4 +46,4 @@ Pathname.new(__dir__).expand_path
 
 ## Further Reading
 
-* [RuboCop - Style/ExpandPathArguments](https://rubocop.readthedocs.io/en/latest/cops_style/#styleexpandpatharguments)
+* [RuboCop - Style/ExpandPathArguments](https://docs.rubocop.org/rubocop/cops_style.html#styleexpandpatharguments)

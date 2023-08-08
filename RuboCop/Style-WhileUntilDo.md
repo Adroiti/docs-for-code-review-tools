@@ -30,5 +30,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/WhileUntilDo](https://rubocop.readthedocs.io/en/latest/cops_style/#stylewhileuntildo)
+* [RuboCop - Style/WhileUntilDo](https://docs.rubocop.org/rubocop/cops_style.html#stylewhileuntildo)
 * [https://github.com/bbatsov/ruby-style-guide#no-multiline-while-do](https://github.com/bbatsov/ruby-style-guide#no-multiline-while-do)

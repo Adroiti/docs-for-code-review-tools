@@ -22,5 +22,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/RescueModifier](https://rubocop.readthedocs.io/en/latest/cops_style/#stylerescuemodifier)
+* [RuboCop - Style/RescueModifier](https://docs.rubocop.org/rubocop/cops_style.html#stylerescuemodifier)
 * [https://github.com/bbatsov/ruby-style-guide#no-rescue-modifiers](https://github.com/bbatsov/ruby-style-guide#no-rescue-modifiers)

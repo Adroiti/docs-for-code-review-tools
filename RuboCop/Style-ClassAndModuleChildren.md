@@ -27,5 +27,5 @@ SupportedStyles | nested, compact
 
 ## Further Reading
 
-* [RuboCop - Style/ClassAndModuleChildren](https://rubocop.readthedocs.io/en/latest/cops_style/#styleclassandmodulechildren)
+* [RuboCop - Style/ClassAndModuleChildren](https://docs.rubocop.org/rubocop/cops_style.html#styleclassandmodulechildren)
 * [https://github.com/bbatsov/ruby-style-guide#namespace-definition](https://github.com/bbatsov/ruby-style-guide#namespace-definition)

@@ -41,4 +41,4 @@ InverseBlocks | {:select=>:reject, :select!=>:reject!}
 
 ## Further Reading
 
-* [RuboCop - Style/InverseMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#styleinversemethods)
+* [RuboCop - Style/InverseMethods](https://docs.rubocop.org/rubocop/cops_style.html#styleinversemethods)

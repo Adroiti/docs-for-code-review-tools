@@ -26,4 +26,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/DoubleCopDisableDirective](https://rubocop.readthedocs.io/en/latest/cops_style/#styledoublecopdisabledirective)
+* [RuboCop - Style/DoubleCopDisableDirective](https://docs.rubocop.org/rubocop/cops_style.html#styledoublecopdisabledirective)

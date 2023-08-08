@@ -21,5 +21,5 @@ puts(x + y)
 
 ## Further Reading
 
-* [RuboCop - Lint/ParenthesesAsGroupedExpression](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintparenthesesasgroupedexpression)
+* [RuboCop - Lint/ParenthesesAsGroupedExpression](https://docs.rubocop.org/rubocop/cops_lint.html#lintparenthesesasgroupedexpression)
 * [https://github.com/bbatsov/ruby-style-guide#parens-no-spaces](https://github.com/bbatsov/ruby-style-guide#parens-no-spaces)

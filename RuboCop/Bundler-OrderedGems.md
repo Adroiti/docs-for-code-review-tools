@@ -38,4 +38,4 @@ TreatCommentsAsGroupSeparators | true
 
 ## Further Reading
 
-* [RuboCop - Bundler/OrderedGems](https://rubocop.readthedocs.io/en/latest/cops_bundler/#bundlerorderedgems)
+* [RuboCop - Bundler/OrderedGems](https://docs.rubocop.org/rubocop/cops_bundler.html#bundlerorderedgems)

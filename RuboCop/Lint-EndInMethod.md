@@ -31,4 +31,4 @@ END { do_something }
 
 ## Further Reading
 
-* [RuboCop - Lint/EndInMethod](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintendinmethod)
+* [RuboCop - Lint/EndInMethod](https://docs.rubocop.org/rubocop/cops_lint.html#lintendinmethod)

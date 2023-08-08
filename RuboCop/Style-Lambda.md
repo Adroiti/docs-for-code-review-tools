@@ -66,5 +66,5 @@ SupportedStyles | line_count_dependent, lambda, literal
 
 ## Further Reading
 
-* [RuboCop - Style/Lambda](https://rubocop.readthedocs.io/en/latest/cops_style/#stylelambda)
+* [RuboCop - Style/Lambda](https://docs.rubocop.org/rubocop/cops_style.html#stylelambda)
 * [https://github.com/bbatsov/ruby-style-guide#lambda-multi-line](https://github.com/bbatsov/ruby-style-guide#lambda-multi-line)

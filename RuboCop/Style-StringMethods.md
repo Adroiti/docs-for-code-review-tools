@@ -14,4 +14,4 @@ PreferredMethods | {"intern"=>"to_sym"}
 
 ## Further Reading
 
-* [RuboCop - Style/StringMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestringmethods)
+* [RuboCop - Style/StringMethods](https://docs.rubocop.org/rubocop/cops_style.html#stylestringmethods)

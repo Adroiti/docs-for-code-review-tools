@@ -35,6 +35,6 @@ AllowedVariables |
 
 ## Further Reading
 
-* [RuboCop - Style/GlobalVars](https://rubocop.readthedocs.io/en/latest/cops_style/#styleglobalvars)
+* [RuboCop - Style/GlobalVars](https://docs.rubocop.org/rubocop/cops_style.html#styleglobalvars)
 * [https://github.com/bbatsov/ruby-style-guide#instance-vars](https://github.com/bbatsov/ruby-style-guide#instance-vars)
 * [http://www.zenspider.com/Languages/Ruby/QuickRef.html](http://www.zenspider.com/Languages/Ruby/QuickRef.html)

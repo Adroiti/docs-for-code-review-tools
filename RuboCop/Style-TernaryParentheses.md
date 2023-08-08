@@ -61,4 +61,4 @@ AllowSafeAssignment | true
 
 ## Further Reading
 
-* [RuboCop - Style/TernaryParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#styleternaryparentheses)
+* [RuboCop - Style/TernaryParentheses](https://docs.rubocop.org/rubocop/cops_style.html#styleternaryparentheses)

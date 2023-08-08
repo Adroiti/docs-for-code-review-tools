@@ -47,5 +47,5 @@ SupportedStyles | separated, grouped
 
 ## Further Reading
 
-* [RuboCop - Style/MixinGrouping](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemixingrouping)
+* [RuboCop - Style/MixinGrouping](https://docs.rubocop.org/rubocop/cops_style.html#stylemixingrouping)
 * [https://github.com/bbatsov/ruby-style-guide#mixin-grouping](https://github.com/bbatsov/ruby-style-guide#mixin-grouping)

@@ -48,4 +48,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstHashElementIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirsthashelementindentation)
+* [RuboCop - Layout/FirstHashElementIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirsthashelementindentation)

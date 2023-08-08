@@ -14,5 +14,5 @@ Keywords | TODO, FIXME, OPTIMIZE, HACK, REVIEW
 
 ## Further Reading
 
-* [RuboCop - Style/CommentAnnotation](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecommentannotation)
+* [RuboCop - Style/CommentAnnotation](https://docs.rubocop.org/rubocop/cops_style.html#stylecommentannotation)
 * [https://github.com/bbatsov/ruby-style-guide#annotate-keywords](https://github.com/bbatsov/ruby-style-guide#annotate-keywords)

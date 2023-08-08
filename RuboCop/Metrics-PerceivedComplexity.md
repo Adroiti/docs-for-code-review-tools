@@ -37,4 +37,4 @@ Max | 7
 
 ## Further Reading
 
-* [RuboCop - Metrics/PerceivedComplexity](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsperceivedcomplexity)
+* [RuboCop - Metrics/PerceivedComplexity](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsperceivedcomplexity)

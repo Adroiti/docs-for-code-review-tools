@@ -31,5 +31,5 @@ and `shuffle[]` and change them to use `sample` instead.
 
 ## Further Reading
 
-* [RuboCop - Performance/Sample](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesample)
+* [RuboCop - Performance/Sample](https://docs.rubocop.org/rubocop/cops_style.html#stylesample)
 * [https://github.com/JuanitoFatas/fast-ruby#arrayshufflefirst-vs-arraysample-code](https://github.com/JuanitoFatas/fast-ruby#arrayshufflefirst-vs-arraysample-code)

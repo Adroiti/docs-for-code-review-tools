@@ -18,5 +18,5 @@ result = some_condition ? something : something_else
 
 ## Further Reading
 
-* [RuboCop - Style/OneLineConditional](https://rubocop.readthedocs.io/en/latest/cops_style/#styleonelineconditional)
+* [RuboCop - Style/OneLineConditional](https://docs.rubocop.org/rubocop/cops_style.html#styleonelineconditional)
 * [https://github.com/bbatsov/ruby-style-guide#ternary-operator](https://github.com/bbatsov/ruby-style-guide#ternary-operator)

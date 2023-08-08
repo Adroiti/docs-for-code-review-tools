@@ -26,5 +26,5 @@ SupportedStyles | normal, rails
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentationConsistency](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindentationconsistency)
+* [RuboCop - Layout/IndentationConsistency](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindentationconsistency)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-indentation](https://github.com/bbatsov/ruby-style-guide#spaces-indentation)

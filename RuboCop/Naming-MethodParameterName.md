@@ -59,4 +59,4 @@ ForbiddenNames | `[]`
 
 ## Further Reading
 
-* [RuboCop - Naming/MethodParameterName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingmethodparamname)
+* [RuboCop - Naming/MethodParameterName](https://docs.rubocop.org/rubocop/cops_naming.html#namingmethodparamname)

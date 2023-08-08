@@ -102,4 +102,4 @@ MethodCreatingMethods |
 
 ## Further Reading
 
-* [RuboCop - Lint/UselessAccessModifier](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintuselessaccessmodifier)
+* [RuboCop - Lint/UselessAccessModifier](https://docs.rubocop.org/rubocop/cops_lint.html#lintuselessaccessmodifier)

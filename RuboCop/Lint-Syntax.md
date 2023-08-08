@@ -8,4 +8,4 @@ This is actually not a rule and inspects nothing. It just provides methods to re
 
 ## Further Reading
 
-* [RuboCop - Lint/Syntax](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintsyntax)
+* [RuboCop - Lint/Syntax](https://docs.rubocop.org/rubocop/cops_lint.html#lintsyntax)

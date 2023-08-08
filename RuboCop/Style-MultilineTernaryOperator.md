@@ -8,5 +8,5 @@ This rule checks for multi-line ternary operator expressions. Use `if`/`unless` 
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineTernaryOperator](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilineternaryoperator)
+* [RuboCop - Style/MultilineTernaryOperator](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilineternaryoperator)
 * [https://github.com/bbatsov/ruby-style-guide#no-multiline-ternary](https://github.com/bbatsov/ruby-style-guide#no-multiline-ternary)

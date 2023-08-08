@@ -23,4 +23,4 @@ Max | 6
 
 ## Further Reading
 
-* [RuboCop - Metrics/CyclomaticComplexity](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricscyclomaticcomplexity)
+* [RuboCop - Metrics/CyclomaticComplexity](https://docs.rubocop.org/rubocop/cops_metrics.html#metricscyclomaticcomplexity)

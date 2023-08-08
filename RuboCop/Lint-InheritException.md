@@ -40,4 +40,4 @@ SupportedStyles | runtime_error, standard_error
 
 ## Further Reading
 
-* [RuboCop - Lint/InheritException](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintinheritexception)
+* [RuboCop - Lint/InheritException](https://docs.rubocop.org/rubocop/cops_lint.html#lintinheritexception)

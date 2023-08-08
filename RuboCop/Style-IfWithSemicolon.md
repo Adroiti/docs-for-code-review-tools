@@ -18,5 +18,5 @@ result = some_condition ? something : something_else
 
 ## Further Reading
 
-* [RuboCop - Style/IfWithSemicolon](https://rubocop.readthedocs.io/en/latest/cops_style/#styleifwithsemicolon)
+* [RuboCop - Style/IfWithSemicolon](https://docs.rubocop.org/rubocop/cops_style.html#styleifwithsemicolon)
 * [https://github.com/bbatsov/ruby-style-guide#no-semicolon-ifs](https://github.com/bbatsov/ruby-style-guide#no-semicolon-ifs)

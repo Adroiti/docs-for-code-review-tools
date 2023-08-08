@@ -22,5 +22,5 @@ hash = Hash.new(0)
 
 ## Further Reading
 
-* [RuboCop - Style/EmptyLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#styleemptyliteral)
+* [RuboCop - Style/EmptyLiteral](https://docs.rubocop.org/rubocop/cops_style.html#styleemptyliteral)
 * [https://github.com/bbatsov/ruby-style-guide#literal-array-hash](https://github.com/bbatsov/ruby-style-guide#literal-array-hash)

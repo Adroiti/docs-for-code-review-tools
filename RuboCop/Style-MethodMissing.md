@@ -27,5 +27,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MethodMissing](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemethodmissing)
+* [RuboCop - Style/MethodMissing](https://docs.rubocop.org/rubocop/cops_style.html#stylemethodmissing)
 * [https://github.com/bbatsov/ruby-style-guide#no-method-missing](https://github.com/bbatsov/ruby-style-guide#no-method-missing)

@@ -18,5 +18,5 @@ if x.even?
 
 ## Further Reading
 
-* [RuboCop - Style/EvenOdd](https://rubocop.readthedocs.io/en/latest/cops_style/#styleevenodd)
+* [RuboCop - Style/EvenOdd](https://docs.rubocop.org/rubocop/cops_style.html#styleevenodd)
 * [https://github.com/bbatsov/ruby-style-guide#predicate-methods](https://github.com/bbatsov/ruby-style-guide#predicate-methods)

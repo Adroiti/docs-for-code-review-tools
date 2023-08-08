@@ -28,5 +28,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLinesAroundAccessModifier](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinesaroundaccessmodifier)
+* [RuboCop - Layout/EmptyLinesAroundAccessModifier](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinesaroundaccessmodifier)
 * [https://github.com/bbatsov/ruby-style-guide#empty-lines-around-access-modifier](https://github.com/bbatsov/ruby-style-guide#empty-lines-around-access-modifier)

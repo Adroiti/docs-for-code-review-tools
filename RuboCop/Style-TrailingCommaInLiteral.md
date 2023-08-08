@@ -40,5 +40,5 @@ SupportedStylesForMultiline | comma, consistent_comma, no_comma
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingCommaInLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingcommainliteral)
+* [RuboCop - Style/TrailingCommaInLiteral](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingcommainliteral)
 * [https://github.com/bbatsov/ruby-style-guide#no-trailing-array-commas](https://github.com/bbatsov/ruby-style-guide#no-trailing-array-commas)

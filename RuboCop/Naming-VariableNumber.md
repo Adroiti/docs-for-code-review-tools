@@ -55,4 +55,4 @@ SupportedStyles | snake_case, normalcase, non_integer
 
 ## Further Reading
 
-* [RuboCop - Naming/VariableNumber](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingvariablenumber)
+* [RuboCop - Naming/VariableNumber](https://docs.rubocop.org/rubocop/cops_naming.html#namingvariablenumber)

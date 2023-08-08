@@ -18,5 +18,5 @@ def func(x) ... end
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAfterMethodName](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceaftermethodname)
+* [RuboCop - Layout/SpaceAfterMethodName](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceaftermethodname)
 * [https://github.com/bbatsov/ruby-style-guide#parens-no-spaces](https://github.com/bbatsov/ruby-style-guide#parens-no-spaces)

@@ -47,5 +47,5 @@ MinBodyLength | 1
 
 ## Further Reading
 
-* [RuboCop - Style/GuardClause](https://rubocop.readthedocs.io/en/latest/cops_style/#styleguardclause)
+* [RuboCop - Style/GuardClause](https://docs.rubocop.org/rubocop/cops_style.html#styleguardclause)
 * [https://github.com/bbatsov/ruby-style-guide#no-nested-conditionals](https://github.com/bbatsov/ruby-style-guide#no-nested-conditionals)

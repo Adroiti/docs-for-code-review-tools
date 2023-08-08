@@ -20,5 +20,5 @@ JSON.parse("{}")
 
 ## Further Reading
 
-* [RuboCop - Security/JSONLoad](https://rubocop.readthedocs.io/en/latest/cops_security/#securityjsonload)
+* [RuboCop - Security/JSONLoad](https://docs.rubocop.org/rubocop/cops_security.html#securityjsonload)
 * [http://ruby-doc.org/stdlib-2.3.0/libdoc/json/rdoc/JSON.html#method-i-load](http://ruby-doc.org/stdlib-2.3.0/libdoc/json/rdoc/JSON.html#method-i-load)

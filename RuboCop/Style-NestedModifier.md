@@ -18,5 +18,5 @@ something if b && a
 
 ## Further Reading
 
-* [RuboCop - Style/NestedModifier](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenestedmodifier)
+* [RuboCop - Style/NestedModifier](https://docs.rubocop.org/rubocop/cops_style.html#stylenestedmodifier)
 * [https://github.com/bbatsov/ruby-style-guide#no-nested-modifiers](https://github.com/bbatsov/ruby-style-guide#no-nested-modifiers)

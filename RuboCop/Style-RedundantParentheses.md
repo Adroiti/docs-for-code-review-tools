@@ -18,4 +18,4 @@ x if y.z.nil?
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantparentheses)
+* [RuboCop - Style/RedundantParentheses](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantparentheses)

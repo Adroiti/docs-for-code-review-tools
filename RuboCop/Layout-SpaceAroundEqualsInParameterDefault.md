@@ -15,5 +15,5 @@ SupportedStyles | space, no_space
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAroundEqualsInParameterDefault](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacearoundequalsinparameterdefault)
+* [RuboCop - Layout/SpaceAroundEqualsInParameterDefault](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacearoundequalsinparameterdefault)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-around-equals](https://github.com/bbatsov/ruby-style-guide#spaces-around-equals)

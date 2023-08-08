@@ -31,4 +31,4 @@ def func(
 
 ## Further Reading
 
-* [RuboCop - Layout/ClosingParenthesisIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutclosingparenthesisindentation)
+* [RuboCop - Layout/ClosingParenthesisIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutclosingparenthesisindentation)

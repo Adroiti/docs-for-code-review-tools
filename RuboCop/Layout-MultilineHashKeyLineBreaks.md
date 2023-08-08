@@ -25,4 +25,4 @@ Ensures that each key in a multi-line hash starts on a separate line.
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineHashKeyLineBreaks](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilinehashkeylinebreaks)
+* [RuboCop - Layout/MultilineHashKeyLineBreaks](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilinehashkeylinebreaks)

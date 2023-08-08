@@ -30,4 +30,4 @@ ForceEqualSignAlignment | false
 
 ## Further Reading
 
-* [RuboCop - Layout/ExtraSpacing](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutextraspacing)
+* [RuboCop - Layout/ExtraSpacing](https://docs.rubocop.org/rubocop/cops_layout.html#layoutextraspacing)

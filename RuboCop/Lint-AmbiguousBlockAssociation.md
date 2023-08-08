@@ -28,5 +28,5 @@ foo = ->(bar) { bar.baz }
 
 ## Further Reading
 
-* [RuboCop - Lint/AmbiguousBlockAssociation](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintambiguousblockassociation)
+* [RuboCop - Lint/AmbiguousBlockAssociation](https://docs.rubocop.org/rubocop/cops_lint.html#lintambiguousblockassociation)
 * [https://github.com/bbatsov/ruby-style-guide#syntax](https://github.com/bbatsov/ruby-style-guide#syntax)

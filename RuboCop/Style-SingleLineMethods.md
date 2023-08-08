@@ -35,5 +35,5 @@ AllowIfMethodIsEmpty | true
 
 ## Further Reading
 
-* [RuboCop - Style/SingleLineMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesinglelinemethods)
+* [RuboCop - Style/SingleLineMethods](https://docs.rubocop.org/rubocop/cops_style.html#stylesinglelinemethods)
 * [https://github.com/bbatsov/ruby-style-guide#no-single-line-methods](https://github.com/bbatsov/ruby-style-guide#no-single-line-methods)

@@ -61,4 +61,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineMethodCallIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilinemethodcallindentation)
+* [RuboCop - Layout/MultilineMethodCallIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilinemethodcallindentation)

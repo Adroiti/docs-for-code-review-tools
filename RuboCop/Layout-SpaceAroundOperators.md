@@ -14,5 +14,5 @@ AllowForAlignment | true
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAroundOperators](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacearoundoperators)
+* [RuboCop - Layout/SpaceAroundOperators](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacearoundoperators)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-operators](https://github.com/bbatsov/ruby-style-guide#spaces-operators)

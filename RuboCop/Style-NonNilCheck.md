@@ -28,5 +28,5 @@ IncludeSemanticChanges | false
 
 ## Further Reading
 
-* [RuboCop - Style/NonNilCheck](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenonnilcheck)
+* [RuboCop - Style/NonNilCheck](https://docs.rubocop.org/rubocop/cops_style.html#stylenonnilcheck)
 * [https://github.com/bbatsov/ruby-style-guide#no-non-nil-checks](https://github.com/bbatsov/ruby-style-guide#no-non-nil-checks)

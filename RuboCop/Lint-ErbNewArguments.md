@@ -49,4 +49,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ErbNewArguments](https://rubocop.readthedocs.io/en/latest/cops_lint/#linterbnewarguments)
+* [RuboCop - Lint/ErbNewArguments](https://docs.rubocop.org/rubocop/cops_lint.html#linterbnewarguments)

@@ -21,4 +21,4 @@ This rule checks for interpolated literals.
 
 ## Further Reading
 
-* [RuboCop - Lint/LiteralInInterpolation](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintliteralininterpolation)
+* [RuboCop - Lint/LiteralInInterpolation](https://docs.rubocop.org/rubocop/cops_lint.html#lintliteralininterpolation)

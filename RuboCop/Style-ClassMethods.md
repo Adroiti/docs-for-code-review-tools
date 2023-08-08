@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/ClassMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#styleclassmethods)
+* [RuboCop - Style/ClassMethods](https://docs.rubocop.org/rubocop/cops_style.html#styleclassmethods)
 * [https://github.com/bbatsov/ruby-style-guide#def-self-class-methods](https://github.com/bbatsov/ruby-style-guide#def-self-class-methods)

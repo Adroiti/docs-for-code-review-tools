@@ -21,4 +21,4 @@ raise ArgumentError, 'Error message here'
 
 ## Further Reading
 
-* [RuboCop - Style/ImplicitRuntimeError](https://rubocop.readthedocs.io/en/latest/cops_style/#styleimplicitruntimeerror)
+* [RuboCop - Style/ImplicitRuntimeError](https://docs.rubocop.org/rubocop/cops_style.html#styleimplicitruntimeerror)

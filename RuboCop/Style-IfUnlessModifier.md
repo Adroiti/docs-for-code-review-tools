@@ -26,5 +26,5 @@ MaxLineLength | 80
 
 ## Further Reading
 
-* [RuboCop - Style/IfUnlessModifier](https://rubocop.readthedocs.io/en/latest/cops_style/#styleifunlessmodifier)
+* [RuboCop - Style/IfUnlessModifier](https://docs.rubocop.org/rubocop/cops_style.html#styleifunlessmodifier)
 * [https://github.com/bbatsov/ruby-style-guide#if-as-a-modifier](https://github.com/bbatsov/ruby-style-guide#if-as-a-modifier)

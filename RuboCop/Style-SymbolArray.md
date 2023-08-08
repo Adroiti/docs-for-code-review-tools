@@ -36,5 +36,5 @@ SupportedStyles | percent, brackets
 
 ## Further Reading
 
-* [RuboCop - Style/SymbolArray](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesymbolarray)
+* [RuboCop - Style/SymbolArray](https://docs.rubocop.org/rubocop/cops_style.html#stylesymbolarray)
 * [https://github.com/bbatsov/ruby-style-guide#percent-i](https://github.com/bbatsov/ruby-style-guide#percent-i)

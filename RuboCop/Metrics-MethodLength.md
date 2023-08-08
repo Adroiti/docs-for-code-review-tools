@@ -17,5 +17,5 @@ Max | 10
 
 ## Further Reading
 
-* [RuboCop - Metrics/MethodLength](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsmethodlength)
+* [RuboCop - Metrics/MethodLength](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsmethodlength)
 * [https://github.com/bbatsov/ruby-style-guide#short-methods](https://github.com/bbatsov/ruby-style-guide#short-methods)

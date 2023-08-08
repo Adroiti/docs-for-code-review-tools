@@ -22,5 +22,5 @@ or rackup options.
 
 ## Further Reading
 
-* [RuboCop - Layout/LeadingCommentSpace](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutleadingcommentspace)
+* [RuboCop - Layout/LeadingCommentSpace](https://docs.rubocop.org/rubocop/cops_layout.html#layoutleadingcommentspace)
 * [https://github.com/bbatsov/ruby-style-guide#hash-space](https://github.com/bbatsov/ruby-style-guide#hash-space)

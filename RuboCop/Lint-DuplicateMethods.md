@@ -42,4 +42,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/DuplicateMethods](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintduplicatemethods)
+* [RuboCop - Lint/DuplicateMethods](https://docs.rubocop.org/rubocop/cops_lint.html#lintduplicatemethods)

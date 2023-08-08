@@ -20,4 +20,4 @@ binding.eval(something)
 ## Further Reading
 
 * [Documentation for Ruby - eval](https://docs.ruby-lang.org/en/2.0.0/security_rdoc.html#label-eval)
-* [RuboCop - Security/Eval](https://rubocop.readthedocs.io/en/latest/cops_security/#securityeval)
+* [RuboCop - Security/Eval](https://docs.rubocop.org/rubocop/cops_security.html#securityeval)

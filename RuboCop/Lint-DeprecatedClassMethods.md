@@ -21,4 +21,4 @@ File.exist?(some_path)
 
 ## Further Reading
 
-* [RuboCop - Lint/DeprecatedClassMethods](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintdeprecatedclassmethods)
+* [RuboCop - Lint/DeprecatedClassMethods](https://docs.rubocop.org/rubocop/cops_lint.html#lintdeprecatedclassmethods)

@@ -23,4 +23,4 @@ path = __dir__
 
 ## Further Reading
 
-* [RuboCop - Style/Dir](https://rubocop.readthedocs.io/en/latest/cops_style/#styledir)
+* [RuboCop - Style/Dir](https://docs.rubocop.org/rubocop/cops_style.html#styledir)

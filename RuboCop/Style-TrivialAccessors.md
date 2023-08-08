@@ -49,5 +49,5 @@ Whitelist | to_ary, to_a, to_c, to_enum, to_h, to_hash, to_i, to_int, to_io, to_
 
 ## Further Reading
 
-* [RuboCop - Style/TrivialAccessors](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrivialaccessors)
+* [RuboCop - Style/TrivialAccessors](https://docs.rubocop.org/rubocop/cops_style.html#styletrivialaccessors)
 * [https://github.com/bbatsov/ruby-style-guide#attr_family](https://github.com/bbatsov/ruby-style-guide#attr_family)

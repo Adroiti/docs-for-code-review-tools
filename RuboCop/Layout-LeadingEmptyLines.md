@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/LeadingEmptyLines](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutleadingemptylines)
+* [RuboCop - Layout/LeadingEmptyLines](https://docs.rubocop.org/rubocop/cops_layout.html#layoutleadingemptylines)

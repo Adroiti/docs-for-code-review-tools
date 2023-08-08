@@ -46,4 +46,4 @@ SupportedStylesAlignWith | start_of_line, def
 
 ## Further Reading
 
-* [RuboCop - Lint/DefEndAlignment](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintdefendalignment)
+* [RuboCop - Lint/DefEndAlignment](https://docs.rubocop.org/rubocop/cops_lint.html#lintdefendalignment)

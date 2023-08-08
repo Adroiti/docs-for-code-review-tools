@@ -34,5 +34,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantSelf](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantself)
+* [RuboCop - Style/RedundantSelf](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantself)
 * [https://github.com/bbatsov/ruby-style-guide#no-self-unless-required](https://github.com/bbatsov/ruby-style-guide#no-self-unless-required)

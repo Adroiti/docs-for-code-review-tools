@@ -19,4 +19,4 @@ SupportedStyles | when_needed, always, never
 
 ## Further Reading
 
-* [RuboCop - Style/FrozenStringLiteralComment](https://rubocop.readthedocs.io/en/latest/cops_style/#stylefrozenstringliteralcomment)
+* [RuboCop - Style/FrozenStringLiteralComment](https://docs.rubocop.org/rubocop/cops_style.html#stylefrozenstringliteralcomment)

@@ -28,5 +28,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantBegin](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantbegin)
+* [RuboCop - Style/RedundantBegin](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantbegin)
 * [https://github.com/bbatsov/ruby-style-guide#begin-implicit](https://github.com/bbatsov/ruby-style-guide#begin-implicit)

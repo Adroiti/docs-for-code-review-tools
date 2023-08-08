@@ -50,5 +50,5 @@ SupportedStyles | compact, exploded
 
 ## Further Reading
 
-* [RuboCop - Style/RaiseArgs](https://rubocop.readthedocs.io/en/latest/cops_style/#styleraiseargs)
+* [RuboCop - Style/RaiseArgs](https://docs.rubocop.org/rubocop/cops_style.html#styleraiseargs)
 * [https://github.com/bbatsov/ruby-style-guide#exception-class-messages](https://github.com/bbatsov/ruby-style-guide#exception-class-messages)

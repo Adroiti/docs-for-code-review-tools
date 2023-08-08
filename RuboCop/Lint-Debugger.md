@@ -36,4 +36,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/Debugger](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintdebugger)
+* [RuboCop - Lint/Debugger](https://docs.rubocop.org/rubocop/cops_lint.html#lintdebugger)

@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLinesAroundBeginBody](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinesaroundbeginbody)
+* [RuboCop - Layout/EmptyLinesAroundBeginBody](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinesaroundbeginbody)
 * [https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies](https://github.com/bbatsov/ruby-style-guide#empty-lines-around-bodies)

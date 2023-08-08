@@ -18,5 +18,5 @@ FileUtils.rmdir
 
 ## Further Reading
 
-* [RuboCop - Style/ColonMethodCall](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecolonmethodcall)
+* [RuboCop - Style/ColonMethodCall](https://docs.rubocop.org/rubocop/cops_style.html#stylecolonmethodcall)
 * [https://github.com/bbatsov/ruby-style-guide#double-colons](https://github.com/bbatsov/ruby-style-guide#double-colons)

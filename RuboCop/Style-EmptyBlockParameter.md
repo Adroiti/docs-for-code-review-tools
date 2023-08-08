@@ -28,4 +28,4 @@ a { do_something }
 
 ## Further Reading
 
-* [RuboCop - Style/EmptyBlockParameter](https://rubocop.readthedocs.io/en/latest/cops_style/#styleemptyblockparameter)
+* [RuboCop - Style/EmptyBlockParameter](https://docs.rubocop.org/rubocop/cops_style.html#styleemptyblockparameter)

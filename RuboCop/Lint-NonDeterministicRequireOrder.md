@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/NonDeterministicRequireOrder](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintnondeterministicrequireorder)
+* [RuboCop - Lint/NonDeterministicRequireOrder](https://docs.rubocop.org/rubocop/cops_lint.html#lintnondeterministicrequireorder)

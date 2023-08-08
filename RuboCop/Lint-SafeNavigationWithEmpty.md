@@ -20,4 +20,4 @@ return unless foo && foo.empty?
 
 ## Further Reading
 
-* [RuboCop - Lint/SafeNavigationWithEmpty](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintsafenavigationwithempty)
+* [RuboCop - Lint/SafeNavigationWithEmpty](https://docs.rubocop.org/rubocop/cops_lint.html#lintsafenavigationwithempty)

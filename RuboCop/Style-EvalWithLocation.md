@@ -38,4 +38,4 @@ RUBY
 
 ## Further Reading
 
-* [RuboCop - Style/EvalWithLocation](https://rubocop.readthedocs.io/en/latest/cops_style/#styleevalwithlocation)
+* [RuboCop - Style/EvalWithLocation](https://docs.rubocop.org/rubocop/cops_style.html#styleevalwithlocation)

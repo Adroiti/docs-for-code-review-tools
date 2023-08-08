@@ -28,4 +28,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/UselessSetterCall](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintuselesssettercall)
+* [RuboCop - Lint/UselessSetterCall](https://docs.rubocop.org/rubocop/cops_lint.html#lintuselesssettercall)

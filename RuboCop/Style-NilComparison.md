@@ -18,5 +18,5 @@ if x.nil?
 
 ## Further Reading
 
-* [RuboCop - Style/NilComparison](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenilcomparison)
+* [RuboCop - Style/NilComparison](https://docs.rubocop.org/rubocop/cops_style.html#stylenilcomparison)
 * [https://github.com/bbatsov/ruby-style-guide#predicate-methods](https://github.com/bbatsov/ruby-style-guide#predicate-methods)

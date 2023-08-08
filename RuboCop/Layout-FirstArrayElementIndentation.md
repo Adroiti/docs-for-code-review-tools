@@ -48,4 +48,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstArrayElementIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirstarrayelementindentation)
+* [RuboCop - Layout/FirstArrayElementIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirstarrayelementindentation)

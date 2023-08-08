@@ -17,5 +17,5 @@ SupportedStylesForEmptyBraces | space, no_space
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideHashLiteralBraces](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsidehashliteralbraces)
+* [RuboCop - Layout/SpaceInsideHashLiteralBraces](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsidehashliteralbraces)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-operators](https://github.com/bbatsov/ruby-style-guide#spaces-operators)

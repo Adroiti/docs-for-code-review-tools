@@ -48,4 +48,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentArray](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindentarray)
+* [RuboCop - Layout/IndentArray](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindentarray)

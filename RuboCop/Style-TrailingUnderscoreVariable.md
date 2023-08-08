@@ -33,4 +33,4 @@ AllowNamedUnderscoreVariables | true
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingUnderscoreVariable](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingunderscorevariable)
+* [RuboCop - Style/TrailingUnderscoreVariable](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingunderscorevariable)

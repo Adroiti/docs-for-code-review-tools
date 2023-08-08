@@ -15,5 +15,5 @@ SupportedStyles | native, lf, crlf
 
 ## Further Reading
 
-* [RuboCop - Layout/EndOfLine](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutendofline)
+* [RuboCop - Layout/EndOfLine](https://docs.rubocop.org/rubocop/cops_layout.html#layoutendofline)
 * [https://github.com/bbatsov/ruby-style-guide#crlf](https://github.com/bbatsov/ruby-style-guide#crlf)

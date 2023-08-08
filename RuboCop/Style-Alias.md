@@ -39,5 +39,5 @@ SupportedStyles | prefer_alias, prefer_alias_method
 
 ## Further Reading
 
-* [RuboCop - Style/Alias](https://rubocop.readthedocs.io/en/latest/cops_style/#stylealias)
+* [RuboCop - Style/Alias](https://docs.rubocop.org/rubocop/cops_style.html#stylealias)
 * [https://github.com/bbatsov/ruby-style-guide#alias-method](https://github.com/bbatsov/ruby-style-guide#alias-method)

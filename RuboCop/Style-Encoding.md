@@ -24,5 +24,5 @@ SupportedStyles | when_needed, always, never
 
 ## Further Reading
 
-* [RuboCop - Style/Encoding](https://rubocop.readthedocs.io/en/latest/cops_style/#styleencoding)
+* [RuboCop - Style/Encoding](https://docs.rubocop.org/rubocop/cops_style.html#styleencoding)
 * [https://github.com/bbatsov/ruby-style-guide#utf-8](https://github.com/bbatsov/ruby-style-guide#utf-8)

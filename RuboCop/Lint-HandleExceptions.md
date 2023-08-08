@@ -47,5 +47,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/HandleExceptions](https://rubocop.readthedocs.io/en/latest/cops_lint/#linthandleexceptions)
+* [RuboCop - Lint/HandleExceptions](https://docs.rubocop.org/rubocop/cops_lint.html#linthandleexceptions)
 * [https://github.com/bbatsov/ruby-style-guide#dont-hide-exceptions](https://github.com/bbatsov/ruby-style-guide#dont-hide-exceptions)

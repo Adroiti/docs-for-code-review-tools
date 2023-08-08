@@ -49,5 +49,5 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/AccessModifierIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutaccessmodifierindentation)
+* [RuboCop - Layout/AccessModifierIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutaccessmodifierindentation)
 * [https://github.com/bbatsov/ruby-style-guide#indent-public-private-protected](https://github.com/bbatsov/ruby-style-guide#indent-public-private-protected)

@@ -25,5 +25,5 @@ SupportedStyles | only_raise, only_fail, semantic
 
 ## Further Reading
 
-* [RuboCop - Style/SignalException](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesignalexception)
+* [RuboCop - Style/SignalException](https://docs.rubocop.org/rubocop/cops_style.html#stylesignalexception)
 * [https://github.com/bbatsov/ruby-style-guide#prefer-raise-over-fail](https://github.com/bbatsov/ruby-style-guide#prefer-raise-over-fail)

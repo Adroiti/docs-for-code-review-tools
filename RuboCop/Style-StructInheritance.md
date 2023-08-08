@@ -19,5 +19,5 @@ Person = Struct.new(:first_name, :last_name)
 
 ## Further Reading
 
-* [RuboCop - Style/StructInheritance](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestructinheritance)
+* [RuboCop - Style/StructInheritance](https://docs.rubocop.org/rubocop/cops_style.html#stylestructinheritance)
 * [https://github.com/bbatsov/ruby-style-guide#no-extend-struct-new](https://github.com/bbatsov/ruby-style-guide#no-extend-struct-new)

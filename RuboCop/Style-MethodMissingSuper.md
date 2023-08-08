@@ -24,5 +24,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MethodMissingSuper](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemethodmissingsuper)
+* [RuboCop - Style/MethodMissingSuper](https://docs.rubocop.org/rubocop/cops_style.html#stylemethodmissingsuper)
 * [GitHub - rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide#no-method-missing)

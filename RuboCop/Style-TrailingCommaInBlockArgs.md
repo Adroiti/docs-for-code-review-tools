@@ -29,4 +29,4 @@ add { foo }
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingCommaInBlockArgs](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingcommainblockargs)
+* [RuboCop - Style/TrailingCommaInBlockArgs](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingcommainblockargs)

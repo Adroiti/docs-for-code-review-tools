@@ -18,5 +18,5 @@ object.some_method
 
 ## Further Reading
 
-* [RuboCop - Style/MethodCallWithoutArgsParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemethodcallwithoutargsparentheses)
+* [RuboCop - Style/MethodCallWithoutArgsParentheses](https://docs.rubocop.org/rubocop/cops_style.html#stylemethodcallwithoutargsparentheses)
 * [https://github.com/bbatsov/ruby-style-guide#method-invocation-parens](https://github.com/bbatsov/ruby-style-guide#method-invocation-parens)

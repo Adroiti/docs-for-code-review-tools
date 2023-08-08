@@ -54,4 +54,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantSplatExpansion](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantsplatexpansion)
+* [RuboCop - Lint/RedundantSplatExpansion](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantsplatexpansion)

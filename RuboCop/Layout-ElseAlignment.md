@@ -36,4 +36,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/ElseAlignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutelsealignment)
+* [RuboCop - Layout/ElseAlignment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutelsealignment)

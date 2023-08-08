@@ -32,4 +32,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineOperationIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilineoperationindentation)
+* [RuboCop - Layout/MultilineOperationIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilineoperationindentation)

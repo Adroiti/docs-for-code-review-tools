@@ -21,5 +21,5 @@ name ||= 'Bozhidar'
 
 ## Further Reading
 
-* [RuboCop - Style/OrAssignment](https://rubocop.readthedocs.io/en/latest/cops_style/#styleorassignment)
+* [RuboCop - Style/OrAssignment](https://docs.rubocop.org/rubocop/cops_style.html#styleorassignment)
 * [https://github.com/bbatsov/ruby-style-guide#double-pipe-for-uninit](https://github.com/bbatsov/ruby-style-guide#double-pipe-for-uninit)

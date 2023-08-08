@@ -17,4 +17,4 @@ Max | 100
 
 ## Further Reading
 
-* [RuboCop - Metrics/ClassLength](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsclasslength)
+* [RuboCop - Metrics/ClassLength](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsclasslength)

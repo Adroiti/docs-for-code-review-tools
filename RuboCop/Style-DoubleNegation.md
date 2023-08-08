@@ -22,5 +22,5 @@ Please note that when something is a boolean value `!!something` and `!something
 
 ## Further Reading
 
-* [RuboCop - Style/DoubleNegation](https://rubocop.readthedocs.io/en/latest/cops_style/#styledoublenegation)
+* [RuboCop - Style/DoubleNegation](https://docs.rubocop.org/rubocop/cops_style.html#styledoublenegation)
 * [https://github.com/bbatsov/ruby-style-guide#no-bang-bang](https://github.com/bbatsov/ruby-style-guide#no-bang-bang)

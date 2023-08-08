@@ -32,4 +32,4 @@ Whitelist | present?, blank?, presence, try
 
 ## Further Reading
 
-* [RuboCop - Lint/SafeNavigationChain](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintsafenavigationchain)
+* [RuboCop - Lint/SafeNavigationChain](https://docs.rubocop.org/rubocop/cops_lint.html#lintsafenavigationchain)

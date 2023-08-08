@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/UnderscorePrefixedVariableName](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunderscoreprefixedvariablename)
+* [RuboCop - Lint/UnderscorePrefixedVariableName](https://docs.rubocop.org/rubocop/cops_lint.html#lintunderscoreprefixedvariablename)

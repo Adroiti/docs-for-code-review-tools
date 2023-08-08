@@ -26,4 +26,4 @@ array = [
 
 ## Further Reading
 
-* [RuboCop - Lint/ImplicitStringConcatenation](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintimplicitstringconcatenation)
+* [RuboCop - Lint/ImplicitStringConcatenation](https://docs.rubocop.org/rubocop/cops_lint.html#lintimplicitstringconcatenation)

@@ -22,5 +22,5 @@ another comment line
 
 ## Further Reading
 
-* [RuboCop - Style/BlockComments](https://rubocop.readthedocs.io/en/latest/cops_style/#styleblockcomments)
+* [RuboCop - Style/BlockComments](https://docs.rubocop.org/rubocop/cops_style.html#styleblockcomments)
 * [https://github.com/bbatsov/ruby-style-guide#no-block-comments](https://github.com/bbatsov/ruby-style-guide#no-block-comments)

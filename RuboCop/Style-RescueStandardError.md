@@ -85,4 +85,4 @@ EnforcedStyle | `explicit`
 
 ## Further Reading
 
-* [RuboCop - Style/RescueStandardError](https://rubocop.readthedocs.io/en/latest/cops_style/#stylerescuestandarderror)
+* [RuboCop - Style/RescueStandardError](https://docs.rubocop.org/rubocop/cops_style.html#stylerescuestandarderror)

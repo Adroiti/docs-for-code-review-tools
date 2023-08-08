@@ -8,4 +8,4 @@ This rule checks for indentation of the first non-blank non-comment line in a fi
 
 ## Further Reading
 
-* [RuboCop - Layout/InitialIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutinitialindentation)
+* [RuboCop - Layout/InitialIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutinitialindentation)

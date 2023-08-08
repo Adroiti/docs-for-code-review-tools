@@ -46,5 +46,5 @@ SupportedStyles | all_comparison_operators, equality_operators_only
 
 ## Further Reading
 
-* [RuboCop - Style/YodaCondition](https://rubocop.readthedocs.io/en/latest/cops_style/#styleyodacondition)
+* [RuboCop - Style/YodaCondition](https://docs.rubocop.org/rubocop/cops_style.html#styleyodacondition)
 * [https://en.wikipedia.org/wiki/Yoda_conditions](https://en.wikipedia.org/wiki/Yoda_conditions)

@@ -45,4 +45,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MixinUsage](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemixinusage)
+* [RuboCop - Style/MixinUsage](https://docs.rubocop.org/rubocop/cops_style.html#stylemixinusage)

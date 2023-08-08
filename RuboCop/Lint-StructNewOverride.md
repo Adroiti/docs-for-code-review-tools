@@ -26,4 +26,4 @@ g.count #=> 2
 
 ## Further Reading
 
-* [RuboCop - Lint/StructNewOverride](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintstructnewoverride)
+* [RuboCop - Lint/StructNewOverride](https://docs.rubocop.org/rubocop/cops_lint.html#lintstructnewoverride)

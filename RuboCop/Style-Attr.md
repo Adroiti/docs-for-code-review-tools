@@ -8,5 +8,5 @@ This rule checks for uses of `attr`. Use `attr_reader` and `attr_accessor` inste
 
 ## Further Reading
 
-* [RuboCop - Style/Attr](https://rubocop.readthedocs.io/en/latest/cops_style/#styleattr)
+* [RuboCop - Style/Attr](https://docs.rubocop.org/rubocop/cops_style.html#styleattr)
 * [https://github.com/bbatsov/ruby-style-guide#attr](https://github.com/bbatsov/ruby-style-guide#attr)

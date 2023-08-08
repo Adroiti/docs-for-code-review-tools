@@ -32,4 +32,4 @@ array.empty?
 
 ## Further Reading
 
-* [RuboCop - Style/ZeroLengthPredicate](https://rubocop.readthedocs.io/en/latest/cops_style/#stylezerolengthpredicate)
+* [RuboCop - Style/ZeroLengthPredicate](https://docs.rubocop.org/rubocop/cops_style.html#stylezerolengthpredicate)

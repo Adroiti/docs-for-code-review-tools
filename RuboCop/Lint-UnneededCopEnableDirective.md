@@ -19,4 +19,4 @@ foo = 1
 
 ## Further Reading
 
-* [RuboCop - Lint/UnneededCopEnableDirective](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunneededcopenabledirective)
+* [RuboCop - Lint/UnneededCopEnableDirective](https://docs.rubocop.org/rubocop/cops_lint.html#lintunneededcopenabledirective)

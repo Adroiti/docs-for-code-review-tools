@@ -26,4 +26,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/RescueEnsureAlignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutrescueensurealignment)
+* [RuboCop - Layout/RescueEnsureAlignment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutrescueensurealignment)

@@ -43,4 +43,4 @@ some_method(
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLinesAroundArguments](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinesaroundarguments)
+* [RuboCop - Layout/EmptyLinesAroundArguments](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinesaroundarguments)

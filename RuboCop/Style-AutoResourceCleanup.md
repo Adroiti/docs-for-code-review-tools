@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/AutoResourceCleanup](https://rubocop.readthedocs.io/en/latest/cops_style/#styleautoresourcecleanup)
+* [RuboCop - Style/AutoResourceCleanup](https://docs.rubocop.org/rubocop/cops_style.html#styleautoresourcecleanup)

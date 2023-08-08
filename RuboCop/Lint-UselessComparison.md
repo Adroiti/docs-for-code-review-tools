@@ -16,4 +16,4 @@ x.top >= x.top
 
 ## Further Reading
 
-* [RuboCop - Lint/UselessComparison](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintuselesscomparison)
+* [RuboCop - Lint/UselessComparison](https://docs.rubocop.org/rubocop/cops_lint.html#lintuselesscomparison)

@@ -23,4 +23,4 @@ some_str = 'one' \
 
 ## Further Reading
 
-* [RuboCop - Style/LineEndConcatenation](https://rubocop.readthedocs.io/en/latest/cops_style/#stylelineendconcatenation)
+* [RuboCop - Style/LineEndConcatenation](https://docs.rubocop.org/rubocop/cops_style.html#stylelineendconcatenation)

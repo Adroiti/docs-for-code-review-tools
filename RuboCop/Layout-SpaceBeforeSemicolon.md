@@ -18,4 +18,4 @@ x = 1; y = 2
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceBeforeSemicolon](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacebeforesemicolon)
+* [RuboCop - Layout/SpaceBeforeSemicolon](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacebeforesemicolon)

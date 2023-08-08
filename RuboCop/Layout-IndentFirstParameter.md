@@ -52,4 +52,4 @@ IndentationWidth | `<none>`
 
 ## Further Reading
 
-* [RuboCop - Layout/IndentFirstParameter](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutindentfirstparameter)
+* [RuboCop - Layout/IndentFirstParameter](https://docs.rubocop.org/rubocop/cops_layout.html#layoutindentfirstparameter)

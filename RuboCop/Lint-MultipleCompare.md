@@ -26,4 +26,4 @@ x < y && y < z
 
 ## Further Reading
 
-* [RuboCop - Lint/MultipleCompare](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintmultiplecompare)
+* [RuboCop - Lint/MultipleCompare](https://docs.rubocop.org/rubocop/cops_lint.html#lintmultiplecompare)

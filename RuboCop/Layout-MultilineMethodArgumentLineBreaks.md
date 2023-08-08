@@ -24,4 +24,4 @@ foo(
 
 ## Further Reading
 
-* [RuboCop - Layout/MultilineMethodArgumentLineBreaks](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutmultilinemethodargumentlinebreaks)
+* [RuboCop - Layout/MultilineMethodArgumentLineBreaks](https://docs.rubocop.org/rubocop/cops_layout.html#layoutmultilinemethodargumentlinebreaks)

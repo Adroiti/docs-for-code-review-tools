@@ -112,4 +112,4 @@ SupportedLastArgumentHashStyles | always_inspect, always_ignore, ignore_implicit
 
 ## Further Reading
 
-* [RuboCop - Layout/HashAlignment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layouthashalignment)
+* [RuboCop - Layout/HashAlignment](https://docs.rubocop.org/rubocop/cops_layout.html#layouthashalignment)

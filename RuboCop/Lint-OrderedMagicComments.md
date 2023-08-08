@@ -31,4 +31,4 @@ p [''.frozen?, ''.encoding] #=> [true, #<Encoding:US-ASCII>]
 
 ## Further Reading
 
-* [RuboCop - Lint/OrderedMagicComments](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintorderedmagiccomments)
+* [RuboCop - Lint/OrderedMagicComments](https://docs.rubocop.org/rubocop/cops_lint.html#lintorderedmagiccomments)

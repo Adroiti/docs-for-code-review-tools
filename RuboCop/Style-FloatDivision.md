@@ -58,4 +58,4 @@ EnforcedStyle | `single_coerce` | `left_coerce`, `right_coerce`, `single_coerce`
 
 ## Further Reading
 
-* [RuboCop - Style/FloatDivision](https://rubocop.readthedocs.io/en/latest/cops_style/#stylefloatdivision)
+* [RuboCop - Style/FloatDivision](https://docs.rubocop.org/rubocop/cops_style.html#stylefloatdivision)

@@ -8,4 +8,4 @@ This rule checks if a file which has a shebang line as its first line is granted
 
 ## Further Reading
 
-* [RuboCop - Lint/ScriptPermission](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintscriptpermission)
+* [RuboCop - Lint/ScriptPermission](https://docs.rubocop.org/rubocop/cops_lint.html#lintscriptpermission)

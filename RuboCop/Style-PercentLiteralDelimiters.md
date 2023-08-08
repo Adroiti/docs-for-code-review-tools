@@ -34,5 +34,5 @@ PreferredDelimiters | {"default"=>"()", "%i"=>"[]", "%I"=>"[]", "%r"=>"{}", "%w"
 
 ## Further Reading
 
-* [RuboCop - Style/PercentLiteralDelimiters](https://rubocop.readthedocs.io/en/latest/cops_style/#stylepercentliteraldelimiters)
+* [RuboCop - Style/PercentLiteralDelimiters](https://docs.rubocop.org/rubocop/cops_style.html#stylepercentliteraldelimiters)
 * [https://github.com/bbatsov/ruby-style-guide#percent-literal-braces](https://github.com/bbatsov/ruby-style-guide#percent-literal-braces)

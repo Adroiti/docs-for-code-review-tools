@@ -29,5 +29,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLineAfterMagicComment](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylineaftermagiccomment)
+* [RuboCop - Layout/EmptyLineAfterMagicComment](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylineaftermagiccomment)
 * [https://github.com/bbatsov/ruby-style-guide#separate-magic-comments-from-code](https://github.com/bbatsov/ruby-style-guide#separate-magic-comments-from-code)

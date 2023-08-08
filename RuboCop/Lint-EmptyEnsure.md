@@ -45,4 +45,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/EmptyEnsure](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintemptyensure)
+* [RuboCop - Lint/EmptyEnsure](https://docs.rubocop.org/rubocop/cops_lint.html#lintemptyensure)

@@ -18,5 +18,5 @@ at_exit { puts 'Goodbye!' }
 
 ## Further Reading
 
-* [RuboCop - Style/EndBlock](https://rubocop.readthedocs.io/en/latest/cops_style/#styleendblock)
+* [RuboCop - Style/EndBlock](https://docs.rubocop.org/rubocop/cops_style.html#styleendblock)
 * [https://github.com/bbatsov/ruby-style-guide#no-END-blocks](https://github.com/bbatsov/ruby-style-guide#no-END-blocks)

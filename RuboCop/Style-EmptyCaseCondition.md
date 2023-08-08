@@ -41,4 +41,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/EmptyCaseCondition](https://rubocop.readthedocs.io/en/latest/cops_style/#styleemptycasecondition)
+* [RuboCop - Style/EmptyCaseCondition](https://docs.rubocop.org/rubocop/cops_style.html#styleemptycasecondition)

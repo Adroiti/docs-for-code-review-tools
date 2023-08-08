@@ -51,4 +51,4 @@ ForbiddenNames | `[]`
 
 ## Further Reading
 
-* [RuboCop - Naming/UncommunicativeBlockParamName](https://rubocop.readthedocs.io/en/latest/cops_naming/#naminguncommunicativeblockparamname)
+* [RuboCop - Naming/UncommunicativeBlockParamName](https://docs.rubocop.org/rubocop/cops_naming.html#naminguncommunicativeblockparamname)

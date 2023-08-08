@@ -21,4 +21,4 @@ This rule checks for empty interpolation.
 
 ## Further Reading
 
-* [RuboCop - Lint/EmptyInterpolation](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintemptyinterpolation)
+* [RuboCop - Lint/EmptyInterpolation](https://docs.rubocop.org/rubocop/cops_lint.html#lintemptyinterpolation)

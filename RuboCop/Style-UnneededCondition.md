@@ -36,4 +36,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/UnneededCondition](https://rubocop.readthedocs.io/en/latest/cops_style/#styleunneededcondition)
+* [RuboCop - Style/UnneededCondition](https://docs.rubocop.org/rubocop/cops_style.html#styleunneededcondition)

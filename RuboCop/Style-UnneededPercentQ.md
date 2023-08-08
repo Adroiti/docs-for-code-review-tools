@@ -23,5 +23,5 @@ quote = %q(<p class='quote'>"What did you say?"</p>)
 
 ## Further Reading
 
-* [RuboCop - Style/UnneededPercentQ](https://rubocop.readthedocs.io/en/latest/cops_style/#styleunneededpercentq)
+* [RuboCop - Style/UnneededPercentQ](https://docs.rubocop.org/rubocop/cops_style.html#styleunneededpercentq)
 * [https://github.com/bbatsov/ruby-style-guide#percent-q](https://github.com/bbatsov/ruby-style-guide#percent-q)

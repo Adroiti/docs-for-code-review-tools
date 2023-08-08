@@ -21,5 +21,5 @@ process Regexp.last_match(1)
 
 ## Further Reading
 
-* [RuboCop - Style/PerlBackrefs](https://rubocop.readthedocs.io/en/latest/cops_style/#styleperlbackrefs)
+* [RuboCop - Style/PerlBackrefs](https://docs.rubocop.org/rubocop/cops_style.html#styleperlbackrefs)
 * [https://github.com/bbatsov/ruby-style-guide#no-perl-regexp-last-matchers](https://github.com/bbatsov/ruby-style-guide#no-perl-regexp-last-matchers)

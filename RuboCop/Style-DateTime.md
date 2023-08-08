@@ -27,5 +27,5 @@ DateTime.iso8601('1751-04-23', Date::ENGLAND)
 
 ## Further Reading
 
-* [RuboCop - Style/DateTime](https://rubocop.readthedocs.io/en/latest/cops_style/#styledatetime)
+* [RuboCop - Style/DateTime](https://docs.rubocop.org/rubocop/cops_style.html#styledatetime)
 * [https://github.com/bbatsov/ruby-style-guide#date--time](https://github.com/bbatsov/ruby-style-guide#date--time)

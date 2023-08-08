@@ -30,4 +30,4 @@ if day.is?(:tuesday) && month == :jan
 
 ## Further Reading
 
-* [RuboCop - Lint/RequireParentheses](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintrequireparentheses)
+* [RuboCop - Lint/RequireParentheses](https://docs.rubocop.org/rubocop/cops_lint.html#lintrequireparentheses)

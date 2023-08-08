@@ -21,4 +21,4 @@ This rule checks for strings that are just an interpolated expression.
 
 ## Further Reading
 
-* [RuboCop - Style/UnneededInterpolation](https://rubocop.readthedocs.io/en/latest/cops_style/#styleunneededinterpolation)
+* [RuboCop - Style/UnneededInterpolation](https://docs.rubocop.org/rubocop/cops_style.html#styleunneededinterpolation)

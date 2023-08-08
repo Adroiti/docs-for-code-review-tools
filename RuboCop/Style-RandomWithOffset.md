@@ -27,5 +27,5 @@ rand(1...7)
 
 ## Further Reading
 
-* [RuboCop - Style/RandomWithOffset](https://rubocop.readthedocs.io/en/latest/cops_style/#stylerandomwithoffset)
+* [RuboCop - Style/RandomWithOffset](https://docs.rubocop.org/rubocop/cops_style.html#stylerandomwithoffset)
 * [https://github.com/bbatsov/ruby-style-guide#random-numbers](https://github.com/bbatsov/ruby-style-guide#random-numbers)

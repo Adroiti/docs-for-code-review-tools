@@ -27,4 +27,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/ConstantVisibility](https://rubocop.readthedocs.io/en/latest/cops_style/#styleconstantvisibility)
+* [RuboCop - Style/ConstantVisibility](https://docs.rubocop.org/rubocop/cops_style.html#styleconstantvisibility)

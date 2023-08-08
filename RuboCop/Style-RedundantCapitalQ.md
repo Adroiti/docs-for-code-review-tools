@@ -15,4 +15,4 @@ SupportedStyles | lower_case_q, upper_case_q
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantCapitalQ](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantcapitalq)
+* [RuboCop - Style/RedundantCapitalQ](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantcapitalq)

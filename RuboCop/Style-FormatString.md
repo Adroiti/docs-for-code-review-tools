@@ -26,5 +26,5 @@ SupportedStyles | format, sprintf, percent
 
 ## Further Reading
 
-* [RuboCop - Style/FormatString](https://rubocop.readthedocs.io/en/latest/cops_style/#styleformatstring)
+* [RuboCop - Style/FormatString](https://docs.rubocop.org/rubocop/cops_style.html#styleformatstring)
 * [https://github.com/bbatsov/ruby-style-guide#sprintf](https://github.com/bbatsov/ruby-style-guide#sprintf)

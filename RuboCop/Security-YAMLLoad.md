@@ -22,4 +22,4 @@ YAML.dump("foo")
 ## Further Reading
 
 * [Documentation for Ruby - YAML](https://docs.ruby-lang.org/en/2.0.0/security_rdoc.html#label-YAML)
-* [RuboCop - Security/YAMLLoad](https://rubocop.readthedocs.io/en/latest/cops_security/#securityyamlload)
+* [RuboCop - Security/YAMLLoad](https://docs.rubocop.org/rubocop/cops_security.html#securityyamlload)

@@ -58,5 +58,5 @@ SupportedStyles | compact, expanded
 
 ## Further Reading
 
-* [RuboCop - Style/EmptyMethod](https://rubocop.readthedocs.io/en/latest/cops_style/#styleemptymethod)
+* [RuboCop - Style/EmptyMethod](https://docs.rubocop.org/rubocop/cops_style.html#styleemptymethod)
 * [https://github.com/bbatsov/ruby-style-guide#no-single-line-methods](https://github.com/bbatsov/ruby-style-guide#no-single-line-methods)

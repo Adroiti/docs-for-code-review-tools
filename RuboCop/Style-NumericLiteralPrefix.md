@@ -37,5 +37,5 @@ SupportedOctalStyles | zero_with_o, zero_only
 
 ## Further Reading
 
-* [RuboCop - Style/NumericLiteralPrefix](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenumericliteralprefix)
+* [RuboCop - Style/NumericLiteralPrefix](https://docs.rubocop.org/rubocop/cops_style.html#stylenumericliteralprefix)
 * [https://github.com/bbatsov/ruby-style-guide#numeric-literal-prefixes](https://github.com/bbatsov/ruby-style-guide#numeric-literal-prefixes)

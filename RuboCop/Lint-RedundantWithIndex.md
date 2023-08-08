@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantWithIndex](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantwithindex)
+* [RuboCop - Lint/RedundantWithIndex](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantwithindex)

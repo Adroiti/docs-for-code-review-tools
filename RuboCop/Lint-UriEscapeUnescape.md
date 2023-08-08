@@ -35,4 +35,4 @@ URI.decode_www_form_component(enc_uri)
 
 ## Further Reading
 
-* [RuboCop - Lint/UriEscapeUnescape](https://rubocop.readthedocs.io/en/latest/cops_lint/#linturiescapeunescape)
+* [RuboCop - Lint/UriEscapeUnescape](https://docs.rubocop.org/rubocop/cops_lint.html#linturiescapeunescape)

@@ -20,5 +20,5 @@ Checks for uses of `if`/`unless` modifiers with multi-line bodies.
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineIfModifier](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilineifmodifier)
+* [RuboCop - Style/MultilineIfModifier](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilineifmodifier)
 * [https://github.com/bbatsov/ruby-style-guide#no-multiline-if-modifiers](https://github.com/bbatsov/ruby-style-guide#no-multiline-if-modifiers)

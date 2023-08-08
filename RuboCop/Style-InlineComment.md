@@ -23,4 +23,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/InlineComment](https://rubocop.readthedocs.io/en/latest/cops_style/#styleinlinecomment)
+* [RuboCop - Style/InlineComment](https://docs.rubocop.org/rubocop/cops_style.html#styleinlinecomment)

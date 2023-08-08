@@ -25,4 +25,4 @@ sum = numbers.each_with_object(num) { |e, a| a += e }
 
 ## Further Reading
 
-* [RuboCop - Lint/EachWithObjectArgument](https://rubocop.readthedocs.io/en/latest/cops_lint/#linteachwithobjectargument)
+* [RuboCop - Lint/EachWithObjectArgument](https://docs.rubocop.org/rubocop/cops_lint.html#linteachwithobjectargument)

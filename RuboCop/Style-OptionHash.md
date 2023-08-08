@@ -31,4 +31,4 @@ SuspiciousParamNames | options, opts, args, params, parameters
 
 ## Further Reading
 
-* [RuboCop - Style/OptionHash](https://rubocop.readthedocs.io/en/latest/cops_style/#styleoptionhash)
+* [RuboCop - Style/OptionHash](https://docs.rubocop.org/rubocop/cops_style.html#styleoptionhash)

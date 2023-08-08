@@ -30,4 +30,4 @@ IndentationWidth |
 
 ## Further Reading
 
-* [RuboCop - Layout/FirstArgumentIndentation](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutfirstargumentindentation)
+* [RuboCop - Layout/FirstArgumentIndentation](https://docs.rubocop.org/rubocop/cops_layout.html#layoutfirstargumentindentation)

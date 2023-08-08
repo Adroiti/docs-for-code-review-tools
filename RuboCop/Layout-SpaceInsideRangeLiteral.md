@@ -24,5 +24,5 @@ Checks for spaces inside range literals.
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideRangeLiteral](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsiderangeliteral)
+* [RuboCop - Layout/SpaceInsideRangeLiteral](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsiderangeliteral)
 * [https://github.com/bbatsov/ruby-style-guide#no-space-inside-range-literals](https://github.com/bbatsov/ruby-style-guide#no-space-inside-range-literals)

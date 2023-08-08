@@ -21,5 +21,5 @@ array.sort
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantSortBy](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantsortby)
+* [RuboCop - Style/RedundantSortBy](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantsortby)
 * [https://github.com/JuanitoFatas/fast-ruby#enumerablesort-vs-enumerablesort_by-code](https://github.com/JuanitoFatas/fast-ruby#enumerablesort-vs-enumerablesort_by-code)

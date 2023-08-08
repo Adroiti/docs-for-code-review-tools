@@ -28,4 +28,4 @@ This check only applies if the block takes no parameters.
 
 ## Further Reading
 
-* [RuboCop - Style/EachForSimpleLoop](https://rubocop.readthedocs.io/en/latest/cops_style/#styleeachforsimpleloop)
+* [RuboCop - Style/EachForSimpleLoop](https://docs.rubocop.org/rubocop/cops_style.html#styleeachforsimpleloop)

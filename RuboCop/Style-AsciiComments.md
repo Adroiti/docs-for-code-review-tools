@@ -24,5 +24,5 @@ AllowedChars | `[]`
 
 ## Further Reading
 
-* [RuboCop - Style/AsciiComments](https://rubocop.readthedocs.io/en/latest/cops_style/#styleasciicomments)
+* [RuboCop - Style/AsciiComments](https://docs.rubocop.org/rubocop/cops_style.html#styleasciicomments)
 * [https://github.com/bbatsov/ruby-style-guide#english-comments](https://github.com/bbatsov/ruby-style-guide#english-comments)

@@ -16,5 +16,5 @@ PreferredMethods | {"collect"=>"map", "collect!"=>"map!", "inject"=>"reduce", "d
 
 ## Further Reading
 
-* [RuboCop - Style/CollectionMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecollectionmethods)
+* [RuboCop - Style/CollectionMethods](https://docs.rubocop.org/rubocop/cops_style.html#stylecollectionmethods)
 * [https://github.com/bbatsov/ruby-style-guide#map-find-select-reduce-size](https://github.com/bbatsov/ruby-style-guide#map-find-select-reduce-size)

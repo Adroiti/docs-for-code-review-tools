@@ -36,4 +36,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ReturnInVoidContext](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintreturninvoidcontext)
+* [RuboCop - Lint/ReturnInVoidContext](https://docs.rubocop.org/rubocop/cops_lint.html#lintreturninvoidcontext)

@@ -24,4 +24,4 @@ Whitelist | be, be_a, be_an, be_between, be_falsey, be_kind_of, be_instance_of, 
 
 ## Further Reading
 
-* [RuboCop - Style/NestedParenthesizedCalls](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenestedparenthesizedcalls)
+* [RuboCop - Style/NestedParenthesizedCalls](https://docs.rubocop.org/rubocop/cops_style.html#stylenestedparenthesizedcalls)

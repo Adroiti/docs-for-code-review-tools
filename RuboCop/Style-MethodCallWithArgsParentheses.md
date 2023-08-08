@@ -52,5 +52,5 @@ IgnoredMethods |
 
 ## Further Reading
 
-* [RuboCop - Style/MethodCallWithArgsParentheses](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemethodcallwithargsparentheses)
+* [RuboCop - Style/MethodCallWithArgsParentheses](https://docs.rubocop.org/rubocop/cops_style.html#stylemethodcallwithargsparentheses)
 * [https://github.com/bbatsov/ruby-style-guide#method-invocation-parens](https://github.com/bbatsov/ruby-style-guide#method-invocation-parens)

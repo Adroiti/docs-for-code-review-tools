@@ -40,4 +40,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RescueType](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintrescuetype)
+* [RuboCop - Lint/RescueType](https://docs.rubocop.org/rubocop/cops_lint.html#lintrescuetype)

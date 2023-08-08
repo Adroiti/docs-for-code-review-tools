@@ -37,4 +37,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/UnreachableCode](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunreachablecode)
+* [RuboCop - Lint/UnreachableCode](https://docs.rubocop.org/rubocop/cops_lint.html#lintunreachablecode)

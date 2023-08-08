@@ -14,5 +14,5 @@ IndentationWidth | `<none>`
 
 ## Further Reading
 
-* [RuboCop - Layout/Tab](https://rubocop.readthedocs.io/en/latest/cops_layout/#layouttab)
+* [RuboCop - Layout/Tab](https://docs.rubocop.org/rubocop/cops_layout.html#layouttab)
 * [https://github.com/bbatsov/ruby-style-guide#spaces-indentation](https://github.com/bbatsov/ruby-style-guide#spaces-indentation)

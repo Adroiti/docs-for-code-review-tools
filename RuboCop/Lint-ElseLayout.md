@@ -30,4 +30,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ElseLayout](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintelselayout)
+* [RuboCop - Lint/ElseLayout](https://docs.rubocop.org/rubocop/cops_lint.html#lintelselayout)

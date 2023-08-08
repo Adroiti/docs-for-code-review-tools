@@ -15,5 +15,5 @@ SupportedStyles | snake_case, camelCase
 
 ## Further Reading
 
-* [RuboCop - Naming/VariableNumericSuffix](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingvariablenamesuffix)
+* [RuboCop - Naming/VariableNumericSuffix](https://docs.rubocop.org/rubocop/cops_naming.html#namingvariablenamesuffix)
 * [https://github.com/bbatsov/ruby-style-guide#snake-case-symbols-methods-vars](https://github.com/bbatsov/ruby-style-guide#snake-case-symbols-methods-vars)

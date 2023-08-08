@@ -20,4 +20,4 @@ the need to return the object at the end.
 
 ## Further Reading
 
-* [RuboCop - Style/EachWithObject](https://rubocop.readthedocs.io/en/latest/cops_style/#styleeachwithobject)
+* [RuboCop - Style/EachWithObject](https://docs.rubocop.org/rubocop/cops_style.html#styleeachwithobject)

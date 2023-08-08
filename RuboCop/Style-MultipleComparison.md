@@ -20,4 +20,4 @@ foo if ['a', 'b', 'c'].include?(a)
 
 ## Further Reading
 
-* [RuboCop - Style/MultipleComparison](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultiplecomparison)
+* [RuboCop - Style/MultipleComparison](https://docs.rubocop.org/rubocop/cops_style.html#stylemultiplecomparison)

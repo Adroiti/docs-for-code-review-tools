@@ -28,5 +28,5 @@ AllowMultipleReturnValues | false
 
 ## Further Reading
 
-* [RuboCop - Style/RedundantReturn](https://rubocop.readthedocs.io/en/latest/cops_style/#styleredundantreturn)
+* [RuboCop - Style/RedundantReturn](https://docs.rubocop.org/rubocop/cops_style.html#styleredundantreturn)
 * [https://github.com/bbatsov/ruby-style-guide#no-explicit-return](https://github.com/bbatsov/ruby-style-guide#no-explicit-return)

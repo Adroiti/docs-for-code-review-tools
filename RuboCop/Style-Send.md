@@ -45,5 +45,5 @@ linux_organization.public_send(:reset_token)
 
 ## Further Reading
 
-* [RuboCop - Style/Send](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesend)
+* [RuboCop - Style/Send](https://docs.rubocop.org/rubocop/cops_style.html#stylesend)
 * [https://github.com/bbatsov/ruby-style-guide#prefer-public-send](https://github.com/bbatsov/ruby-style-guide#prefer-public-send)

@@ -24,5 +24,5 @@ do_something(*some_array)
 
 ## Further Reading
 
-* [RuboCop - Lint/AmbiguousOperator](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintambiguousoperator)
+* [RuboCop - Lint/AmbiguousOperator](https://docs.rubocop.org/rubocop/cops_lint.html#lintambiguousoperator)
 * [https://github.com/bbatsov/ruby-style-guide#method-invocation-parens](https://github.com/bbatsov/ruby-style-guide#method-invocation-parens)

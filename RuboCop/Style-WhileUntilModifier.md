@@ -14,5 +14,5 @@ MaxLineLength | 80
 
 ## Further Reading
 
-* [RuboCop - Style/WhileUntilModifier](https://rubocop.readthedocs.io/en/latest/cops_style/#stylewhileuntilmodifier)
+* [RuboCop - Style/WhileUntilModifier](https://docs.rubocop.org/rubocop/cops_style.html#stylewhileuntilmodifier)
 * [https://github.com/bbatsov/ruby-style-guide#while-as-a-modifier](https://github.com/bbatsov/ruby-style-guide#while-as-a-modifier)

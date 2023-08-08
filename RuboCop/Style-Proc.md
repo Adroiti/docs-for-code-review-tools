@@ -18,5 +18,5 @@ p = proc { |n| puts n }
 
 ## Further Reading
 
-* [RuboCop - Style/Proc](https://rubocop.readthedocs.io/en/latest/cops_style/#styleproc)
+* [RuboCop - Style/Proc](https://docs.rubocop.org/rubocop/cops_style.html#styleproc)
 * [https://github.com/bbatsov/ruby-style-guide#proc](https://github.com/bbatsov/ruby-style-guide#proc)

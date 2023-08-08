@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/FlipFlop](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintflipflop)
+* [RuboCop - Lint/FlipFlop](https://docs.rubocop.org/rubocop/cops_lint.html#lintflipflop)

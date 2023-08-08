@@ -18,4 +18,4 @@ This rule checks symbol literal syntax.
 
 ## Further Reading
 
-* [RuboCop - Style/SymbolLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#stylesymbolliteral)
+* [RuboCop - Style/SymbolLiteral](https://docs.rubocop.org/rubocop/cops_style.html#stylesymbolliteral)

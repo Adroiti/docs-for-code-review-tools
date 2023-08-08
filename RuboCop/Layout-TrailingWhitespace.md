@@ -8,5 +8,5 @@ Adding trailing whitespace can cause extra work for others editing the same file
 
 ## Further Reading
 
-* [RuboCop - Layout/TrailingWhitespace](https://rubocop.readthedocs.io/en/latest/cops_layout/#layouttrailingwhitespace)
+* [RuboCop - Layout/TrailingWhitespace](https://docs.rubocop.org/rubocop/cops_layout.html#layouttrailingwhitespace)
 * [https://github.com/bbatsov/ruby-style-guide#no-trailing-whitespace](https://github.com/bbatsov/ruby-style-guide#no-trailing-whitespace)

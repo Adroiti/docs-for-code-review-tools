@@ -72,4 +72,4 @@ EnforcedStyleForEmptyBrackets | `no_space`
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideReferenceBrackets](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsidereferencebrackets)
+* [RuboCop - Layout/SpaceInsideReferenceBrackets](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsidereferencebrackets)

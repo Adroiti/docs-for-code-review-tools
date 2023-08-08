@@ -27,4 +27,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/EmptyWhen](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintemptywhen)
+* [RuboCop - Lint/EmptyWhen](https://docs.rubocop.org/rubocop/cops_lint.html#lintemptywhen)

@@ -8,5 +8,5 @@ Checks for spaces inside ordinary round parentheses.
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsideParens](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsideparens)
+* [RuboCop - Layout/SpaceInsideParens](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsideparens)
 * [https://github.com/bbatsov/ruby-style-guide#no-spaces-braces](https://github.com/bbatsov/ruby-style-guide#no-spaces-braces)

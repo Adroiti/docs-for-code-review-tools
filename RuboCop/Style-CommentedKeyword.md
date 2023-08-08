@@ -37,4 +37,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/CommentedKeyword](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecommentedkeyword)
+* [RuboCop - Style/CommentedKeyword](https://docs.rubocop.org/rubocop/cops_style.html#stylecommentedkeyword)

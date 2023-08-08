@@ -67,4 +67,4 @@ PreferredName | `e`
 
 ## Further Reading
 
-* [RuboCop - Naming/RescuedExceptionsVariableName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingrescuedexceptionsvariablename)
+* [RuboCop - Naming/RescuedExceptionsVariableName](https://docs.rubocop.org/rubocop/cops_naming.html#namingrescuedexceptionsvariablename)

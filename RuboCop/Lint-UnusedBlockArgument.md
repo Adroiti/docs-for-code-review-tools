@@ -48,5 +48,5 @@ AllowUnusedKeywordArguments | false
 
 ## Further Reading
 
-* [RuboCop - Lint/UnusedBlockArgument](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintunusedblockargument)
+* [RuboCop - Lint/UnusedBlockArgument](https://docs.rubocop.org/rubocop/cops_lint.html#lintunusedblockargument)
 * [https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars](https://github.com/bbatsov/ruby-style-guide#underscore-unused-vars)

@@ -25,4 +25,4 @@ Marshal.load(Marshal.dump({}))
 ## Further Reading
 
 * [Documentation for Ruby - Marshal.load](https://docs.ruby-lang.org/en/2.0.0/security_rdoc.html#label-Marshal.load)
-* [RuboCop - Security/MarshalLoad](https://rubocop.readthedocs.io/en/latest/cops_security/#securitymarshalload)
+* [RuboCop - Security/MarshalLoad](https://docs.rubocop.org/rubocop/cops_security.html#securitymarshalload)

@@ -18,5 +18,5 @@ x = !something
 
 ## Further Reading
 
-* [RuboCop - Style/Not](https://rubocop.readthedocs.io/en/latest/cops_style/#stylenot)
+* [RuboCop - Style/Not](https://docs.rubocop.org/rubocop/cops_style.html#stylenot)
 * [https://github.com/bbatsov/ruby-style-guide#bang-not-not](https://github.com/bbatsov/ruby-style-guide#bang-not-not)

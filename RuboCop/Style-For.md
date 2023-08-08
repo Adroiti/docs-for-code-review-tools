@@ -30,5 +30,5 @@ SupportedStyles | for, each
 
 ## Further Reading
 
-* [RuboCop - Style/For](https://rubocop.readthedocs.io/en/latest/cops_style/#stylefor)
+* [RuboCop - Style/For](https://docs.rubocop.org/rubocop/cops_style.html#stylefor)
 * [https://github.com/bbatsov/ruby-style-guide#no-for-loops](https://github.com/bbatsov/ruby-style-guide#no-for-loops)

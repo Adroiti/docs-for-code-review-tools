@@ -30,4 +30,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/TrailingBodyOnMethodDefinition](https://rubocop.readthedocs.io/en/latest/cops_style/#styletrailingbodyonmethoddefinition)
+* [RuboCop - Style/TrailingBodyOnMethodDefinition](https://docs.rubocop.org/rubocop/cops_style.html#styletrailingbodyonmethoddefinition)

@@ -43,4 +43,4 @@ SupportedStyles | return, return_nil
 
 ## Further Reading
 
-* [RuboCop - Style/ReturnNil](https://rubocop.readthedocs.io/en/latest/cops_style/#stylereturnnil)
+* [RuboCop - Style/ReturnNil](https://docs.rubocop.org/rubocop/cops_style.html#stylereturnnil)

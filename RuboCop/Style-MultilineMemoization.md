@@ -48,4 +48,4 @@ SupportedStyles | keyword, braces
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineMemoization](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilinememoization)
+* [RuboCop - Style/MultilineMemoization](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilinememoization)

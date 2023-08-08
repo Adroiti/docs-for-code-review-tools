@@ -21,4 +21,4 @@ Checks for unnecessary additional spaces inside the delimiters of `%i`/`%w`/`%x`
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceInsidePercentLiteralDelimiters](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceinsidepercentliteraldelimiters)
+* [RuboCop - Layout/SpaceInsidePercentLiteralDelimiters](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceinsidepercentliteraldelimiters)

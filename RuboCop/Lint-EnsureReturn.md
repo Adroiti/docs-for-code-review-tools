@@ -30,5 +30,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/EnsureReturn](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintensurereturn)
+* [RuboCop - Lint/EnsureReturn](https://docs.rubocop.org/rubocop/cops_lint.html#lintensurereturn)
 * [https://github.com/bbatsov/ruby-style-guide#no-return-ensure](https://github.com/bbatsov/ruby-style-guide#no-return-ensure)

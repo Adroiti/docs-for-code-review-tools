@@ -36,4 +36,4 @@ SupportedStyles | single_quotes, double_quotes
 
 ## Further Reading
 
-* [RuboCop - Style/StringLiteralsInInterpolation](https://rubocop.readthedocs.io/en/latest/cops_style/#stylestringliteralsininterpolation)
+* [RuboCop - Style/StringLiteralsInInterpolation](https://docs.rubocop.org/rubocop/cops_style.html#stylestringliteralsininterpolation)

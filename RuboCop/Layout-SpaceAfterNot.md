@@ -18,5 +18,5 @@ This rule checks for space after `!`.
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAfterNot](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspaceafternot)
+* [RuboCop - Layout/SpaceAfterNot](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspaceafternot)
 * [https://github.com/bbatsov/ruby-style-guide#no-space-bang](https://github.com/bbatsov/ruby-style-guide#no-space-bang)

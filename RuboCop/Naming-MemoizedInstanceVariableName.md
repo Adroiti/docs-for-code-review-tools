@@ -37,4 +37,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Naming/MemoizedInstanceVariableName](https://rubocop.readthedocs.io/en/latest/cops_naming/#namingmemoizedinstancevariablename)
+* [RuboCop - Naming/MemoizedInstanceVariableName](https://docs.rubocop.org/rubocop/cops_naming.html#namingmemoizedinstancevariablename)

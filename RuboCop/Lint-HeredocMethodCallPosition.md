@@ -35,5 +35,5 @@ Checks for the ordering of a method call where the receiver of the call is a HER
 
 ## Further Reading
 
-* [RuboCop - Lint/HeredocMethodCallPosition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintheredocmethodcallposition)
+* [RuboCop - Lint/HeredocMethodCallPosition](https://docs.rubocop.org/rubocop/cops_lint.html#lintheredocmethodcallposition)
 * [https://github.com/rubocop-hq/ruby-style-guide#heredoc-method-calls](https://github.com/rubocop-hq/ruby-style-guide#heredoc-method-calls)

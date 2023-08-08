@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/RescueWithoutErrorClass](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintrescuewithouterrorclass)
+* [RuboCop - Lint/RescueWithoutErrorClass](https://docs.rubocop.org/rubocop/cops_lint.html#lintrescuewithouterrorclass)
 * [https://github.com/bbatsov/ruby-style-guide#no-blind-rescues](https://github.com/bbatsov/ruby-style-guide#no-blind-rescues)

@@ -37,4 +37,4 @@ baz
 
 ## Further Reading
 
-* [RuboCop - Lint/RedundantCopEnableDirective](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintredundantcopenabledirective)
+* [RuboCop - Lint/RedundantCopEnableDirective](https://docs.rubocop.org/rubocop/cops_lint.html#lintredundantcopenabledirective)

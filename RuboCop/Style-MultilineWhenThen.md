@@ -27,4 +27,4 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/MultilineWhenThen](https://rubocop.readthedocs.io/en/latest/cops_style/#stylemultilinewhenthen)
+* [RuboCop - Style/MultilineWhenThen](https://docs.rubocop.org/rubocop/cops_style.html#stylemultilinewhenthen)

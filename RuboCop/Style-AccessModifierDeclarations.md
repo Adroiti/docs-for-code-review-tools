@@ -63,4 +63,4 @@ EnforcedStyle | `group`
 
 ## Further Reading
 
-* [RuboCop - Style/AccessModifierDeclarations](https://rubocop.readthedocs.io/en/latest/cops_style/#styleaccessmodifierdeclarations)
+* [RuboCop - Style/AccessModifierDeclarations](https://docs.rubocop.org/rubocop/cops_style.html#styleaccessmodifierdeclarations)

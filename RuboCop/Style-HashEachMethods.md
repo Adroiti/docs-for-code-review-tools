@@ -22,4 +22,4 @@ hash.each_value { |v| p v }
 
 ## Further Reading
 
-* [RuboCop - Style/HashEachMethods](https://rubocop.readthedocs.io/en/latest/cops_style/#stylehasheachmethods)
+* [RuboCop - Style/HashEachMethods](https://docs.rubocop.org/rubocop/cops_style.html#stylehasheachmethods)

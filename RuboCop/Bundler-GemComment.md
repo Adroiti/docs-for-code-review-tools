@@ -28,4 +28,4 @@ Whitelist | `[]`
 
 ## Further Reading
 
-* [RuboCop - Bundler/GemComment](https://rubocop.readthedocs.io/en/latest/cops_bundler/#bundlergemcomment)
+* [RuboCop - Bundler/GemComment](https://docs.rubocop.org/rubocop/cops_bundler.html#bundlergemcomment)

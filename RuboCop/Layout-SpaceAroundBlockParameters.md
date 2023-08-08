@@ -40,4 +40,4 @@ SupportedStylesInsidePipes | space, no_space
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceAroundBlockParameters](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacearoundblockparameters)
+* [RuboCop - Layout/SpaceAroundBlockParameters](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacearoundblockparameters)

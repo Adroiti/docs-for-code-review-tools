@@ -25,5 +25,5 @@ SupportedStyles | call, braces
 
 ## Further Reading
 
-* [RuboCop - Style/LambdaCall](https://rubocop.readthedocs.io/en/latest/cops_style/#stylelambdacall)
+* [RuboCop - Style/LambdaCall](https://docs.rubocop.org/rubocop/cops_style.html#stylelambdacall)
 * [https://github.com/bbatsov/ruby-style-guide#proc-call](https://github.com/bbatsov/ruby-style-guide#proc-call)

@@ -41,5 +41,5 @@ NumberOfEmptyLines | 1
 
 ## Further Reading
 
-* [RuboCop - Layout/EmptyLineBetweenDefs](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutemptylinebetweendefs)
+* [RuboCop - Layout/EmptyLineBetweenDefs](https://docs.rubocop.org/rubocop/cops_layout.html#layoutemptylinebetweendefs)
 * [https://github.com/bbatsov/ruby-style-guide#empty-lines-between-methods](https://github.com/bbatsov/ruby-style-guide#empty-lines-between-methods)

@@ -33,4 +33,4 @@ AllowForAlignment | true
 
 ## Further Reading
 
-* [RuboCop - Layout/SpaceBeforeFirstArg](https://rubocop.readthedocs.io/en/latest/cops_layout/#layoutspacebeforefirstarg)
+* [RuboCop - Layout/SpaceBeforeFirstArg](https://docs.rubocop.org/rubocop/cops_layout.html#layoutspacebeforefirstarg)

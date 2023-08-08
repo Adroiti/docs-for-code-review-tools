@@ -41,5 +41,5 @@ AllowInnerBackticks | false
 
 ## Further Reading
 
-* [RuboCop - Style/CommandLiteral](https://rubocop.readthedocs.io/en/latest/cops_style/#stylecommandliteral)
+* [RuboCop - Style/CommandLiteral](https://docs.rubocop.org/rubocop/cops_style.html#stylecommandliteral)
 * [https://github.com/bbatsov/ruby-style-guide#percent-x](https://github.com/bbatsov/ruby-style-guide#percent-x)

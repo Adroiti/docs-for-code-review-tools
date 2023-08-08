@@ -15,4 +15,4 @@ SupportedStyles | is_a?, kind_of?
 
 ## Further Reading
 
-* [RuboCop - Style/ClassCheck](https://rubocop.readthedocs.io/en/latest/cops_style/#styleclasscheck)
+* [RuboCop - Style/ClassCheck](https://docs.rubocop.org/rubocop/cops_style.html#styleclasscheck)

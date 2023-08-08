@@ -22,5 +22,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Style/InfiniteLoop](https://rubocop.readthedocs.io/en/latest/cops_style/#styleinfiniteloop)
+* [RuboCop - Style/InfiniteLoop](https://docs.rubocop.org/rubocop/cops_style.html#styleinfiniteloop)
 * [https://github.com/bbatsov/ruby-style-guide#infinite-loop](https://github.com/bbatsov/ruby-style-guide#infinite-loop)

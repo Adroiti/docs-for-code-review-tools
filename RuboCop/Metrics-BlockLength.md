@@ -19,4 +19,4 @@ ExcludedMethods |
 
 ## Further Reading
 
-* [RuboCop - Metrics/BlockLength](https://rubocop.readthedocs.io/en/latest/cops_metrics/#metricsblocklength)
+* [RuboCop - Metrics/BlockLength](https://docs.rubocop.org/rubocop/cops_metrics.html#metricsblocklength)
