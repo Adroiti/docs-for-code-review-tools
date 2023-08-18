@@ -1,4 +1,4 @@
-Pattern: Malformed spacing inside `[`/`]`
+Pattern: Malformed spacing inside `[]`
 
 Issue: -
 
