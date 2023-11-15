@@ -153,9 +153,6 @@ There is also a feature to limit the number of errors reported. When the limit i
  </module>
 ```
         
-
-**To use like [RegexpHeader ](http://checkstyle.sourceforge.net/config_header.html#RegexpHeader):**
-
 To configure the check to verify that each file starts with the following multi-line header. 
 
 Note the following:
