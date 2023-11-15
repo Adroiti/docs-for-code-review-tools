@@ -16,4 +16,3 @@ Rules:
 ## Further Reading
 
 * [WordPress PHP Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#indentation)
-* [WordPress.Arrays.CommaAfterArrayItem](https://github.com/WordPress/WordPress-Coding-Standards/tree/develop/WordPress/Sniffs/Arrays/CommaAfterArrayItemSniff.php)
