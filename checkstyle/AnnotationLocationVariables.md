@@ -121,7 +121,3 @@ public void test(@MyAnnotation String s) { // OK
   ...
 }
 ```
-
-## Further Reading
-
-* [checkstyle - AnnotationLocation](https://checkstyle.sourceforge.io/checks/annotation/annotationlocationvariables.html#AnnotationLocation)
