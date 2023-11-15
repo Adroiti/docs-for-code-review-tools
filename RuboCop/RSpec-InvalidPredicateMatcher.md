@@ -17,7 +17,3 @@ expect(foo).to be_something?
 # good
 expect(foo).to be_something
 ```
-
-## Further Reading
-
-* [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InvalidPredicateMatcher](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/InvalidPredicateMatcher)

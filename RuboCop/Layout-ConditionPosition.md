@@ -26,5 +26,5 @@ end
 
 ## Further Reading
 
-* [RuboCop - Lint/ConditionPosition](https://rubocop.readthedocs.io/en/latest/cops_lint/#lintconditionposition)
+* [RuboCop - Layout/ConditionPosition](https://docs.rubocop.org/rubocop/cops_layout.html#layoutconditionposition)
 * [https://github.com/bbatsov/ruby-style-guide#same-line-condition](https://github.com/bbatsov/ruby-style-guide#same-line-condition)
