@@ -20,4 +20,3 @@ then configure the rule with: `[true, ['Image']]`.
 
 * [TSLint - react-a11y-img-has-alt](https://github.com/microsoft/tslint-microsoft-contrib/blob/master/README.md#supported-rules)
 * [Web Content Accessibility Guidelines 1.0](https://www.w3.org/TR/WCAG10/wai-pageauth.html#tech-text-equivalent)
-* [WCAG Rule 31: If an image has an alt or title attribute, it should not have a presentation role](http://oaa-accessibility.org/wcag20/rule/31)
