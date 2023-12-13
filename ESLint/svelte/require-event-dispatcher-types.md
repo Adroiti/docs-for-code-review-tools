@@ -1,0 +1,37 @@
+Pattern: Missing type parameter for `createEventDispatcher`
+
+Issue: -
+
+## Description
+
+This rule is aimed to enforce type parameters when calling `createEventDispatcher`. Adding types makes all `dispatch` calls as well as all event listeners typechecked. For more information, see the [svelte docs](https://github.com/sveltejs/language-tools/blob/master/docs/preprocessors/typescript.md#typing-component-events).
+
+```svelte
+<script lang="ts">
+  /* eslint svelte/require-event-dispatcher-types: "error" */
+
+  import { createEventDispatcher } from 'svelte';
+
+  /* ✓ GOOD */
+  const dispatch1 = createEventDispatcher<{ one: never; two: number }>();
+  const dispatch2 = createEventDispatcher<Record<string, never>>();
+  const dispatch3 = createEventDispatcher<any>();
+  const dispatch4 = createEventDispatcher<unknown>();
+
+  /* ✗ BAD */
+  const dispatch5 = createEventDispatcher();
+</script>
+```
+
+## :wrench: Options
+
+Nothing.
+
+## :rocket: Version
+
+This rule was introduced in eslint-plugin-svelte v2.16.0
+
+## :mag: Implementation
+
+- [Rule source](https://github.com/sveltejs/eslint-plugin-svelte/blob/main/src/rules/require-event-dispatcher-types.ts)
+- [Test source](https://github.com/sveltejs/eslint-plugin-svelte/blob/main/tests/src/rules/require-event-dispatcher-types.ts)
