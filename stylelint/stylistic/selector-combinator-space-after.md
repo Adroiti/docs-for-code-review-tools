@@ -64,4 +64,4 @@ a>b { color: pink; }
 
 ## Further Reading
 
-* [stylelint - selector-combinator-space-after](https://stylelint.io/user-guide/rules/selector-combinator-space-after)
+* [stylelint - selector-combinator-space-after](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/selector-combinator-space-after)

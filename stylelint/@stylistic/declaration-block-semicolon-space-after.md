@@ -120,4 +120,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - declaration-block-semicolon-space-after](https://stylelint.io/user-guide/rules/declaration-block-semicolon-space-after)
+* [stylelint - declaration-block-semicolon-space-after](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-block-semicolon-space-after)

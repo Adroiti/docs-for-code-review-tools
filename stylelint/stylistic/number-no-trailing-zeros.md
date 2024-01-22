@@ -32,4 +32,4 @@ a { top: 1.01px }
 
 ## Further Reading
 
-* [stylelint - number-no-trailing-zeros](https://stylelint.io/user-guide/rules/number-no-trailing-zeros)
+* [stylelint - number-no-trailing-zeros](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/number-no-trailing-zeros)

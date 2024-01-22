@@ -106,4 +106,4 @@ a { color: pink ; top: 0 ; }
 
 ## Further Reading
 
-* [stylelint - declaration-block-semicolon-space-before](https://stylelint.io/user-guide/rules/declaration-block-semicolon-space-before)
+* [stylelint - declaration-block-semicolon-space-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-block-semicolon-space-before)

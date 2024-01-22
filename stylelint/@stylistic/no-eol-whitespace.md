@@ -67,4 +67,4 @@ a { color: pink; }
 
 ## Further Reading
 
-* [stylelint - no-eol-whitespace](https://stylelint.io/user-guide/rules/no-eol-whitespace)
+* [stylelint - no-eol-whitespace](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/no-eol-whitespace)

@@ -114,4 +114,4 @@ a { background-size: 0 ,
 
 ## Further Reading
 
-* [stylelint - value-list-comma-space-before](https://stylelint.io/user-guide/rules/value-list-comma-space-before)
+* [stylelint - value-list-comma-space-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/value-list-comma-space-before)

@@ -288,4 +288,4 @@ top right,
 
 ## Further Reading
 
-* [stylelint - indentation](https://stylelint.io/user-guide/rules/indentation)
+* [stylelint - indentation](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/indentation)

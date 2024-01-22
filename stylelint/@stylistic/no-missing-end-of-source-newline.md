@@ -23,4 +23,4 @@ a { color: pink; }
 
 ## Further Reading
 
-* [stylelint - no-missing-end-of-source-newline](https://stylelint.io/user-guide/rules/no-missing-end-of-source-newline)
+* [stylelint - no-missing-end-of-source-newline](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/no-missing-end-of-source-newline)

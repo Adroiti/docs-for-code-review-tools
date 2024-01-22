@@ -116,4 +116,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - declaration-block-semicolon-newline-after](https://stylelint.io/user-guide/rules/declaration-block-semicolon-newline-after)
+* [stylelint - declaration-block-semicolon-newline-after](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-block-semicolon-newline-after)

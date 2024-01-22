@@ -102,4 +102,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - value-list-max-empty-lines](https://stylelint.io/user-guide/rules/value-list-max-empty-lines)
+* [stylelint - value-list-max-empty-lines](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/value-list-max-empty-lines)

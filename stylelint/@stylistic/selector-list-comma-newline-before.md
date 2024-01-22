@@ -93,4 +93,4 @@ b { color: pink; }
 
 ## Further Reading
 
-* [stylelint - selector-list-comma-newline-before](https://stylelint.io/user-guide/rules/selector-list-comma-newline-before)
+* [stylelint - selector-list-comma-newline-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/selector-list-comma-newline-before)

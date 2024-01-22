@@ -58,4 +58,4 @@ a { transform: translate(2px, .4px); }
 
 ## Further Reading
 
-* [stylelint - number-leading-zero](https://stylelint.io/user-guide/rules/number-leading-zero)
+* [stylelint - number-leading-zero](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/number-leading-zero)

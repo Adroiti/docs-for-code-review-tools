@@ -28,4 +28,4 @@ a { transform: --custom-function(1); }
 
 ## Further Reading
 
-* [stylelint - function-no-unknown](https://stylelint.io/user-guide/rules/list/function-no-unknown)
+* [stylelint - function-no-unknown](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/list/function-no-unknown)

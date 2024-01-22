@@ -68,4 +68,4 @@ a { background: orange; color: pink }
 
 ## Further Reading
 
-* [stylelint - declaration-block-trailing-semicolon](https://stylelint.io/user-guide/rules/declaration-block-trailing-semicolon)
+* [stylelint - declaration-block-trailing-semicolon](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-block-trailing-semicolon)

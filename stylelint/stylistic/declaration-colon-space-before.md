@@ -58,4 +58,4 @@ a { color:pink }
 
 ## Further Reading
 
-* [stylelint - declaration-colon-space-before](https://stylelint.io/user-guide/rules/declaration-colon-space-before)
+* [stylelint - declaration-colon-space-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-colon-space-before)

@@ -46,4 +46,4 @@ a { color: #FFF; }
 
 ## Further Reading
 
-* [stylelint - color-hex-case](https://stylelint.io/user-guide/rules/color-hex-case)
+* [stylelint - color-hex-case](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/color-hex-case)

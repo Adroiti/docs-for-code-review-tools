@@ -120,4 +120,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - function-comma-space-before](https://stylelint.io/user-guide/rules/function-comma-space-before)
+* [stylelint - function-comma-space-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/function-comma-space-before)

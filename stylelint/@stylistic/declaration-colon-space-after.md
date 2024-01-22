@@ -93,4 +93,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - declaration-colon-space-after](https://stylelint.io/user-guide/rules/declaration-colon-space-after)
+* [stylelint - declaration-colon-space-after](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-colon-space-after)

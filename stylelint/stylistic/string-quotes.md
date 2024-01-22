@@ -70,4 +70,4 @@ a[id="foo"] {}
 
 ## Further Reading
 
-* [stylelint - string-quotes](https://stylelint.io/user-guide/rules/string-quotes)
+* [stylelint - string-quotes](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/string-quotes)

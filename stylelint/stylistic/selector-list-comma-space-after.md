@@ -92,4 +92,4 @@ a
 
 ## Further Reading
 
-* [stylelint - selector-list-comma-space-after](https://stylelint.io/user-guide/rules/selector-list-comma-space-after)
+* [stylelint - selector-list-comma-space-after](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/selector-list-comma-space-after)

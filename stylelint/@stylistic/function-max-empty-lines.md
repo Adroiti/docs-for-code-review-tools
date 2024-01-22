@@ -61,4 +61,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - function-max-empty-lines](https://stylelint.io/user-guide/rules/function-max-empty-lines)
+* [stylelint - function-max-empty-lines](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/function-max-empty-lines)

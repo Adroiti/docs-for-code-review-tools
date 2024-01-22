@@ -92,4 +92,4 @@ b { color: pink; }
 
 ## Further Reading
 
-* [stylelint - selector-list-comma-space-before](https://stylelint.io/user-guide/rules/selector-list-comma-space-before)
+* [stylelint - selector-list-comma-space-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/selector-list-comma-space-before)

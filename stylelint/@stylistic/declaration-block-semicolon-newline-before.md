@@ -99,4 +99,4 @@ a {
 
 ## Further Reading
 
-* [stylelint - declaration-block-semicolon-newline-before](https://stylelint.io/user-guide/rules/declaration-block-semicolon-newline-before)
+* [stylelint - declaration-block-semicolon-newline-before](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/declaration-block-semicolon-newline-before)

@@ -30,4 +30,4 @@ a { color: pink; }
 
 ## Further Reading
 
-* [stylelint - no-empty-first-line](https://stylelint.io/user-guide/rules/no-empty-first-line)
+* [stylelint - no-empty-first-line](https://github.com/stylelint-stylistic/stylelint-stylistic/tree/main/lib/rules/no-empty-first-line)
