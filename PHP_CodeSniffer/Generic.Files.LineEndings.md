@@ -18,4 +18,4 @@ This rule ensures that files use a specific line ending, which can be customised
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Files.LineEndings](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Files/LineEndingsSniff.php)
+* [PHP_CodeSniffer - Generic.Files.LineEndings](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Files/LineEndingsSniff.php)

@@ -31,4 +31,4 @@ If the `error` property is set to `false`, a warning will be thrown for violatio
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.PHP.ForbiddenFunctions](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/ForbiddenFunctionsSniff.php)
+* [PHP_CodeSniffer - Generic.PHP.ForbiddenFunctions](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/ForbiddenFunctionsSniff.php)

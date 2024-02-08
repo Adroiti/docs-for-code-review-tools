@@ -8,4 +8,4 @@ Ensures there is only one assignment on a line, and that it is the first thing o
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.PHP.DisallowMultipleAssignments](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/DisallowMultipleAssignmentsSniff.php)
+* [PHP_CodeSniffer - Squiz.PHP.DisallowMultipleAssignments](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/DisallowMultipleAssignmentsSniff.php)

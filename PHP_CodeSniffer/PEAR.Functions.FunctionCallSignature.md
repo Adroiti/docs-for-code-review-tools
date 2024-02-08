@@ -74,4 +74,4 @@ By default, this rule ensures that each line in a multi-line function call is in
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.Functions.FunctionCallSignature](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Functions/FunctionCallSignatureSniff.php)
+* [PHP_CodeSniffer - PEAR.Functions.FunctionCallSignature](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Functions/FunctionCallSignatureSniff.php)

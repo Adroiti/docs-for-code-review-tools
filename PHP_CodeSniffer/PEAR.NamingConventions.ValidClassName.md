@@ -8,4 +8,4 @@ Ensures class and interface names start with a capital letter and use `_` separa
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.NamingConventions.ValidClassName](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/NamingConventions/ValidClassNameSniff.php)
+* [PHP_CodeSniffer - PEAR.NamingConventions.ValidClassName](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/NamingConventions/ValidClassNameSniff.php)

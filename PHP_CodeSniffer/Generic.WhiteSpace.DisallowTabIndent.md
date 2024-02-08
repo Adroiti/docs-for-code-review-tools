@@ -8,4 +8,4 @@ Checks if tabs are used for indentation.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.WhiteSpace.DisallowTabIndent](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/DisallowTabIndentSniff.php)
+* [PHP_CodeSniffer - Generic.WhiteSpace.DisallowTabIndent](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/DisallowTabIndentSniff.php)

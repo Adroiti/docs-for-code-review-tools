@@ -8,4 +8,4 @@ Checks against two semi-colons with no executable code in between. Also checks a
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.EmptyPHPStatement](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/EmptyPHPStatementSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.EmptyPHPStatement](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/EmptyPHPStatementSniff.php)

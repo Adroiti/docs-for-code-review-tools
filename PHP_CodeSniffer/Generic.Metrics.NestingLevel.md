@@ -22,4 +22,4 @@ This rule checks how many level deep that code is nested within a function.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Metrics.NestingLevel](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Metrics/NestingLevelSniff.php)
+* [PHP_CodeSniffer - Generic.Metrics.NestingLevel](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Metrics/NestingLevelSniff.php)

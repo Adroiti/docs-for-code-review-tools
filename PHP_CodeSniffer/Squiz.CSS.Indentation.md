@@ -20,4 +20,4 @@ By default, this rule ensures that style statements are indented using 4 spaces,
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.CSS.Indentation](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/CSS/IndentationSniff.php)
+* [PHP_CodeSniffer - Squiz.CSS.Indentation](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/CSS/IndentationSniff.php)

@@ -10,4 +10,4 @@ If alternative PHP open tags are found, this rule can fix both the open and clos
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.PHP.DisallowAlternativePHPTags](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/DisallowAlternativePHPTagsSniff.php)
+* [PHP_CodeSniffer - Generic.PHP.DisallowAlternativePHPTags](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/DisallowAlternativePHPTagsSniff.php)

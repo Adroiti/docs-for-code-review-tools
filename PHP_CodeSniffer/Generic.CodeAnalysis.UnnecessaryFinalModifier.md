@@ -32,4 +32,4 @@ final class SomeClass
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.UnnecessaryFinalModifier](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/UnnecessaryFinalModifierSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.UnnecessaryFinalModifier](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/UnnecessaryFinalModifierSniff.php)

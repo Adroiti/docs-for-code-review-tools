@@ -27,4 +27,4 @@ do_something_experimental();
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Commenting.Todo](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Commenting/TodoSniff.php)
+* [PHP_CodeSniffer - Generic.Commenting.Todo](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Commenting/TodoSniff.php)

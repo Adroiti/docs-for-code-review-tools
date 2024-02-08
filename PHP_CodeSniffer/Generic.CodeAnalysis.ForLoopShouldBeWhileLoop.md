@@ -27,4 +27,4 @@ for ($i = 0; $i < 10; $i++) {
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.ForLoopShouldBeWhileLoop](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/ForLoopShouldBeWhileLoopSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.ForLoopShouldBeWhileLoop](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/ForLoopShouldBeWhileLoopSniff.php)

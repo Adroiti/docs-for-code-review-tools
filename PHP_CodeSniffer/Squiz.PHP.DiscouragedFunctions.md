@@ -8,4 +8,4 @@ Discourages the use of debug functions.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.PHP.DiscouragedFunctions](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/DiscouragedFunctionsSniff.php)
+* [PHP_CodeSniffer - Squiz.PHP.DiscouragedFunctions](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/DiscouragedFunctionsSniff.php)

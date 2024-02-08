@@ -10,4 +10,4 @@ Also checks that brackets do not surround the file being included.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.Files.IncludingFile](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Files/IncludingFileSniff.php)
+* [PHP_CodeSniffer - PEAR.Files.IncludingFile](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Files/IncludingFileSniff.php)

@@ -8,4 +8,4 @@ Ensures that a property or label colon has a single space after it and no space 
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.WhiteSpace.PropertyLabelSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/PropertyLabelSpacingSniff.php)
+* [PHP_CodeSniffer - Squiz.WhiteSpace.PropertyLabelSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/PropertyLabelSpacingSniff.php)

@@ -26,4 +26,4 @@ if ($test === 'abc') {
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.AssignmentInCondition](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/AssignmentInConditionSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.AssignmentInCondition](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/AssignmentInConditionSniff.php)

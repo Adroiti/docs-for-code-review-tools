@@ -10,4 +10,4 @@ Favor PHP 5 constructor syntax, which uses `function __construct()`. Avoid PHP 4
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.NamingConventions.ConstructorName](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/NamingConventions/ConstructorNameSniff.php)
+* [PHP_CodeSniffer - Generic.NamingConventions.ConstructorName](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/NamingConventions/ConstructorNameSniff.php)

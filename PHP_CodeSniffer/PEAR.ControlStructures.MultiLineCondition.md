@@ -20,4 +20,4 @@ By default, this rule ensures that each line of the condition is indented 4 spac
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.ControlStructures.MultiLineCondition](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/ControlStructures/MultiLineConditionSniff.php)
+* [PHP_CodeSniffer - PEAR.ControlStructures.MultiLineCondition](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/ControlStructures/MultiLineConditionSniff.php)

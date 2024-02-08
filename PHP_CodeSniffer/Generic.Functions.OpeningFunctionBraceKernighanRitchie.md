@@ -22,4 +22,4 @@ This rule checks the position of the opening brace of a function and/or closure 
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Functions.OpeningFunctionBraceKernighanRitchie](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Functions/OpeningFunctionBraceKernighanRitchieSniff.php)
+* [PHP_CodeSniffer - Generic.Functions.OpeningFunctionBraceKernighanRitchie](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Functions/OpeningFunctionBraceKernighanRitchieSniff.php)

@@ -20,4 +20,4 @@ By default, comments placed within the declaration will generate an error, but t
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.ControlStructures.ControlSignature](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/ControlStructures/ControlSignatureSniff.php)
+* [PHP_CodeSniffer - PEAR.ControlStructures.ControlSignature](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/ControlStructures/ControlSignatureSniff.php)

@@ -8,4 +8,4 @@ Checks that the opening brace of a `class`/`interface`/`trait` is on the same li
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Classes.OpeningBraceSameLine](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Classes/OpeningBraceSameLineSniff.php)
+* [PHP_CodeSniffer - Generic.Classes.OpeningBraceSameLine](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Classes/OpeningBraceSameLineSniff.php)

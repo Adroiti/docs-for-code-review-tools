@@ -20,4 +20,4 @@ By default, this rule ensures that the line with the assignment operator is inde
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.Formatting.MultiLineAssignment](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Formatting/MultiLineAssignmentSniff.php)
+* [PHP_CodeSniffer - PEAR.Formatting.MultiLineAssignment](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Formatting/MultiLineAssignmentSniff.php)

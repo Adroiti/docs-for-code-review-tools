@@ -8,4 +8,4 @@ Ensures the file does not end with a newline character.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Files.EndFileNoNewline](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Files/EndFileNoNewlineSniff.php)
+* [PHP_CodeSniffer - Generic.Files.EndFileNoNewline](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Files/EndFileNoNewlineSniff.php)

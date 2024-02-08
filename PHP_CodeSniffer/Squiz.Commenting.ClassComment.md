@@ -13,4 +13,4 @@ Parses and verifies the class doc comment. Verifies that:
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Commenting.ClassComment](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/ClassCommentSniff.php)
+* [PHP_CodeSniffer - Squiz.Commenting.ClassComment](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/ClassCommentSniff.php)

@@ -8,4 +8,4 @@ Verifies that trait import statements are defined correctly.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PSR12.Traits.UseDeclaration](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PSR12/Sniffs/Traits/UseDeclarationSniff.php)
+* [PHP_CodeSniffer - PSR12.Traits.UseDeclaration](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PSR12/Sniffs/Traits/UseDeclarationSniff.php)

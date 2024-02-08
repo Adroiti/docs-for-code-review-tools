@@ -35,4 +35,4 @@ switch ($number) {
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.PHP.NonExecutableCode](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/NonExecutableCodeSniff.php)
+* [PHP_CodeSniffer - Squiz.PHP.NonExecutableCode](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/NonExecutableCodeSniff.php)

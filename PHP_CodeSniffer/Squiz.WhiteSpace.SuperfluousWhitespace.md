@@ -20,4 +20,4 @@ If the `ignoreBlankLines` property is set to `true`, blank lines (lines that con
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.WhiteSpace.SuperfluousWhitespace](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/SuperfluousWhitespaceSniff.php)
+* [PHP_CodeSniffer - Squiz.WhiteSpace.SuperfluousWhitespace](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/SuperfluousWhitespaceSniff.php)

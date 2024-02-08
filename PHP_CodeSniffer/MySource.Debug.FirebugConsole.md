@@ -8,4 +8,4 @@ Variables, functions and labels must not be named _console_; name may conflict w
 
 ## Further Reading
 
-* [PHP_CodeSniffer - MySource.Debug.FirebugConsole](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/Debug/FirebugConsoleSniff.php)
+* [PHP_CodeSniffer - MySource.Debug.FirebugConsole](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/Debug/FirebugConsoleSniff.php)

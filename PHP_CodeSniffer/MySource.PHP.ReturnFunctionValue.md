@@ -8,4 +8,4 @@ Warns when function values are returned directly.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - MySource.PHP.ReturnFunctionValue](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/PHP/ReturnFunctionValueSniff.php)
+* [PHP_CodeSniffer - MySource.PHP.ReturnFunctionValue](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/PHP/ReturnFunctionValueSniff.php)

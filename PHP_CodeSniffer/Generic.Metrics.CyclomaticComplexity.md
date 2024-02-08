@@ -12,4 +12,4 @@ the different paths the function includes.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Metrics.CyclomaticComplexity](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Metrics/CyclomaticComplexitySniff.php)
+* [PHP_CodeSniffer - Generic.Metrics.CyclomaticComplexity](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Metrics/CyclomaticComplexitySniff.php)

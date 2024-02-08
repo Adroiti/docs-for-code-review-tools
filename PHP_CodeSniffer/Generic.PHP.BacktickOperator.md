@@ -14,4 +14,4 @@ Avoid passing tainted input to these functions - that is input somehow manipulat
 ## Further Reading
 
 * [OWASP - PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet#Shell_Injection)
-* [PHP_CodeSniffer - Generic.PHP.BacktickOperator](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/BacktickOperatorSniff.php)
+* [PHP_CodeSniffer - Generic.PHP.BacktickOperator](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/BacktickOperatorSniff.php)

@@ -34,4 +34,4 @@ class SomeClass
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Scope.StaticThisUsage](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Scope/StaticThisUsageSniff.php)
+* [PHP_CodeSniffer - Squiz.Scope.StaticThisUsage](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Scope/StaticThisUsageSniff.php)

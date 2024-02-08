@@ -21,4 +21,4 @@ By default, this rule checks that there are two blank lines before and after fun
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.WhiteSpace.FunctionSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/FunctionSpacingSniff.php)
+* [PHP_CodeSniffer - Squiz.WhiteSpace.FunctionSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/FunctionSpacingSniff.php)

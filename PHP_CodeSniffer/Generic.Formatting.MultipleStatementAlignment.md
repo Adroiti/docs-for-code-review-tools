@@ -30,4 +30,4 @@ If the `error` property is set to `true`, an error will be thrown for violations
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Formatting.MultipleStatementAlignment](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Formatting/MultipleStatementAlignmentSniff.php)
+* [PHP_CodeSniffer - Generic.Formatting.MultipleStatementAlignment](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Formatting/MultipleStatementAlignmentSniff.php)

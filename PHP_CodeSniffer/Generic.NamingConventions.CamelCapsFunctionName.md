@@ -20,4 +20,4 @@ Strictly speaking, a name cannot have two capital letters next to each other in 
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.NamingConventions.CamelCapsFunctionName](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/NamingConventions/CamelCapsFunctionNameSniff.php)
+* [PHP_CodeSniffer - Generic.NamingConventions.CamelCapsFunctionName](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/NamingConventions/CamelCapsFunctionNameSniff.php)

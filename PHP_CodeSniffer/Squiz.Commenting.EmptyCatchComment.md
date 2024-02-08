@@ -43,4 +43,4 @@ public function saveFile($filename)
 ## Further Reading
 
 * [Stack Overflow - What are the best practices for catching and re-throwing exceptions?](https://stackoverflow.com/questions/5551668/what-are-the-best-practices-for-catching-and-re-throwing-exceptions)
-* [PHP_CodeSniffer - Squiz.Commenting.EmptyCatchComment](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/EmptyCatchCommentSniff.php)
+* [PHP_CodeSniffer - Squiz.Commenting.EmptyCatchComment](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/EmptyCatchCommentSniff.php)

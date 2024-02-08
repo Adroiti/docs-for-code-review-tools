@@ -40,4 +40,4 @@ If you prefer to write your code like this, you can set the `requiredSpacesBefor
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.ControlStructures.ControlSignature](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/ControlStructures/ControlSignatureSniff.php)
+* [PHP_CodeSniffer - Squiz.ControlStructures.ControlSignature](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/ControlStructures/ControlSignatureSniff.php)

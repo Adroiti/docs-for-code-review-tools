@@ -8,4 +8,4 @@ Bans the use of heredocs and nowdocs.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.PHP.Heredoc](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/HeredocSniff.php)
+* [PHP_CodeSniffer - Squiz.PHP.Heredoc](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/HeredocSniff.php)

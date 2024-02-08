@@ -13,4 +13,4 @@ Verifies that:
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Classes.SelfMemberReference](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Classes/SelfMemberReferenceSniff.php)
+* [PHP_CodeSniffer - Squiz.Classes.SelfMemberReference](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Classes/SelfMemberReferenceSniff.php)

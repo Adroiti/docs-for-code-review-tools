@@ -26,4 +26,4 @@ if ($test) {
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.UnconditionalIfStatement](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/UnconditionalIfStatementSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.UnconditionalIfStatement](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/UnconditionalIfStatementSniff.php)

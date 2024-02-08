@@ -14,4 +14,4 @@ of them.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.UnusedFunctionParameter](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/UnusedFunctionParameterSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.UnusedFunctionParameter](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/UnusedFunctionParameterSniff.php)

@@ -8,4 +8,4 @@ Ensures operators are preceded and followed by at least `1` space.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PSR12.Operators.OperatorSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PSR12/Sniffs/Operators/OperatorSpacingSniff.php)
+* [PHP_CodeSniffer - PSR12.Operators.OperatorSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PSR12/Sniffs/Operators/OperatorSpacingSniff.php)

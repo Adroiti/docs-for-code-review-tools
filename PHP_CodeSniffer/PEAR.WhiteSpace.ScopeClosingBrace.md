@@ -20,4 +20,4 @@ By default, this rule ensures that the statement is indented 4 spaces from the `
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.WhiteSpace.ScopeClosingBrace](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/WhiteSpace/ScopeClosingBraceSniff.php)
+* [PHP_CodeSniffer - PEAR.WhiteSpace.ScopeClosingBrace](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/WhiteSpace/ScopeClosingBraceSniff.php)

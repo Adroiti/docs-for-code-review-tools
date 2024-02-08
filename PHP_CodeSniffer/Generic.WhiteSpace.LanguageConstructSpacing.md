@@ -8,4 +8,4 @@ Ensures all language constructs contain a single space between themselves and th
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.WhiteSpace.LanguageConstructSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/LanguageConstructSpacingSniff.php)
+* [PHP_CodeSniffer - Generic.WhiteSpace.LanguageConstructSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/LanguageConstructSpacingSniff.php)

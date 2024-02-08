@@ -20,4 +20,4 @@ By default, this rule ensures that each line is indented 4 spaces, but you can c
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.WhiteSpace.ObjectOperatorIndent](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/WhiteSpace/ObjectOperatorIndentSniff.php)
+* [PHP_CodeSniffer - PEAR.WhiteSpace.ObjectOperatorIndent](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/WhiteSpace/ObjectOperatorIndentSniff.php)

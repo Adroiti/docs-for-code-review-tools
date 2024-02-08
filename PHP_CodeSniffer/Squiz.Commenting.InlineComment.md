@@ -8,4 +8,4 @@ Validates inline comments.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Commenting.InlineComment](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/InlineCommentSniff.php)
+* [PHP_CodeSniffer - Squiz.Commenting.InlineComment](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/InlineCommentSniff.php)

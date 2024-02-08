@@ -8,4 +8,4 @@ Ensures that systems and asset types are used if they are included.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - MySource.Channels.UnusedSystem](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/Channels/UnusedSystemSniff.php)
+* [PHP_CodeSniffer - MySource.Channels.UnusedSystem](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/Channels/UnusedSystemSniff.php)

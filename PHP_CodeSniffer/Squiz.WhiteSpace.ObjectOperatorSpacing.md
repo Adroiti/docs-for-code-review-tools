@@ -20,4 +20,4 @@ Sometimes long object chains are broken over multiple lines to work within a max
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.WhiteSpace.ObjectOperatorSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/ObjectOperatorSpacingSniff.php)
+* [PHP_CodeSniffer - Squiz.WhiteSpace.ObjectOperatorSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/ObjectOperatorSpacingSniff.php)

@@ -37,4 +37,4 @@ If you prefer to write your code like this, you can set the `requiredSpacesAfter
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PSR2.ControlStructures.ControlStructureSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PSR2/Sniffs/ControlStructures/ControlStructureSpacingSniff.php)
+* [PHP_CodeSniffer - PSR2.ControlStructures.ControlStructureSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PSR2/Sniffs/ControlStructures/ControlStructureSpacingSniff.php)

@@ -20,4 +20,4 @@ By default, this rule ensures that the class names are indented 4 spaces, but yo
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Classes.ClassDeclaration](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Classes/ClassDeclarationSniff.php)
+* [PHP_CodeSniffer - Squiz.Classes.ClassDeclaration](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Classes/ClassDeclarationSniff.php)

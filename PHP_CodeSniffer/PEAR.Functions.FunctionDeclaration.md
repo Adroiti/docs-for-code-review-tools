@@ -20,4 +20,4 @@ By default, this rule ensures that each line is indented 4 spaces, but you can c
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PEAR.Functions.FunctionDeclaration](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Functions/FunctionDeclarationSniff.php)
+* [PHP_CodeSniffer - PEAR.Functions.FunctionDeclaration](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PEAR/Sniffs/Functions/FunctionDeclarationSniff.php)

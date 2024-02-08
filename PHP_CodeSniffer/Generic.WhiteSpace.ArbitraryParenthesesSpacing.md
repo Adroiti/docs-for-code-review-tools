@@ -11,4 +11,4 @@ Checks whitespace inside parenthesis that don't belong to a function call/declar
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.WhiteSpace.ArbitraryParenthesesSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/ArbitraryParenthesesSpacingSniff.php)
+* [PHP_CodeSniffer - Generic.WhiteSpace.ArbitraryParenthesesSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/WhiteSpace/ArbitraryParenthesesSpacingSniff.php)

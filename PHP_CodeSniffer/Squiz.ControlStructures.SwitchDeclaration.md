@@ -20,4 +20,4 @@ By default, this rule ensures that the keywords are indented 4 spaces from the `
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.ControlStructures.SwitchDeclaration](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/ControlStructures/SwitchDeclarationSniff.php)
+* [PHP_CodeSniffer - Squiz.ControlStructures.SwitchDeclaration](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/ControlStructures/SwitchDeclarationSniff.php)

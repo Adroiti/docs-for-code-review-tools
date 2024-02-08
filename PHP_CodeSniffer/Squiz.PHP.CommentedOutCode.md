@@ -21,4 +21,4 @@ By default, a warning is generated if a comment appears to be more than 35% vali
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.PHP.CommentedOutCode](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/CommentedOutCodeSniff.php)
+* [PHP_CodeSniffer - Squiz.PHP.CommentedOutCode](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/PHP/CommentedOutCodeSniff.php)

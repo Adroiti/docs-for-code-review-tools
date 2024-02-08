@@ -23,4 +23,4 @@ class Foo
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.ForLoopWithTestFunctionCall](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/ForLoopWithTestFunctionCallSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.ForLoopWithTestFunctionCall](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/ForLoopWithTestFunctionCallSniff.php)

@@ -31,4 +31,4 @@ When a closing comment is required, the format defaults to `//end %s`, where the
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Commenting.LongConditionClosingComment](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/LongConditionClosingCommentSniff.php)
+* [PHP_CodeSniffer - Squiz.Commenting.LongConditionClosingComment](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Commenting/LongConditionClosingCommentSniff.php)

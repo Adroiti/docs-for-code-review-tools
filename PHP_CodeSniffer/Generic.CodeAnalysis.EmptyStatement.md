@@ -26,4 +26,4 @@ if ($test) {
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.CodeAnalysis.EmptyStatement](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/EmptyStatementSniff.php)
+* [PHP_CodeSniffer - Generic.CodeAnalysis.EmptyStatement](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/CodeAnalysis/EmptyStatementSniff.php)

@@ -49,4 +49,4 @@ If the `ignoreComments` property is set to `true`, no error or warning will be t
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Files.LineLength](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Files/LineLengthSniff.php)
+* [PHP_CodeSniffer - Generic.Files.LineLength](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Files/LineLengthSniff.php)

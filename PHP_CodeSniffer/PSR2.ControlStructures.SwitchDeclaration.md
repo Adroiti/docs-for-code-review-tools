@@ -20,4 +20,4 @@ By default, this rule ensures that the statement is indented 4 spaces from the `
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PSR2.ControlStructures.SwitchDeclaration](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PSR2/Sniffs/ControlStructures/SwitchDeclarationSniff.php)
+* [PHP_CodeSniffer - PSR2.ControlStructures.SwitchDeclaration](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PSR2/Sniffs/ControlStructures/SwitchDeclarationSniff.php)

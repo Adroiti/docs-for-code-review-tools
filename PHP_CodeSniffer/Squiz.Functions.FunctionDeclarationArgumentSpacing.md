@@ -63,4 +63,4 @@ If you prefer to write your code like this, you can set the `requiredSpacesAfter
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Functions.FunctionDeclarationArgumentSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Functions/FunctionDeclarationArgumentSpacingSniff.php)
+* [PHP_CodeSniffer - Squiz.Functions.FunctionDeclarationArgumentSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Functions/FunctionDeclarationArgumentSpacingSniff.php)

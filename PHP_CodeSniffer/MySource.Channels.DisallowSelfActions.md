@@ -8,4 +8,4 @@ Ensures that self and static are not used to call public methods in action class
 
 ## Further Reading
 
-* [PHP_CodeSniffer - MySource.Channels.DisallowSelfActions](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/Channels/DisallowSelfActionsSniff.php)
+* [PHP_CodeSniffer - MySource.Channels.DisallowSelfActions](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/Channels/DisallowSelfActionsSniff.php)

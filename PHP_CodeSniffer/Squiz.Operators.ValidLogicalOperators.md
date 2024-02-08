@@ -8,4 +8,4 @@ Ensures logical operators `and` and `or` are not used.
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.Operators.ValidLogicalOperators](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Operators/ValidLogicalOperatorsSniff.php)
+* [PHP_CodeSniffer - Squiz.Operators.ValidLogicalOperators](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/Operators/ValidLogicalOperatorsSniff.php)

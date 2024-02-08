@@ -25,4 +25,4 @@ This rule checks that there is one blank line before between member vars and bef
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Squiz.WhiteSpace.MemberVarSpacing](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/MemberVarSpacingSniff.php)
+* [PHP_CodeSniffer - Squiz.WhiteSpace.MemberVarSpacing](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Squiz/Sniffs/WhiteSpace/MemberVarSpacingSniff.php)

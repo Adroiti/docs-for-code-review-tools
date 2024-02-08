@@ -10,4 +10,4 @@ With jQuery 1.8, the behavior of Ajax requests changed so that null values are s
 
 ## Further Reading
 
-* [PHP_CodeSniffer - MySource.PHP.AjaxNullComparison](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/PHP/AjaxNullComparisonSniff.php)
+* [PHP_CodeSniffer - MySource.PHP.AjaxNullComparison](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/MySource/Sniffs/PHP/AjaxNullComparisonSniff.php)

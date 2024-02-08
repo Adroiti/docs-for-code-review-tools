@@ -26,4 +26,4 @@ $original_plaintext = openssl_decrypt($ciphertext, "aes-128-gcm", $key, $options
 * [Deprecated features in PHP 7.0.x](http://php.net/manual/en/migration70.deprecated.php)
 * [Deprecated features in PHP 5.6.x](http://php.net/manual/en/migration56.deprecated.php)
 * [PHP Manual - Appendices](http://php.net/manual/en/appendices.php)
-* [PHP_CodeSniffer - Generic.PHP.DeprecatedFunctions](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/DeprecatedFunctionsSniff.php)
+* [PHP_CodeSniffer - Generic.PHP.DeprecatedFunctions](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/DeprecatedFunctionsSniff.php)

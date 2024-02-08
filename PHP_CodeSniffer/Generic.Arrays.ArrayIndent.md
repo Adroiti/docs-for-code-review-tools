@@ -8,4 +8,4 @@ Ensures that array are indented one tab stop. Indent size can be set using an `i
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.Arrays.ArrayIndent](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Arrays/ArrayIndentSniff.php)
+* [PHP_CodeSniffer - Generic.Arrays.ArrayIndent](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/Arrays/ArrayIndentSniff.php)

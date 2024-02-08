@@ -8,4 +8,4 @@ Enforces that the open tag is on a line by itself when used at the start of a ph
 
 ## Further Reading
 
-* [PHP_CodeSniffer - PSR12.Files.OpenTag](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/PSR12/Sniffs/Files/OpenTagSniff.php)
+* [PHP_CodeSniffer - PSR12.Files.OpenTag](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/PSR12/Sniffs/Files/OpenTagSniff.php)

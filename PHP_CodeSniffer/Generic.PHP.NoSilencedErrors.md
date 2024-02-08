@@ -17,4 +17,4 @@ if (@in_array($array, $needle))
 
 ## Further Reading
 
-* [PHP_CodeSniffer - Generic.PHP.NoSilencedErrors](https://github.com/squizlabs/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/NoSilencedErrorsSniff.php)
+* [PHP_CodeSniffer - Generic.PHP.NoSilencedErrors](https://github.com/PHPCSStandards/PHP_CodeSniffer/blob/master/src/Standards/Generic/Sniffs/PHP/NoSilencedErrorsSniff.php)
