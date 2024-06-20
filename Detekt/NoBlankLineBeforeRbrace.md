@@ -1,4 +1,4 @@
-Pattern: Blank line before rbrace
+Pattern: Empty line before `}`
 
 Issue: -
 
