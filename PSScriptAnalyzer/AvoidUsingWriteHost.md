@@ -4,7 +4,8 @@ Issue: -
 
 ## Description
 
-`Write-Host` is host-specific, so its implementation might vary unpredictably. Also, prior to PowerShell 5.0, `Write-Host` did not write to a stream, so users cannot suppress it, capture its value, or redirect it.
+The use of `Write-Host` is greatly discouraged unless in the use of commands with the `Show` verb.
+The `Show` verb explicitly means 'show on the screen, with no other possibilities'.
 
 Commands with the `Show` verb do not have this check applied.
 
