@@ -67,5 +67,4 @@ Inferences | `{"channels"=>"channel", "controllers"=>"controller", "features"=>"
 
 ## Further Reading
 
-* [RSpec - RSpec/Rails/InferredSpecType](https://docs.rubocop.org/rubocop-rspec/cops_rspec_rails.html#rspecrailsinferredspectype)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Rails/InferredSpecType
+* [RSpec/Rails/InferredSpecType](https://docs.rubocop.org/rubocop-rspec_rails/cops_rspecrails.html#rspecrailsinferredspectype)

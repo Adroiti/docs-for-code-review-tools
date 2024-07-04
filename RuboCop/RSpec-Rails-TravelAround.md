@@ -22,4 +22,4 @@ before { freeze_time }
 
 ## Further Reading
 
-* [RSpec - RSpec/Rails/TravelAround](https://docs.rubocop.org/rubocop-rspec/cops_rspec_rails.html#rspecrailstravelaround)
+* [RSpec/Rails/TravelAround](https://docs.rubocop.org/rubocop-rspec_rails/cops_rspecrails.html#rspecrailstravelaround)

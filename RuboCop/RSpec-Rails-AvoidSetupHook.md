@@ -22,4 +22,4 @@ end
 
 ## Further Reading
 
-* [RSpec - RSpec/Rails/AvoidSetupHook](https://docs.rubocop.org/rubocop-rspec/cops_rspec/rails.html#rspecrailsavoidsetuphook)
+* [RSpec/Rails/AvoidSetupHook](https://docs.rubocop.org/rubocop-rspec_rails/cops_rspecrails.html#rspecrailsavoidsetuphook)

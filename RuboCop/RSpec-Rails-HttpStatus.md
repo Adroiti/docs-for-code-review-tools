@@ -47,4 +47,4 @@ EnforcedStyle | `symbolic`
 
 ## Further Reading
 
-* [RuboCop - Rails/HttpStatus](https://docs.rubocop.org/rubocop-rails/cops_rails.html#railshttpstatus)
+* [RSpecRails/HttpStatus](https://docs.rubocop.org/rubocop-rspec_rails/cops_rspecrails.html#rspecrailshttpstatus)

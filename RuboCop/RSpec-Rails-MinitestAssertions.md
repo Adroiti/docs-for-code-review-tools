@@ -22,5 +22,4 @@ expect(a).not_to eq(b)
 
 ## Further Reading
 
-* [RSpec - RSpec/Rails/MinitestAssertions](https://docs.rubocop.org/rubocop-rspec/cops_rspec_rails.html#rspecrailsminitestassertions)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Rails/MinitestAssertions
+* [RSpec/Rails/MinitestAssertions](https://docs.rubocop.org/rubocop-rspec_rails/cops_rspecrails.html#rspecrailsminitestassertions)

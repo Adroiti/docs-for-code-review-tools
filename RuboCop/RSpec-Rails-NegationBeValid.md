@@ -30,4 +30,4 @@ expect(foo).to be_invalid
 
 ## Further Reading
 
-* [RSpec - RSpec/Rails/NegationBeValid](https://docs.rubocop.org/rubocop-rspec/cops_rspec_rails.html#rspecrailsnegationbevalid)
+* [RSpec/Rails/NegationBeValid](https://docs.rubocop.org/rubocop-rspec_rails/cops_rspecrails.html#rspecrailsnegationbevalid)
