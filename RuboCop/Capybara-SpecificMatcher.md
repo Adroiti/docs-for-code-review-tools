@@ -30,5 +30,4 @@ expect(page).to have_field('foo')
 
 ## Further Reading
 
-* [RSpec - RSpec/Capybara/SpecificMatcher](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybaraspecificmatcher)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/SpecificMatcher
+* [Capybara/SpecificMatcher](* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/SpecificMatcher)

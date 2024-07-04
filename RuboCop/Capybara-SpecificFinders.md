@@ -20,5 +20,4 @@ find_by_id('some-id', visible: true)
 
 ## Further Reading
 
-* [RSpec - RSpec/Capybara/SpecificFinders](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybaraspecificfinders)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/SpecificFinders
+* [RSpec - RSpec/Capybara/SpecificFinders](* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/SpecificFinders)

@@ -40,5 +40,4 @@ EnforcedStyle | `not_to` | `have_no`, `not_to`
 
 ## Further Reading
 
-* [RSpec - RSpec/Capybara/NegationMatcher](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybaranegationmatcher)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/NegationMatcher
+* [Capybara/NegationMatcher](* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/NegationMatcher)

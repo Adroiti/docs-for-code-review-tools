@@ -22,5 +22,4 @@ expect(page).to have_current_path(/widgets/)
 
 ## Further Reading
 
-* [RSpec - Capybara/CurrentPathExpectation](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybaracurrentpathexpectations)
-* [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/CurrentPathExpectation](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/CurrentPathExpectation)
+* [Capybara/CurrentPathExpectation](https://docs.rubocop.org/rubocop-capybara/cops_capybara.html#capybaracurrentpathexpectation)

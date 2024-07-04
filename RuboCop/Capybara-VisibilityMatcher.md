@@ -32,12 +32,6 @@ expect(page).to have_selector('.foo', visible: :hidden)
 expect(page).to have_selector('.foo', visible: :visible)
 ```
 
-## Configurable attributes
-
-Name | Default value | Configurable values
---- | --- | ---
-VersionAdded | `1.39` | String
-
 ## Further Reading
 
-* [RSpec - Capybara/VisibilityMatcher](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybara/visibilitymatcher)
+* [Capybara/VisibilityMatcher](https://docs.rubocop.org/rubocop-capybara/cops_capybara.html#capybaravisibilitymatcher)

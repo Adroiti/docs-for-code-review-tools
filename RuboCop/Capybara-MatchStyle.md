@@ -42,5 +42,4 @@ expect(page).to match_style(display: 'block')
 
 ## Further Reading
 
-* [RSpec - RSpec/Capybara/MatchStyle](https://docs.rubocop.org/rubocop-rspec/cops_rspec_capybara.html#rspeccapybaramatchstyle)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/MatchStyle
+* [Capybara/MatchStyle](* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/MatchStyle)
