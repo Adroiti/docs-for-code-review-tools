@@ -6,7 +6,7 @@ Issue: -
 
 Checks for `create_list` usage.
 
-This cop can be configured using the `EnforcedStyle` option
+This rule can be configured using the `EnforcedStyle` option.
 
 ## Examples
 
@@ -32,13 +32,6 @@ create_list :user, 3
 3.times { create :user }
 ```
 
-## Configurable attributes
-
-Name | Default value | Configurable values
---- | --- | ---
-EnforcedStyle | `create_list` | `create_list`, `n_times`
-
 ## Further Reading
 
-* [RSpec - FactoryBot/CreateList](https://docs.rubocop.org/rubocop-rspec/cops_rspec_factorybot.html#rspecfactorybot/createlist)
-* [http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FactoryBot/CreateList](http://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FactoryBot/CreateList)
+* [FactoryBot/CreateList](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotcreatelist)

@@ -34,4 +34,4 @@ build "user", username: "NAME"
 
 ## Further Reading
 
-* [RSpec - RSpec/FactoryBot/FactoryNameStyle](https://docs.rubocop.org/rubocop-rspec/cops_rspec_factorybot.html#rspecfactorybotfactorynamestyle)
+* [FactoryBot/FactoryNameStyle](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotfactorynamestyle)

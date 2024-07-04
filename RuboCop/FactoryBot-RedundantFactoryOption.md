@@ -18,4 +18,4 @@ association :user
 
 ## Further Reading
 
-* [RSpec - FactoryBot/RedundantFactoryOption](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotredundantfactoryoption)
+* [FactoryBot/RedundantFactoryOption](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotredundantfactoryoption)

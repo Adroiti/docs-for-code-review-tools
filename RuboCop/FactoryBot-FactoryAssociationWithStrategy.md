@@ -32,4 +32,4 @@ end
 
 ## Further Reading
 
-* [RSpec - FactoryBot/FactoryAssociationWithStrategy](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotfactoryassociationwithstrategy)
+* [FactoryAssociationWithStrategy](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotfactoryassociationwithstrategy)

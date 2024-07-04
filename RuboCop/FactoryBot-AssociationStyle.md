@@ -67,4 +67,4 @@ end
 
 ## Further Reading
 
-* [RSpec - FactoryBot/AssociationStyle](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotassociationstyle)
+* [FactoryBot/AssociationStyle](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotassociationstyle)

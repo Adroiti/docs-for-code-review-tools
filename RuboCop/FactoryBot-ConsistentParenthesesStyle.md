@@ -46,13 +46,6 @@ build(
 )
 ```
 
-## Configurable attributes
-
-Name | Default value | Configurable values
---- | --- | ---
-EnforcedStyle | `require_parentheses` | `require_parentheses`, `omit_parentheses`
-
 ## Further Reading
 
-* [RSpec - RSpec/FactoryBot/ConsistentParenthesesStyle](https://docs.rubocop.org/rubocop-rspec/cops_rspec_factorybot.html#rspecfactorybotconsistentparenthesesstyle)
-* https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/FactoryBot/ConsistentParenthesesStyle
+* [FactoryBot/ConsistentParenthesesStyle](https://docs.rubocop.org/rubocop-factory_bot/cops_factorybot.html#factorybotconsistentparenthesesstyle)
