@@ -15,4 +15,4 @@ Example of **correct** code:
 ```kotlininternal data class C(val a: String)```
 ## Further Reading
 
-* [Detekt - ForbiddenPublicDataClass](https://detekt.dev/docs/rules/style/#forbiddenpublicdataclass)
+* [Detekt - ForbiddenPublicDataClass](https://detekt.dev/docs/rules/libraries#forbiddenpublicdataclass)

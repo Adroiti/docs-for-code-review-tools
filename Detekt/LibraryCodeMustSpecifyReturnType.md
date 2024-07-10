@@ -31,4 +31,4 @@ class Parser {
 
 ## Further Reading
 
-* [Detekt - LibraryCodeMustSpecifyReturnType](https://detekt.dev/docs/rules/style/#librarycodemustspecifyreturntype)
+* [Detekt - LibraryCodeMustSpecifyReturnType](https://detekt.dev/docs/rules/libraries#librarycodemustspecifyreturntype)
