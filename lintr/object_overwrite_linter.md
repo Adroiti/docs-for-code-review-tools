@@ -4,7 +4,7 @@ Issue: -
 
 ## Description
 
-Re-using existing names creates a risk of subtle error. Avoiding this practice also encourages using better, more descriptive names.
+Re-using existing names creates a risk of subtle errors. Avoiding this practice also encourages using better, more descriptive names.
 
 
 ## Further Reading
