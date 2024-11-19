@@ -1,4 +1,4 @@
-Pattern: Too positional argumentes
+Pattern: Too many positional arguments
 
 Issue: -
 
