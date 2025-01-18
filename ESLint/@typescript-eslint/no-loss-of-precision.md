@@ -1,10 +1,10 @@
-⚠️ This rule is deprecated. Use [`eslint/no-loss-of-precision`](https://eslint.org/docs/rules/no-loss-of-precision) instead.
-
 Pattern: Numeric literal with precision loss
 
 Issue: -
 
 ## Description
+
+⚠️ This rule is deprecated. Use `eslint/no-loss-of-precision` instead.
 
 Numbers in JavaScript that exceed certain lengths can lose precision when represented in the language. This can lead to unexpected behavior and bugs in calculations. Using such numbers directly as literals should be avoided.
 

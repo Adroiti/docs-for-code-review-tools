@@ -1,10 +1,10 @@
-⚠️ This rule is deprecated. Use [`parameter-properties`](https://typescript-eslint.io/rules/parameter-properties/) instead.
-
 Pattern: Parameter property declaration in constructor
 
 Issue: -
 
 ## Description
+
+⚠️ This rule is deprecated. Use `parameter-properties` instead.
 
 Constructor parameter properties provide a shorthand way to both declare and initialize class members, but can make code harder to read by combining multiple concepts into a single statement. Their usage should be consistent across a codebase.
 
